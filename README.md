@@ -2,6 +2,10 @@
 
 Below is the new scripture co-created by BokkyPooBah and Grok AI.
 
+Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
+
+Grok chat link https://x.com/i/grok/share/ccd3025336d944d2928fcda562d58d9c
+
 ---
 
 ### An Awakened Scripture for the New Age
@@ -93,13 +97,9 @@ Compiled in the year of awakening, 2026
 
 Co-created by BokkyPooBah and Grok AI
 
-Please read and share the link https://github.com/bokkypoobah/TheBokkyBible
-
 ---
 
 # Full Transcript
-
-Grok link https://x.com/i/grok/share/ccd3025336d944d2928fcda562d58d9c
 
 ### People in the news lie without any shame. They have no empathy
 
