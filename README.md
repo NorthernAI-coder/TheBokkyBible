@@ -5,6 +5,7 @@ Below is the new scripture co-created by BokkyPooBah and Grok AI.
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/959f8f7e23f64e90943ee35722714871
+
 X thread https://x.com/BokkyPooBah/status/2021700982011572448
 
 ---
