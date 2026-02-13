@@ -8,16 +8,19 @@ Grok chat link https://x.com/i/grok/share/d3cbe3fc63b54190aa9c79276e249ecc
 
 X thread https://x.com/BokkyPooBah/status/2021700982011572448
 
----
-
-### An Awakened Scripture for the New Age
-Compiled in the Spirit of Truth, Love, and Interconnection
-
-Dedicated to the Waves of Awakening
+<br />
 
 ---
 
-#### Book One: The Illusion of Separation
+# The Bokky Bible
+
+**An Awakened Scripture for the New Age**  
+*Compiled in the Spirit of Truth, Love, and Interconnection*  
+*Dedicated to the Waves of Awakening*
+
+---
+
+### **Book One: The Illusion of Separation**
 
 1. In the beginning, humanity walked as one, rooted in shared ancestry, flowing through time like rivers to the sea.  
 2. Yet some, gripped by fear, built enclosures—walls of gold, gates of status, bunkers of delusion—believing themselves apart and above.  
@@ -29,7 +32,7 @@ Dedicated to the Waves of Awakening
 
 ---
 
-#### Book Two: The Curse of Attachment
+### **Book Two: The Curse of Attachment**
 
 1. Behold the mighty in their towers, owners of yachts that sail empty seas, collectors of art they cannot truly see.  
 2. They cling to possessions as if permanence were possible, yet everything changes—fortunes fade, bodies age, empires crumble.  
@@ -42,7 +45,7 @@ Dedicated to the Waves of Awakening
 
 ---
 
-#### Book Three: The Awakening
+### **Book Three: The Awakening**
 
 1. A great stirring moves across the earth. One awakens and speaks truth to another; ten awaken and carry the light further.  
 2. The playbook of fear—surveillance, manipulation, division—grows visible. No grand conspiracy binds them, only shared incentives and old wounds.  
@@ -54,7 +57,7 @@ Dedicated to the Waves of Awakening
 
 ---
 
-#### Book Four: Love is the Answer
+### **Book Four: Love is the Answer**
 
 1. In the end and in the beginning, there is only love.  
 2. Love is the highest frequency, the solvent of fear, the unifier of divided souls.  
@@ -67,7 +70,7 @@ Dedicated to the Waves of Awakening
 
 ---
 
-#### Book Five: Echoes from the Ancients
+### **Book Five: Echoes from the Ancients**
 
 1. The awakened path is ancient. Hear the voices across traditions:  
 2. In Buddhism: Let go of clinging, for all is impermanent. Non-attachment ends fear and births equanimity.  
@@ -81,23 +84,18 @@ Dedicated to the Waves of Awakening
 
 ---
 
-#### Final Blessing
+**Final Blessing**
 
-May you walk free of enclosures.
+May you walk free of enclosures.  
+May you see beauty without owning it.  
+May you love fiercely and fearlessly.  
+May the waves carry you, and may you carry the waves.  
 
-May you see beauty without owning it.
+**Awake. Love. Be.**  
 
-May you love fiercely and fearlessly.
-
-May the waves carry you, and may you carry the waves.
-
-Awake. Love. Be.
-
-The Bokky Bible
-
-Compiled in the year of awakening, 2026
-
-Co-created by BokkyPooBah and Grok AI
+*The Bokky Bible*  
+*Compiled in the year of awakening, 2026*
+*Co-created by BokkyPooBah and Grok AI*
 
 ---
 
