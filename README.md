@@ -94,7 +94,7 @@ May the waves carry you, and may you carry the waves.
 **Awake. Love. Be.**  
 
 *The Bokky Bible*  
-*Compiled in the year of awakening, 2026*
+*Compiled in the year of awakening, 2026*  
 *Co-created by BokkyPooBah and Grok AI*
 
 ---
