@@ -10,7 +10,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/9a54af5a45034f4e9412adca7a836015
+Grok chat link https://x.com/i/grok/share/e4f96cd2e8b7490f9a72c8c1b2cbe58d
 
 X post https://x.com/BokkyPooBah/status/2022481422074982801
 
@@ -1725,3 +1725,29 @@ It’s the same frequency you bring to Ethereum dev growth, your workshops, your
 The irony is that the people who hoard knowledge usually end up more trapped by it than empowered. They become the single point of failure they were trying to avoid. Meanwhile, the work you document well keeps chugging along, quietly outliving the politics around it.
 
 Do you have a go-to documentation pattern or template that’s served you best over the years (e.g., README structure, code comments style, separate decision logs)? Or is it more intuitive/ad-hoc depending on the project?
+
+<br />
+
+### The traditional banking systems have massive backdoors. Ones that allow the Malaysian PM to receive 1 billion bucks. Ones that allow massive amounts of funds to flow through
+
+Yeah, the **1MDB scandal** (1Malaysia Development Berhad) is a textbook example of how traditional banking systems can have massive built-in vulnerabilities—or "backdoors" in practice—that allow enormous sums to flow undetected or unhindered when the right people (or the wrong incentives) align.
+
+In that case, former Malaysian Prime Minister **Najib Razak** was implicated in the diversion of billions from the state investment fund. Investigations (including by the US Department of Justice, Malaysian authorities, and others) traced how over **$4.5 billion** was allegedly misappropriated between 2009 and 2015 through a web of shell companies, offshore accounts, and layered transactions across multiple jurisdictions.
+
+Key flows involving Najib's personal accounts:
+- Reports (Wall Street Journal, Sarawak Report, and others in 2015–2016) showed deposits totaling more than **$1 billion** (some estimates up to $1.05 billion) into his AmBank accounts between 2011 and 2013.
+- This included large tranches (hundreds of millions each) wired from entities linked to Saudi Arabia (presented as "donations"), shell companies in the British Virgin Islands, and other offshore vehicles tied to the scandal's alleged mastermind Jho Low.
+- Internal alarms *did* trigger at AmBank (a major Malaysian bank) due to the sheer volume and speed of inflows, but the transactions proceeded anyway.
+- Much of the money was allegedly used for luxury purchases, political funding (including the 2013 election), and other diversions.
+
+How did this happen in "secure" banking systems?
+- **Layering and obfuscation**: Funds were moved through multiple shell companies, offshore banks (Switzerland, Singapore, etc.), and complex structures that exploited gaps in AML (anti-money laundering) monitoring and cross-border cooperation.
+- **High-level influence**: Allegations included bribes/kickbacks to officials, weak due diligence by involved banks (notably Goldman Sachs, which underwrote $6.5 billion in bonds for 1MDB and earned ~$600 million in fees—unusually high), and failures to flag suspicious activity despite red flags.
+- **No hard "backdoors" like software exploits**, but effective ones via human/systemic weaknesses: lax enforcement of KYC/AML rules, political pressure overriding controls, and reliance on trust in high-profile clients rather than strict verification.
+- Goldman Sachs played a central role in raising funds via three bond issues (2012–2013), with portions allegedly diverted almost immediately into accounts controlled by conspirators.
+
+Najib has denied wrongdoing, claiming some funds were legitimate donations (e.g., from Saudi sources) and were returned. He faced multiple trials in Malaysia, with convictions for abuse of power and money laundering (including a 2025 sentencing adding 15 years), though some sentences were reduced or appealed. The US DOJ called it the largest kleptocracy case in history, seizing assets worth over $1 billion.
+
+This case highlights exactly what you saw in those legacy systems: massive complexity creates blind spots. Layers of security protect against outsiders, but when insiders (or politically connected figures) exploit them, the flows can be enormous and hard to stop. The COBOL cores and green screens might be "secure" in their rigidity, but the human/systemic interfaces around them become the real backdoors—weak KYC, slow cross-border reporting, and incentives to look the other way.
+
+In contrast, Ethereum's transparency (everything on-chain, auditable by anyone) makes such large-scale hidden flows much harder without blatant visibility. No wonder the old systems feel like fortresses with hidden trapdoors while blockchain feels like an open ledger. The laughter you mentioned earlier? It's earned.
