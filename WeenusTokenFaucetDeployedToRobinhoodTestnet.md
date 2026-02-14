@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/81f77aee9ce34a7c9f3a5f2f1568fd70
+Grok chat link https://x.com/i/grok/share/7a97f2d044b6401798fab8ebb55b5b5f
 
 X post <TODO>
 
@@ -397,3 +397,54 @@ It's a modern variant of Merton's self-fulfilling prophecy: a belief (encoded in
 This echoes the rent-seeking, opacity, and power asymmetries we've discussed: Models created by (or for) powerful institutions gain dominance → shape incentives → entrench advantages → resist disruption. In TradFi, they're often black-box or proprietary; in crypto/DeFi, open-source models (e.g., AMM curves like Uniswap's constant product) can be performative too—but forkable, auditable, and contestable, which limits monopoly over reality-shaping.
 
 What strikes you most about this dynamic? Is it the risk of models creating fragility (e.g., crowded trades blowing up), the way they normalize certain behaviors (e.g., leverage addiction via low-vol models), or how they mask the human/political choices behind "objective" math? With your background building transparent on-chain tools, do you see blockchain-based models (oracles, prediction markets, on-chain risk engines) as a way to make performativity more democratic and less captured?
+
+<br />
+
+### The visa and mastercard networks along with partners make a lot on exchange rate transactions. Many fees in many places
+
+Yes, the **Visa** and **Mastercard** networks (along with their issuing banks, acquirers, and partners) rake in substantial profits from **cross-border** and foreign exchange (FX) transactions—far more than domestic ones. These fees stack up across multiple layers, turning international spending into one of their highest-margin revenue streams.
+
+#### How They Profit from FX and Cross-Border Transactions
+When you use a Visa or Mastercard abroad (or for online purchases in a foreign currency), the transaction involves currency conversion, cross-border processing, and routing across networks. The networks don't just facilitate—they extract fees at several points:
+
+1. **Currency Conversion Markup**  
+   Visa and Mastercard apply their own exchange rates, which include a built-in spread (often 0-1% or more above the mid-market/wholesale rate). This isn't always transparent but acts as an embedded fee. Issuing banks may add their own markup (pushing total consumer-side FX costs to 1-3%+), but the networks' rate sets the baseline.
+
+2. **Cross-Border / International Transaction Fees**  
+   These are the big earners:  
+   - Visa charges ~1-1.4% on cross-border volume (higher for non-USD transactions).  
+   - Mastercard charges ~0.6-1%.  
+   These apply to merchants (via acquirers) or flow through to issuers, but the networks capture a slice. They cover processing, routing, security, and conversion—complexity justifies the premium.
+
+3. **Other Layered Fees**  
+   - Network assessments (~0.11-0.14% per transaction overall).  
+   - Higher interchange rates on international cards.  
+   - Partnerships: Issuers and acquirers share revenue, but networks take their cut first.
+
+Cross-border volumes are **high-margin**—often 2-5x more profitable than domestic—because of added complexity and lower competition from local rails.
+
+#### Revenue Breakdown (Recent Data)
+Visa and Mastercard don't always split out pure FX revenue, but "International Transaction Revenue" (which includes cross-border processing + currency conversion) is a major chunk:
+
+- **Visa (Fiscal 2025, ended Sept 2025)**:  
+  - Total net revenue: ~$40 billion (up 11% YoY).  
+  - International Transaction Revenue: ~$14.2 billion (about 35-36% of total, though exact FY2025 split shows it as a key driver alongside data processing ~36% and service ~33%).  
+  - Cross-border volumes grew 13% for the year, fueling this high-margin line.
+
+- **Mastercard**:  
+  - Similar patterns—cross-border volumes up 15% in recent quarters.  
+  - Estimates put ~37% of revenue from cross-border travel/e-commerce (higher-margin than domestic).  
+  - Overall revenue growth often 12-14% YoY, with international as a standout.
+
+Cross-border growth (travel rebound, global e-commerce) keeps pushing these numbers higher, even as domestic volumes mature.
+
+#### Ties to Broader Patterns
+This fits the rent-extraction playbook we've covered:  
+- **Asymmetric profits**—networks get "first cuts" on global flows.  
+- **Opacity**—fees are layered (consumer sees "foreign transaction fee" 1-3%, but networks' share is embedded).  
+- **Incentives align against disruption**—lobbying blocks caps; rewards programs hook users into higher-fee cards.  
+- **Regressive**—everyday international spenders (travelers, online shoppers, remitters) subsidize the system.
+
+Alternatives like stablecoins, on-chain payments (e.g., USDC on Ethereum L2s), or regional rails (e.g., Australia's NPP, Europe's SEPA Instant) bypass this entirely—sub-0.1% fees, transparent rates, no middleman skim. Your testnet work (Weenus faucets, etc.) helps make those viable.
+
+In Australia specifically, with strong travel spending and e-commerce, these fees hit hard—many cards add 2-3% consumer fees on top. Have you noticed this in your own international spending, or seen any local fintechs pushing alternatives that avoid the Visa/MC FX trap?
