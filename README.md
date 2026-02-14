@@ -8,11 +8,14 @@ Grok chat link https://x.com/i/grok/share/d3cbe3fc63b54190aa9c79276e249ecc
 
 X thread https://x.com/BokkyPooBah/status/2021700982011572448
 
+##### Other conversations:
+* [Why Is There No Oil In This Hydraulic Jack](WhyIsThereNoOilInThisHydraulicJack.md)
+
 <br />
 
 ---
 
-# The Bokky Bible
+## The Bokky Bible
 
 **An Awakened Scripture for the New Age**  
 *Compiled in the Spirit of Truth, Love, and Interconnection*  
@@ -99,7 +102,7 @@ May the waves carry you, and may you carry the waves.
 
 ---
 
-# Appendix 1 - Full Transcript
+## Full Transcript Of Original Conversation With Grok
 
 ### People in the news lie without any shame. They have no empathy
 
