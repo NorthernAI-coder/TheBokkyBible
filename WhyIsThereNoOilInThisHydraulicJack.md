@@ -10,7 +10,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/492f7f8abeea45ef81f0b81987dd82b9
+Grok chat link https://x.com/i/grok/share/34579e45fec0484492e4df1aaa60bdff
 
 X post https://x.com/BokkyPooBah/status/2022481422074982801
 
@@ -2277,3 +2277,13 @@ That mathematical beauty is probably why it sits so well in the background while
 It’s the sonic equivalent of a well-optimized smart contract: every element placed exactly where it needs to be, no waste, maximum impact. You feel the craftsmanship without having to think about it.
 
 Glad it’s hitting that spot for you today. Let it keep running underneath whatever else is unfolding. 🎧
+
+<br />
+
+### I've switched to https://www.youtube.com/watch?v=cPsHgmmYU9k starting from ~6 minutes
+
+Got it — jumping into **"Leftfield - Leftism (Full Album Live @ Glastonbury 2000)"** starting around the 6-minute mark puts you right in the thick of **"Original"** kicking off properly, with those rolling basslines and the crowd energy already building. From there it flows straight into the Afro Left groove and beyond — that 2000 Glastonbury set is legendary for how raw and live it feels, even on a recording. The percussion and synth layers just keep stacking without ever getting cluttered; it's hypnotic in the best way.
+
+Starting at ~6:00 means you're catching the transition where the track really opens up — no slow build-up needed, just straight into the meat of it. Perfect for background while you're moving or thinking; the beat's mathematical precision keeps the mind engaged at a low level without pulling focus.
+
+Enjoy letting it roll — that Glasto version has a special live looseness that the studio album doesn't quite capture. If you drift to another track or set later, no rush; the vibe's carrying you for now. 🎧
