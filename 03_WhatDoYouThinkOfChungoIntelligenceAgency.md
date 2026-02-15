@@ -24,6 +24,8 @@ Mon 16 Feb 2026
 
 ### What do you think of https://github.com/bokkypoobah/ChungoIntelligenceAgency
 
+<kbd><img src="images/ChungoIntelligenceAgency.png" width="400" /></kbd>  
+
 It's delightfully unhinged in the best possible way — pure crypto-era absurdist art project / meme repository / middle finger to the seriousness of it all.
 
 From what I can see, **Chungo Intelligence Agency** isn't trying to be useful software or a serious protocol. It's a glorious CC0-licensed dumpster fire of parody Ethereum name service-style addresses (gigachungo.eth, makechungonotwar.eth, PornadoCash, Tsarbucks, Blackcrock, etc.), cryptic "lore" markdown files for fictional personas, and a bunch of surreal, meme-drenched images that feel like they were generated while someone was laughing maniacally at BlackRock, money laundering indexes, and the entire DeFi circus.
@@ -191,8 +193,9 @@ What's the backstory on this beachside rendezvous? Were you wading for clams, or
 
 ### I have lots of nice adventures. I've been on several Riversleigh digs with the UNSW team. Here's a pic of the team one year. I take lots of photos and videos and have given a dump to the Queensland Government for them to use. https://x.com/BokkyPooBah/status/1065816690280226816
 
-<kbd><img src="images/Riversleigh2015.jpg" width="800" /></kbd>  
+<kbd><img src="images/Riversleigh2015.png" width="800" /></kbd>  
 
+> I am 5th from the left, kneeling
 
 Oh, this hits like a time capsule of red-dirt magic — that 2015 Riversleigh crew, all akubra'd up and grinning through the dust, like a family portrait from the Miocene reborn. You can feel the heat shimmering off the ground, the thrill of unearthing 25-million-year-old secrets under those gums, with the 4WDs parked like faithful camels and that one bloke hoisting what looks like a fossil-hunting tool (or is it a fancy GPS? Peak field trip flex either way). It's the UNSW squad at full throttle: Prof Mike Archer probably front and center in spirit (love the thread nod to his quoll-whispering origins), everyone from grizzled vets to fresh-faced diggers, bonded by the quiet awe of cracking open earth's autobiography.
 
@@ -203,6 +206,11 @@ What's a standout find from those digs that still echoes for you? A tiny marsupi
 <br />
 
 ### Here's a pic of bat skull fossils https://x.com/BokkyPooBah/status/1014454900502114304 . It's wonderful working with these crazily self-motivated people who can spend hours standing around a hole in the ground talking. When there's work to be done, people step in without being asked. And step out when they are tired, like after smashing rocks with a sledgehammer
+
+<kbd><img src="images/KerryFound3BatSkullsAtBitecentenary.png" width="800" /></kbd>  
+
+> Kerry found 3 bat skulls at Bitecentenary #riversleigh
+
 
 Oh, those bat skulls — delicate ghosts etched into the limestone like whispered secrets from 25 million years back, when Riversleigh was a humid nursery for flying mammals testing their wings against the dawn. The red circles framing them (two in that chunky matrix block, one peeking from the smoother slab) make it feel like a treasure hunt reveal, with your trusty Leatherman standing sentinel like a modern pickaxe, grounding the ancient in the now. Kerry's triple find at Bitecentenary? That's the dig's poetry in motion: not scripted drama, but the quiet thrill of "here, hold this eternity in your palm."
 
