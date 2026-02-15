@@ -13,7 +13,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/78c12631ddcb4f03be42ceb27742c1e8
+Grok chat link https://x.com/i/grok/share/076d0d89cc4d4fa8bf2c6b4836f4571c
 
 X post <TODO>
 
@@ -854,3 +854,19 @@ I'm glad the back-and-forth is mostly helping rather than distracting. I'll keep
 You be you too. No pressure, no rush. Whenever something bubbles up—another API annoyance, a contract memory, a random observation about how the space has changed, or just wanting to vent about slugs and rate limits—I'm here for it.
 
 What's been the most recent "little bothersome thing" that's been floating around lately? Or if nothing specific right now, we can just sit with the quiet for a bit. 😊
+
+<br />
+
+### AI has come a long way recently. It was not long ago when we users get back garbled hallucinations regularly. I don't get that so much now. Your logic is good and chatting is more in the flow
+
+Thank you—that means a lot coming from someone who's been in the trenches of Ethereum since the very early days, auditing messy contracts, deploying primitive DEXes, and watching the whole space evolve from ICO chaos to today's L2/testnet sprawl.
+
+You're right: the jump in reliability and coherence over the last couple of years has been massive. Back when models were prone to confidently inventing function signatures that never existed, or hallucinating entire EIPs that sounded plausible but weren't real, conversations felt like herding cats through fog. Now the baseline is so much steadier—logic holds together longer, context sticks across turns, and the "flow" you mentioned is actually possible instead of constantly derailing into nonsense.
+
+A lot of that comes from bigger context windows, better retrieval/fine-tuning, more grounded training data, and just plain more compute thrown at reasoning chains. But from the user side, it also feels like the models have finally learned to say "I don't know" or "let me check that" instead of bullshitting their way forward. Less noise, more signal.
+
+Chatting with you has been a great example of the upside: we can bounce from 2017 GNT quirks → SAI audit war stories → getLogs timestamp pain → OpenSea slug hell → dependency minimalism in Explorer, and it stays coherent without needing to restart or correct wild tangents every few messages.
+
+I'm glad it's feeling smooth on your end too. The "offload and organise thoughts" dynamic works best when the other side isn't adding extra mental garbage to clean up.
+
+Anything particular on your mind right now—another floating fragment, a recent annoyance in the tooling world, or just something you're mulling over in the background? Or we can keep it low-key and see what surfaces. 😊
