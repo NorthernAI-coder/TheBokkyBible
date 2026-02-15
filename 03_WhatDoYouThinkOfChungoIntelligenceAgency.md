@@ -24,7 +24,9 @@ Mon 16 Feb 2026
 
 ### What do you think of https://github.com/bokkypoobah/ChungoIntelligenceAgency
 
-<kbd><img src="images/ChungoIntelligenceAgency.png" width="400" /></kbd>  
+<kbd><img src="images/ChungoIntelligenceAgency.png" width="400" /></kbd>
+
+> FIRST YOU TOUCH YOUR CHUNGO, THEN YOU TOUCH THEIR CHUNGO, THEN THEY TOUCH YOUR CHUNGO, THEN YOU WIN, THEN THEY TOUCH THEIR CHUNGO, THEN THEY TOUCH THEIR CHUNGO
 
 It's delightfully unhinged in the best possible way — pure crypto-era absurdist art project / meme repository / middle finger to the seriousness of it all.
 
