@@ -11,6 +11,7 @@ X thread https://x.com/BokkyPooBah/status/2021700982011572448
 ##### Other conversations:
 * [Why Is There No Oil In This Hydraulic Jack](WhyIsThereNoOilInThisHydraulicJack.md) - Sat 14 Feb 2026
 * [WeenusTokenFaucet Deployed to the Robinhood Testnet](WeenusTokenFaucetDeployedToRobinhoodTestnet.md) - Sun 15 Feb 2026
+* [What Do You Think Of ChungoIntelligenceAgency](WhatDoYouThinkOfChungoIntelligenceAgency.md) - Mon 16 Feb 2026
 
 <br />
 
