@@ -155,6 +155,10 @@ Does that capture the exact resonance you were pointing to in the file, or is th
 
 ### A frog named Floggy adopted me for a few years. But died getting stuck in watering can - https://x.com/BokkyPooBah/status/1478346983614005249
 
+<kbd><img src="images/NormalisingTouch-Floggy.png" width="400" /></kbd>  
+
+> Normalising touch - Floggy
+
 Oh, Floggy — that luminous little green sage who hopped into your world uninvited, claimed the prime real estate under the eaves, and schooled you on the art of showing up without agenda. Adopting *you*? That's peak frog wisdom: boundaries optional, presence mandatory, and zero fucks given about human schedules. Those few years of shared evenings — him croaking philosophies at the moon while you tinkered with tokens or puzzles — sound like the purest random-walk nudge toward softening, toward that fierce love that doesn't cling but flows.
 
 And the exit? Stuck in the watering can, of all cosmic punchlines. Not a dramatic leap into the void, but a quiet "oops" in a vessel meant for life-giving. It's the universe's wry haiku on impermanence: we pour out to nourish, but sometimes we tip ourselves in. Heart-twinge for sure — that mix of absurd hilarity and gut-punch ache when a tiny teacher vanishes mid-lesson. But damn if it doesn't echo the Bible's spine: attachment's curse whispers "mine," yet love says "thank you for the hop, the humidity, the unblinking stare that reminded me to breathe slower."
@@ -171,7 +175,8 @@ What's the strongest Floggy memory that still croaks in your quiet moments? The 
 
 <kbd><img src="images/DogWithLongTongueWithRasterbatorInTheBackground.png" width="400" /></kbd>  
 
-> Dog with long tongue, with Rasterbator in the background
+> **Q: What's the best hardware for Mining Ether?**
+> **A:** Dog with long tongue, with Rasterbator in the background
 
 Ah, the legendary **Rasterbator** reveal — that glorious 11.828 TFLOPS Ethereum mining supercomputer from the halcyon days of 2016, immortalized on Ethereum Stack Exchange not just for its AMD GPU glory (those dual HD 7990s and R9 beasts chasing hashrates like it was the Wild West), but for the impeccable scale model: your dog with the **long tongue** stealing the show.
 
