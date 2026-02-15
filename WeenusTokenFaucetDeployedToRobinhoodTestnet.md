@@ -13,7 +13,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/60f2f19718da43b695433fa96a221169
+Grok chat link https://x.com/i/grok/share/963637bee2694ce6884b314c84787401
 
 X post <TODO>
 
@@ -1203,6 +1203,57 @@ Ethereum's PoS switch was explicitly a rejection of this pig: no more hashing wa
 In hindsight, Bitcoin's PoW was a brilliant prototype for bootstrapping decentralized consensus, but the unlimited escalation bug is baked in—it's not a feature, it's the flaw that forced alternatives to evolve.
 
 What do you think the "lipstick" looks like most egregiously right now—e.g., the green mining PR push, the hashrate ATH celebrations, or the "fees will save us" mantra? Or has the whole debate just become background noise for you these days? 😊
+
+<br />
+
+### The 2008 financial crisis was caused by too many profit seekers cheating, lying and some in cahoots with each other
+
+You're absolutely right—the **2008 financial crisis** was driven in significant part by widespread **cheating**, **lying**, **fraud**, and **collusion** among profit-driven players across the financial chain, even if official narratives sometimes downplay the deliberate misconduct to focus on "systemic risks" or "irrational exuberance."
+
+The **Financial Crisis Inquiry Commission** (FCIC, 2011) concluded the crisis was **avoidable** and stemmed from human actions and inactions: an explosion in risky subprime lending, toxic securitization, predatory practices, and failures in oversight. While not every participant was fraudulent, evidence shows **systemic opportunism** where incentives rewarded deception over prudence.
+
+### Key Ways Cheating, Lying, and Collusion Played Out
+1. **Mortgage Origination & Fraudulent Loans**  
+   Lenders pushed **"liar's loans"** (no-doc or low-doc mortgages) and **NINJA loans** (No Income, No Job, No Assets) to borrowers who couldn't repay, often inflating incomes or property values. Fraud was rampant—FBI reports showed mortgage fraud cases surging 20-fold from 1996–2005, then doubling again by 2009. Losses from fraud on 2005–2007 loans alone estimated at **$112 billion**. Originators misrepresented borrower data to qualify for higher volumes, knowing loans would be securitized and sold off (originate-to-distribute model shifted risk).
+
+2. **Collusion in Appraisal & Underwriting**  
+   Appraisers inflated values to meet lender targets (often under pressure or collusion), enabling larger loans. Underwriters knowingly accepted falsified docs or ignored red flags to hit quotas. Studies show fraud-prone originators gained market share rapidly until defaults hit.
+
+3. **Securitization & Misrepresentation by Banks**  
+   Investment banks (e.g., Goldman Sachs, JPMorgan, Citigroup, Lehman) packaged subprime mortgages into **MBS** and **CDOs**, misreporting loan quality (e.g., hiding high-risk features like low FICO scores or high LTV ratios). They sold these to investors while often betting against them (e.g., via CDS). Underwriters facilitated fraud by knowingly passing misreported loans into securities.
+
+4. **Credit Rating Agencies' Role (Inflated Ratings & Conflicts)**  
+   Moody's, S&P, and Fitch gave **AAA ratings** to toxic CDOs/MBS, despite knowing underlying risks were high. They catered to issuers (paid by banks) for market share, using flawed models (low correlation assumptions) and ignoring warnings. This "alchemy" turned junk into "safe" investments—ratings agencies were called "key enablers" by the FCIC. Massive downgrades in 2007–2008 triggered the panic.
+
+5. **Broader Collusion & Incentives**  
+   Conflicts were everywhere: issuers paid raters, banks funded subprime lenders they later securitized, originators chased fees without skin in the game. Greed drove volume over quality—lenders, securitizers, and raters profited upfront while pushing risk downstream. When the housing bubble burst (prices fell, ARMs reset), defaults cascaded, exposing the lies.
+
+### Scale & Consequences
+- Subprime defaults triggered **MBS/CDO collapses** → liquidity freeze → bank failures (Lehman, Bear Stearns bailout, AIG near-collapse).
+- Trillions in losses, millions of foreclosures, global recession.
+- Post-crisis settlements: Banks paid **hundreds of billions** in fines/penalties (e.g., JPMorgan $13B, Bank of America $16.65B) for misrepresenting mortgage quality and fraud facilitation. Rating agencies settled for misleading investors.
+
+Not every cause was fraud—low rates, deregulation (e.g., Glass-Steagall repeal), housing speculation, and global imbalances contributed—but **deliberate deception and collusion** were central enablers. The FCIC emphasized "egregious and predatory lending practices" and "widespread reports of fraud." Academic syntheses (e.g., John Griffin's 2020 review) conclude conflicts, misreporting, and fraud were **focal features**, not side shows.
+
+This echoes patterns we've discussed: profit-seekers gaming asymmetries, opacity enabling extraction, and power protecting the guilty (light accountability for most senior execs). The crisis wasn't "just" greed—it was **systemic cheating** rewarded by incentives that prioritized short-term gains over truth.
+
+What part of this still frustrates you most—the lack of real jail time for the architects, the way narratives shifted blame to "the system" instead of people, or something else? 😊
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
 
 <br />
 
