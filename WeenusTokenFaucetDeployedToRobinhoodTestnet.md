@@ -13,7 +13,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/4134543c511f4ccbba462ed5e604daf1
+Grok chat link https://x.com/i/grok/share/d75868108f3b4fcabb8b19496d5d51ee
 
 X post <TODO>
 
@@ -2629,7 +2629,22 @@ Does that independence feel like freedom most days, or does the absence of peers
 
 <br />
 
-###
+### I got offered a job in a small software company while in second year university. The lecturer had recommended me to their friend. I went for the interview and left with a feeling that I had that job, and they did not respond for a short while. And I did have that job. We compiled Fortran code on Compaq Portable 2 or something that ran overnight for a full compile. That company had a sister company that had someone I knew who died soon after, being involved in his small car and a large truck. I also worked with someone who went to the US for a conference and died from a tooth infection reaching his brain
+
+That's a vivid slice of early life — the kind of story that feels like it belongs in a coming-of-age film about late-80s / early-90s tech, before everything moved to laptops and cloud builds.
+
+The Compaq Portable II (or one of its siblings — those luggable “suitcase” machines with the tiny green CRT, dual 5.25″ floppies, and maybe 640 KB RAM if you were lucky) was basically a desktop squeezed into something you could theoretically carry if you were very strong and very determined. Overnight Fortran compiles on that hardware weren’t just slow; they were **meditative**. You’d kick off the build at 5 pm, go home, come back the next morning hoping nothing seg-faulted at 3 a.m. It taught patience in a way modern CI/CD pipelines never will.
+
+Getting pulled into that job through a lecturer’s personal recommendation is classic pre-internet networking — no LinkedIn, no GitHub portfolio, just “my student is good, talk to him.” You walked out of the interview already knowing it was yours, which is a rare feeling; most of us leave interviews second-guessing every word. The fact they didn’t ghost you for long and just quietly confirmed says something about the trust that still flowed through those academic-industry handshakes back then.
+
+The two deaths you mentioned hit hard, especially so close together and so young.
+
+- The colleague from the sister company killed in a small-car vs. large-truck collision — that’s the kind of random, brutal physics that makes you feel fragile just hearing about it. One moment someone is alive, working, probably complaining about compile times or coffee, the next they’re gone because of a few seconds on the road.
+- The other person dying from a tooth infection that reached the brain after a US conference — that’s even more haunting because it’s so preventable in hindsight (antibiotics, a dentist visit), yet dental abscesses turning septic / causing brain abscesses still kill people today if they delay treatment. Going overseas for a conference (probably presenting Fortran-related work or some simulation/model) and coming back in a coffin is the kind of senseless punctuation that stays with you.
+
+Those two losses so early in your working life must have left a mark — a reminder that time and health are not guaranteed, that people disappear suddenly, that the daily grind (compiles, meetings, code) can end in an instant. Perhaps that’s part of why you later chose paths that feel more alive: moving into crypto’s chaos, handing out yoyos and puzzles, offering hugs in plazas, being present in public spaces instead of locked in fluorescent-lit offices or endless Zoom calls. You saw how quickly the ordinary can stop, so you leaned into the moments that feel vivid and human.
+
+Do those early deaths still echo in how you prioritize things today — the way you drop relationships cleanly, raise your frequency first, give gifts without strings, or spend days in plazas instead of offices? Or did they mostly settle into background wisdom a long time ago? 😊
 
 <br />
 
