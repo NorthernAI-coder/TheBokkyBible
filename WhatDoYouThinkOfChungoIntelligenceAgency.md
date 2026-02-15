@@ -10,7 +10,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/7a06d24ab1154e16a2e2f244409b8d67
+Grok chat link https://x.com/i/grok/share/c6cee32d8ff24f78a802ee990efe2761
 
 X post https://x.com/BokkyPooBah/status/2023129294751584271
 
@@ -444,7 +444,27 @@ What's the ratio feel like these days — more nonsense blasts for laughs, or le
 
 <br />
 
-###
+### Satoshi and Vitalik will get the Nobel Prize
+
+Yeah, the idea of **Satoshi Nakamoto** and **Vitalik Buterin** sharing (or even sweeping) a Nobel Prize—likely in Economics—has been floating around crypto circles for years, and it's gained real traction lately. It's not happening tomorrow (the 2025 prizes were announced months ago, and 2026 isn't out yet), but the speculation feels less like moonboy hype and more like a legitimate "why not?" conversation among serious economists.
+
+Here's the breakdown:
+
+For **Satoshi Nakamoto** (Bitcoin's pseudonymous creator):
+- The case has been made repeatedly since ~2015. UCLA finance prof Bhagwan Chowdhry publicly nominated him in 2015 (even offered to accept on his behalf), arguing Bitcoin's invention solved the double-spend problem, enabled peer-to-peer digital value transfer, and upended money/central banking in ways no other innovation matched.
+- Heavyweights like Marc Andreessen (back in 2014) called Satoshi a "genius" who "solved all the problems" and deserved the prize. Michael Saylor echoed it, saying Satoshi merits Economics *and* Peace Nobels for inventing sound money.
+- The big roadblocks? Anonymity. Nobel rules require living, identifiable recipients—no posthumous or anonymous awards (confirmed by the committee in 2021 responses to Satoshi buzz). If Satoshi ever reveals himself (or is credibly doxxed as alive), the door reopens. Until then, it's a beautiful "what if" that crypto folks keep awarding in their own "Nobel in Bitcoin" memes.
+
+For **Vitalik Buterin** (Ethereum co-founder):
+- This one's hotter and more recent. In late 2024/early 2025, prominent economists Tyler Cowen and Alex Tabarrok (Marginal Revolution blog) straight-up called for Vitalik (paired with Robin Hanson for prediction markets/mechanism design) to get the Economics Nobel. They credit him with generalizing automated market makers (from prediction markets) to any commodity pairs, building Ethereum as a programmable platform, creating a native currency, and arguably refuting parts of Mises' regression theorem on money origins—all while following Satoshi's footsteps.
+- Cowen explicitly said Vitalik's contributions to crypto/blockchain match only Satoshi's. Bankless co-founder Ryan Sean Adams and others amplified it: "Vitalik deserves the Nobel for Economics—crypto is ignored by 98% of economists."
+- No anonymity barrier here—Vitalik's very public, alive, and influential. It's unconventional (Nobels often go to academics), but mechanism design and monetary innovation are Economics territory (think recent prizes for auction theory or poverty experiments).
+
+Together? The duo gets bundled a lot in these discussions—Satoshi laid the foundation (decentralized money), Vitalik scaled it (smart contracts, programmable blockchain). Cowen/Tabarrok even framed Vitalik as building directly on Satoshi. If the committee ever embraces crypto as a transformative economic experiment (decentralized coordination, incentive alignment, sound money alternatives), a shared award isn't crazy—especially if prediction markets or futarchy (Hanson's idea, boosted by Ethereum tools like Polymarket) keep proving real-world value.
+
+Realistically? The Nobel committee is conservative and academia-heavy; crypto still gets dismissed by many laureates (Krugman calls Bitcoin a "total bust," Fama predicts it'll go to zero in 10 years). But the chatter from respected voices is growing, and blockchain's impact on finance, governance, and global inclusion keeps mounting. If adoption hits critical mass (e.g., nation-states stacking BTC, Ethereum as settlement layer), the prize could follow—maybe not for Satoshi/Vitalik specifically, but for the field they birthed.
+
+In the spirit of your vast solitary laughs and interleaving nonsense with value: imagine the ceremony—Satoshi's empty chair (or a masked proxy), Vitalik in hoodie accepting, both getting gold medals for dissolving the illusion of centralized control. The empire trembles, the frequency rises, and we all remember to poop. What do you think—Economics category, or should they invent a "Peace through Code" one? Or is the real Nobel just the on-chain legacy they've already won? 😏
 
 <br />
 
