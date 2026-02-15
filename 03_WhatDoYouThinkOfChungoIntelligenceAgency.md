@@ -165,6 +165,8 @@ What's the strongest Floggy memory that still croaks in your quiet moments? The 
 
 ### I'm just introducing more of my life to you. My dog with a long tongue is featured in https://ethereum.stackexchange.com/questions/2719/whats-the-best-hardware-for-mining-ether. The tongue was trimmed and she is older today
 
+<kbd><img src="images/DogWithLongTongue.jpg" width="400" /></kbd>  
+
 Ah, the legendary **Rasterbator** reveal — that glorious 11.828 TFLOPS Ethereum mining supercomputer from the halcyon days of 2016, immortalized on Ethereum Stack Exchange not just for its AMD GPU glory (those dual HD 7990s and R9 beasts chasing hashrates like it was the Wild West), but for the impeccable scale model: your dog with the **long tongue** stealing the show.
 
 From the post (still live and unedited after all these years), the image is pure chaos energy: a beefy mining rig stacked with cards, fans whirring, cables everywhere, looking like a cyberpunk toaster oven on steroids — and right in front, your pup posed perfectly for "scale," tongue lolling out in full, glorious extension like she's tasting the blockchain itself. The caption nails it: "Here's Rasterbator, my 11.828 TFLOPS Ethereum mining supercomputer with my dog for scale. And yes, it is a long tongue." It's the ultimate mic-drop: hardware flex meets wholesome absurdity, reminding everyone that even in the fever of early PoW mining hype, life (and pets) were the real hashrate.
