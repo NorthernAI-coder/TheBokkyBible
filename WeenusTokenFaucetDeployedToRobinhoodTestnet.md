@@ -13,7 +13,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/b42e6fa6efa649f4bbd330cb217c926b
+Grok chat link https://x.com/i/grok/share/2cb619d5a8f54858bfbeb5d7351031d5
 
 X post <TODO>
 
@@ -1086,6 +1086,46 @@ Visa's **on-chain crypto card** (more precisely, stablecoin-linked Visa cards, l
 This hybrid model lets Visa capture stablecoin benefits (24/7 settlement, lower costs) while keeping consumer flows in their controlled, privacy-respecting rails—aligning with their incentive to bridge rather than fully disintermediate.
 
 Does this match what you've seen in practice with crypto-linked cards, or is there a specific provider/implementation (e.g., Crypto.com, Rain) you're curious about in terms of privacy? 😊
+
+<br />
+
+### Does DAI/SKY have restrictions on the totalSupply due to the limited availability of the underlying vaulted assets?
+
+Yes, **DAI** (and its evolved counterpart **USDS** in the Sky Protocol, formerly MakerDAO) has **effective restrictions** on total supply due to the **limited availability** of underlying vaulted collateral assets. There is no hard-coded maximum supply cap like Bitcoin's 21 million, but the supply is **indirectly capped** by governance-set limits and real-world collateral constraints.
+
+#### How Supply Works in DAI/USDS
+DAI (legacy) and USDS (the upgraded version in Sky Protocol) are minted exclusively through **overcollateralized vaults**:
+- Users lock approved collateral (e.g., ETH, BTC wrappers, RWAs like tokenized Treasuries, USDC via PSM, etc.) into vaults.
+- They borrow/mint DAI/USDS against it, typically at **125–150%+ collateralization ratios** (varies by collateral type; e.g., volatile assets need higher ratios for safety).
+- The system is **permissionless** to mint as long as collateral is available and risk parameters allow.
+
+Supply expands when more vaults are opened (more collateral deposited and debt minted) and contracts when users repay debt to unlock collateral.
+
+#### Key Restrictions Limiting Total Supply
+1. **Debt Ceilings (Per Collateral Type and Global)**  
+   Governance (SKY token holders) sets **debt ceilings** (line/ilk.line parameters):  
+   - **Per-collateral debt ceiling** — Max DAI/USDS mintable against a specific asset type (e.g., ETH-A might have a high ceiling, while a risky RWA has a low one).  
+   - **Global debt ceiling** (Line) — Overall system-wide max debt.  
+   Once a ceiling is hit for a collateral type, no more minting against it until debt is repaid or governance raises the ceiling. This is a direct hard limit on supply growth for that collateral.
+
+2. **Collateral Availability & Risk Parameters**  
+   - Supply is fundamentally bounded by how much **approved, vaultable collateral** exists and users are willing to lock.  
+   - Volatile crypto collateral (ETH/BTC) can fluctuate wildly in value → limits effective minting due to liquidation risks.  
+   - RWAs (real-world assets like tokenized T-bills) are limited by partnerships, regulatory access, and onboarding speed (e.g., BlackRock BUIDL or Janus funds have finite allocations).  
+   - PSM (Peg Stability Module) allows 1:1 swaps (e.g., USDC → DAI/USDS), but even this is capped by PSM debt ceilings and available stable collateral.  
+   - Liquidation ratios and stability fees add friction: High fees discourage minting, low collateralization triggers liquidations (reducing net supply if bad debt occurs).
+
+3. **No Unlimited Minting**  
+   Unlike centralized stablecoins (USDT/USDC) that can mint against fiat reserves with minimal friction, DAI/USDS requires **overcollateralization** and governance approval for new collateral types/ceilings. This makes supply **elastic but constrained**—it grows with demand and collateral inflow but can't explode arbitrarily without more locked assets or parameter changes.
+
+#### Current Context (as of early 2026)
+- DAI + USDS combined circulation is in the **multi-billion range** (e.g., USDS ~9–10B, DAI legacy still circulating in parallel).
+- No absolute hard cap exists (supply can theoretically grow indefinitely if more collateral is added and ceilings raised via governance).
+- But in practice, **limited vaulted assets** (especially high-quality, stable ones like RWAs) create a soft cap—governance must balance risk (avoid undercollateralization) with growth. Recent updates show debt ceilings adjusted frequently (e.g., via SparkLend integrations or PSM limits), but never unlimited.
+
+In summary: **Yes**—DAI/SKY (USDS) supply is restricted by the finite availability of vaulted collateral and governance-imposed debt ceilings. This is a deliberate design for decentralization and risk control, unlike fiat-backed stablecoins that can scale more freely with reserves. If collateral pools dry up or governance gets conservative, supply growth stalls regardless of demand.
+
+Does this align with what you've seen in the protocol lately, or were you thinking about a specific collateral type (e.g., RWAs vs. crypto) where limits feel tightest? 😊
 
 <br />
 
