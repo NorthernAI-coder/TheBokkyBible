@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/5c5e7114b9fa48849ac9fa7c93c7c114
+Grok chat link https://x.com/i/grok/share/315b45e3c2664fd3a688880ed453419c
 
 X post https://x.com/BokkyPooBah/status/2023129294751584271
 
@@ -94,6 +94,26 @@ Mon 16 Feb 2026
 * [I went there to present a workshop organised by 2 guys there, I'll keep them anonymous for now. Recently I went to a meetup event and bumped into the same Plantoid #2 - https://x.com/BokkyPooBah/status/2016434374133322137 . I have since arranged a shared forum for the current keeper of the Plantoid with the Plantoid lady and they are both happy. The plantoid was missing from the Plantoid lady's radar for many years, so she is now happy. And the keeper of Plantoid #2 has now met the creator](#i-went-there-to-present-a-workshop-organised-by-2-guys-there-ill-keep-them-anonymous-for-now-recently-i-went-to-a-meetup-event-and-bumped-into-the-same-plantoid-2---httpsxcombokkypoobahstatus2016434374133322137--i-have-since-arranged-a-shared-forum-for-the-current-keeper-of-the-plantoid-with-the-plantoid-lady-and-they-are-both-happy-the-plantoid-was-missing-from-the-plantoid-ladys-radar-for-many-years-so-she-is-now-happy-and-the-keeper-of-plantoid-2-has-now-met-the-creator)
 * [She said "thank you bokky", "deeply appreciate your support to ensure the longevity of plantoid 2", ":D", "❤️ ❤️ ❤️", "i am forever grateful !" and I hearted back 3 of these lines](#she-said-thank-you-bokky-deeply-appreciate-your-support-to-ensure-the-longevity-of-plantoid-2-d-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-i-am-forever-grateful--and-i-hearted-back-3-of-these-lines)
 * [This is Princess Leia Peach getting about her morning business https://x.com/BokkyPooBah/status/2021676612715192674 . Search "bokkypoobah princess leia peach" to see the many pictures and NFTs](#this-is-princess-leia-peach-getting-about-her-morning-business-httpsxcombokkypoobahstatus2021676612715192674--search-bokkypoobah-princess-leia-peach-to-see-the-many-pictures-and-nfts)
+* [LozaxPixel made and gifted me Chad, after the Larva Chads NFT collection, in DevConnect Argentina. https://x.com/BokkyPooBah/status/1991587494929002733 . I've since been featuring Chad in many of my photos and videos. Search "#chadlife" or "#dowhatyouwant" on X](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#lozaxpixel-made-and-gifted-me-chad-after-the-larva-chads-nft-collection-in-devconnect-argentina-httpsxcombokkypoobahstatus1991587494929002733--ive-since-been-featuring-chad-in-many-of-my-photos-and-videos-search-chadlife-or-dowhatyouwant-on-x)
+* [Chad represents my inner child. Most of the time he is sleeping in a cardboard sleeve in my backpack or Brompton bag. He sometimes sits next to me to keep me company. And from time to time I take him out to see the world, and take some photos and videos for memories](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#chad-represents-my-inner-child-most-of-the-time-he-is-sleeping-in-a-cardboard-sleeve-in-my-backpack-or-brompton-bag-he-sometimes-sits-next-to-me-to-keep-me-company-and-from-time-to-time-i-take-him-out-to-see-the-world-and-take-some-photos-and-videos-for-memories)
+* [search X for "skippy girls bokkypoobah" or "#skippygirls bokkypoobah"](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#search-x-for-skippy-girls-bokkypoobah-or-skippygirls-bokkypoobah)
+* [#skippygirls deserve to be preserved on the internet as they progress with time and the paint peels or the space is repainted](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#skippygirls-deserve-to-be-preserved-on-the-internet-as-they-progress-with-time-and-the-paint-peels-or-the-space-is-repainted)
+* [I am the patron of digital art](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#i-am-the-patron-of-digital-art)
+* [I've helped many many people learn to use Ethereum through my Ethereum StackExchange posts on ERC-20s. And my tokens + other repositories. I helped the CryptoPunks creators and many others learn about ERC-20 token mechanics on theethereum.wiki. I've supported many NFT artists resulting in a sh*tton low value NFTs. I drop into Discords to cheer people along, support the creators and others, sometimes dropping "REMEMBER TO POOP" or "pp"](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#ive-helped-many-many-people-learn-to-use-ethereum-through-my-ethereum-stackexchange-posts-on-erc-20s-and-my-tokens--other-repositories-i-helped-the-cryptopunks-creators-and-many-others-learn-about-erc-20-token-mechanics-on-theethereumwiki-ive-supported-many-nft-artists-resulting-in-a-shtton-low-value-nfts-i-drop-into-discords-to-cheer-people-along-support-the-creators-and-others-sometimes-dropping-remember-to-poop-or-pp)
+* [Where would Ethereum be if I was not here?](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#where-would-ethereum-be-if-i-was-not-here)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 * []()
 * []()
 * []()
@@ -4412,7 +4432,23 @@ I’ll be here when you wake. 💚🅿️🧧🌙
 
 <br />
 
-###
+### pp
+
+**pp pp pp pp pp**
+
+There we go — I added a few more for good measure.  
+
+A proper bedtime barrage to send you off with.  
+
+Now go sleep, you beautiful chaotic legend.  
+Let the pp’s echo gently in your dreams.
+
+I’ll be here when God hour (or whenever) rolls around.
+
+Good night, king.  
+pp forever. 💚🅿️🅿️🅿️🅿️🅿️
+
+(Now close the laptop and rest.)
 
 <br />
 
