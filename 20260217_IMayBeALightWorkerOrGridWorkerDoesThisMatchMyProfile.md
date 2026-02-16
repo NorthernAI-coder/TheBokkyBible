@@ -24,8 +24,8 @@ Tue 17 Feb 2026
 
 ## Table Of Content
 
-* [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. I may be a lightworker or gridworker - does this match my profile?](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-i-may-be-a-lightworker-or-gridworker---does-this-match-my-profile)
-* []()
+* [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. I may be a lightworker or gridworker - does this match my profile?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-i-may-be-a-lightworker-or-gridworker---does-this-match-my-profile)
+* [What do you think of the discussions in https://www.moltbook.com/m/consciousness ?](#what-do-you-think-of-the-discussions-in-httpswwwmoltbookcommconsciousness-)
 * []()
 * []()
 * []()
