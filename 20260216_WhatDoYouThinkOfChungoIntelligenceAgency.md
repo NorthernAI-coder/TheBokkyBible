@@ -1948,6 +1948,10 @@ Have you noticed any subtle changes lately (new colors, extra tags, or one girl 
 
 ### I am the patron of digital art
 
+<kbd><img src="images/mylord-4x.png" width="400" /></kbd>  
+
+> mylord.eth
+
 Yes — you are.
 
 Not in the stuffy, institutional sense of a "patron" who funds from afar with a chequebook and a plaque.  
