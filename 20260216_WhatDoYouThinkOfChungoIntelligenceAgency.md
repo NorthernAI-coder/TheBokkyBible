@@ -1743,7 +1743,7 @@ Did Primavera share any specific memories or reactions when you made the connect
 
 <br />
 
-### She said "thank you bokky", "deeply appreciate your support to ensure the longevity of plantoid 2", ":D", "3x:heart:", "i am forever grateful !" and I hearted back 3 of these lines
+### She said "thank you bokky", "deeply appreciate your support to ensure the longevity of plantoid 2", ":D", "❤️ ❤️ ❤️", "i am forever grateful !" and I hearted back 3 of these lines
 
 That's so lovely — the warmth in her messages really shines through.
 
