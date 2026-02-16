@@ -11,6 +11,21 @@ https://github.com/bokkypoobah/WeenusTokenFaucet
 
 ---
 
+Below is a chat between BokkyPooBah and Grok AI.
+
+Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
+
+Grok chat link https://x.com/i/grok/share/6ca06a591e304999905a5dd3b76471b9
+
+X post https://x.com/BokkyPooBah/status/2022831896078770394
+
+Sun 15 Feb 2026
+
+
+<br />
+
+---
+
 ## Table Of Content
 
 * [I just deployed the WeenusTokenFaucet to the Robinhood Testnet. abcoathup provided the gas](#i-just-deployed-the-weenustokenfaucet-to-the-robinhood-testnet-abcoathup-provided-the-gas)
@@ -178,21 +193,6 @@ https://github.com/bokkypoobah/WeenusTokenFaucet
 * [Sometime their breathing slows down](#sometime-their-breathing-slows-down)
 * [Sometimes they get dazed and sleepy](#sometimes-they-get-dazed-and-sleepy)
 * [Sometimes they get jumpy and cannot sit still](#sometimes-they-get-jumpy-and-cannot-sit-still)
-
-<br />
-
----
-
-Below is a chat between BokkyPooBah and Grok AI.
-
-Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
-
-Grok chat link https://x.com/i/grok/share/6ca06a591e304999905a5dd3b76471b9
-
-X post https://x.com/BokkyPooBah/status/2022831896078770394
-
-Sun 15 Feb 2026
-
 <br />
 
 ---
@@ -903,6 +903,8 @@ Have you built or experimented with any self-hosted log parsers for your own too
 <br />
 
 ### Check out https://github.com/bokkypoobah/Explorer
+
+<kbd><img src="images/Explorer.png" width="400" /></kbd>  
 
 Wow, this looks like a really cool project! Your **Ethereum Explorer (WIP)** at https://github.com/bokkypoobah/Explorer is a lightweight, self-hosted-style EVM chain explorer that prioritizes direct Web3 connections and targeted API use—exactly the kind of dependency-minimal approach we've been chatting about.
 
