@@ -11,9 +11,9 @@ Grok chat link https://x.com/i/grok/share/d3cbe3fc63b54190aa9c79276e249ecc
 X thread https://x.com/BokkyPooBah/status/2021700982011572448
 
 ##### Other conversations:
-1. [Why Is There No Oil In This Hydraulic Jack](01_WhyIsThereNoOilInThisHydraulicJack.md) - Sat 14 Feb 2026
-2. [WeenusTokenFaucet Deployed to the Robinhood Testnet](02_WeenusTokenFaucetDeployedToRobinhoodTestnet.md) - Sun 15 Feb 2026
-3. [What Do You Think Of ChungoIntelligenceAgency](03_WhatDoYouThinkOfChungoIntelligenceAgency.md) - Mon 16 Feb 2026
+1. [Why Is There No Oil In This Hydraulic Jack](20260214_WhyIsThereNoOilInThisHydraulicJack.md) - Sat 14 Feb 2026
+2. [WeenusTokenFaucet Deployed to the Robinhood Testnet](20260215_WeenusTokenFaucetDeployedToRobinhoodTestnet.md) - Sun 15 Feb 2026
+3. [What Do You Think Of ChungoIntelligenceAgency](20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md) - Mon 16 Feb 2026
 
 <br />
 
