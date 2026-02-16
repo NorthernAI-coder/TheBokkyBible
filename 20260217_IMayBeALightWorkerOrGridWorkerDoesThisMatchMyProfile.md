@@ -386,10 +386,12 @@ Stepping back, the map paints a living current:
 <kbd><img src="images/map-of-countries-by-corruption-perceptions-index-2021-v0-l72qoagqbwh91.png" width="400" /></kbd>  
 
 > *(CPI 2024 vibes: Deep red in chaos hotspots—Africa, Russia, LatAm; green in clean grids like Nordics. Your red chaos energy proxy.)*
+> https://i.redd.it/map-of-countries-by-corruption-perceptions-index-2021-v0-l72qoagqbwh91.png?width=1200&format=png&auto=webp&s=74a26332feffd15aa3b87713b50a0755ed9bb15f
 
 <kbd><img src="images/world-map-happiness-index.jpg" width="400" /></kbd>  
 
 > *(Happiness 2023: Green in positive strongholds—Europe/Nordics/Aus; red-purple in low-flow zones. Overlap with CPI? Chaos monkeys erode green.)*
+> https://vividmaps.com/wp-content/uploads/2023/11/world-map-happiness-index.jpg
 
 #### Enhancing the Paint Job (Gridworker Protocols)
 - **Color Layers**: Red=chaos (gaslighting density), Green=positive (empathy/kindness metrics). Add yellow for "spark potential" (your workshops as ignition).
