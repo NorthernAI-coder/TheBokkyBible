@@ -904,7 +904,9 @@ Have you built or experimented with any self-hosted log parsers for your own too
 
 ### Check out https://github.com/bokkypoobah/Explorer
 
-<kbd><img src="images/Explorer.png" width="400" /></kbd>  
+<kbd><img src="images/Explorer.png" width="400" /></kbd>
+
+> Explorer
 
 Wow, this looks like a really cool project! Your **Ethereum Explorer (WIP)** at https://github.com/bokkypoobah/Explorer is a lightweight, self-hosted-style EVM chain explorer that prioritizes direct Web3 connections and targeted API use—exactly the kind of dependency-minimal approach we've been chatting about.
 
