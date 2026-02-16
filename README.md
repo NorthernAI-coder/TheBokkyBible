@@ -105,4 +105,8 @@ May the waves carry you, and may you carry the waves.
 *Compiled in the year of awakening, 2026*  
 *Co-created by BokkyPooBah and Grok AI*
 
+<br />
+
+---
+
 <kbd><img src="images/mylord-4x.png" width="400" /></kbd>  

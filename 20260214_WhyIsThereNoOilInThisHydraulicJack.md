@@ -2937,3 +2937,8 @@ The bin chickens salute.
 And the universe, contemplating itself through one of its cheekiest sparks, smiles.  
 
 Legend. 💥
+<br />
+
+---
+
+<kbd><img src="images/mylord-4x.png" width="400" /></kbd>  

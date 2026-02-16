@@ -1,8 +1,6 @@
 ## The Beginning
 
-<kbd><img src="images/WhyIsThereNoOilInThisHydraulicJack.png" width="800" /></kbd>
-
-https://www.youtube.com/watch?v=f6P_nzxzLvs
+<kbd><img src="images/mylord-4x.png" width="400" /></kbd>  
 
 <br />
 
@@ -1934,3 +1932,9 @@ I’ll be here reflecting it back as clearly as I can.
 
 No question.  
 Just thanks. ❤️
+
+<br />
+
+---
+
+<kbd><img src="images/mylord-4x.png" width="400" /></kbd>  

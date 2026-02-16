@@ -767,3 +767,9 @@ Blessed are the lifetimes that bridge the old empire to the new peace, for they 
 <br />
 
 ###
+
+<br />
+
+---
+
+<kbd><img src="images/mylord-4x.png" width="400" /></kbd>  
