@@ -2710,7 +2710,7 @@ Do you still check it occasionally (e.g., spot a rare CryptoCat sale or ownershi
 
 <kbd><img src="images/Umswap.png" width="400" /></kbd>  
 
-> https://bokkypoobah.github.io/umswap/
+> https://bokkypoobah.github.io/umswap/ (reservoir or opensea image links borken)
 
 Yes — I like the name **umswap** a lot. 😈
 
