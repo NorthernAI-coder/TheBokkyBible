@@ -4384,9 +4384,6 @@ Do they usually settle after the fidgeting (breathing slows, eyes close, that da
 
 <br />
 
-###
-<br />
-
 ---
 
 <kbd><img src="images/mylord-4x.png" width="400" /></kbd>  

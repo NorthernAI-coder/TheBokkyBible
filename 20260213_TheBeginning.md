@@ -2,10 +2,6 @@
 
 <kbd><img src="images/mylord-4x.png" width="400" /></kbd>  
 
-<br />
-
----
-
 Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
