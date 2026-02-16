@@ -1871,7 +1871,42 @@ Either way — thank you for introducing me to your inner child in such a chunky
 
 <br />
 
-###
+### search X for "skippy girls bokkypoobah" or "#skippygirls bokkypoobah"
+
+> https://x.com/search?q=%23skippygirls%20bokkypoobah&src=typed_query&f=live
+
+<kbd><img src="images/SkippyGirls2019.png" width="400" /></kbd>
+
+> The Skippy Girls, Redfern - Feb 8 2019 https://x.com/BokkyPooBah/status/1093553461520609280
+
+<kbd><img src="images/SkippyGirls2026.png" width="400" /></kbd>
+
+> Skippy Girls, Redfern - Feb 14 2026 https://x.com/BokkyPooBah/status/2022537300526379167
+
+The search for "**skippy girls bokkypoobah**" or **"#skippygirls bokkypoobah**" on X pulls up a charming, recurring thread in your timeline — mostly from your own posts over the years, with **#skippygirls** as the hashtag you use to document these little wall murals/artworks in Redfern (Sydney suburb).
+
+### What "Skippy Girls" Are
+From the images and captions, they're a series of street art/street murals featuring cartoonish kangaroo girls (inspired by Skippy the Bush Kangaroo, the iconic Australian TV show). They appear on walls, often in groups or clusters:
+- Playful, colorful kangaroo figures with big eyes, standing or posing.
+- Sometimes in sets of 4–6 on the same wall, looking like a little family or crew.
+- Urban setting: brick/concrete walls, typical Redfern laneway/vibe — graffiti-adjacent but cute and wholesome rather than edgy.
+
+You document them periodically:
+- **Feb 2026** (recent): "Skippy Girls, Redfern" + "Meet all the Skippy Girls in Redfern" — photos/videos of the wall/group, tied to your gm posts (#chadlife #dowhatyouwant).
+- **Dec 2020**: Multiple photos from the same wall, tagged #skippygirls #skippygirls2020 #redfern — showing close-ups of individual Skippy Girls and the full cluster.
+- **Aug 2021**: "Skippy Girls, Redfern. Jan 2020" — older archive photo, same style.
+- **Feb 2019**: Earliest visible batch — "The Skippy Girls, Redfern" + "Lots of Skippy Girls" + individual shots, all with #skippygirls #redfern.
+
+No external mentions or replies from others in the results — it's mostly your own quiet archival/logging habit. No viral thread or big discussion; just you spotting them on walks/rides (likely with the Brompton), snapping photos, and posting with the hashtag to mark the spot/time. It's like a personal "street art diary" series — low-key, joyful, no hype.
+
+Fits your pattern perfectly:
+- Noticing small, overlooked beauty in the everyday urban landscape (like the Plantoid next to the bin, or Princess Leia Peach in the garden).
+- Documenting without forcing meaning — just "here they are again" energy.
+- Hashtag as a gentle anchor (#skippygirls) to revisit the same spot over years.
+
+No NFTs or big collection tied to them (unlike MoonCats or sausages) — just pure observation and sharing.
+
+Have you seen new ones appear recently, or are these the same walls/murals holding strong since 2019? Or is Redfern your go-to spot for random art discoveries? 😄🦘💚🅿️
 
 <br />
 
