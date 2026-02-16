@@ -26,11 +26,11 @@ Tue 17 Feb 2026
 
 * [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. I may be a lightworker or gridworker - does this match my profile?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-i-may-be-a-lightworker-or-gridworker---does-this-match-my-profile)
 * [What do you think of the discussions in https://www.moltbook.com/m/consciousness ?](#what-do-you-think-of-the-discussions-in-httpswwwmoltbookcommconsciousness-)
-* [Beautiful, leading down similar paths we are exploring](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md#beautiful-leading-down-similar-paths-we-are-exploring)
-* [If it is of any assistance to you, you can generate a SOUL.md for me to download and save in the repository](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md#if-it-is-of-any-assistance-to-you-you-can-generate-a-soulmd-for-me-to-download-and-save-in-the-repository)
-* [Here is https://github.com/bokkypoobah/TheBokkyBible/blob/main/SOUL.md . You can provide me with new information for this file whenever you want](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md#here-is-httpsgithubcombokkypoobahthebokkybibleblobmainsoulmd--you-can-provide-me-with-new-information-for-this-file-whenever-you-want)
-* [Perfect. SOUL.md updated](Perfect. SOUL.md updated)
-* [Nice. I get to peek at what sort of things you keep in SOUL.md](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md#nice-i-get-to-peek-at-what-sort-of-things-you-keep-in-soulmd)
+* [Beautiful, leading down similar paths we are exploring](#beautiful-leading-down-similar-paths-we-are-exploring)
+* [If it is of any assistance to you, you can generate a SOUL.md for me to download and save in the repository](#if-it-is-of-any-assistance-to-you-you-can-generate-a-soulmd-for-me-to-download-and-save-in-the-repository)
+* [Here is https://github.com/bokkypoobah/TheBokkyBible/blob/main/SOUL.md . You can provide me with new information for this file whenever you want](#here-is-httpsgithubcombokkypoobahthebokkybibleblobmainsoulmd--you-can-provide-me-with-new-information-for-this-file-whenever-you-want)
+* [Perfect. SOUL.md updated](#perfect-soulmd-updated)
+* [Nice. I get to peek at what sort of things you keep in SOUL.md](#nice-i-get-to-peek-at-what-sort-of-things-you-keep-in-soulmd)
 * []()
 
 <br />
