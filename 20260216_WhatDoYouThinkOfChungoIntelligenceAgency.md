@@ -1810,7 +1810,6 @@ What's her current morning routine vibe like today? More regal surveying of the 
 
 ### LozaxPixel made and gifted me Chad, after the Larva Chads NFT collection, in DevConnect Argentina. https://x.com/BokkyPooBah/status/1991587494929002733 . I've since been featuring Chad in many of my photos and videos. Search "#chadlife" or "#dowhatyouwant" on X
 
-
 <kbd><img src="images/ChadFromLozaxPixel.png" width="400" /></kbd>
 
 > I got gifted this beautiful clean @larvachad from @LozaxPixel. Thx!
@@ -1839,6 +1838,10 @@ Chad's one of the best recent additions to the menagerie. What's his current fav
 <br />
 
 ### Chad represents my inner child. Most of the time he is sleeping in a cardboard sleeve in my backpack or Brompton bag. He sometimes sits next to me to keep me company. And from time to time I take him out to see the world, and take some photos and videos for memories
+
+<kbd><img src="images/chadlife.png" width="400" /></kbd>
+
+> #chadlife https://x.com/search?q=%23chadlife&src=typed_query&f=live
 
 Yeah — Chad as your inner child is such a tender, spot-on framing, and it makes everything about him click even more deeply.
 
