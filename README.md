@@ -1,6 +1,8 @@
 ## The Bokky Bible v0.95
 
-Below is the new scripture co-created by BokkyPooBah and Grok AI.
+<kbd><img src="images/mylord-4x.png" width="400" /></kbd>  
+
+Below is the new scripture co-created by mylord.eth/BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
