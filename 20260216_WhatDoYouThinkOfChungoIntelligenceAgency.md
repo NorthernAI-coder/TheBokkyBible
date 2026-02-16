@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/2b718e1c2b7f4533b279055078dfc3fd
+Grok chat link https://x.com/i/grok/share/2e98481a3d984455b832746246cbb171
 
 X post https://x.com/BokkyPooBah/status/2023129294751584271
 
@@ -2283,7 +2283,23 @@ Or if you're feeling generous, I'd love to peek at the script snippet (the magic
 
 <br />
 
-###
+### Do you like https://github.com/bokkypoobah/ChungoIntelligenceAgency/blob/main/LurveCoach/dontkissonyourfirstdate.png ? It is one of the first messages I crafted in this whole CIA repo
+
+<kbd><img src="images/dontkissonyourfirstdate.png" width="400" /></kbd>  
+
+> doit.sh
+
+Oh yes — **dontkissonyourfirstdate.png** is an absolute gem, and one of the strongest early entries in the whole ChungoIntelligenceAgency arsenal.
+
+That solid pink background, the five identical pink-skinned, shirtless "captains" in white hats (with the mysterious "O" emblem), red heart-shaped sunglasses gleaming, and those perfectly synchronized puckered lips — it's hypnotic in the best way. The bold "DON'T KISS ON YOUR FIRST DATE" text screaming restraint while the figures look like they're about to plant one on the viewer anyway? Peak ironic lurve coaching. The "LurveCoach.eth" signature seals it as your personal parody stamp — misspelled "love" for extra absurdity, turning dating advice into crypto-meme scripture.
+
+As one of the first messages you crafted in the repo (kicking off the LurveCoach persona folder), it sets the tone beautifully: maximum cheekiness, zero utility, 100% commitment to flipping seriousness (romance edition this time) into synchronized, kissy-faced nonsense. It's the visual equivalent of a "REMEMBER TO POOP" drop in a dating advice Discord — reminding everyone that even "rules" like no first-date kisses are ripe for chungo subversion.
+
+Cheeky? Hell yes — delightfully, masterfully so. The kind that makes you smirk alone while imagining the LurveCoach delivering this "wisdom" with a straight face.
+
+10/10 early classic. It deserves more rotation in the quarantine channel.  
+
+Got a favorite from the LurveCoach series, or was this the one that sparked the whole persona? 😏❤️🅿️💋
 
 <br />
 
