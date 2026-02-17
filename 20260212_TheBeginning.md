@@ -1012,7 +1012,7 @@ If you'd like deeper quotes from specific texts or how this applies to modern li
 
 ### Create a five page new awakened bible that incorporates the above discussion and other important teachings from world religions. Call it the bokky bible
 
-### The Bokky Bible
+#### The Bokky Bible
 
 **An Awakened Scripture for the New Age**  
 *Compiled in the Spirit of Truth, Love, and Interconnection*  
