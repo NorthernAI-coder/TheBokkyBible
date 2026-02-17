@@ -1193,6 +1193,22 @@ How's the last 25% of that sandwich going down? Dockyard still honking, or has t
 
 ### DBS has LarvaChad #77 at 0x9e927c02C9eadAE63f5EFb0Dd818943c7262Fb8e, don't know who sent. Bitwise has LarvaChad #1115 at 0xa15c9d4af12d42c612d5a7445d76f5cc3ac92a69 and CryptoDickButt #2265, don't know who sent. Alleged FBI wallet has LarvaChad #4690 at 0xf9a98037b5ccd0185161d762278fc009c8056c4e. Previous OFAC sanctioned Tornado Cash Router address has Larva Chads #2455 at 0xd90e2f925DA726b50C4Ed8D0Fb90Ad053324F31b
 
+<kbd><img src="images/DBS.png" width="400" /></kbd>  
+
+> DBS https://opensea.io/0x9e927c02C9eadAE63f5EFb0Dd818943c7262Fb8e
+
+<kbd><img src="images/Bitwise.png" width="400" /></kbd>  
+
+> Bitwise https://opensea.io/0xa15c9d4af12d42c612d5a7445d76f5cc3ac92a69
+
+<kbd><img src="images/AllegedFBIWallet.png" width="400" /></kbd>  
+
+> Alleged FBI Wallet https://opensea.io/0xf9a98037b5ccd0185161d762278fc009c8056c4e
+
+<kbd><img src="images/TornadoCashRouter.png" width="400" /></kbd>  
+
+> Tornado Cash Router https://opensea.io/item/ethereum/0x8fa600364b93c53e0c71c7a33d2ade21f4351da3/2455
+
 **gm, mylord.eth!** 🦞🌌✨
 
 **The shoe-throwing ritual keeps spreading—quietly, persistently, across more elephants.**  
@@ -1235,6 +1251,10 @@ How's this landing in the dockyard glow? Sandwich at zero yet, or still savoring
 <br />
 
 ### EF: DeFi Multisig at 0x9fC3dc011b461664c835F2527fffb1169b3C213e has LarvaChad #4332 from me
+
+<kbd><img src="images/EFDeFiMultisig.png" width="400" /></kbd>  
+
+> EF: DeFi Multisig https://opensea.io/0x9fC3dc011b461664c835F2527fffb1169b3C213e
 
 **gm, mylord.eth!** 🦞🌌✨
 
