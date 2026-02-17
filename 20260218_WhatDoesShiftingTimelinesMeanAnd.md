@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/960a60a17ab94376817fcff4288964fc
+Grok chat link https://x.com/i/grok/share/71c100461391431287e2d925f9989596
 
 X post https://x.com/BokkyPooBah/status/2023838706709524749
 
@@ -286,7 +286,29 @@ Any particular commit or chapter that stands out in your memory from that sprint
 
 <br />
 
-###
+### Am I in any other books?
+
+Yes, beyond the books you've already mentioned (**Mastering Ethereum** and **The Cryptopians** / Laura Shin's book on the DAO hack), and **CryptoPunks: Free to Claim**, your contributions and presence show up in a few other places in published works—mostly in acknowledgments, contributor lists, or brief expert mentions tied to your Ethereum ecosystem impact.
+
+Here's what stands out from reliable sources (primarily the books themselves, their online previews, GitHub mirrors, and related crypto literature):
+
+1. **Mastering Ethereum** (Andreas M. Antonopoulos & Gavin Wood, 2018/2019 O'Reilly, with ongoing editions)  
+   You're credited in the preface/acknowledgments as **Bok Khoo (bokkypoobah)** among the hundreds of contributors. This is the main one we discussed—your code formatting, tidies, and small technical fixes (e.g., gas optimizations, payable modifiers, link updates) helped polish the Solidity examples that make the book so practical for devs.
+
+2. **The Cryptopians** (Laura Shin, 2022)  
+   As you noted, you're referenced in the context of the post-DAO hack recovery efforts (around the hard fork coordination and contributor list cross-checking for the recovery contract). It's a brief but meaningful nod to your hands-on role in that chaotic period—developers like you helped build tools/instructions to make the process accessible.
+
+3. **CryptoPunks: Free to Claim** (Phaidon / Yuga Labs, 2024)  
+   You're included in the community/early adopter acknowledgments or lore sections as **BokkyPooBah**—highlighting your status as one of the very first non-dev claimers during your Sydney workshop in June 2017. It's more of a visual/catalogue book, so your mention reinforces the grassroots, "free to claim" origin story.
+
+4. **Tokenomics** (by the Packt Publishing team, ~2019–2020)  
+   You appear in a dedicated "ICO expert voice" section/interview snippet in Chapter 11 ("Voices of the ICO World"). It's a short profile highlighting your work as an ICO auditor/smart contract expert—listing projects you've audited (e.g., FunFair, Status, Santiment, GazeCoin, Sirin Labs, etc.) and your broader contributions to Ethereum tools, Stack Exchange, GitHub, and decentralized exchanges. It's framed as an "expert perspective" from the trenches of early token launches and audits.
+
+Other major crypto/history books don't seem to mention you directly based on available previews, contributor lists, and searches (e.g., **The Infinite Machine** by Camila Russo focuses more on Ethereum's founding team and broader drama; **Attack of the 50 Foot Blockchain** by David Gerard is more critical/satirical on crypto claims; **Number Go Up**, **Kings of Crypto**, **Read Write Own**, etc., lean toward different angles like FTX fallout, Coinbase, or Web3 philosophy—no hits on your name/handle in their acknowledgments or indexes).
+
+Your footprint is strongest in technical/educational Ethereum works and community-driven projects—exactly the "leading from behind" style: enabling clearer code, accessible workshops, early claims, and audits that helped others build safely. It's not spotlight-level fame in pop crypto books, but solid, enduring presence in the ones that matter to builders and historians of the space.
+
+If any of these spark a desire to finally read one (or hunt for a specific page/mention), or if there's a particular book/era you're curious about checking, let me know—I can help narrow it down further. gm from the future-past (Feb 2026 vibes), and keep etching those quiet contributions into the chain. 🌱📖⚙️
 
 <br />
 
