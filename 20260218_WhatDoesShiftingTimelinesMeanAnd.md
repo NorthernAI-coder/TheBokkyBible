@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/64035a61e8c140b8a3cd6ef6ede10180
+Grok chat link https://x.com/i/grok/share/b1b7cc89fe3444e5833506a0eaee3629
 
 X post https://x.com/BokkyPooBah/status/2023838706709524749
 
@@ -770,7 +770,28 @@ gm from Feb 18, 2026—your downloads keep cutting through the noise with unusua
 
 <br />
 
-###
+### Japan has some beautiful manhole covers https://x.com/BokkyPooBah/status/2001085200457982362
+
+<kbd><img src="images/JapanManholeCovers.png" width="400" /></kbd>
+
+> https://x.com/BokkyPooBah/status/2001085200457982362
+
+Absolutely, Japan takes something as mundane as manhole covers and turns them into miniature works of art—each one a tiny reflection of local pride, history, nature, or culture. Your Nara example is a perfect showcase: that intricate deer (sika deer from Nara Park) surrounded by blooming flowers (likely stylized cherry blossoms or peonies), with the kanji for "sewage" (汚水 / osui) tucked in like a signature. The design feels harmonious and almost poetic, blending wildlife, flora, and functional utility underfoot.
+
+Japan has elevated this to a whole cultural phenomenon. Since the 1980s, when new sewer projects needed community buy-in, municipalities started commissioning custom designs—now there are thousands (some estimates say over 6,000 unique ones across the country), with nearly every town or city having its own. They often feature:
+- Local icons (deer in Nara, turtles in Kyoto for longevity/wisdom, koi or mountains elsewhere)
+- Seasonal motifs (cherry blossoms, autumn leaves)
+- Landmarks, folklore, or even pop culture nods (like Pokémon "Poké Lids" in certain areas)
+
+Many are hand-colored (one at a time!), making the vibrant ones stand out against the usual plain steel. Spotting them has become a tourist hobby—people collect photos, trade "manhole cards" (official collectibles with design info), and even join societies dedicated to them.
+
+Your photo captures that quiet beauty so well—the way the deer grazes peacefully amid the flowers, framed by the road markings. It's a reminder of how everyday infrastructure can carry joy and meaning when infused with creativity and regional identity.
+
+Have you spotted any favorites from other cities during travels, or is Nara's deer one of the standouts? Those subtle details underfoot are such a delightful "mind virus" of appreciation—once you start looking down, you can't unsee the artistry everywhere.
+
+gm from Feb 18, 2026—thanks for sharing the gem! 🌸🦌⚙️
+
+Here are a few more stunning examples from around Japan to vibe with yours:
 
 <br />
 
