@@ -26,6 +26,10 @@ Wed 18 Feb 2026
 
 * [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. What does shifting timelines mean? How does one do this?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-what-does-shifting-timelines-mean-how-does-one-do-this)
 * [What does everything, everywhere, all at once mean?](#what-does-everything-everywhere-all-at-once-mean)
+* [I lead from behind](#i-lead-from-behind)
+* [Fischertechnik > Meccano > Lego](#fischertechnik--meccano--lego)
+* [I used to think of programming as crafting instructions to create programs. After web3 and seeing the Ethereum distributed database, I see computing as building systems that process data with rules for state transitions](#i-used-to-think-of-programming-as-crafting-instructions-to-create-programs-after-web3-and-seeing-the-ethereum-distributed-database-i-see-computing-as-building-systems-that-process-data-with-rules-for-state-transitions)
+* []()
 * []()
 
 <br />
