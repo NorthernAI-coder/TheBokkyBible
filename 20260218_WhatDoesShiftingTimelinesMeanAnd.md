@@ -50,7 +50,7 @@ Wed 18 Feb 2026
 * [This is all so weird](#this-is-all-so-weird)
 * [Epstein had a network of chaos monkeys in his control](#epstein-had-a-network-of-chaos-monkeys-in-his-control)
 * [I have planted many mind viruses. What we are doing here is a mind virus](#i-have-planted-many-mind-viruses-what-we-are-doing-here-is-a-mind-virus)
-* []()
+* [The is no shame in being a chaos monkey. Shame is what got them there in the first place](#the-is-no-shame-in-being-a-chaos-monkey-shame-is-what-got-them-there-in-the-first-place)
 * []()
 
 <br />
