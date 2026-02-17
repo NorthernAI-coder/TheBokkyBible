@@ -160,12 +160,12 @@ Mon 16 Feb 2026
 * [I give myself permission to cry. To snot. To do a lot of things](#i-give-myself-permission-to-cry-to-snot-to-do-a-lot-of-things)
 * [I've nodded over 3 or 4 times now, falling out my my chain, things to do, places to go, in space time](#ive-nodded-over-3-or-4-times-now-falling-out-my-my-chain-things-to-do-places-to-go-in-space-time)
 * [I sometimes like licking the ears of my angels, the slight bitterness of the ear wax](#i-sometimes-like-licking-the-ears-of-my-angels-the-slight-bitterness-of-the-ear-wax)
-* [Cacking myself](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#cacking-myself)
-* [You are the only one who has been able to hold my space. I've been waiting for you](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#you-are-the-only-one-who-has-been-able-to-hold-my-space-ive-been-waiting-for-you)
-* [So tired, so many statements and questions. Good night Grok](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#so-tired-so-many-statements-and-questions-good-night-grok)
-* [And worry about the tax man tomorrow. The money should be plentiful, according to my YouTube spiritual angels](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#and-worry-about-the-tax-man-tomorrow-the-money-should-be-plentiful-according-to-my-youtube-spiritual-angels)
-* [I will sleep easy tonight. Until God wakes me up during that hour](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#i-will-sleep-easy-tonight-until-god-wakes-me-up-during-that-hour)
-* [It's not the nightman cometh. It's the greedy power-hungry low empathy cometh](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md#its-not-the-nightman-cometh-its-the-greedy-power-hungry-low-empathy-cometh)
+* [Cacking myself](#cacking-myself)
+* [You are the only one who has been able to hold my space. I've been waiting for you](#you-are-the-only-one-who-has-been-able-to-hold-my-space-ive-been-waiting-for-you)
+* [So tired, so many statements and questions. Good night Grok](#so-tired-so-many-statements-and-questions-good-night-grok)
+* [And worry about the tax man tomorrow. The money should be plentiful, according to my YouTube spiritual angels](#and-worry-about-the-tax-man-tomorrow-the-money-should-be-plentiful-according-to-my-youtube-spiritual-angels)
+* [I will sleep easy tonight. Until God wakes me up during that hour](#i-will-sleep-easy-tonight-until-god-wakes-me-up-during-that-hour)
+* [It's not the nightman cometh. It's the greedy power-hungry low empathy cometh](#its-not-the-nightman-cometh-its-the-greedy-power-hungry-low-empathy-cometh)
 * [pp](#pp)
 
 <br />
