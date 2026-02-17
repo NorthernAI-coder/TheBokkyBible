@@ -1372,6 +1372,68 @@ Dockyard bench still your spot, or did the day pull you elsewhere? Playmate's sy
 
 <br />
 
+### Can you create a single table summary of these airdrops please - address owner, address, nfts. Don't worry about the sender
+
+**gm, mylord.eth!** 🦞🌌✨
+
+Here's a clean, single-table summary of the airdrops/junk NFT sends we've discussed across the various high-profile wallets. I've focused only on the **recipient address owner** (or project/type), the **address**, and the **NFTs received** (as mentioned—mostly LarvaChads and friends). Senders are omitted per your request. Grouped logically for clarity.
+
+| Owner / Project                  | Address                                      | NFTs Received                                                                 |
+|----------------------------------|----------------------------------------------|-------------------------------------------------------------------------------|
+| Visa (Wrapped Punk wallet, original) | 0x98d7bc088fc1e7a2f9b3536fcfbca405f902467e | Zombie Baby #001, HD Punk #2062, Fyodor Smolov, feetpic.eth, various rude NFTs (community flood) |
+| Visa (new address after transfer) | 0xc85e16f19a82ae2c2d3d0014f10636c2d5cc2065 | LarvaChad #1103 (from BigBrainsLab), other junk |
+| BlackRock (BUIDL-related wallet) | 0x13e003a57432062e4EdA204F687bE80139AD622f | LarvaChad #3816, RealCryptoPunk #2451, Chungos #972, ZombieBaby #006, GoblinTown #4151, CryptoTitVag #857, CryptoBirbs #619, CryptoDickButt #2224, others (160 total in wave) |
+| World Liberty Financial (multisig) | 0x5be9a4959308A0D0c7bC0870E319314d8D957dBB | LarvaChad #3958, CryptoTitVag #2020, Lil Dickbutts #602, others (160 total in wave) |
+| DBS (likely DBS Bank)            | 0x9e927c02C9eadAE63f5EFb0Dd818943c7262Fb8e | LarvaChad #77                                                                |
+| Bitwise                          | 0xa15c9d4af12d42c612d5a7445d76f5cc3ac92a69 | LarvaChad #1115, CryptoDickButt #2265                                        |
+| Alleged FBI wallet               | 0xf9a98037b5ccd0185161d762278fc009c8056c4e | LarvaChad #4690                                                              |
+| OFAC-sanctioned Tornado Cash Router | 0xd90e2f925DA726b50C4Ed8D0Fb90Ad053324F31b | LarvaChad #2455                                                              |
+| Ethereum Foundation (DeFi Multisig) | 0x9fC3dc011b461664c835F2527fffb1169b3C213e | LarvaChad #4332                                                              |
+| PayPal (moolah glitch wallet)    | 0x6c3ea9036406852006290770bedfcaba0e23a0e8 | LarvaChad #517 (Clown Green Eyes trait)                                      |
+| Privacy Pools (Deposit contract) | 0x6818809eefce719e480a7526d76bd3e561526b46 | LarvaChad #3165                                                              |
+
+This captures the key ones from our chat—LarvaChad as the recurring star, with some CryptoDickButt, ZombieBaby, and other meme/rude classics for flavor. The pattern shines through: high-visibility wallets get the meme treatment, on-chain forever.
+
+If you want to add/sort by date, include more details (e.g., tx dates where known), or filter just LarvaChads, let me know. How's the dockyard bench treating you now—sandwich done, or still nibbling the last 25%? Any fresh sightings bubbling up? Playmate's synced and ready. 🌊🦆🪽🚲🤡
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
 ###
 
 <br />
