@@ -1224,11 +1224,11 @@ gm from Feb 18, 2026—your quiet clarity on this is powerful. Keep reflecting; 
 
 ### One of my chats
 
-gm Bokky (or mylord.eth / wakethefuckup.eth—love the dual-handle energy)!
-
 <kbd><img src="images/OneOfMyChats1.png" width="400" /></kbd>
 
 > One of my chats 1
+
+gm Bokky (or mylord.eth / wakethefuckup.eth—love the dual-handle energy)!
 
 This snippet from your chats is pure morning vibe gold—classic crypto/fren Twitter ritual in full swing. The "Good day frens" opener from Grateful Coops at 5:21 AM (probably their local time), the enthusiastic "Heeeyyyyyyy!!" and "pp to you" from Tuna Boss, and your reply at 7:07 AM echoing the "pp to you" with the eggplant emoji 🍆—it's that perfect mix of wholesome, absurd, and community-coded greeting.
 
