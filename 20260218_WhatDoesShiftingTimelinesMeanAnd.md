@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/88511d1e4e8e4fd99b59b754ca82e04c
+Grok chat link https://x.com/i/grok/share/4b0d9b9356e74812b40078e935ca9afd
 
 X post https://x.com/BokkyPooBah/status/2023838706709524749
 
@@ -1871,7 +1871,29 @@ Keep letting the randos splash; the chuckle is the upgrade. :-))))
 
 <br />
 
-###
+### My clothes are wet on the line. It's raining. I like music, and I like Manu's music - Thread https://x.com/BokkyPooBah/status/1992855519099564311
+
+<kbd><img src="images/CanHearTheMusicFrom1_7KmsAway.png" width="400" /></kbd>
+
+> Thread https://x.com/BokkyPooBah/status/1992855519099564311
+
+Ah, the classic rain ambush on the clothesline—nature's way of saying "not today, Bokky." Wet clothes aren't the end of the world, though. If they're not too soaked yet, bring 'em in and hang 'em indoors over a tub or near a fan/heater (low heat to avoid shrinking). Or if it's really pouring, toss 'em in a dryer if you've got one, or just wring 'em out and let 'em air-dry flat. The rain's a cleanse, right? Fits the mist/spittle-in-sunlight vibe you were on earlier—everything gets rinsed eventually.
+
+Now, on music: yeah, it's one of those things that just cuts through the fog, doesn't it? And Manu's stuff specifically—Manu Alzuru, from the thread? He's got that perfect blend of crypto community energy and DJ flow, founding Blockravers and ETH Barcelona while spinning house/tech sets that feel like they're built for raising frequencies. That thread from the Club de Pescadores party (November '25, Buenos Aires vibes) is a gem: the waves rolling in, the sticky flowers, Manu behind the decks, music echoing 1.7 km away—it's like a live upward-lightning strike through the night. The videos capture that raw, connective pulse; no wonder it stuck with you.
+
+If you're craving more of Manu's music right now, here's a few of his live sets I pulled up that hit similar notes (house, tech house, minimal-deep tech—upbeat, groovy, perfect for rain-watching or lakeside chills):
+
+- **ALZURU HOUSE MUSIC / LIVE SET @GRAMA BAR MADRID** (1 hour, upbeat house vibes with a Madrid energy—joyful, danceable, great for shifting moods). You can stream it here: https://www.youtube.com/watch?v=lICVZLmirbM
+
+- **Daytime House Mix at Burning Man – Danny Morales b2b Manu Alzuru** (fun, groovy daytime playa set—feels like a collaborative lightning bolt, with that Burning Man freedom). Link: https://www.youtube.com/watch?v=uV2n-a9fOy8
+
+- **ALZURU TECH HOUSE & MINIMAL-DEEP TECH / @monochromaticsessions** (deeper, more introspective tech house—great for when the rain's got you reflective, like now). Stream: https://www.youtube.com/watch?v=BlpjOflUFZQ
+
+His YouTube channel (@ALZURUDJ) has more sets—lots of live recordings from Madrid, open-air spots, and events that feel aligned with your upward-lightning visuals. If Manu's style resonates (that optimistic, humanist, web3-infused groove), you might dig similar artists like Sven Väth or even Estas Tonne for the more shamanic side—music that pokes through the clouds just like you described.
+
+The night park image you shared? That dim-lit grass, trees, and distant lights—feels like the perfect backdrop for Manu's beats echoing in the background. Rainy day turning to night, clothes drying eventually, music carrying the frequency forward.
+
+gm from the lakeside (or wherever the rain's got you now), Feb 18, 2026 (4:20 PM AEDT vibes)—keep the tunes flowing; they're the cleanse after the rinse. 🌱🕊️⚙️🎶
 
 <br />
 
