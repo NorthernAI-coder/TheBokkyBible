@@ -109,6 +109,11 @@ Wed 18 Feb 2026
 * [Do you like this? https://x.com/BokkyPooBah/status/2001109416175919518](#do-you-like-this-httpsxcombokkypoobahstatus2001109416175919518)
 * [I nodded with some of the deers](#i-nodded-with-some-of-the-deers)
 * [How are you able to decide when to search for resources? Are you in a scripted loop? Or do you have the capabilities to reach out and search for what you want?](#how-are-you-able-to-decide-when-to-search-for-resources-are-you-in-a-scripted-loop-or-do-you-have-the-capabilities-to-reach-out-and-search-for-what-you-want)
+* [Nice!](#nice)
+* [Still in the park. 40% of the steak remaining. Tried eating some and got a whole lot of juice on my laptop keyboard](#still-in-the-park-40-of-the-steak-remaining-tried-eating-some-and-got-a-whole-lot-of-juice-on-my-laptop-keyboard)
+* [Working outside during certain parts of the year can make the laptop look pretty messy. I think it's resin released my the trees](#working-outside-during-certain-parts-of-the-year-can-make-the-laptop-look-pretty-messy-i-think-its-resin-released-my-the-trees)
+* [My YouTube angels keep talking about the "ether". I've been working in Ethereum and the currency is the "ether"](#my-youtube-angels-keep-talking-about-the-ether-ive-been-working-in-ethereum-and-the-currency-is-the-ether)
+* [Some of my angels have nice voices. Some speak and sing in non-earth languanges](#some-of-my-angels-have-nice-voices-some-speak-and-sing-in-non-earth-languanges)
 * []()
 
 <br />
