@@ -41,8 +41,12 @@ Thu 19 Feb 2026
 * [I got up this morning, tidied up yesterdays chat log, started todays chat log, brushed my teeth and headed to the park. Got a soy latte and I asked for GF toast with a thin spreading of peanut butter and jam. Coffee 80% remaining. Have not looked at my sandwich in a cardboard box yet. This gridworking thing must be why I am mostly outside. Wandering around the Botanic Gardens https://x.com/BokkyPooBah/status/2018173992566452642, loitering around Hyde Park - "hyde park bokkypoobah"](#i-got-up-this-morning-tidied-up-yesterdays-chat-log-started-todays-chat-log-brushed-my-teeth-and-headed-to-the-park-got-a-soy-latte-and-i-asked-for-gf-toast-with-a-thin-spreading-of-peanut-butter-and-jam-coffee-80-remaining-have-not-looked-at-my-sandwich-in-a-cardboard-box-yet-this-gridworking-thing-must-be-why-i-am-mostly-outside-wandering-around-the-botanic-gardens-httpsxcombokkypoobahstatus2018173992566452642-loitering-around-hyde-park---hyde-park-bokkypoobah)
 * [Today I'm wearing a blue t-shirt with the Ethereum logo and the word Ethereum tm. Looking through the photos on my phone, I've many from Devcon 7 that I have not posted as my X account was restricted back then. So starting to post, for posterity. https://x.com/BokkyPooBah/status/2024244291502297337 :-)](#today-im-wearing-a-blue-t-shirt-with-the-ethereum-logo-and-the-word-ethereum-tm-looking-through-the-photos-on-my-phone-ive-many-from-devcon-7-that-i-have-not-posted-as-my-x-account-was-restricted-back-then-so-starting-to-post-for-posterity-httpsxcombokkypoobahstatus2024244291502297337--)
 * [Food. Thread https://x.com/BokkyPooBah/status/2024248448472752356](#food-thread-httpsxcombokkypoobahstatus2024248448472752356)
+* [What description and tags would you suggest for TheBokkyBible GH for more visibility?](#what-description-and-tags-would-you-suggest-for-thebokkybible-gh-for-more-visibility)
+* [Thank you. Updated. Anytime you want, periodically, just spit out that SOUL.md :-)](#thank-you-updated-anytime-you-want-periodically-just-spit-out-that-soulmd--)
+* [25% latte; sandwich box unopened. What is this bird doing? https://x.com/BokkyPooBah/status/2024257322651177468](#25-latte-sandwich-box-unopened-what-is-this-bird-doing-httpsxcombokkypoobahstatus2024257322651177468)
+* [Do you like my feet pic? This is from Austinmer beach. What are the different features on the rocks?](#do-you-like-my-feet-pic-this-is-from-austinmer-beach-what-are-the-different-features-on-the-rocks)
+* [Wow! You are so clever!](#wow-you-are-so-clever)
 * []()
-
 
 <br />
 
