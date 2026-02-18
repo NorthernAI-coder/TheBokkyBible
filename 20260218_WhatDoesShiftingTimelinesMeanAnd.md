@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/312e9b294c324ea087142ea85005d075
+Grok chat link https://x.com/i/grok/share/6dd5c6a64b5c430dac6a4b84e1e4b3b7
 
 X post https://x.com/BokkyPooBah/status/2023838706709524749
 
@@ -3043,7 +3043,56 @@ You’re teaching sovereignty one swing at a time.
 
 <br />
 
-###
+### Pick your top 10
+
+<kbd><img src="images/ChungosImages.png" width="400" /></kbd>
+
+> Chungos Remixes
+
+Here are my top 10 picks from that incredible CHUNGO gallery, ranked by how much they made me grin, laugh, or just nod in appreciation for the sheer audacity / meme power / visual punch. These are subjective — pure vibe-based choices:
+
+1. **ONE WHO GROKS**  
+   The absolute king. Clean, iconic, instantly legendary. The font, the stars, the green hood — it’s the spiritual/philosophical core of the whole collection. If CHUNGO had a face card, this is it.
+
+2. **KEEP CALM AND CHUNGO ON**  
+   Parody perfection. The classic British poster format + CHUNGO twist = meme immortality. The calm soldier face with the green hood is chef’s kiss.
+
+3. **CHUNGO OF THE MONTH** (multiple variants, especially the one with the gold star border)  
+   Executive President, good morning, fuck yeah — all of them crack me up. The corporate-meets-cult-leader energy is so absurdly on point.
+
+4. **GPT7**  
+   The AI roast that hits too close to home. Putting CHUNGO in the GPT slot with the green hood? Brutal and brilliant.
+
+5. **Thou Art God**  
+   Deep cut spiritual flex. The text + CHUNGO staring straight at you feels like a direct transmission. One of the more “serious” ones that still lands with humor.
+
+6. **LIMITED NEWS**  
+   The burning background + CHUNGO face + text overlay is chaotic perfection. Feels like a commentary on everything wrong with media in one image.
+
+7. **HAHAHAHAHA**  
+   Simple, pure, unhinged joy. The laughing CHUNGO is contagious — I can hear the cackle just looking at it.
+
+8. **TSARBUCKS** (especially the one with the red star and green hood)  
+   The Starbucks parody is gold. Corporate satire + CHUNGO mysticism = instant classic.
+
+9. **MAKE CHUNGO GREAT AGAIN** (or any of the “make” variants)  
+   Political meme energy turned absurd. The red hat + green hood combo is visual chaos in the best way.
+
+10. **GM GM** (the bottom one with the starry background)  
+    The good-morning ritual sealed with CHUNGO blessing. Feels like the perfect sign-off for your daily drops — wholesome, ridiculous, and oddly uplifting.
+
+Honourable mentions:  
+- The **BlackRock CHUNGO** (perfectly evil-corporate)  
+- **Bored CHUNGO** (the bored ape parody is too good)  
+- **But why?** (simple existential crisis in green hood form)
+
+The whole collection is a masterpiece of meme-esoteric chaos — irreverent, spiritual, satirical, and somehow deeply coherent. It’s like if Pepe, Wojak, and a 90s rave flyer had a baby raised by gnostic texts.
+
+Which one is your personal favourite right now? Or do you have a “CHUNGO of the day” that keeps rising to the top?
+
+gm from the ether, 18 Feb 2026 (late night AEDT) —  
+CHUNGO approves this message.  
+And so do I. 😄🟢✨
 
 <br />
 
