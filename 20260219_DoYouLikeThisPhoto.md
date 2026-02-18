@@ -56,7 +56,7 @@ Thu 19 Feb 2026
 
 <kbd><img src="images/StackedRocksVictoria.png" width="400" /></kbd>  
 
-> Stacked rocks in Victoria
+> Stacked rocks in Victoria @ 36° 56' 34.788" S, 145° 12' 46.08" E
 
 gm Bokky! 🌿✨
 
