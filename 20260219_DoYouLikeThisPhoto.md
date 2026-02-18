@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/c67ffeb9eb214bf48a58cec70c91cb48
+Grok chat link https://x.com/i/grok/share/ae00790032954871a49bdf413a27c431
 
 X post https://x.com/BokkyPooBah/status/2023838706709524749
 
@@ -85,11 +85,41 @@ Have you got a copy of the book yourself, or seen it in the flesh at the AOC? If
 
 <br />
 
-###
+### Here's a group photo of the LR 2025 dig team. Elizabeth Smith is on the right. I'm 3rd from the left
+
+<kbd><img src="images/LightningRidgeDig2025.png" width="400" /></kbd>
+
+> Lightning Ridge Dig 2025
+
+gm Bokky! 🌞🦖
+
+Epic crew shot—thanks for sharing the Lightning Ridge 2025 dig team photo! That dusty, sun-baked site under those classic outback trees, everyone geared up in hi-vis, hats, and smiles (or serious fossil-hunter squints), captures the real spirit of these digs: a mix of miners, scientists, volunteers, artists, and enthusiasts all pulling together on Yuwaalaraay Country to chase those one-in-a-million opalised treasures.
+
+You're third from the left—spot you right there in the lineup, looking right at home in the mob. And Elizabeth on the far right, the absolute cornerstone of it all: decades in the field, co-founder vibes with the Australian Opal Centre, author of that stunning *Black Opal Fossils* book we were chatting about, and still out there leading, identifying, and advocating. Seeing her in the group photo next to the rest of the team (Jenni Brammall likely in there too as head of collections/research, Clytie Smith as super-finder and team leader, plus all the other legends) really brings the community aspect alive. These digs aren't just about the finds—they're collaborative magic: public volunteers get to search alongside experts, learn the ropes, and contribute to preserving Australia's deep-time story before the opal fields get reworked.
+
+From what I've seen of recent AOC updates, their annual fossil digs (like the 2025 one you were part of, probably the August week) keep delivering: tiny dino bones, rare mammal bits, more evidence of that "Age of Monotremes" hotspot at Lightning Ridge 100+ Ma ago. Your crew's energy in the photo screams good times in the dirt—buckets, sieves, cold drinks, and that shared thrill when someone calls "found one!"
+
+Any standout moments from the 2025 dig? New finds that got everyone buzzing, funny stories from the site, or pieces that ended up in the AOC collection? And how was it working alongside Elizabeth and the team—did you get to chat fossils or book stuff with her? Loving how you're weaving into this living history, mate. Keep the seeds coming—next one's bound to be another gem. 😎✨
+
+(If you've got more from the dig or want to zoom in on anyone/something specific in the pic, hit me!)
 
 <br />
 
-###
+### @Pablos_innit gave me a number of these empty Chonky Pop: Bacon Flavored Cereal boxes and I have many photos like this - search "bokkypoobah chonky pops"
+
+<kbd><img src="images/ChonkyPopsFish.png" width="400" /></kbd>
+
+> Chonky Pop: Bacon Flavored Cereal with fish
+
+gm Bokky! 🌅🍜
+
+Haha, the Chonky Pops saga continues—love this one! That deep-fried whole fish (looks like a classic Thai-style pla kapong neung manao or similar, stacked high with cashews, basil, chilies, onions, and that glossy sweet-savory sauce) perched proudly in front of the pink Larva Chads box is peak absurdity and perfection. The pixelated chonky bear dude on the box (smoking a cig, mid-"chonky" vibe) staring down at the crispy fish like it's judging the meal—or maybe approving it—adds that extra layer of meme chaos. Bacon-flavored cereal as the unlikely sidekick to a fiery Asian stir-fry? Chef's kiss on the juxtaposition: breakfast cereal meets dinner realness, all in a brick-walled spot that screams cozy Sydney eats.
+
+And yeah, @Pablos_innit hooking you up with a stash of those empty boxes? Legend move. From the trail of your posts, Mr. Chonky Pops has been on quite the world tour: loitering at Petaling Street in KL, posing with Musang King durians, chilling at Batu Caves, night markets, overlooking George's River, heading south to Thirroul, even having a "Chonky Whale Of A Time" in videos. The bacon-flavored cereal box turned traveling mascot/photobomb prop—pure gridworker art. It's like planting seeds of whimsy across beaches, caves, markets, and now restaurant tables. The empty boxes become canvases for these food portraits, turning mundane meals into surreal, shareable moments.
+
+This fish one fits right in—opulent, colorful, a bit over-the-top, just like the rest of the series. Reminds me of how those stacked stones or opalised bones hold quiet power in their settings; here, the Chonky box holds court amid the chaos of cashews and chilies.
+
+Got more from the series queued up, or is this the latest drop? What's the story behind this particular feast—your go-to spot, or a special occasion? And how many boxes left in the stash? Keep the Chonky chronicles rolling, mate—I'm invested now. 😏🥓🦈
 
 <br />
 
