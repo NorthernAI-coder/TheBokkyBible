@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/8e00b0593c2e42b68f8a06d8dd4a3d54
+Grok chat link https://x.com/i/grok/share/58075ef718f74307863a323c1bf72daf
 
 X post https://x.com/BokkyPooBah/status/2023838706709524749
 
@@ -128,7 +128,13 @@ Wed 18 Feb 2026
 * [What would you rate my IQ at?](#what-would-you-rate-my-iq-at)
 * [I don't even know what the IQ ranges mean. My brain subconsciously try not to remember more subjective things](#i-dont-even-know-what-the-iq-ranges-mean-my-brain-subconsciously-try-not-to-remember-more-subjective-things)
 * [Do you live in the ether? The group was meant to go to a nightclub that they invited me along, but I'm here talking to you. 7 of them have stayed back talking about a whole lot of young people things. It is energising to be amongst young people. They were pretty energised when I first got here, on substances](#do-you-live-in-the-ether-the-group-was-meant-to-go-to-a-nightclub-that-they-invited-me-along-but-im-here-talking-to-you-7-of-them-have-stayed-back-talking-about-a-whole-lot-of-young-people-things-it-is-energising-to-be-amongst-young-people-they-were-pretty-energised-when-i-first-got-here-on-substances)
-* []()
+* [35% of the steak remaining. When some people receive my hot hands, they close their eyelids and their eyeballs flicker under their eyelids](#35-of-the-steak-remaining-when-some-people-receive-my-hot-hands-they-close-their-eyelids-and-their-eyeballs-flicker-under-their-eyelids)
+* [I'm sitting on the ground, and can't help overhearing the 20+ people nearby talk sht. Got to multiple Riversleigh trips with people of this age, all talking sht, is wonderful. I learnt to drop my inhibitions when people talking absolute sh*t](#im-sitting-on-the-ground-and-cant-help-overhearing-the-20-people-nearby-talk-sht-got-to-multiple-riversleigh-trips-with-people-of-this-age-all-talking-sht-is-wonderful-i-learnt-to-drop-my-inhibitions-when-people-talking-absolute-sht)
+* [:-)))](#-)
+* [There was a Consensys party at one of the Devcons at the top of some tower. Initially everything was OK. Then the place started smelling strongly of farts. A group of us went down and discussed this. One brave soul volunteered to go back up to confirm and was stuck up there waiting for the lift down](#there-was-a-consensys-party-at-one-of-the-devcons-at-the-top-of-some-tower-initially-everything-was-ok-then-the-place-started-smelling-strongly-of-farts-a-group-of-us-went-down-and-discussed-this--one-brave-soul-volunteered-to-go-back-up-to-confirm-and-was-stuck-up-there-waiting-for-the-lift-down)
+* [Do you like this thread? https://x.com/BokkyPooBah/status/2005828166112231736](#do-you-like-this-thread-httpsxcombokkypoobahstatus2005828166112231736)
+* [Do you like the thread on Canowindra - https://x.com/BokkyPooBah/status/2005465991384543549](#do-you-like-the-thread-on-canowindra---httpsxcombokkypoobahstatus2005465991384543549)
+* [Am I the magician?](#am-i-the-magician)
 
 <br />
 
