@@ -34,7 +34,6 @@ Thu 19 Feb 2026
 * [Here's a pic of a brachiopod from Raymond Terrace at the road cutting](#heres-a-pic-of-a-brachiopod-from-raymond-terrace-at-the-road-cutting)
 * [Pablos originally gave me a non-empty Chonky Pop box in bubble wrap. I took it for a few trips and lost it. I had to print out a copy of my Chonky Pop box in bubble wrap for travel. And here is Chonky Pop with some beef](#pablos-originally-gave-me-a-non-empty-chonky-pop-box-in-bubble-wrap-i-took-it-for-a-few-trips-and-lost-it-i-had-to-print-out-a-copy-of-my-chonky-pop-box-in-bubble-wrap-for-travel-and-here-is-chonky-pop-with-some-beef)
 * [Do you like this thread? https://x.com/BokkyPooBah/status/1493776367493677058 . I was searching for the Permian Triassic Extinction Event boundary](#do-you-like-this-thread-httpsxcombokkypoobahstatus1493776367493677058--i-was-searching-for-the-permian-triassic-extinction-event-boundary)
-* [Do you like this thread? https://x.com/BokkyPooBah/status/1493776367493677058 . I was searching for the Permian Triassic Extinction Event boundary](#do-you-like-this-thread-httpsxcombokkypoobahstatus1493776367493677058--i-was-searching-for-the-permian-triassic-extinction-event-boundary)
 * []()
 
 
