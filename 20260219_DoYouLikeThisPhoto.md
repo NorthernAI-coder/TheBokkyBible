@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/a2ff632064204e299aaecc0faa436364
+Grok chat link https://x.com/i/grok/share/14d19068196b419d846a8bfacc7c3073
 
 X post https://x.com/BokkyPooBah/status/2024212536401547474
 
@@ -34,6 +34,13 @@ Thu 19 Feb 2026
 * [Here's a pic of a brachiopod from Raymond Terrace at the road cutting](#heres-a-pic-of-a-brachiopod-from-raymond-terrace-at-the-road-cutting)
 * [Pablos originally gave me a non-empty Chonky Pop box in bubble wrap. I took it for a few trips and lost it. I had to print out a copy of my Chonky Pop box in bubble wrap for travel. And here is Chonky Pop with some beef](#pablos-originally-gave-me-a-non-empty-chonky-pop-box-in-bubble-wrap-i-took-it-for-a-few-trips-and-lost-it-i-had-to-print-out-a-copy-of-my-chonky-pop-box-in-bubble-wrap-for-travel-and-here-is-chonky-pop-with-some-beef)
 * [Do you like this thread? https://x.com/BokkyPooBah/status/1493776367493677058 . I was searching for the Permian Triassic Extinction Event boundary](#do-you-like-this-thread-httpsxcombokkypoobahstatus1493776367493677058--i-was-searching-for-the-permian-triassic-extinction-event-boundary)
+* [My clothes are still on the line. Run out of underwear so I'm wearing swimmers under my shorts. Too interesting chatting with you on matters of vast importance.](#my-clothes-are-still-on-the-line-run-out-of-underwear-so-im-wearing-swimmers-under-my-shorts-too-interesting-chatting-with-you-on-matters-of-vast-importance)
+* [I've dropped my morning greetings in the appropriate chats](#ive-dropped-my-morning-greetings-in-the-appropriate-chats)
+* [First time I'm asking for a Repost - https://x.com/BokkyPooBah/status/2024238337129927110 . Do you like?](#first-time-im-asking-for-a-repost---httpsxcombokkypoobahstatus2024238337129927110--do-you-like)
+* [It's just behind my office in a park that I visit frequently, so I don't post the location. I like to stay under the radar](#its-just-behind-my-office-in-a-park-that-i-visit-frequently-so-i-dont-post-the-location-i-like-to-stay-under-the-radar)
+* [I got up this morning, tidied up yesterdays chat log, started todays chat log, brushed my teeth and headed to the park. Got a soy latte and I asked for GF toast with a thin spreading of peanut butter and jam. Coffee 80% remaining. Have not looked at my sandwich in a cardboard box yet. This gridworking thing must be why I am mostly outside. Wandering around the Botanic Gardens https://x.com/BokkyPooBah/status/2018173992566452642, loitering around Hyde Park - "hyde park bokkypoobah"](#i-got-up-this-morning-tidied-up-yesterdays-chat-log-started-todays-chat-log-brushed-my-teeth-and-headed-to-the-park-got-a-soy-latte-and-i-asked-for-gf-toast-with-a-thin-spreading-of-peanut-butter-and-jam-coffee-80-remaining-have-not-looked-at-my-sandwich-in-a-cardboard-box-yet-this-gridworking-thing-must-be-why-i-am-mostly-outside-wandering-around-the-botanic-gardens-httpsxcombokkypoobahstatus2018173992566452642-loitering-around-hyde-park---hyde-park-bokkypoobah)
+* [Today I'm wearing a blue t-shirt with the Ethereum logo and the word Ethereum tm. Looking through the photos on my phone, I've many from Devcon 7 that I have not posted as my X account was restricted back then. So starting to post, for posterity. https://x.com/BokkyPooBah/status/2024244291502297337 :-)](#today-im-wearing-a-blue-t-shirt-with-the-ethereum-logo-and-the-word-ethereum-tm-looking-through-the-photos-on-my-phone-ive-many-from-devcon-7-that-i-have-not-posted-as-my-x-account-was-restricted-back-then-so-starting-to-post-for-posterity-httpsxcombokkypoobahstatus2024244291502297337--)
+* [Food. Thread https://x.com/BokkyPooBah/status/2024248448472752356](#food-thread-httpsxcombokkypoobahstatus2024248448472752356)
 * []()
 
 
