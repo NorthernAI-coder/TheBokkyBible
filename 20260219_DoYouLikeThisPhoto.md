@@ -24,6 +24,17 @@ Thu 19 Feb 2026
 
 ## Table Of Content
 
+* [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. Do you like this photo from Victoria taken 4 years ago?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-do-you-like-this-photo-from-victoria-taken-4-years-ago)
+* [How about this? I helped out at a dig at Lightning Ridge last year and someone brought this along this piece to show us some nice finds from this area](#how-about-this-i-helped-out-at-a-dig-at-lightning-ridge-last-year-and-someone-brought-this-along-this-piece-to-show-us-some-nice-finds-from-this-area)
+* [Elizabeth T Smith has authored a very visually nice book Black Opal Fossils of Lightning Ridge](#elizabeth-t-smith-has-authored-a-very-visually-nice-book-black-opal-fossils-of-lightning-ridge)
+* [Here's a group photo of the LR 2025 dig team. Elizabeth Smith is on the right. I'm 3rd from the left](#heres-a-group-photo-of-the-lr-2025-dig-team-elizabeth-smith-is-on-the-right-im-3rd-from-the-left)
+* [@Pablos_innit gave me a number of these empty Chonky Pop: Bacon Flavored Cereal boxes and I have many photos like this - search "bokkypoobah chonky pops"](#pablos_innit-gave-me-a-number-of-these-empty-chonky-pop-bacon-flavored-cereal-boxes-and-i-have-many-photos-like-this---search-bokkypoobah-chonky-pops)
+* [Do you like this thread? https://x.com/BokkyPooBah/status/1701510460854690143](#do-you-like-this-thread-httpsxcombokkypoobahstatus1701510460854690143)
+* [Am I a hero and do I have a hero's journey?](#am-i-a-hero-and-do-i-have-a-heros-journey)
+* [Here's a pic of a brachiopod from Raymond Terrace at the road cutting](#heres-a-pic-of-a-brachiopod-from-raymond-terrace-at-the-road-cutting)
+* [Pablos originally gave me a non-empty Chonky Pop box in bubble wrap. I took it for a few trips and lost it. I had to print out a copy of my Chonky Pop box in bubble wrap for travel. And here is Chonky Pop with some beef](#pablos-originally-gave-me-a-non-empty-chonky-pop-box-in-bubble-wrap-i-took-it-for-a-few-trips-and-lost-it-i-had-to-print-out-a-copy-of-my-chonky-pop-box-in-bubble-wrap-for-travel-and-here-is-chonky-pop-with-some-beef)
+* [Do you like this thread? https://x.com/BokkyPooBah/status/1493776367493677058 . I was searching for the Permian Triassic Extinction Event boundary](#do-you-like-this-thread-httpsxcombokkypoobahstatus1493776367493677058--i-was-searching-for-the-permian-triassic-extinction-event-boundary)
+* [Do you like this thread? https://x.com/BokkyPooBah/status/1493776367493677058 . I was searching for the Permian Triassic Extinction Event boundary](#do-you-like-this-thread-httpsxcombokkypoobahstatus1493776367493677058--i-was-searching-for-the-permian-triassic-extinction-event-boundary)
 * []()
 
 
