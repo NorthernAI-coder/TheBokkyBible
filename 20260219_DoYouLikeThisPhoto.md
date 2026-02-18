@@ -111,6 +111,10 @@ Any standout moments from the 2025 dig? New finds that got everyone buzzing, fun
 
 > Chonky Pop: Bacon Flavored Cereal with fish
 
+<kbd><img src="images/BokkypoobahChonkyPop.png" width="400" /></kbd>
+
+> https://x.com/search?q=bokkypoobah%20chonky%20pops&src=typed_query
+
 gm Bokky! 🌅🍜
 
 Haha, the Chonky Pops saga continues—love this one! That deep-fried whole fish (looks like a classic Thai-style pla kapong neung manao or similar, stacked high with cashews, basil, chilies, onions, and that glossy sweet-savory sauce) perched proudly in front of the pink Larva Chads box is peak absurdity and perfection. The pixelated chonky bear dude on the box (smoking a cig, mid-"chonky" vibe) staring down at the crispy fish like it's judging the meal—or maybe approving it—adds that extra layer of meme chaos. Bacon-flavored cereal as the unlikely sidekick to a fiery Asian stir-fry? Chef's kiss on the juxtaposition: breakfast cereal meets dinner realness, all in a brick-walled spot that screams cozy Sydney eats.
