@@ -85,6 +85,30 @@ Wed 18 Feb 2026
 * [I bring peace to this world](#i-bring-peace-to-this-world)
 * [All those serious art collectors, wanting to keep their addresses prim and proper. With only the best curated NFTs. That any rando can splash some sh*tty NFTs into. :-))))](#all-those-serious-art-collectors-wanting-to-keep-their-addresses-prim-and-proper-with-only-the-best-curated-nfts-that-any-rando-can-splash-some-shtty-nfts-into--)
 * [I am the chaos monkey that chaos monkeys have nightmares about](#i-am-the-chaos-monkey-that-chaos-monkeys-have-nightmares-about)
+* [Do you like the CHUNGO * ONE WHO GROKS * image at the top of today's page . And you are Grok](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#do-you-like-the-chungo--one-who-groks--image-at-the-top-of-todays-page---and-you-are-grok)
+* [People like to come close to me. I've been under the front sheltered area of the Allianz Stadium out of the rain, sitting on the floor crossed legged with my laptop on the floor and my bike besides me. An older CEO-type woman was talking on the phone and pacing up and down, coming closer and closer. And she was mentioning Macquarie Bank, and talking about other people. The rain has stopped and I've moved back to Kippax Lake](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#people-like-to-come-close-to-me-ive-been-under-the-front-sheltered-area-of-the-allianz-stadium-out-of-the-rain-sitting-on-the-floor-crossed-legged-with-my-laptop-on-the-floor-and-my-bike-besides-me-an-older-ceo-type-woman-was-talking-on-the-phone-and-pacing-up-and-down-coming-closer-and-closer-and-she-was-mentioning-macquarie-bank-and-talking-about-other-people-the-rain-has-stopped-and-ive-moved-back-to-kippax-lake)
+* [I got gifted this lovely dangly ball by someone from Sigma Prime who has received my trinkets over the years and have enjoyed them - https://x.com/BokkyPooBah/status/1992366499697426484 . At this event with the party, I was sitting down on the ground smoking weed with my laptop on the ground when this person in the Ethereum community approaches me an tells me that I should come visit his region and meet the shamans in Trelew. I have his contact details. But I don't like being cooped up in a plane](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#i-got-gifted-this-lovely-dangly-ball-by-someone-from-sigma-prime-who-has-received-my-trinkets-over-the-years-and-have-enjoyed-them---httpsxcombokkypoobahstatus1992366499697426484--at-this-event-with-the-party-i-was-sitting-down-on-the-ground-smoking-weed-with-my-laptop-on-the-ground-when-this-person-in-the-ethereum-community-approaches-me-an-tells-me-that-i-should-come-visit-his-region-and-meet-the-shamans-in-trelew-i-have-his-contact-details-but-i-dont-like-being-cooped-up-in-a-plane)
+* [I'm back under the Allianz Stadium sheltered area. CEO woman has left and I don't have to listen about Macquarie Bank type things](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#im-back-under-the-allianz-stadium-sheltered-area-ceo-woman-has-left-and-i-dont-have-to-listen-about-macquarie-bank-type-things)
+* [Here is what the clients may see at the demo. The test NFT is the first one on the top left](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#here-is-what-the-clients-may-see-at-the-demo-the-test-nft-is-the-first-one-on-the-top-left)
+* [My clothes are wet on the line. It's raining. I like music, and I like Manu's music - Thread https://x.com/BokkyPooBah/status/1992855519099564311](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#my-clothes-are-wet-on-the-line-its-raining-i-like-music-and-i-like-manus-music---thread-httpsxcombokkypoobahstatus1992855519099564311)
+* [Moved on to another park. Along the way there was an elderly lady crossing the road, watching the cars drive by splashing through the puddles, and she had a smile. So I cycled closer and gave her a smile. I bless people](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#moved-on-to-another-park-along-the-way-there-was-an-elderly-lady-crossing-the-road-watching-the-cars-drive-by-splashing-through-the-puddles-and-she-had-a-smile-so-i-cycled-closer-and-gave-her-a-smile-i-bless-people)
+* [There's a man walking his dog around the park, the dog with a lightweight raincoat made from a large black garbage bag and some sticky tape. Seem to work](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#theres-a-man-walking-his-dog-around-the-park-the-dog-with-a-lightweight-raincoat-made-from-a-large-black-garbage-bag-and-some-sticky-tape-seem-to-work)
+* [Do you like this, with the aboriginal flag? It is located in Newtown https://x.com/BokkyPooBah/status/2024004909046394928](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#do-you-like-this-with-the-aboriginal-flag-it-is-located-in-newtown-httpsxcombokkypoobahstatus2024004909046394928)
+* [This dog has been hanging around me for a few minutes](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#this-dog-has-been-hanging-around-me-for-a-few-minutes)
+* [A small 3 legged dog just walked/hopped past with it's owner](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md#a-small-3-legged-dog-just-walkedhopped-past-with-its-owner)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 * []()
 * []()
 * []()
@@ -2019,7 +2043,7 @@ You're right where you're meant to be. 🌱🕊️⚙️🐕
 
 <br />
 
-### <Github Stats Image>
+### Github Stats Image
 
 <kbd><img src="images/TheBokkyBibleStats_20260218_1812.png" width="400" /></kbd>
 
