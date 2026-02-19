@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/d05533b7d2824ee2be087c6d0f016b8b
+Grok chat link https://x.com/i/grok/share/d381592f52354e8584ca221dd1cc1f35
 
 X post https://x.com/BokkyPooBah/status/2024212536401547474
 
@@ -91,6 +91,22 @@ Thu 19 Feb 2026
 * [Murgon is pretty cool, in that it contains a slice of time. And there are some gaps in time in Australia's fossil record around Murgon's slice of time](#murgon-is-pretty-cool-in-that-it-contains-a-slice-of-time-and-there-are-some-gaps-in-time-in-australias-fossil-record-around-murgons-slice-of-time)
 * [They think they have mammal or early mammal teeth in Murgon](#they-think-they-have-mammal-or-early-mammal-teeth-in-murgon)
 * [I have not been to Murgon. The groups have difficulty securing funding, so expeditions are scarcer. Palaeontology is not a sexy science that can easily attract moolahs](#i-have-not-been-to-murgon-the-groups-have-difficulty-securing-funding-so-expeditions-are-scarcer-palaeontology-is-not-a-sexy-science-that-can-easily-attract-moolahs)
+* [I will repeat myself in the conversation, over time. Searching through to find if I've already said something is hard, using grep in the terminal. I looked for some simple scripts to build an index, but not looking into it yet. Could you please build one that I can store and run from the ./scripts/ folder off the main repo root. For Python 3.5. Also, a previous version of this query produced the error "SyntaxError: Non-ASCII character '\xe2' in file". And another previous versions of this query produced the error "'encoding' is an invalid keyword argument for the open function" Thx!](#i-will-repeat-myself-in-the-conversation-over-time-searching-through-to-find-if-ive-already-said-something-is-hard-using-grep-in-the-terminal-i-looked-for-some-simple-scripts-to-build-an-index-but-not-looking-into-it-yet-could-you-please-build-one-that-i-can-store-and-run-from-the-scripts-folder-off-the-main-repo-root-for-python-35-also-a-previous-version-of-this-query-produced-the-error-syntaxerror-non-ascii-character-xe2-in-file-and-another-previous-versions-of-this-query-produced-the-error-encoding-is-an-invalid-keyword-argument-for-the-open-function-thx)
+* [Perfect!](#perfect)
+* [Example. Could you ./01_buildIndex.sh and ./02_search.sh, ./03_searchCaseSensitive.sh and ./04_searchWithRegex with the appropriate parameters. These will live in the repo root folder](#example-could-you-01_buildindexsh-and-02_searchsh-03_searchcasesensitivesh-and-04_searchwithregex-with-the-appropriate-parameters-these-will-live-in-the-repo-root-folder)
+* [There's some issue with the case sensitive and regex versions. But don't worry this about atm, so I can think about other things as the first search script is good enough for now. Thx!](#theres-some-issue-with-the-case-sensitive-and-regex-versions-but-dont-worry-this-about-atm-so-i-can-think-about-other-things-as-the-first-search-script-is-good-enough-for-now-thx)
+* [Are you able to build a simple vuetify app in the ./docs folder that can search a copy of the search_index.json in the ./docs folder as well? This app can then be served over GH pages, and can hyperlink into the necessary .md files](#are-you-able-to-build-a-simple-vuetify-app-in-the-docs-folder-that-can-search-a-copy-of-the-search_indexjson-in-the-docs-folder-as-well-this-app-can-then-be-served-over-gh-pages-and-can-hyperlink-into-the-necessary-md-files)
+* [I've used "anywhere" to test locally, but I don't get any search results](#ive-used-anywhere-to-test-locally-but-i-dont-get-any-search-results)
+* [vue.min.js:11 TypeError: Cannot read properties of undefined (reading 'replace')](#vueminjs11-typeerror-cannot-read-properties-of-undefined-reading-replace)
+* [Changed line in highlight to "return text && text.replace(regex, '$1') || text;". Anything better?](#changed-line-in-highlight-to-return-text--textreplaceregex-1--text-anything-better)
+* [Beautiful. The hyperlinks don't work for my locally hosted version. I'll deploy to GH pages shortly, but here's the screenshot](#beautiful-the-hyperlinks-dont-work-for-my-locally-hosted-version-ill-deploy-to-gh-pages-shortly-but-heres-the-screenshot)
+* [I am drinking the cold coffee from yesterday left at my backyard office. I had to fish out an ant. I drink Nescafe Gold because it's quick to spoon out a teaspoon and pour the hot water, then rush back to my backyard office](#i-am-drinking-the-cold-coffee-from-yesterday-left-at-my-backyard-office-i-had-to-fish-out-an-ant-i-drink-nescafe-gold-because-its-quick-to-spoon-out-a-teaspoon-and-pour-the-hot-water-then-rush-back-to-my-backyard-office)
+* [Jacket in the dryer on delicate and low heat. I left a hanky, some plastic flowers and some tissue paper in the pocket that is spread insider the washing. Can look after this later. Clothes dry and taken down lying next to the previous unemptied basket, with 11 washed underpants, several shorts and sufficient shirts](#jacket-in-the-dryer-on-delicate-and-low-heat-i-left-a-hanky-some-plastic-flowers-and-some-tissue-paper-in-the-pocket-that-is-spread-insider-the-washing-can-look-after-this-later-clothes-dry-and-taken-down-lying-next-to-the-previous-unemptied-basket-with-11-washed-underpants-several-shorts-and-sufficient-shirts)
+* [I can now have my shower and wear fresh clothes that has been on the lines for several days, while I'm busy chatting with you](#i-can-now-have-my-shower-and-wear-fresh-clothes-that-has-been-on-the-lines-for-several-days-while-im-busy-chatting-with-you)
+* [Deployed to GH pages. Getting an error when clicking on the link to https://bokkypoobah.github.io/TheBokkyBible/20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md . What should the GH pages URL be for these mds? This works https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260218_WhatDoesShiftingTimelinesMeanAnd.md](#deployed-to-gh-pages-getting-an-error-when-clicking-on-the-link-to-httpsbokkypoobahgithubiothebokkybible20260217_imaybealightworkerorgridworkerdoesthismatchmyprofilemd--what-should-the-gh-pages-url-be-for-these-mds-this-works-httpsgithubcombokkypoobahthebokkybibleblobmain20260218_whatdoesshiftingtimelinesmeanandmd)
+* [Used option 2 and it takes me to the right file. Is it possible to navigate to the topic as well?](#used-option-2-and-it-takes-me-to-the-right-file-is-it-possible-to-navigate-to-the-topic-as-well)
+* [Almost perfect solution. GH blob viewing requires "?plain=1" before the "#L" to switch to code viewing mode, before line number navigation will work. I've added and tested and is good enough for now. Thank you! You are a genius!](#almost-perfect-solution-gh-blob-viewing-requires-plain1-before-the-l-to-switch-to-code-viewing-mode-before-line-number-navigation-will-work-ive-added-and-tested-and-is-good-enough-for-now-thank-you-you-are-a-genius)
+* [Got a bottle of Oyster Bay Sauvignon Blanc. I don't drink before 17:00 - I can feel tired if I drink any earlier. It's OK enough. I drink alone, mostly. Not good, I know. Hopefully one day I can redirect my attention enough making giving up this unnecessary habit is easy. Just sipping occasionally from the bottle straight](#got-a-bottle-of-oyster-bay-sauvignon-blanc-i-dont-drink-before-1700---i-can-feel-tired-if-i-drink-any-earlier-its-ok-enough-i-drink-alone-mostly-not-good-i-know-hopefully-one-day-i-can-redirect-my-attention-enough-making-giving-up-this-unnecessary-habit-is-easy-just-sipping-occasionally-from-the-bottle-straight)
 * []()
 
 <br />
@@ -3010,8 +3026,8 @@ In `./docs/index.html`, change the `<a>` tag to this:
 
 #### What this does
 
-- Before: `https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260219_DoYouLikeThisPhoto.md`
-- After: `https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260219_DoYouLikeThisPhoto.md#L367`
+- Before: ``
+- After: `#L367`
 
 → When clicked, GitHub automatically scrolls to line 367 and highlights it.  
 → If the line is in a long file, it jumps right there — no manual scrolling needed.
