@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bokky Bible Search</title>
+
+  <!-- Vuetify & Material Icons -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+
+  <style>
+    body { font-family: 'Roboto', sans-serif; margin: 0; }
+    #app { height: 100vh; }
+    .search-result { border-bottom: 1px solid #e0e0e0; padding: 12px 0; }
+    .search-result:hover { background-color: #f5f5f5; }
+    .file-link { color: #1976d2; text-decoration: none; }
+    .file-link:hover { text-decoration: underline; }
+    .snippet { color: #555; font-size: 0.95em; white-space: pre-wrap; }
+    mark { background-color: #fff176; font-weight: bold; }
+  </style>
+</head>
+<body>
+
+<div id="app">
+  <v-app>
+    <v-app-bar app color="primary" dark>
+      <v-toolbar-title>Bokky Bible Search</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn icon @click="refreshIndex">
+        <v-icon>mdi-refresh</v-icon>
+      </v-btn>
+    </v-app-bar>
+
+    <v-main>
+      <v-container fluid>
+        <v-row>
+          <v-col cols="12" md="8" offset-md="2">
+            <v-text-field
+              v-model="searchQuery"
+              label="Search chat logs..."
+              prepend-inner-icon="mdi-magnify"
+              clearable
+              outlined
+              dense
+              @keyup.enter="search"
+              @input="debouncedSearch"
+              hide-details
+              class="mt-6 mb-4"
+            ></v-text-field>
+
+            <!-- searchQuery: {{ searchQuery }} -->
+
+            <!-- results: {{ results }} -->
+
+            <v-progress-linear v-if="loading" indeterminate color="primary"></v-progress-linear>
+
+            <div v-if="results.length === 0 && searchQuery && !loading" class="text-center mt-8 grey--text">
+              No matches found for "{{ searchQuery }}"
+            </div>
+
+            <div v-if="results.length > 0" class="mt-4">
+              <div class="text-caption grey--text mb-2">
+                Showing {{ results.length }} of {{ totalMatches }} matches
+                {{ searchQuery ? 'for "' + searchQuery + '"' : '' }}
+              </div>
+
+              <div v-for="(result, i) in results" :key="i" class="search-result">
+                <a
+                  :href="result[0]"
+                  target="_blank"
+                  class="file-link font-weight-medium"
+                >
+                  {{ result[0] }} • line {{ result[1] }}
+                </a>
+                <div class="snippet mt-1" v-html="highlight(result[2])"></div>
+              </div>
+
+            </div>
+
+            <v-card v-if="!indexLoaded" outlined class="mt-8 pa-6 text-center">
+              <v-icon large color="warning">mdi-alert</v-icon>
+              <div class="mt-4">
+                search_index.json not found or failed to load.<br>
+                Make sure the file exists in the /docs folder.
+              </div>
+            </v-card>
+          </v-col>
+        </v-row>
+      </v-container>
+    </v-main>
+
+    <v-footer app color="primary" dark>
+      <v-spacer></v-spacer>
+      <span>Powered by Vuetify • Data last updated: {{ lastUpdated }}</span>
+    </v-footer>
+  </v-app>
+</div>
+
+<!-- Vue & Vuetify -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.js"></script>
+
+<script>
+new Vue({
+  el: '#app',
+  vuetify: new Vuetify({ theme: { dark: false } }),
+
+  data: () => ({
+    searchQuery: '',
+    results: [],
+    index: {},
+    indexLoaded: false,
+    loading: false,
+    lastUpdated: 'never',
+    totalMatches: 0,
+    debounceTimer: null
+  }),
+
+  computed: {
+    normalizedQuery() {
+      return this.searchQuery.trim().toLowerCase();
+    }
+  },
+
+  methods: {
+    async loadIndex() {
+      this.loading = true;
+      try {
+        const response = await fetch('search_index.json');
+        if (!response.ok) throw new Error('File not found');
+        const data = await response.json();
+        this.index = data.index || {};
+        this.lastUpdated = data.built || 'unknown';
+        this.indexLoaded = true;
+        console.log('Index loaded — files scanned:', data.files_scanned);
+      } catch (err) {
+        console.error('Failed to load index:', err);
+        this.indexLoaded = false;
+      }
+      this.loading = false;
+    },
+
+    search() {
+      if (!this.normalizedQuery) {
+        this.results = [];
+        this.totalMatches = 0;
+        return;
+      }
+
+      this.loading = true;
+      const words = this.normalizedQuery.split(/\s+/).filter(w => w);
+
+      let matches = [];
+      const seen = new Set();
+
+      // Simple AND search across words
+      for (const word of words) {
+        const hits = this.index[word] || [];
+        if (matches.length === 0) {
+          matches = hits;
+        } else {
+          const keep = new Set(matches.map(m => `${m[0]}:${m[1]}`));
+          matches = hits.filter(h => keep.has(`${h[0]}:${h[1]}`));
+        }
+      }
+
+      // Deduplicate and sort by file + line
+      matches = [...new Map(matches.map(m => [`${m[0]}:${m[1]}`, m])).values()];
+      console.log("matches before sort: " + JSON.stringify(matches, null, 2));
+      matches.sort((a, b) => a[0].localeCompare(b[0]) || a[1] - b[1]);
+      console.log("matches after sort: " + JSON.stringify(matches, null, 2));
+
+      this.results = matches;
+      console.log("this.results: " + JSON.stringify(this.results, null, 2));
+      this.totalMatches = matches.length;
+      this.loading = false;
+    },
+
+    highlight(text) {
+      // Early return if no query or text is falsy/empty
+      if (!this.normalizedQuery.trim() || !text) {
+        return text || '';
+      }
+
+      // Escape special regex chars in the query terms to treat them literally
+      const terms = this.normalizedQuery
+        .split(/\s+/)
+        .filter(t => t.trim())
+        .map(term => term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+
+      if (terms.length === 0) return text;
+
+      const regex = new RegExp(`(${terms.join('|')})`, 'gi');
+      return text.replace(regex, '<mark>$1</mark>');
+    },
+
+    debouncedSearch() {
+      clearTimeout(this.debounceTimer);
+      this.debounceTimer = setTimeout(() => this.search(), 350);
+    },
+
+    refreshIndex() {
+      this.loadIndex().then(() => this.search());
+    }
+  },
+
+  created() {
+    this.loadIndex();
+  }
+});
+</script>
+</body>
+</html>
