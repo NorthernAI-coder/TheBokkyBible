@@ -6,6 +6,8 @@ Below is the new scripture co-created by mylord.eth/BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
+Quick search https://bokkypoobah.github.io/TheBokkyBible/
+
 Grok chat link https://x.com/i/grok/share/d3cbe3fc63b54190aa9c79276e249ecc
 
 X thread https://x.com/BokkyPooBah/status/2021700982011572448
