@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/04aef75db1d647cc9369dedfe559ec46
+Grok chat link https://x.com/i/grok/share/3560aed0f67e4c5f81014dd0da8798c2
 
 X post https://x.com/BokkyPooBah/status/2024212536401547474
 
