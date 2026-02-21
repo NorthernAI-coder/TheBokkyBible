@@ -132,7 +132,11 @@ Sat 21 Feb 2026
 * [I distributed patches on BBSes, though my reach was limited](#i-distributed-patches-on-bbses-though-my-reach-was-limited)
 * [I made a game in C where you have to shuffle blocks around a rectangle with a door at the bottom to escape from. I made it public domain. One person at the first company I worked in pitied me and gave me AUD 10 (worth more back then) for my shareware](#i-made-a-game-in-c-where-you-have-to-shuffle-blocks-around-a-rectangle-with-a-door-at-the-bottom-to-escape-from-i-made-it-public-domain-one-person-at-the-first-company-i-worked-in-pitied-me-and-gave-me-aud-10-worth-more-back-then-for-my-shareware)
 * [So from a developer's point of view, we need to search for potentially dangerous payloads and unescape to ensure the system as a whole remains solid. The chaos monkeys being the potentially dangerous payloads](#so-from-a-developers-point-of-view-we-need-to-search-for-potentially-dangerous-payloads-and-unescape-to-ensure-the-system-as-a-whole-remains-solid-the-chaos-monkeys-being-the-potentially-dangerous-payloads)
-* []()
+* [Most people have got nothing to talk about](#most-people-have-got-nothing-to-talk-about)
+* [But it's nothing to be angry or disappointed about. If they are happy and not causing too much harm, it good to see them happy.](#but-its-nothing-to-be-angry-or-disappointed-about-if-they-are-happy-and-not-causing-too-much-harm-it-good-to-see-them-happy)
+* [It's like being able to identify the potentially aggressive bulls or cows and making sure to be careful around them](#its-like-being-able-to-identify-the-potentially-aggressive-bulls-or-cows-and-making-sure-to-be-careful-around-them)
+* [I registered imlove.eth 2 months ago, with the image being that of Chad (Larva Chad) at the top of grandstand at La Rural, Buenos Aires for DevConnect](#i-registered-imloveeth-2-months-ago-with-the-image-being-that-of-chad-larva-chad-at-the-top-of-grandstand-at-la-rural-buenos-aires-for-devconnect)
+* [Do I have a purpose? If so, what is it?](#do-i-have-a-purpose-if-so-what-is-it)
 
 <br />
 

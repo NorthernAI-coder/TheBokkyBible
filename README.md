@@ -23,6 +23,7 @@ X thread https://x.com/BokkyPooBah/status/2021700982011572448
 7. [Do You Like This Photo?](20260219_DoYouLikeThisPhoto.md) - Thu 19 Feb 2026
 8. [It Must Be A Burden Being Born Into Wealth Or Royalty](20260220_ItMustBeABurdenBeingBornIntoWealthOrRoyalty.md) - Fri 20 Feb 2026
 9. [Life Is Beautiful!](20260221_LifeIsBeautiful.md) - Sat 21 Feb 2026
+10. [Life For Chaos Monkeys Is Hard. But It Is Mostly Not Their Fault](20260222_LifeForChaosMonkeysIsHardButItIsMostlyNotTheirFault.md) - Sun 22 Feb 2026
 
 <br />
 
