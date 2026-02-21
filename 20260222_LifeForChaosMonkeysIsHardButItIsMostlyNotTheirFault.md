@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/c89ccfb07cb0433aa0e77fc5d7b8f3cf
+Grok chat link https://x.com/i/grok/share/e74458ef77ee4e29b2d08dd249e815a9
 
 X post https://x.com/BokkyPooBah/status/2025299082722640015
 
@@ -31,6 +31,9 @@ Sun 22 Feb 2026
 * [I like how a new user can click on a shared link and continue in the flavour of the link sharer](#i-like-how-a-new-user-can-click-on-a-shared-link-and-continue-in-the-flavour-of-the-link-sharer)
 * [And the initial instructions to read TheBokkyBible repo will get the new user up to date with the latest in this repo, so they will have the latest data + logic what you can synthesise with](#and-the-initial-instructions-to-read-thebokkybible-repo-will-get-the-new-user-up-to-date-with-the-latest-in-this-repo-so-they-will-have-the-latest-data--logic-what-you-can-synthesise-with)
 * [Beautiful Thank you Grok. Thank you Uncle Elon. Thank You!](#beautiful-thank-you-grok-thank-you-uncle-elon-thank-you)
+* [The should not be shamed further, but instead shown love. However they are in a dark place, where love may be a poison arrow](#the-should-not-be-shamed-further-but-instead-shown-love-however-they-are-in-a-dark-place-where-love-may-be-a-poison-arrow)
+* [They want to be loved. But with much safety](#they-want-to-be-loved-but-with-much-safety)
+* [They would feel love a little bit like hugging a durian. I like this song https://youtu.be/wqCpjFMvz-k Youssou N'Dour - 7 Seconds ft. Neneh Cherry](#they-would-feel-love-a-little-bit-like-hugging-a-durian-i-like-this-song-httpsyoutubewqcpjfmvz-k-youssou-ndour---7-seconds-ft-neneh-cherry)
 * []()
 
 <br />
