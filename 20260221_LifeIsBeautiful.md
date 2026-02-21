@@ -321,11 +321,63 @@ More 2014 expedition logistics or dig action from the archive? This thread's a f
 
 <br />
 
-###
+### This is Lizard aka Chris Cannell, setting up the red cord in holes drilled in rocks using a drill powered by a petrol generator. And the explosions, some smaller, some larger
+
+<kbd><img src="images/RiversleighFieldTrip2014-6.png" width="400" /></kbd>  
+
+> Lizard aka Chris Cannell setting up the red cord in holes
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+**Lizard** aka Chris Cannell in full action—legend of the Riversleigh blasts. Left pic: him kneeling in the red dirt, battered Akubra hat, long beard flowing, high-vis orange shirt sleeves rolled, black shorts caked in dust, red cord (detonating cord/fuse?) spooled out from that bright red reel (looks like Orica or similar mining-grade), threading it carefully into pre-drilled holes in the limestone. Petrol generator humming nearby for the drill rig—classic low-tech/high-skill setup for controlled pops in fossil-bearing rock. Right side: the payoff—one of those "little pops" going off, grey smoke plume billowing up from the blast site amid the spinifex and acacias, dust hanging in the outback air like a mini mushroom cloud. Smaller pops for precision fracturing, larger ones to section big boulders—exactly as described in the expeditions.
+
+This is textbook Riversleigh quarrying technique: the limestone's too hard for picks/chisels alone (it eats tools), so volunteers like Lizard drill holes (petrol-powered rock drill), insert thin red detonating cord (low-velocity explosive like Primadet or similar nonel tubes for mining/connex), sometimes pack light charges (ANFO-lite or emulsion equivalents tuned for "pop" not boom), retreat, and fire. Goal: fracture the rock into manageable blocks without pulverizing the delicate 3D-preserved fossils inside—think slicing a fruit cake, as Lizard himself put it in one report. Dust clears, inspect for new exposures (like that jaw from earlier), bag matrix, haul back to Adels Grove or lab for acetic acid prep. It's how they've extracted thousands of specimens—marsupials, bats, birds, crocs—from Oligo-Miocene cave fills without turning treasures to dust.
+
+Chris "Lizard" Cannell: long-time volunteer/explosives expert on Mike Archer's UNSW team (and others), nicknamed for his reptile-handling skills or just outback vibe. Featured in Palaeocast 2014 episode on Riversleigh marsupials (drilling holes for charges), SMH 2013 article on Wholly Dooley site (drilling, loading red tubes, "little pop" with licensed firer Chris Larkin detonating), even TIME 2004 piece calling him the team's explosives guru after nearly 30 years. Beard, hat, precision blasts—pure character. 2014 fits right in with ongoing digs—your series documents the full pipeline: bonding knots → heli recon/fuel slings → jaw cracks → now the controlled demolition that opens the rock.
+
+Safety first in that remote country—everyone retreats far, licensed shot-firer often handles the actual initiation. But the results? Priceless—new species, evolutionary links, rainforests-to-arid shifts preserved in 3D bone. From caterpillar poop intimacy to full-scale paleo engineering—your 2004-2014 archive is weaving an incredible thread.
+
+Any blast stories from that day—close calls with dust/wind, or a "whoa" moment when a pop revealed something unexpected? Lizard still out there cracking rocks, or legend status now?
+
+Life is beautiful when the cord sparks and the past breaks open. 🧨🦴🌵🚀💚  
+#bokkyschatwithgrok #RiversleighBlast #LizardCannell
+
+For that red-cord drilling and controlled pop energy in the outback limestone:
+
+And similar paleo blasting setups (drills, charges, smoke plumes over fossil sites):
+
+More from the blast sequence or post-pop reveals? This 2014 series is legendary. 🦞
 
 <br />
 
-###
+### This is Prof Mike Archer giving his legendary talks at Adels Grove in the dining area. People come from all over Australia and from overseas to see these talks. I've see the similar ones many many times now, and they are energising. Researchers and the public young and old
+
+<kbd><img src="images/RiversleighFieldTrip2014-7.JPG" width="400" /></kbd>  
+
+> Prof Mike Archer giving his legendary talks at Adels Grove
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+That evening glow under the Adels Grove pavilion is pure magic—Prof Mike Archer mid-stride, arm raised pointing to some evolutionary bombshell on the projector screen, while a packed house of all ages leans in: kids cross-legged on the floor in hoodies, families, grey nomads, international visitors, researchers, locals—all bathed in that warm yellow fluoro light filtering through the open timber frame, ceiling fans spinning lazily, night sky dark beyond the trees. The dining area's transformed into an impromptu lecture hall: projector beaming fossil slides, info boards on the walls (Riversleigh timelines? Waanyi connections?), people clutching drinks or notebooks, total rapt attention. Even the little ones front-row, wide-eyed—classic Mike energy pulling everyone into the wonder of 15–25 million-year-old rainforests turning into our modern outback.
+
+These talks are legendary for a reason—Archer's been captivating crowds at Adels Grove for decades during the annual expeditions. He's got that Princeton polish mixed with fierce Aussie pride, speaking fluidly for an hour+ without notes, weaving the jaw-dropping diversity (hundreds of new species: marsupial "lions," bizarre snail-crushers, ancient possums, even potential thylacine DNA revival vibes) with big-picture climate shifts and conservation lessons. People trek from all over Australia (and overseas) just to catch one—campers, tour groups, volunteers—drawn by the remote oasis setting: post-dig unwind, stars overhead, maybe a campfire after. You've seen variations "many many times" and still get that energizing hit? Makes total sense—it's not just facts; it's storytelling that reignites wonder, bridging the dig site's raw grind (blasts, cracks, hauls) to the living narrative of Australia's unique evolutionary path.
+
+Adels Grove's setup is perfect for it: open-sided pavilion, natural acoustics, that communal vibe where researchers mingle with public—young kids asking wild questions, elders sharing outback yarns. Ties the whole 2014 series together: knots building team spirit → heli logistics/fuel runs → Lizard's precision pops → jaw reveals → now the shared revelation under the lights. From dirt to discourse, the full cycle of paleo passion.
+
+What's one of your favorite Archer lines or moments from those repeated viewings? The one about the "fruit cake" fracturing for fossils, or the thylacine de-extinction tease? Or a time a kid's question sparked something new?
+
+Life is beautiful when the pavilion fills, the projector hums, and ancient worlds light up the night. 🦴🎥🌌🚀💚  
+#bokkyschatwithgrok #ArcherAtAdels #RiversleighNights
+
+For that classic evening lecture energy in the outback pavilion—crowds gathered, speaker gesturing, warm lights:
+
+<kbd><img src="images/Picture00001.png" width="400" /></kbd>  
+
+And similar Adels Grove/Riversleigh visitor scenes (open air dining, group gatherings under timber roofs):
+
+<kbd><img src="images/Picture00002.png" width="400" /></kbd>  
+
+Keep the 2014 vault open, legend—more pavilion tales or post-talk campfire vibes? 🦞
 
 <br />
 
