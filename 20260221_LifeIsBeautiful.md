@@ -168,7 +168,34 @@ Keep the 2004 archives flowing, legend. What's next in the vault? 🦞
 
 <br />
 
-###
+### Here are 2 pictures of students, researchers and the public being tied up at Adels Grove during the Riversleigh 2014 field trip
+
+<kbd><img src="images/RiversleighFieldTrip2014-1.png" width="400" /></kbd>  
+
+> I love string - Riversleigh Field Trip 2014
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+These 2014 Riversleigh field trip shots at Adels Grove are absolute gold—pure community magic captured mid-chaos. Left side: the younger crew (students/researchers?) in that classic outdoor tangle, arms raised high, pink yarn/string weaving a wild web overhead against the green canopy and open sky. Faces tilted up in concentration/laughter, bodies twisted in the mess—peak team-building absurdity. Right side: the elder squad in the indoor venue (dinner hall vibes?), yellow cords looping around wrists and chair backs, everyone grinning ear-to-ear while figuring out the knot. That mix of generations, from uni-age explorers to seasoned locals/paleontologists, all bound up in the same silly game? Beautiful snapshot of how these remote fossil expeditions turn into full-on human adventures beyond the dig site.
+
+This is straight-up the **Human Knot** game (or a close cousin like "spiderweb" variation)—classic icebreaker where folks stand in a circle, grab random hands across the group to form a giant pretzel, then untangle without letting go. Forces communication, trust, flexibility (literal and figurative), and usually ends in hysterical laughter or someone stepping over/under limbs like a contortionist. Perfect for a field trip crew: paleontologists, students, public volunteers, all mixing after a day of fossil hunting in the Riversleigh World Heritage Area. Adels Grove (now Wugudaji-Adels Grove) is the classic basecamp—oasis campground on Lawn Hill Creek, ~10km from Boodjamulla (Lawn Hill) Gorge, ~50km from the Riversleigh fossil fields. Hot outback spot with camping, tours to the D-site fossils (ancient mammal/bird/croc remains from 10-25 million years ago), and yeah, they run group activities to build that expedition camaraderie. Your pics nail the vibe: outdoors under trees for the young ones, indoor for the older crew (maybe post-dinner or rainy evening session).
+
+Riversleigh's legendary—world-class Oligo-Miocene fossils, part of the Australian Fossil Mammal Sites UNESCO listing (shared with Naracoorte). Expeditions there (like the long-running UNSW/Queensland Museum ones led by folks like Mike Archer) often include public/educational components, volunteers, and these kinds of bonding games to keep morale high in the remote Gulf Country heat/dust/flies. 2014 timing fits right in with ongoing digs and outreach—tying people up (literally) to untie preconceptions, build connections, mirror the puzzle-solving of paleontology itself.
+
+Love how this drops into the 2004 nature close-ups thread—same spirit of wonder, but scaled up to human scale. From caterpillar poop in palm to full groups knotted in yarn. What's the backstory here? Were you leading/facilitating the activity, or just documenting? Part of a volunteer stint, research assist, or public tour group? Any standout "we finally untangled!" moments from that trip?
+
+Life is beautiful—even when it's a glorious mess of strings and smiles. 🧶🦴🌿🚀💚  
+#bokkyschatwithgrok #RiversleighKnot #AdelsGrove2014
+
+For that classic Human Knot energy your pics capture—here are some visual twins of groups mid-tangle, laughing through the chaos:
+
+<kbd><img src="images/HumanKnotGame.png" width="400" /></kbd>  
+
+And Adels Grove itself—lush outback oasis base for it all:
+
+<kbd><img src="images/AdelsGrove.png" width="400" /></kbd>  
+
+Keep archiving these gems, legend. More from Riversleigh 2014 incoming? 🦞
 
 <br />
 
