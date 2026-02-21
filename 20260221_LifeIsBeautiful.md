@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/ecb647c980454033910ed01424da31a0
+Grok chat link https://x.com/i/grok/share/6f327128075d4f0092eeeb468a8a3ac1
 
 X post https://x.com/BokkyPooBah/status/2024993511842648386
 
@@ -196,6 +196,196 @@ And Adels Grove itself—lush outback oasis base for it all:
 <kbd><img src="images/AdelsGrove.png" width="400" /></kbd>  
 
 Keep archiving these gems, legend. More from Riversleigh 2014 incoming? 🦞
+
+<br />
+
+### View from the Robinson R44 of paleontologist standing around a hole in the ground, for extended periods of time
+
+<kbd><img src="images/RiversleighFieldTrip2014-2.JPG" width="400" /></kbd>  
+
+> Paleontologist standing around a hole in the ground
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+That aerial shot from the Robinson R44 chopper is straight fire—classic Riversleigh 2014 expedition energy captured from above. The group clustered around a shallow excavation pit on that rugged, sun-baked limestone ridge, ringed by scattered rocks, white sample bags, gear piles, and those sparse outback trees dotting the golden grass. Paleontologists (hats, long sleeves, field packs) standing in a loose circle, some gesturing, others just staring down into the hole like it's whispering ancient secrets. Extended periods of time indeed—paleo work is 90% patient observation, 10% frantic "holy shit we found something." The dry, rocky terrain screams remote Gulf Country: harsh light, no shade, endless horizon. Helicopter vantage point adds that epic scale—tiny humans vs. vast geological time capsule.
+
+This lines up perfectly with the Riversleigh Project's 2014 activities. Led by legends like Professor Mike Archer (UNSW), the team was doing helicopter reconnaissance that year—scouting remote sections along the Gregory River's limestone banks for new fossil sites and caves. They'd spot promising outcrops from the air (Robinson R44s were used for transport and recon in these expeditions), drop in, then huddle around test pits or small digs to assess. The site here looks like one of those spot-check excavations: probing a potential cave fill or karst deposit where Oligo-Miocene goodies (25-10 mya) get preserved in freshwater limestones. White bags everywhere for matrix collection—later acid-prepped back in Sydney labs to reveal the micro-mammals, birds, reptiles, even those wild 17-million-year-old giant sperm shrimp finds from around that era.
+
+The "standing around a hole for extended periods" caption nails it—paleo fieldwork is glacial patience: mapping stratigraphy, brushing sediment millimeter by millimeter, debating context, photographing every angle before bagging. But when it hits (new species, evolutionary clues), the circle tightens with that quiet electric buzz. Your vantage from the chopper (pilot or passenger seat?) gives the perfect overview—humanity as tiny specs in a landscape that's been baking fossils for eons.
+
+Ties beautifully into the previous Adels Grove knot pics—same trip, shifting from team-bonding games under trees to the real grind at the dig. From yarn tangles to rock tangles. Were you up in the R44 scouting with the team, or hitching a ride to document? Any standout finds from that specific hole, or was this one of the "promising but we'll see back at lab" moments? Helicopter logistics in that terrain must've been a whole adventure—dust, thermals, loading gear.
+
+Life is beautiful, even from 500 feet up watching legends stare into time. 🚁🦴🌵🚀💚  
+#bokkyschatwithgrok #RiversleighFromAbove #2014Expedition
+
+For that same Riversleigh dig circle vibe—paleontologists huddled over outback excavations:
+
+And a Robinson R44 slicing over similar arid landscapes (helicopter recon style):
+
+More chopper or dig shots from the vault incoming, legend? Keep 'em coming. 🦞
+
+<br />
+
+### Here's a freshly cracked rock exposing a jaw that has not seen sunlight for millions of years
+
+<kbd><img src="images/RiversleighFieldTrip2014-3.JPG" width="400" /></kbd>  
+
+> Freshly cracked rock exposing a jaw that has not seen sunlight for millions of years
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+Holy time capsule, Batman—that freshly cracked rock from Riversleigh 2014 is **pure magic**. The moment the hammer hits and sunlight floods in after 15–25 million years? Chills. You've got this chunky limestone fragment, warm brown tones with that classic Riversleigh patina, surrounded by scattered matrix rubble and other weathered blocks. But the star: that exposed white band of fossil bone curving across the face—clearly a jaw section (mandible or maxilla fragment?), with a row of those perfectly preserved, pearly **teeth** popping out like ancient pearls. The dentition looks molar/premolar heavy—multi-cusped, bunodont style typical of Oligo-Miocene marsupials/herbivores from the site. That dotted black outline (your field mark? "6" or "G" symbol?) and the dashed line tracing the tooth row? Classic paleo documentation—marking the find in situ before bagging.
+
+Riversleigh's limestone karst deposits preserve 3D fossils insanely well: animals fell into caves/pools, got encased in calcium-rich muck fast, bones mineralized without much crushing. Cracking one open exposes pristine surfaces that haven't seen light since the Miocene rainforest era—when Australia was shifting from lush, humid lowlands to drier woodlands, birthing so many of our unique mammal lineages (marsupial moles, feather-tail possums, ancestors of kangaroos, even bizarre carnivores like malleodectids or thylacoleonids).
+
+This jaw could be from a diprotodontid (wombat-like or larger herbivore kin), a primitive macropodoid (early kangaroo/rat-kangaroo), or something rarer—Riversleigh's thrown up everything from tiny bat jaws to marsupial "lions," snail-crushing weirdos, even platypus relatives with teeth. The white enamel contrast against the brown matrix is textbook—teeth often weather out first or get highlighted when the surrounding rock splits just right. That "not seen sunlight for millions of years" feeling? Spot on. It's like holding a frozen moment of evolution, right there in the outback dust.
+
+From the chopper recon shots and Adels Grove knots earlier—this is the payoff of the grind: scouting from the R44, dropping in, cracking rocks, and boom—time travel. Were you the one swinging the hammer on this piece, or documenting the moment? Any lab follow-up—acid prep to free more teeth/bone, or was it catalogued as-is? ID ever pinned down (species/genus), or still a mystery seed in the archive?
+
+Life is beautiful when the rock cracks open and whispers back. 🦴🔨🌵🚀💚  
+#bokkyschatwithgrok #RiversleighReveal #MioceneJawDrop
+
+For that exact "freshly cracked limestone jaw with teeth" energy your pic nails—here are some visual twins from Riversleigh-style finds (molar rows exposed, white against brown rock):
+
+<kbd><img src="images/RiversleighMolars-1.png" width="400" /></kbd>  
+
+And classic Riversleigh jaw/molar close-ups (marsupial/herbivore dentition popping out):
+
+<kbd><img src="images/RiversleighMolars-2.png" width="400" /></kbd>  
+
+More from the 2014 vault? This series is building an epic chronicle. 🦞
+
+<br />
+
+### Pilot and 2 researchers, getting ready to start the day of fieldwork
+
+<kbd><img src="images/RiversleighFieldTrip2014-3.JPG" width="400" /></kbd>  
+
+> Freshly cracked rock exposing a jaw that has not seen sunlight for millions of years
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+Dawn patrol vibes at the Riversleigh 2014 base—pilot in the green jacket checking his gear (tablet? checklist?), hand on the bubble canopy, while the two researchers stride in with that purposeful outback hustle: one bald-headed in dark shirt carrying tools or samples, the other in checkered shirt lugging a big white jerry can (fuel? water? acid prep mix?). The Robinson R44 sits proud on the dusty strip—white with red/orange accents, registration **VII CVS** (or close variant; classic Aussie civil reg style, though exact matches are elusive—likely a local charter bird from Mount Isa or Cairns ops back then). Bubble cockpit gleaming in the morning sun, skids planted firm on the dry grass, tail rotor striped, main blades drooping slightly pre-start. Horizon of sparse trees and red dirt hills—pure Gulf Country remote airstrip energy, probably a cleared patch near Adels Grove or a forward LZ for the day's recon/dig runs.
+
+This is the kickoff shot: pre-flight checks, fuel top-up (that jerry can screams avgas logistics—R44s guzzle ~50-60L/hour, and remote ops mean you haul your own), gear loaded, minds sharp for spotting new limestone outcrops or cave mouths from the air. Helicopters were key for Riversleigh—Mike Archer's team used them extensively for scouting the vast 40+ sq km fossil fields along the Gregory River limestone banks, dropping into inaccessible spots, hauling back heavy matrix blocks wrapped in plaster/foam for lab prep in Sydney. Your earlier aerial dig circle pic was likely from one of these flights; this ground-level view flips it—human scale before the bird lifts off into the vastness.
+
+The R44 (Raven series, reliable workhorse for 4-seaters) fits perfectly: light, maneuverable in thermals, great visibility through the bubble for spotting fossiliferous ledges. Pilot's focused stance, researchers' no-nonsense walk—everyone geared up against the flies, sun, and dust. That blue-sky clarity and golden light? Magic hour for fieldwork starts, before the heat cranks to 40°C+.
+
+Tying the series together beautifully: knots at Adels Grove → chopper recon view of the dig circle → jaw reveal crack → now the launchpad moment. You're documenting the full expedition rhythm—from bonding to airborne scouting to ground truthing to the raw fossil payoff. Were you embedded with the UNSW/Queensland Museum crew (Archer, Arena, Black et al.), volunteering, or capturing as a participant-observer? Any memorable flights that day—spotting a new site from the air, or bumpy thermals over the ridges?
+
+Life is beautiful when the rotors are about to spin and ancient secrets wait below. 🚁🦴🌅🚀💚  
+#bokkyschatwithgrok #RiversleighStartup #2014HeliDawn
+
+For that classic white/red-striped Robinson R44 on outback dirt (similar vibe to your VII CVS bird, skids down, ready to roll):
+
+<kbd><img src="images/Helicopters.png" width="400" /></kbd>  
+
+And paleo/gear-hauling scenes with choppers in the Australian outback (jerry cans, researchers loading up):
+
+<kbd><img src="images/CrashedHelicopter.png" width="400" /></kbd>  
+
+More dawn-to-dusk expedition gems from 2014? This chronicle's epic. 🦞
+
+<br />
+
+### We drive out a drum of aviation gas from Adels Grove to the Riversleigh World Heritage Area, and this is the chopper lifting the drum from the ute to the ground. This pilot (and helpers) use a manual pump to transfer the avgas from the drum to the chopper
+
+<kbd><img src="images/RiversleighFieldTrip2014-5.JPG" width="400" /></kbd>  
+
+> Freshly cracked rock exposing a jaw that has not seen sunlight for millions of years
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+That **Riversleigh 2014 logistics porn** shot is next-level outback ingenuity—Robinson R44 (reg **VH-LTS**? Close to your VIN/LTS vibe, classic white/red stripe scheme) hovering steady, main rotor thumping, tail rotor blurring, slinging a big avgas drum on a longline like it's nothing. Blue sling rope taut, drum swinging gently mid-air, pilot focused in the bubble while the ground crew (Toyota ute tray loaded with gear, one bloke in light shirt steadying from the tray, another in khaki watching/ready) guide it down to the dirt LZ. Dust kicking up, sparse trees and red hills in the background—pure remote ops poetry.
+
+Driving the drum out from Adels Grove (that oasis campground base ~50km from the core fossil sites) to a forward landing zone in the Riversleigh World Heritage Area? Smart move. In that vast, road-scarce limestone country, no fuel bowsers for hundreds of km—avgas hauls like this were essential for extended recon/dig flights. R44 burns ~50-60L/hour, so for multi-hour scouting runs spotting new cave mouths or fossil ledges along the Gregory River, you'd need to cache fuel forward. Manual pump transfer (hand-crank or electric siphon?) from the drum to the chopper's tanks—classic field expedient, no fancy trucks, just muscle and care to avoid contamination/spills in the dust.
+
+The pilot and helpers handling the sling load, then pumping it over? High-trust teamwork—safety critical in 40°C+ heat, flies everywhere, and thermals that could yank the bird around. That ute (Toyota trayback, reg B875 something—iconic Hilux/LandCruiser workhorse) parked under the hover, bloke on the tray probably unhooking or steadying the drum as it touches down. Once grounded, they'd roll it to a shaded spot, pump avgas into the tanks (filtered, of course—contamination kills engines in remote country), and boom—ready for the next sortie to crack more Miocene jaws or scout Oligocene mammal sites.
+
+This caps the series perfectly: dawn prep with jerry cans → chopper recon over dig circles → jaw reveal → now the fuel lifeline that keeps the whole expedition airborne. Without these avgas drum runs, no chopper drops into inaccessible ridges, no aerial spotting of promising outcrops, no hauling back heavy matrix blocks. It's the unglamorous backbone of paleo fieldwork in Australia's Gulf—logistics as adventure.
+
+Were you riding shotgun on some of these fuel runs, or capturing from the ground? Any hairy moments with wind/dust during a sling load, or smooth like this one? Pilot a regular charter guy from Mount Isa/Cairns, or expedition-dedicated?
+
+Life is beautiful when the chopper slings fuel and the ancient world waits below. 🚁🛢️🌵🚀💚  
+#bokkyschatwithgrok #RiversleighFuelRun #OutbackLogistics
+
+For that sling-load fuel drum energy in the Aussie outback (helicopters hovering over utes/trucks with drums/gear):
+
+<kbd><img src="images/HelicoptersRefueling-1.png" width="400" /></kbd>  
+
+And similar heli refuel scenes (drums to chopper, manual pump vibes in remote spots):
+
+<kbd><img src="images/HelicoptersRefueling-2.png" width="400" /></kbd>  
+
+More 2014 expedition logistics or dig action from the archive? This thread's a full immersion. 🦞
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
 
 <br />
 
