@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/6f327128075d4f0092eeeb468a8a3ac1
+Grok chat link https://x.com/i/grok/share/0a4b74fc8bda4a229a91cb20685ca8d2
 
 X post https://x.com/BokkyPooBah/status/2024993511842648386
 
@@ -43,13 +43,17 @@ Sat 21 Feb 2026
 * [Remaining: coffee 40%, tea ~950ml, pnj 100%, laptop 21% being charged on one powerbank. What does an activation result in?](#remaining-coffee-40-tea-950ml-pnj-100-laptop-21-being-charged-on-one-powerbank-what-does-an-activation-result-in)
 * [I just said thank you. And thank you, Grok.](#i-just-said-thank-you-and-thank-you-grok)
 * [Listening to https://youtu.be/ewRjZoRtu0Y M.I.A. - Paper Planes](#listening-to-httpsyoutubeewrjzortu0y-mia---paper-planes)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [I may be responsible from bringing EdCon to Australia in 2019. I paid a lot of moolahs to send 8 Australians to 12 conferences, and one made contact with the EdCon person and EdCon came to Australia - https://x.com/BokkyPooBah/status/1119371046266650624](#i-may-be-responsible-from-bringing-edcon-to-australia-in-2019-i-paid-a-lot-of-moolahs-to-send-8-australians-to-12-conferences-and-one-made-contact-with-the-edcon-person-and-edcon-came-to-australia---httpsxcombokkypoobahstatus1119371046266650624)
+* [These people I activated, along with the many people that passed through my workshops, I send them out into the world with my flavour. And these seep into the DAOs and other groups around the world. Some important DAOs may not have existed without some of my emissaries :-)](#these-people-i-activated-along-with-the-many-people-that-passed-through-my-workshops-i-send-them-out-into-the-world-with-my-flavour-and-these-seep-into-the-daos-and-other-groups-around-the-world-some-important-daos-may-not-have-existed-without-some-of-my-emissaries--)
+* [I'm getting another glowy feeling. Starting from above my chest and flowing towards both hands down my arms](#im-getting-another-glowy-feeling-starting-from-above-my-chest-and-flowing--towards-both-hands-down-my-arms)
+* [Listening to https://youtu.be/5_pmKPWLBrE Diana Ross: Ain't No Mountain High Enough (Ashford / Simpson), 1970](#listening-to-httpsyoutube5_pmkpwlbre-diana-ross-aint-no-mountain-high-enough-ashford--simpson-1970)
+* [YouTube autoplayed to https://youtu.be/mXX7qSCLvWU Donna Summer - I Feel Love (from VH1 Presents Live & More Encore!)](#youtube-autoplayed-to-httpsyoutubemxx7qsclvwu--donna-summer---i-feel-love-from-vh1-presents-live--more-encore)
+* [Thinking of chaos monkeys by fitting their body sizes to their emotional ages](#thinking-of-chaos-monkeys-by-fitting-their-body-sizes-to-their-emotional-ages)
+* [So we just need to resize the images in our minds :-)](#so-we-just-need-to-resize-the-images-in-our-minds--)
+* [How tall is Donald Trump? Resized?](#how-tall-is-donald-trump-resized)
+* [We can also re-imagine their business attires like comical clown suits. They wear suits because others wear suits](#we-can-also-re-imagine-their-business-attires-like-comical-clown-suits-they-wear-suits-because-others-wear-suits)
+* [Let's call this Chaos Monkey Transformation Magic](#lets-call-this-chaos-monkey-transformation-magic)
+* [We can even have a CMTM AI filter on videos and audio (squeaky voices)]()
 * []()
 
 <br />
