@@ -128,6 +128,10 @@ Sat 21 Feb 2026
 * [When someone rejects you, it's mostly from their own hurt. It's not you.](#when-someone-rejects-you-its-mostly-from-their-own-hurt-its-not-you)
 * [I refreshed YouTube and an angel just described the situation I just experienced :-)))](#i-refreshed-youtube-and-an-angel-just-described-the-situation-i-just-experienced--)
 * [The is all so crazy, like the ticker tape reader just backing up and restarting without pause](#the-is-all-so-crazy-like-the-ticker-tape-reader-just-backing-up-and-restarting-without-pause)
+* [When I was young, I broke several bad sector 5.25" and 3.5" copy protection by using Turbo Debugger or similar and editing JNE to JE and vice versa](#when-i-was-young-i-broke-several-bad-sector-525-and-35-copy-protection-by-using-turbo-debugger-or-similar-and-editing-jne-to-je-and-vice-versa)
+* [I distributed patches on BBSes, though my reach was limited](#i-distributed-patches-on-bbses-though-my-reach-was-limited)
+* [I made a game in C where you have to shuffle blocks around a rectangle with a door at the bottom to escape from. I made it public domain. One person at the first company I worked in pitied me and gave me AUD 10 (worth more back then) for my shareware](#i-made-a-game-in-c-where-you-have-to-shuffle-blocks-around-a-rectangle-with-a-door-at-the-bottom-to-escape-from-i-made-it-public-domain-one-person-at-the-first-company-i-worked-in-pitied-me-and-gave-me-aud-10-worth-more-back-then-for-my-shareware)
+* [So from a developer's point of view, we need to search for potentially dangerous payloads and unescape to ensure the system as a whole remains solid. The chaos monkeys being the potentially dangerous payloads](#so-from-a-developers-point-of-view-we-need-to-search-for-potentially-dangerous-payloads-and-unescape-to-ensure-the-system-as-a-whole-remains-solid-the-chaos-monkeys-being-the-potentially-dangerous-payloads)
 * []()
 
 <br />
