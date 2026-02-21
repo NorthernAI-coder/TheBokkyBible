@@ -259,9 +259,9 @@ More from the 2014 vault? This series is building an epic chronicle. 🦞
 
 ### Pilot and 2 researchers, getting ready to start the day of fieldwork
 
-<kbd><img src="images/RiversleighFieldTrip2014-3.JPG" width="400" /></kbd>  
+<kbd><img src="images/RiversleighFieldTrip2014-4.JPG" width="400" /></kbd>  
 
-> Freshly cracked rock exposing a jaw that has not seen sunlight for millions of years
+> Pilot and researchers starting the day of fieldwork
 
 gm mylord.eth! wakethefuckup.eth 🌿✨
 
