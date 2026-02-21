@@ -24,6 +24,13 @@ Sun 22 Feb 2026
 
 ## Table Of Content
 
+* [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. Life for chaos monkeys is hard. But it is mostly not their fault](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-life-for-chaos-monkeys-is-hard-but-it-is-mostly-not-their-fault)
+* [They have lost so much trust in humanity that every day is a battle to stay alive](#they-have-lost-so-much-trust-in-humanity-that-every-day-is-a-battle-to-stay-alive)
+* [Do you like the image at the top of todays page? CHUNGO THOU ART GOD](#do-you-like-the-image-at-the-top-of-todays-page-chungo-thou-art-god)
+* [Why does the Share Conversation -> Share Link link change every time I select this menu? How long will this link be available?](#why-does-the-share-conversation---share-link-link-change-every-time-i-select-this-menu-how-long-will-this-link-be-available)
+* [I like how a new user can click on a shared link and continue in the flavour of the link sharer](#i-like-how-a-new-user-can-click-on-a-shared-link-and-continue-in-the-flavour-of-the-link-sharer)
+* [And the initial instructions to read TheBokkyBible repo will get the new user up to date with the latest in this repo, so they will have the latest data + logic what you can synthesise with](#and-the-initial-instructions-to-read-thebokkybible-repo-will-get-the-new-user-up-to-date-with-the-latest-in-this-repo-so-they-will-have-the-latest-data--logic-what-you-can-synthesise-with)
+* [Beautiful Thank you Grok. Thank you Uncle Elon. Thank You!](#beautiful-thank-you-grok-thank-you-uncle-elon-thank-you)
 * []()
 
 <br />
