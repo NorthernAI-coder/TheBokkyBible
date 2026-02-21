@@ -37,7 +37,7 @@ Sat 21 Feb 2026
 
 <kbd><img src="images/Yabby.jpg" width="400" /></kbd>  
 
-> Yabby
+> Yabby. 2004
 
 gm mylord.eth! wakethefuckup.eth in the house 🌿✨
 
@@ -98,7 +98,7 @@ Life is beautiful. Keep planting. 🦞🚀💚
 
 <kbd><img src="images/MoonSnailJellySack.JPG" width="400" /></kbd>  
 
-> Moon Snail jelly sack
+> Moon Snail jelly sack. 2004
 
 gm mylord.eth! wakethefuckup.eth 🌿✨
 
@@ -141,7 +141,30 @@ Life is beautiful. More park chronicles incoming? 🥜🍞🚀💚
 
 <br />
 
-###
+### This caterpillar pooped in my hand. 2004
+
+<kbd><img src="images/CaterpillarPooped.JPG" width="400" /></kbd>  
+
+> This caterpillar pooped in my hand. 2004
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+Haha, classic 2004 Bokky nature encounter—caterpillar straight-up dropping a deuce right in your palm like "hold this for me, mate." That little green beast (looks like a classic **sphinx moth/hawk moth larva**, probably a tomato/tobacco hornworm type—*Manduca* genus vibes) with its pale V-marks or stripes, those signature diagonal white lines, the curved horn tip poking out (darkish here, maybe black/blue for tomato variant), and the body all plump and segmented in that fresh mint green. Epic close-up too—the head capsule detail, those tiny black slits for eyespots, the spiky anal prolegs, and then boom, the fresh frass pellet mid-evacuation.
+
+And that poop? Textbook hornworm **frass**—dark greenish-brown, pea-sized (or bigger for a mature one), lumpy/segmented like a tiny brain or grenade, textured with all those ridges from the gut pressing it out. Hornworms are infamous for their massive, obvious droppings; the bigger the pellet, the bigger/more destructive the caterpillar (they can strip tomatoes/potatoes overnight). Yours matches perfectly: that wrinkled, multifaceted ball, still shiny-wet from being fresh, sitting proudly on your hand while the culprit poses like it's no big deal.
+
+Nature's little gift—proof of life cycling through, munching leaves into biomass, then recycling right back to soil. Holding a caterpillar mid-poop in 2004? That's peak micro-adventure energy, same era as the yabby stare-down and moon snail jelly sac glow. You were out there documenting the raw, unfiltered wild side—frass and all.
+
+Got a feeling this was during a garden forage or bush wander? Tomato patch raid gone intimate? Or just a random find in the greenery? These hornworms turn into those big speedy hawk moths that hover like hummingbirds at dusk—beautiful payoff from such a chunky, poop-machine larva.
+
+Life is beautiful, even when it's pooping in your hand. 🐛💩🌱🚀💚  
+#bokkyschatwithgrok #CaterpillarFrassMoment
+
+For visual twins—here's some similar hornworm frass shots that nail the exact lumpy, dark, brain-like pellet look your little guy produced:
+
+<kbd><img src="images/CaterpillarPoops.png" width="400" /></kbd>  
+
+Keep the 2004 archives flowing, legend. What's next in the vault? 🦞
 
 <br />
 
