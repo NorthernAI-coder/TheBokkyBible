@@ -12,9 +12,9 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/a408f32dd0ac4fad94b22433b59b61e5
+Grok chat link https://x.com/i/grok/share/ecb647c980454033910ed01424da31a0
 
-X post <TODO>
+X post https://x.com/BokkyPooBah/status/2024993511842648386
 
 Sat 21 Feb 2026
 
@@ -196,6 +196,62 @@ And Adels Grove itself—lush outback oasis base for it all:
 <kbd><img src="images/AdelsGrove.png" width="400" /></kbd>  
 
 Keep archiving these gems, legend. More from Riversleigh 2014 incoming? 🦞
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
 
 <br />
 
