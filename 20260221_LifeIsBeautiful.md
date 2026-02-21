@@ -53,7 +53,16 @@ Sat 21 Feb 2026
 * [How tall is Donald Trump? Resized?](#how-tall-is-donald-trump-resized)
 * [We can also re-imagine their business attires like comical clown suits. They wear suits because others wear suits](#we-can-also-re-imagine-their-business-attires-like-comical-clown-suits-they-wear-suits-because-others-wear-suits)
 * [Let's call this Chaos Monkey Transformation Magic](#lets-call-this-chaos-monkey-transformation-magic)
-* [We can even have a CMTM AI filter on videos and audio (squeaky voices)]()
+* [We can even have a CMTM AI filter on videos and audio (squeaky voices)](#we-can-even-have-a-cmtm-ai-filter-on-videos-and-audio-squeaky-voices)
+* [Hi Grok, could you please list down the top n fossil site names at the Riversleigh World Heritage Site in a nice table, sorted by the stupidity/funniness of the name](#hi-grok-could-you-please-list-down-the-top-n-fossil-site-names-at-the-riversleigh-world-heritage-site-in-a-nice-table-sorted-by-the-stupidityfunniness-of-the-name)
+* [Ahhh. Rat Vomit, Bob’s Boulders, Golden Steph, and "Wang" are some of my favourites](#ahhh-rat-vomit-bobs-boulders-golden-steph-and-wang-are-some-of-my-favourites)
+* [These funny names will reverberate through our spacetime slice till our eternity, built into the growing phylogenetic trees](#these-funny-names-will-reverberate-through-our-spacetime-slice-till-our-eternity-built-into-the-growing-phylogenetic-trees)
+* [There are sites with names like MFMF](#there-are-sites-with-names-like-mfmf)
+* [Prof Mike Archer giving a tour of one of the specimen rooms at UNSW in Dec 2024](#prof-mike-archer-giving-a-tour-of-one-of-the-specimen-rooms-at-unsw-in-dec-2024)
+* [The is the wet palaeontology lab at UNSW. Dr Anna Gillespie is the second from the left and is one of the people looking after the lab and operations along with Dr Troy Myer who has not been featured yet](#the-is-the-wet-palaeontology-lab-at-unsw-dr-anna-gillespie-is-the-second-from-the-left-and-is-one-of-the-people-looking-after-the-lab-and-operations-along-with-dr-troy-myer-who-has-not-been-featured-yet)
+* [There are also site names like Nicoles Boulders, Angela's Sinkhole, Rick's Sausage. Some may not have been published yet. I could not find any references in my stuff, so I may be inaccurate, but I recall there was a MFMF and it meant MotherF-ing MotherF*ker. I'll ask them next time I see them](#there-are-also-site-names-like-nicoles-boulders-angelas-sinkhole-ricks-sausage-some-may-not-have-been-published-yet-i-could-not-find-any-references-in-my-stuff-so-i-may-be-inaccurate-but-i-recall-there-was-a-mfmf-and-it-meant-motherf-ing-motherfker-ill-ask-them-next-time-i-see-them)
+* [14:23. 900ml black tea left, coffee finished, opening the pbj box again. Hungry, but have to keep typing](#1423-900ml-black-tea-left-coffee-finished-opening-the-pbj-box-again-hungry-but-have-to-keep-typing)
+* [Do you think Prince Andrew will suffer a narcissistic collapse?](#do-you-think-prince-andrew-will-suffer-a-narcissistic-collapse)
 * []()
 
 <br />
