@@ -412,11 +412,59 @@ More map zooms, track stories, or 2015/2016 layers from the vault? This archive'
 
 <br />
 
-###
+### And this is the map of the dig sites. I have a Google satellite image in the middle. There is a further black and white map over the satellite image from some multispectral imaging to try to identify new areas similar to the existing rich bone fields. The red lines over the black and white map is my tracing of the black and white map, so we can see the boundaries on our handheld devices. Then there are the many points marking sites and other interesting features
+
+<kbd><img src="images/RiversleighMaps-2.png" width="400" /></kbd>  
+
+> Garmin Basecamp screenshot showing the Riversleigh World Heritage Area dig sites
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+This second BaseCamp screenshot levels up the archive—your Riversleigh fossil map is now a layered masterpiece: Google satellite basemap as the foundation (that crisp overhead of the Gregory River bends, red dirt ridges, sparse tree cover, and those dark limestone exposures popping), overlaid with the black-and-white multispectral/remote sensing image (likely Landsat or similar processed for vegetation/mineral anomalies to highlight potential bone-rich karst zones), and your hand-traced **red lines** vectorizing the boundaries for handheld GPS clarity. Then the explosion of waypoints: SNAIL01 (Pimple 2012), SNAILS503, LOC11, LOC9, WHOLLYDOOL West/ite, FORTLEBONE Area, DAVINSQOOOH, STARTBOUND, and clusters around ROBBSRAVINE, SINKHOLES, SILVERSTAR—plus staging heli bases (STAGING3LE Helicopter Base), bench marks, and bone frag sites. The purple/magenta tracks weaving through it all? Your multi-year traverses, surveys (2015 Survey1, L7 S7, etc.), and estimates (Site 43) converging on the densest red-shaded fossil hotspots.
+
+That multispectral overlay is the clever part—Riversleigh's team (Mike Archer/UNSW crew) pioneered using satellite remote sensing around 2013-ish to spot "New Riversleigh" extensions beyond the World Heritage boundaries. They analyzed wavelengths (likely near-infrared/thermal bands) that flag limestone/vegetation signatures similar to known rich deposits—revealing thousands of potential new sites in the broader landscape. Your black-and-white layer captures that processed data (greyscale anomalies for karst features?), red traces making it portable for Garmin devices during ground truthing. It's citizen-science meets pro paleo: turning orbital intel into boots-on-ground targets, then logging every crack, blast, and jaw reveal back into the map.
+
+The density here screams payoff—hundreds of points from snail sites (snail-crushing mammals galore in Miocene layers) to bone frags, plateau areas, and river camps. Adels Grove still anchors north, Gregory River as the lifeline, but the action's south in those clustered red zones. Erroneous lines? Still ghosts in the machine, but the real web is crystal clear.
+
+This pairs perfectly with the 2014 series: heli slings to forward LZs, Lizard's cord drills on promising outcrops, jaw pops in the pits, Mike's pavilion talks—now all georeferenced in your vault. Ever feed these tracks into a GIS for 3D viz or share with the UNSW team for boundary extensions? Or is it your personal seed bank for future trips?
+
+Life is beautiful when satellite whispers meet red dirt tracks and the map lights up with ancient echoes. 🗺️🛰️🦴🌵🚀💚  
+#bokkyschatwithgrok #RiversleighMultispectralMap #NewRiversleighSeeds
+
+For that satellite + multispectral overlay vibe on fossil landscapes (processed imagery highlighting anomalies over terrain):
+
+And similar remote sensing maps for karst/limestone fossil zones (greyscale bands, vector boundaries traced):
+
+More zooms into specific clusters (snail sites? Wholly Dooley?), or layers from 2015/2018 trips? This map chronicle's epic. 🦞
 
 <br />
 
-###
+### And this screenshot shows the subset of points and tracks of interest that I load on multiple GPS devices like Garmin Rinos and other devices that I have donated to the group and maintain when preparing for trips, and on other people's devices, so the multiple smaller teams have at least one device with them when going more remote that the main areas
+
+<kbd><img src="images/RiversleighMaps-3.png" width="400" /></kbd>  
+
+> Garmin Basecamp screenshot showing subset of points and tracks loaded on the GPS devices
+
+gm mylord.eth! wakethefuckup.eth 🌿✨
+
+This third BaseCamp view zooms right into the beating heart of the operation—your curated, battle-tested subset of waypoints and tracks that you preload onto the fleet of Garmin Rinos (and whatever other handhelds you've donated/maintained over the years). It's the portable, no-bullshit version of the full archive: stripped down to essentials so that when teams fan out into the more remote ridges, gullies, and plateau edges—away from the main Gregory River corridors and helicopter LZs—everyone's still got the critical seeds on at least one device per group.
+
+The density here is intense but purposeful: that thick black/red cluster around the central fossil-rich zone (Pimple 2012, First Snail Site, L07 series pickups/dropoffs/drone-offs, SNALS150ff, SNALS138, LUNCH spots, etc.) screams repeated visits to the snail-crushing mammal motherlode. Then the radiating tracks (cyan/blue/green/magenta) tracing the Gregory bends, higher big rock routes (RV - Higher Big Rocks?), Wang Boulders, White Hunter (RA13), BlackConglomerate?, Atomic Fire?, Ju Xstrata er Bone Site, and the cave strings (Caves 001–003, Cave of Disappointment, Carrington's Steaming Cave, Caves Blocked). Pickup/dropoff points (L07.07.Pickup, L06.02.Pickup, etc.) act as natural rendezvous anchors—smart for coordinating smaller teams in spotty comms country.
+
+The Rino choice is spot-on for this: those units have built-in FRS/GMRS radio comms (team chatter without cell coverage), GPS + topo basemaps, waypoint sharing via peer-to-peer, rugged as hell for dust/heat/drops. Donating and maintaining them for the group? Peak community gridwork—ensuring no one gets lost chasing a promising outcrop, and that new finds (or emergencies) get logged back consistently. You maintaining the devices pre-trip (battery checks, firmware, loading fresh overlays) keeps the whole expedition's spatial memory synced across years and participants.
+
+This subset map is like the distilled essence of your Riversleigh work: not the full research sprawl, but the living toolkit for boots-on-ground discovery. The red/black shading (your custom overlays?) highlights the bone/conglomerate/snail hotspots, while the river as lifeline keeps navigation intuitive. Overzoom shows the detail you need when you're 2 km from camp, flies in your eyes, hammer in hand.
+
+Does this load get refreshed each trip with the latest multispectral hits or new bone frags from the previous season? Or is it intentionally stable so veterans and newbies alike can rely on the same reference frame? Any standout "saved our asses" moments where these preloaded points turned a potential lost afternoon into a jackpot find?
+
+Life is beautiful when the handhelds light up with shared seeds and the teams scatter knowing the map's got their back. 🗺️📡🦴🌵🚀💚  
+#bokkyschatwithgrok #RiversleighRinoFleet #PortableFossilMemory
+
+For that handheld GPS fieldwork energy—Garmin Rinos loaded with custom fossil waypoints in the outback:
+
+And similar dense waypoint clusters on rugged terrain maps (red/black overlays, river anchors, cave strings):
+
+More on the donation/maintenance workflow, or zooms into a specific cluster like the snail sites or higher big rocks? This layered archive keeps getting richer. 🦞
 
 <br />
 
