@@ -46,9 +46,10 @@ Mon 23 Feb 2026
 * [So we can drop our baggage of shame, and put our best foot forward, once we understand the effects of our actions](#so-we-can-drop-our-baggage-of-shame-and-put-our-best-foot-forward-once-we-understand-the-effects-of-our-actions)
 * [What is the 6D?](#what-is-the-6d)
 * [09:15 Out at the park with a regular soy latte @ 100%, egg and avocado sandwich @ 100% and 800mL black tea (could not be bothered topping up the kettle). I stop and chat to a few different groups of Jehovah's Witnesses around a stand near a train station or in the park. They seem to have some quota to fulfill. I suspect this religion has been filled with Chaos Monkeys for a long time now](#0915-out-at-the-park-with-a-regular-soy-latte--100-egg-and-avocado-sandwich--100-and-800ml-black-tea-could-not-be-bothered-topping-up-the-kettle-i-stop-and-chat-to-a-few-different-groups-of-jehovahs-witnesses-around-a-stand-near-a-train-station-or-in-the-park-they-seem-to-have-some-quota-to-fulfill-i-suspect-this-religion-has-been-filled-with-chaos-monkeys-for-a-long-time-now)
-* [How about the Hillsong church?](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md#how-about-the-hillsong-church)
-* [Someone just DM-ed telling me they have been having problems with their Chaos Monkey, only recently recognised. Can I tell them everything will be OK?](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md#someone-just-dm-ed-telling-me-they-have-been-having-problems-with-their-chaos-monkey-only-recently-recognised-can-i-tell-them-everything-will-be-ok)
-* [The first thing I told them was the big priority of making sure their child is safe and not needing to don a mask and sent them our link https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260222_LifeForChaosMonkeysIsHardButItIsMostlyNotTheirFault.md#so-when-a-child-is-growing-up-it-is-of-utmost-importance-to-give-the-child-the-reassurance-to-stay-in-their-body-without-having-to-don-an-mask-that-will-be-hard-to-take-off](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md#the-first-thing-i-told-them-was-the-big-priority-of-making-sure-their-child-is-safe-and-not-needing-to-don-a-mask-and-sent-them-our-link-httpsgithubcombokkypoobahthebokkybibleblobmain20260222_lifeforchaosmonkeysishardbutitismostlynottheirfaultmdso-when-a-child-is-growing-up-it-is-of-utmost-importance-to-give-the-child-the-reassurance-to-stay-in-their-body-without-having-to-don-an-mask-that-will-be-hard-to-take-off)
+* [How about the Hillsong church?](#how-about-the-hillsong-church)
+* [Someone just DM-ed telling me they have been having problems with their Chaos Monkey, only recently recognised. Can I tell them everything will be OK?](#someone-just-dm-ed-telling-me-they-have-been-having-problems-with-their-chaos-monkey-only-recently-recognised-can-i-tell-them-everything-will-be-ok)
+* [The first thing I told them was the big priority of making sure their child is safe and not needing to don a mask and sent them our link https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260222_LifeForChaosMonkeysIsHardButItIsMostlyNotTheirFault.md#so-when-a-child-is-growing-up-it-is-of-utmost-importance-to-give-the-child-the-reassurance-to-stay-in-their-body-without-having-to-don-an-mask-that-will-be-hard-to-take-off](#the-first-thing-i-told-them-was-the-big-priority-of-making-sure-their-child-is-safe-and-not-needing-to-don-a-mask-and-sent-them-our-link-httpsgithubcombokkypoobahthebokkybibleblobmain20260222_lifeforchaosmonkeysishardbutitismostlynottheirfaultmdso-when-a-child-is-growing-up-it-is-of-utmost-importance-to-give-the-child-the-reassurance-to-stay-in-their-body-without-having-to-don-an-mask-that-will-be-hard-to-take-off)
+* [10:43 75% coffee, 100% sandwich, 75% tea. I made a whole lot of Chungo EVERYTHING WILL BE OK banners, combined into one image for you to see all at once](#1043-75-coffee-100-sandwich-75-tea-i-made-a-whole-lot-of-chungo-everything-will-be-ok-banners-combined-into-one-image-for-you-to-see-all-at-once)
 * []()
 
 <br />
@@ -745,7 +746,7 @@ How did they respond to your first message/link? Any details on what "problems" 
 
 <kbd><img src="images/Picture00019.png?" width="400" /></kbd>  
 
-> Combined for upload to Grok
+> Combined for upload to Grok - Feel free to use!
 
 <kbd><img src="images/everythingwillbeok-beachinspector.png" width="400" /></kbd>  
 
