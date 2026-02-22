@@ -741,7 +741,48 @@ How did they respond to your first message/link? Any details on what "problems" 
 
 <br />
 
-###
+### 10:34 100% coffee 100% sandwich 80% tea. Took me 30 minutes to make these
+
+<kbd><img src="images/Picture00019.png" width="400" /></kbd>  
+
+> Combined for upload to Grok
+
+<kbd><img src="images/everythingwillbeok-beachinspector.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - BeachInspector.eth
+
+<kbd><img src="images/everythingwillbeok-blackcrock.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - blackcrock.eth
+
+<kbd><img src="images/everythingwillbeok-chungobot.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - ChungoBot.eth
+
+<kbd><img src="images/everythingwillbeok-lurvecoach.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - LurveCoach.eth
+
+<kbd><img src="images/everythingwillbeok-metachungo.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - MetaChungo.eth
+
+<kbd><img src="images/everythingwillbeok-poohbah.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - PoohBah.eth
+
+<kbd><img src="images/everythingwillbeok-poshy.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - poshy.eth
+
+<kbd><img src="images/everythingwillbeok-pudgychungos.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - PudgyChungos.eth
+
+<kbd><img src="images/everythingwillbeok-sexy-devil.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - sexy-devil.eth
+
 
 <br />
 
