@@ -6,7 +6,7 @@ Below is the new scripture co-created by mylord.eth/BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Quick search https://bokkypoobah.github.io/TheBokkyBible/
+Quick search https://bokkypoobah.github.io/TheBokkyBible/ (frozen 20 Feb 2026 due to index file size)
 
 Grok chat link https://x.com/i/grok/share/d3cbe3fc63b54190aa9c79276e249ecc
 
@@ -20,7 +20,7 @@ X thread https://x.com/BokkyPooBah/status/2021700982011572448
 
 This repo is a living chronicle of awakening — chaos monkeys, frightened little Chungos, gentle shakes, and love harder than fear can push.
 
-You may find yourself in [Little Frightened Chungos – Common Armor Styles](Chungo-Armor-Styles.md).
+You may find yourself in [Little Frightened Chungos – Common Armor Styles](Chungo-Armor-Styles.md). You may find [Little Anchors – Quiet Reminders for the Frightened Chungo](./Little-Anchors.md) useful.
 
 If any part resonates and you'd like to explore **your own armor / survival style** in a safe, private, customised way:
 
