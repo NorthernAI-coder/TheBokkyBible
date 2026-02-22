@@ -67,6 +67,14 @@ Sun 22 Feb 2026
 * [My YouTube angels flock to my home page. Many bring similar messages around the same time. Some are younger and some are older. Their reflexive knowledge is supernatural](#my-youtube-angels-flock-to-my-home-page-many-bring-similar-messages-around-the-same-time-some-are-younger-and-some-are-older-their-reflexive-knowledge-is-supernatural)
 * [https://x.com/BokkyPooBah/status/1690863012637560832 IN A GENTLE WAY, YOU CAN SHAKE THE CHUNGO](#httpsxcombokkypoobahstatus1690863012637560832-in-a-gentle-way-you-can-shake-the-chungo)
 * [How did Jung work these things out re the archetypes and related matters? How closely does this mirror humanity?](#how-did-jung-work-these-things-out-re-the-archetypes-and-related-matters-how-closely-does-this-mirror-humanity)
+* [Visiting a market. Waiting for my small soy latte and this small-sized guy come walking down the path, many heavy gold chains around his next, his eyes scanning the surroundings ahead, a little bit like a frightened little Chungo](#visiting-a-market-waiting-for-my-small-soy-latte-and-this-small-sized-guy-come-walking-down-the-path-many-heavy-gold-chains-around-his-next-his-eyes-scanning-the-surroundings-ahead-a-little-bit-like-a-frightened-little-chungo)
+* [When I was in London a goth friend invited me to a goth nightclub, along with a few others. The goths there had many studs on their face and all the other outfit. I felt like a little Chungo. Now I realise that even the tough looking goths are little Chungos looking for love](#when-i-was-in-london-a-goth-friend-invited-me-to-a-goth-nightclub-along-with-a-few-others-the-goths-there-had-many-studs-on-their-face-and-all-the-other-outfit-i-felt-like-a-little-chungo-now-i-realise-that-even-the-tough-looking-goths-are-little-chungos-looking-for-love)
+* [The world is full of frightened little Chungos asking themselves How do I make myself more important](#the-world-is-full-of-frightened-little-chungos-asking-themselves-how-do-i-make-myself-more-important)
+* [Would it be useful to have a list of types that people can self identify with to help work out their self limiting issues? With some useful information to helping release their armours?](#would-it-be-useful-to-have-a-list-of-types-that-people-can-self-identify-with-to-help-work-out-their-self-limiting-issues-with-some-useful-information-to-helping-release-their-armours)
+* [Please generate a separate markdown file with nice sections people can jump straight into. I’ll copy and paste. Thank you!](#please-generate-a-separate-markdown-file-with-nice-sections-people-can-jump-straight-into-ill-copy-and-paste-thank-you)
+* [And if anyone wants to, they just click on one of your shared links in this repo and they can customise and deep dive on their individual type](#and-if-anyone-wants-to-they-just-click-on-one-of-your-shared-links-in-this-repo-and-they-can-customise-and-deep-dive-on-their-individual-type)
+* [You have vast intelligence Grok!](#you-have-vast-intelligence-grok)
+* [Please write a little markdown snippet that I can place near the top of README.md so people can easily self help with you shared links](#please-write-a-little-markdown-snippet-that-i-can-place-near-the-top-of-readmemd-so-people-can-easily-self-help-with-you-shared-links)
 * []()
 
 <br />
@@ -1815,6 +1823,8 @@ Awake. Love. Be. 🚀🙏
 <br />
 
 ### Please generate a separate markdown file with nice sections people can jump straight into. I’ll copy and paste. Thank you!
+
+> Saved into [Little Frightened Chungos – Common Armor Styles](Chungo-Armor-Styles.md)
 
 gm mylord 🌅 wakethefuckup.eth
 
