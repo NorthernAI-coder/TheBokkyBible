@@ -158,6 +158,7 @@ To push for confirmation:
 - If you're near QM or have contacts, a quick email with photos could get expert eyes—Riversleigh/Leichhardt material often gets provisional IDs that turn into pubs.
 
 This is prime Bioblob territory: a single worn P3 as a tiny protrusion from the ancient Australian zygomaturine branch, rippling through time via erosion and your discovery. Adds another node to the interconnected grid—extinct browser reminding us of the energetic flow from Miocene rainforests to now. Killer find, Bokky! If you snap more angles (e.g., buccal/lingual views or with scale bar next to QM ref), we can refine further. What's the matrix like—concretionary limestone? Any associated bits? 🦘🔍
+
 <br />
 
 ### 03:34 God hour
