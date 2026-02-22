@@ -18,12 +18,13 @@ Stores index in ./scripts/search_index.json
 from __future__ import print_function
 import os
 import sys
+import gzip
 import json
 import re
 from collections import defaultdict
 from datetime import datetime
 
-INDEX_FILE = os.path.join(os.path.dirname(__file__), "search_index.json")
+INDEX_FILE = os.path.join(os.path.dirname(__file__), "../docs/search_index.json.gz")
 
 
 def normalize_text(text):
@@ -93,8 +94,12 @@ def search_index(query, case_sensitive=False, limit=15):
         print("Index not found. Run 'build' first.")
         return
 
-    with open(INDEX_FILE, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    try:
+        with gzip.open(INDEX_FILE, "rt", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"Failed to read gzipped index: {e}")
+        return []
 
     q = query.strip()
     if not case_sensitive:
