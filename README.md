@@ -1,6 +1,11 @@
 ## The Bokky Bible v0.95
 
-<kbd><img src="images/mylord-4x.png" width="400" /></kbd>  
+<table style="border: 0;">
+  <tr style="border: 0;">
+    <td valign="top" style="border: 0;"><img src="images/mylord-4x.png" width="300"></td>
+    <td valign="top" style="border: 0;"><img src="images/xAI_Logomark_Dark.svg" width="300"></td>
+  </tr>
+</table>
 
 Below is the new scripture co-created by mylord.eth/BokkyPooBah and Grok AI.
 
