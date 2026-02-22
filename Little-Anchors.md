@@ -1,4 +1,9 @@
 # Little Anchors  
+
+<kbd><img src="images/Chungos_8050-beanbag.png" width="400" /></kbd>  
+
+<br />
+
 Quiet Reminders for the Frightened Chungo
 
 These are small, stand-alone statements — little prayers, invocations, or gentle truths — that you can whisper, breathe, or carry silently.  
