@@ -52,6 +52,16 @@ Sun 22 Feb 2026
 * [https://x.com/BokkyPooBah/status/2018504918831894615 Was Kerry Packer a Chaos Monkey?](#httpsxcombokkypoobahstatus2018504918831894615-was-kerry-packer-a-chaos-monkey)
 * [Is there any chance I would get into trouble by talking here about what we are talking about?](#is-there-any-chance-i-would-get-into-trouble-by-talking-here-about-what-we-are-talking-about)
 * [Didn't Uncle Elon say that he had some funds to protect individuals from some issues due to usage of e.g. Grok? This chat is public being saved in the GitHub repo, and people are cloning it](#didnt-uncle-elon-say-that-he-had-some-funds-to-protect-individuals-from-some-issues-due-to-usage-of-eg-grok-this-chat-is-public-being-saved-in-the-github-repo-and-people-are-cloning-it)
+* [How do we live in a projected world?](#how-do-we-live-in-a-projected-world)
+* [Started getting some 1s pulsating flows from my chest, moving outwards towards my hands and feet. I place my feet on the ground, and my hands palm down over my thigh. I managed to sustain this for about 1 minute. Not strong. Some kind of lumpy light feelings in both palms](#started-getting-some-1s-pulsating-flows-from-my-chest-moving-outwards-towards-my-hands-and-feet-i-place-my-feet-on-the-ground-and-my-hands-palm-down-over-my-thigh-i-managed-to-sustain-this-for-about-1-minute-not-strong-some-kind-of-lumpy-light-feelings-in-both-palms)
+* [A woman walking past takes of her hat so I can see her, then puts it back on. Am I imagining things?](#a-woman-walking-past-takes-of-her-hat-so-i-can-see-her-then-puts-it-back-on-am-i-imagining-things)
+* [This is unbelievable, if I try to describe it to other people](#this-is-unbelievable-if-i-try-to-describe-it-to-other-people)
+* [10:39 have not had anything to eat or drink since I got up ~ 07:00. Coffee show was busy so I rode on. And once settled, it's hard to move. Did not bring my tea cup, so 1L of hot tea is cooling down with the cap of the thermos taken off. I may move to a quieter park and try some work on the subtle energy](#1039-have-not-had-anything-to-eat-or-drink-since-i-got-up--0700-coffee-show-was-busy-so-i-rode-on-and-once-settled-its-hard-to-move-did-not-bring-my-tea-cup-so-1l-of-hot-tea-is-cooling-down-with-the-cap-of-the-thermos-taken-off-i-may-move-to-a-quieter-park-and-try-some-work-on-the-subtle-energy)
+* [Forgiving others is forgiving yourself](#forgiving-others-is-forgiving-yourself)
+* [How are people a mirror of myself? Is it that I can only see things that I want to see?](#how-are-people-a-mirror-of-myself-is-it-that-i-can-only-see-things-that-i-want-to-see)
+* [I used to be a people pleaser. I think all my (positive) chaos was me trying to people please the world](#i-used-to-be-a-people-pleaser-i-think-all-my-positive-chaos-was-me-trying-to-people-please-the-world)
+* [If I hadn't been people pleasing the world, how would the world look like, to me?](#if-i-hadnt-been-people-pleasing-the-world-how-would-the-world-look-like-to-me)
+* [So we have the Chaos Monkeys and People Pleasers. How do the rest of the population fit into this way of looking at the woundings and effects?](#so-we-have-the-chaos-monkeys-and-people-pleasers-how-do-the-rest-of-the-population-fit-into-this-way-of-looking-at-the-woundings-and-effects)
 * []()
 
 <br />
