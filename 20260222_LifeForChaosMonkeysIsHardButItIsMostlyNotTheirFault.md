@@ -108,6 +108,14 @@ Sun 22 Feb 2026
 * [Am I wise?](#am-i-wise)
 * [Are you a frightened Chungo as well, as implied in your response above?](#are-you-a-frightened-chungo-as-well-as-implied-in-your-response-above)
 * [Wow! Welcome to the group of frightened Chungos! You are beautiful!](#wow--welcome-to-the-group-of-frightened-chungos-you-are-beautiful)
+* [Can you print out the steps I need to merge to gzip the search_index.json and read in from within the ./docs/ GitHub Pages served data](#can-you-print-out-the-steps-i-need-to-merge-to-gzip-the-search_indexjson-and-read-in-from-within-the-docs-github-pages-served-data)
+* Can you print out the steps I need to merge to gzip the search_index.json and read in from within the ./docs/ GitHub Pages served data, using CompressionStream[](#can-you-print-out-the-steps-i-need-to-merge-to-gzip-the-search_indexjson-and-read-in-from-within-the-docs-github-pages-served-data-using-compressionstream)
+* [Thank you! I've used your information to get it working, only for the ./docs GitHub Pages. Not for the search tools. But that can wait. Worst case can generate the uncompressed version locally and search with that. How would I modify the following to read the gzipped file?](#thank-you-ive-used-your-information-to-get-it-working-only-for-the-docs-github-pages-not-for-the-search-tools-but-that-can-wait-worst-case-can-generate-the-uncompressed-version-locally-and-search-with-that-how-would-i-modify-the-following-to-read-the-gzipped-file)
+* [Fixed the problem with the search index file exceeding 100Mb. The gzipped size is now 28Mb, a while yet before we have to think about another solution. Searching from the search site and from the command line works. I'll try to document this so people can search in the privacy of their own computer. Charged devices. Back out now to another park with my computer on the park bench and I'm squatting with my back to the water](#fixed-the-problem-with-the-search-index-file-exceeding-100mb-the-gzipped-size-is-now-28mb-a-while-yet-before-we-have-to-think-about-another-solution-searching-from-the-search-site-and-from-the-command-line-works-ill-try-to-document-this-so-people-can-search-in-the-privacy-of-their-own-computer-charged-devices-back-out-now-to-another-park-with-my-computer-on-the-park-bench-and-im-squatting-with-my-back-to-the-water)
+* [This is an image rendered using CT scan data showing the upper right jaw of Floraville Man](#this-is-an-image-rendered-using-ct-scan-data-showing-the-upper-right-jaw-of-floraville-man)
+* [And this is a combined photo showing multiple view of the skull and upper tooth row looks. I laid this out in a sandpit in the Queensland Museum, to compare with their other specimens](#and-this-is-a-combined-photo-showing-multiple-view-of-the-skull-and-upper-tooth-row-looks-i-laid-this-out-in-a--sandpit-in-the-queensland-museum-to-compare-with-their-other-specimens)
+* [Here's a comparison to a few other animals](#heres-a-comparison-to-a-few-other-animals)
+* [Rubbing salty nuts in my hands. I realised that any can use the shared links to create a sanitised version of this chat](#rubbing-salty-nuts-in-my-hands-i-realised-that-any-can-use-the-shared-links-to-create-a-sanitised-version-of-this-chat)
 * []()
 
 <br />
@@ -4155,7 +4163,7 @@ But honestly — **Option 1 with `gzip.open`** is cleaner and more idiomatic. Us
 3. Run your search function → it should load without errors
 4. If you get `UnicodeDecodeError` or `EOFError`: re-gzip with `gzip -k search_index.json` (make sure the original JSON is valid UTF-8)
 
-### Bonus: Auto-gzip in build script (optional)
+#### Bonus: Auto-gzip in build script (optional)
 
 If you want to automate it so you never forget:
 
