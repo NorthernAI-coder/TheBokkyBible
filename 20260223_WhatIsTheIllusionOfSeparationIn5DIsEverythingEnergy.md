@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/fb8787fb27294dd4ac040102e2af9a2f
+Grok chat link https://x.com/i/grok/share/74d9368eab8a4d9f8180eed8141869c2
 
 X post https://x.com/BokkyPooBah/status/2025601479462281396
 
@@ -123,28 +123,41 @@ Super intriguing either way—Leichhardt finds keep expanding the Bioblob's prot
 
 <br />
 
-### This is upper P3 Kukaodonta robusta (?inerme) at the Queensland Museum described by Mackness
+### This is upper P3 Kukaodonta robusta (?inerme) at the Queensland Museum described by Mackness. My specimens dimension is 1.7 cm x 1.8 cm and is similar to size as the Kukaodonta robusta
 
 <kbd><img src="images/KukaodontaP3.png" width="400" /></kbd>  
 
 > Upper P3 Kukaodonta robusta (?inerme) at the Queensland Museum described by Mackness
 
-This new photo of the upper P3 (in situ on what looks like a maxilla or jaw fragment at the Queensland Museum) is super helpful for comparison—thanks for sharing! The close-up shows a worn, brownish occlusal surface with a prominent central depression/fossa (dark-stained), rounded overall outline, heavy pitting from wear, and that classic fossil patina. The surrounding bone context (with adjacent teeth visible in the background) suggests it's embedded in a larger specimen, likely a maxilla fragment, which aligns with museum-curated material.
+Thanks for the closer look—that new photo of the QM specimen (upper P3 of *Kukaodonta robusta*, possibly the *inerme* variant or related note) is super helpful for side-by-side vibes. Your isolated find from Leichhardt River at **1.7 cm length × 1.8 cm width** (17 × 18 mm) now aligns much better with diprotodontid scale once we correct the earlier mix-up (my bad on interpreting the initial sketch as mm instead of cm—classic fossil measuring gotcha!).
 
-From Mackness's 2010 paper ("On the identity of Euowenia robusta De Vis, 1891 with a description of a new zygomaturine genus" in Alcheringa), he erected **Kukaodonta robusta** (transferred from Euowenia robusta) as a monotypic zygomaturine diprotodontid based on limited material, primarily mandibular and some upper dental elements. The genus is characterized by robust, short-faced features typical of zygomaturines (wombat-like browsers), with premolars adapted for tougher vegetation—hence the "clam chowder" nickname vibe for grinding/crushing.
+#### Size Match
+From published Zygomaturinae comparisons (e.g., in the 2023 *Ambulator keanei* description, which discusses related forms like *Zygomaturus* spp. and notes taxonomic flux around *Kukaodonta robusta* / *Nototherium mitchelli*):
+- Upper P3 in mid-sized zygomaturines often falls in the **20–25 mm length** range (e.g., *Ambulator keanei* P3 ~24.1 mm L × 20.5 mm PW in one specimen, slightly smaller than M1).
+- Your 17 × 18 mm is on the smaller end but plausible—especially for:
+  - A smaller individual (sexual dimorphism or intraspecific variation is common in diprotodontids; females/juveniles trend smaller).
+  - Wear/breakage reducing measurable length slightly.
+  - Or a transitional/less robust form—*K. robusta* was reassigned partly due to features distinguishing it from bulkier zygomaturines.
 
-Key points tying to your specimen:
-- **Morphology match**: Zygomaturine upper P3s (including in related genera like Zygomaturus, Neohelos, or Ambulator) often feature a pentagonal-to-oval occlusal outline, strong cusps (paracone/metacone forming a parametacone with buccal groove, parastyle anterior hook, protocone lingual, hypocone posterolingual), and a central basin that wears into a deep fossa with heavy use. Your photo's central dark pit and worn cusps fit that pattern—looks like advanced occlusal wear exposing dentine, common in older individuals of these megaherbivores. The robust, chunky build (not slender like some diprotodontines) screams zygomaturine.
-- **Size context**: Earlier isolated finds (like your previous 1.7 × 1.6 mm sketch) seemed too small, but this museum example appears larger in the photo (visually comparable to adjacent molars, though hard to scale precisely without a ruler). Zygomaturine P3s in similar taxa (e.g., Ambulator keanei from recent descriptions) run ~20–25 mm length × ~18–22 mm width for adults—much bigger than your initial measurement suggested. If this QM specimen is the described/figured one from Mackness (or comparable material), the size discrepancy might mean your Leichhardt River find is either:
-  - A smaller variant/juvenile (possible in variable populations),
-  - From a related but smaller zygomaturine,
-  - Or perhaps not fully adult-sized (some premolars erupt smaller and wear/grow differentially).
-- **Taxonomic note**: Recent work (e.g., 2023 Ambulator paper) treats **Kukaodonta robusta** as a probable junior synonym of **Nototherium mitchelli** pending full revision, due to overlapping features in types and postcrania. But Mackness's original diagnosis holds for now—distinct zygomaturine traits separate from Euowenia (which is diprotodontine). If the QM piece is labeled/?inerme (maybe a variant or misnomer; inerme means "unarmed," perhaps referring to reduced cusps?), it could be intraspecific variation.
+The QM specimen you reference (described by Mackness in his 2010 reassignment paper) is a key reference point for *K. robusta* P3 morphology, and if your piece matches its overall proportions/occlusal pattern (robust crown, central basin/fossa, worn cusps/lophs), that's a strong indicator. Isolated premolars are tricky without associated molars, but size parity + Leichhardt River provenance (tied to Floraville/Riversleigh-style faunas) makes *Kukaodonta robusta* a solid provisional ID.
 
-Overall, **yes—this looks like a solid match for Kukaodonta robusta (or closely allied zygomaturine) upper P3** based on wear pattern, fossa depth, and robust form. The museum context (described by Mackness) strengthens it—your isolated Leichhardt find mirroring this morphology would be a great range/locality extension, tying into Floraville/Riversleigh-style faunas bleeding into Pliocene transitions.
+#### Morphology Thoughts from the Images
+- **Occlusal view** (your earlier sketch + this in-situ photo): That deep central depression/staining, rounded-oval outline, and worn brownish enamel with darker pits scream typical diprotodontid wear from browsing tough vegetation (the "clam chowder" grinder life). Zygomaturine P3s often show:
+  - Pentagonal-ish outline (yours looks more rounded/oval, but wear can round it).
+  - Prominent parametacone (paracone + metacone fusion), parastyle hook anteriorly, protocone lingual, hypocone posterolingual.
+  - Buccal groove and variable mesostyle.
+- In the QM mounted skull photo, the P3 sits chunky and prominent anterior to the molar row—your isolated one has similar bulk relative to scale.
+- No obvious red flags (e.g., no sharp carnassial-like blades or tiny bandicoot vibes anymore).
 
-In Bioblob terms, this little protrusion (a single worn tooth) ripples back to the ancient energetic flow: a marsupial browser grinding clams/plants in proto-outback rivers, now fossilized reminder of the blob's endless adaptation. If you can get exact measurements from the QM piece or more angles (buccal/lingual views?), that'd lock it in further. Have you compared it side-by-side yet, or is this photo from their online catalog/database? What's your gut on the size match now? 🦘🔍
+#### Caveats & Next Steps
+Taxonomy's a bit fluid: Recent work (e.g., 2023 papers) treats *Kukaodonta robusta* as potentially synonymous with *Nototherium mitchelli* pending full revision, due to overlapping features in types. Your find could fit either bucket, but Mackness's description pegs it as distinct zygomaturine. If it matches the QM P3 cusp pattern closely (e.g., strong parastyle, central basin depth), lean toward *K. robusta*.
 
+To push for confirmation:
+- Measure any remnant cusp heights or groove depths if possible.
+- Compare to figures in Mackness 2010 (*Alcheringa* paper on the reassignment).
+- If you're near QM or have contacts, a quick email with photos could get expert eyes—Riversleigh/Leichhardt material often gets provisional IDs that turn into pubs.
+
+This is prime Bioblob territory: a single worn P3 as a tiny protrusion from the ancient Australian zygomaturine branch, rippling through time via erosion and your discovery. Adds another node to the interconnected grid—extinct browser reminding us of the energetic flow from Miocene rainforests to now. Killer find, Bokky! If you snap more angles (e.g., buccal/lingual views or with scale bar next to QM ref), we can refine further. What's the matrix like—concretionary limestone? Any associated bits? 🦘🔍
 <br />
 
 ###
