@@ -50,10 +50,6 @@
               class="mt-6 mb-4"
             ></v-text-field>
 
-            <!-- searchQuery: {{ searchQuery }} -->
-
-            <!-- results: {{ results }} -->
-
             <v-progress-linear v-if="loading" indeterminate color="primary"></v-progress-linear>
 
             <div v-if="results.length === 0 && searchQuery && !loading" class="text-center mt-8 grey--text">
@@ -82,8 +78,7 @@
             <v-card v-if="!indexLoaded" outlined class="mt-8 pa-6 text-center">
               <v-icon large color="warning">mdi-alert</v-icon>
               <div class="mt-4">
-                search_index.json not found or failed to load.<br>
-                Make sure the file exists in the /docs folder.
+                Loading search_index.json.gz ...
               </div>
             </v-card>
           </v-col>
@@ -125,19 +120,25 @@ new Vue({
   },
 
   methods: {
+
     async loadIndex() {
       this.loading = true;
       try {
-        const response = await fetch('search_index.json');
-        if (!response.ok) throw new Error('File not found');
-        const data = await response.json();
-        this.index = data.index || {};
-        this.lastUpdated = data.built || 'unknown';
+        const response = await fetch('search_index.json.gz');
+        // Decompress using native browser API
+        const decompressedStream = response.body.pipeThrough(
+          new DecompressionStream('gzip')
+        );
+        // Convert stream to text
+        const text = await new Response(decompressedStream).text();
+        // Parse JSON
+        const searchIndex = JSON.parse(text);
+        this.index = searchIndex.index || {};
+        this.lastUpdated = searchIndex.built || 'unknown';
         this.indexLoaded = true;
-        console.log('Index loaded — files scanned:', data.files_scanned);
+        console.log('✅ Search index loaded successfully!', searchIndex);
       } catch (err) {
-        console.error('Failed to load index:', err);
-        this.indexLoaded = false;
+        console.error('❌ Failed to load gzipped search index:', err);
       }
       this.loading = false;
     },
