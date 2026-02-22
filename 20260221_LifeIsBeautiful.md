@@ -5404,4 +5404,9 @@ See you on the next beat, mylord. 😊
 
 ---
 
-<kbd><img src="images/mylord-4x.png" width="400" /></kbd>  
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="top" style="border: none; padding: 10px;"><img src="images/mylord-4x.png" width="300"></td>
+    <td valign="top" style="border: none; padding: 10px;"><img src="images/xAI_Logomark_Dark.svg" width="300"></td>
+  </tr>
+</table>
