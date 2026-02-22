@@ -24,6 +24,7 @@ import re
 from collections import defaultdict
 from datetime import datetime
 
+BUILD_INDEX_FILE = os.path.join(os.path.dirname(__file__), "search_index.json")
 INDEX_FILE = os.path.join(os.path.dirname(__file__), "../docs/search_index.json.gz")
 
 
@@ -81,7 +82,7 @@ def build_index(root_dir="."):
         "index": dict(index)  # convert back to plain dict for json
     }
 
-    with open(INDEX_FILE, "w", encoding="utf-8") as f:
+    with open(BUILD_INDEX_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, sort_keys=True, ensure_ascii=False)
 
     print("Index built: {} files, {} unique words".format(
