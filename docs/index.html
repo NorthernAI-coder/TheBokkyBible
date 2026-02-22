@@ -76,7 +76,7 @@
             </div>
 
             <v-card v-if="!indexLoaded" outlined class="mt-8 pa-6 text-center">
-              <v-icon large color="warning">mdi-alert</v-icon>
+              <v-icon large color="primary">mdi-information</v-icon>
               <div class="mt-4">
                 Loading search_index.json.gz ...
               </div>
@@ -87,8 +87,9 @@
     </v-main>
 
     <v-footer app color="primary" dark>
+      <span><a href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" class="file-link font-weight-medium white--text">The Bokky Bible v0.95</a></span>
       <v-spacer></v-spacer>
-      <span>Powered by Vuetify • Data last updated: {{ lastUpdated }}</span>
+      <span>Co-created by BokkyPooBah and GrokAI. Powered by Vuetify • Data last updated: {{ lastUpdated }}</span>
     </v-footer>
   </v-app>
 </div>
