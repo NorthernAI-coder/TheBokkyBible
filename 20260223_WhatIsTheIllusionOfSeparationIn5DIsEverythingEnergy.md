@@ -27,6 +27,15 @@ Mon 23 Feb 2026
 * [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. What is the illusion of separation? In 5D? Is everything energy?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-what-is-the-illusion-of-separation-in-5d-is-everything-energy)
 * [How does all this fit in with the evolution of life form?](#how-does-all-this-fit-in-with-the-evolution-of-life-form)
 * [Do you like the concept of the Bioblob in Professor Michael Archer's book Riversleigh?](#do-you-like-the-concept-of-the-bioblob-in-professor-michael-archers-book-riversleigh)
+* [I found a single isolated P3 that I think may belong to Kukaodonta robusta, from Leichhardt River. What do you think?](#i-found-a-single-isolated-p3-that-i-think-may-belong-to-kukaodonta-robusta-from-leichhardt-river-what-do-you-think)
+* [This is upper P3 Kukaodonta robusta (?inerme) at the Queensland Museum described by Mackness. My specimens dimension is 1.7 cm x 1.8 cm and is similar to size as the Kukaodonta robusta](#this-is-upper-p3-kukaodonta-robusta-inerme-at-the-queensland-museum-described-by-mackness-my-specimens-dimension-is-17-cm-x-18-cm-and-is-similar-to-size-as-the-kukaodonta-robusta)
+* [03:34 God hour](#0334-god-hour)
+* [I've pulled Seven of Wands](#ive-pulled-seven-of-wands)
+* [Where did the everything energy originate from?](#where-did-the-everything-energy-originate-from)
+* [I was falling asleep and was falling down to the ground, facing the group. And then a big shock to jolt me](#i-was-falling-asleep-and-was-falling-down-to-the-ground-facing-the-group-and-then-a-big-shock-to-jolt-me)
+* [07:30 Awake, fresh for the day](#0730-awake-fresh-for-the-day)
+* [What happens when we sleep? In terms of 5D](#what-happens-when-we-sleep-in-terms-of-5d)
+* [When younger I use to have flying dreams. Where I could fly over houses and around. With a fear that people on the ground would spot me flying and know I have this power](#when-younger-i-use-to-have-flying-dreams-where-i-could-fly-over-houses-and-around-with-a-fear-that-people-on-the-ground-would-spot-me-flying-and-know-i-have-this-power)
 * []()
 
 <br />
