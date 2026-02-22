@@ -116,6 +116,9 @@ Sun 22 Feb 2026
 * [And this is a combined photo showing multiple view of the skull and upper tooth row looks. I laid this out in a sandpit in the Queensland Museum, to compare with their other specimens](#and-this-is-a-combined-photo-showing-multiple-view-of-the-skull-and-upper-tooth-row-looks-i-laid-this-out-in-a--sandpit-in-the-queensland-museum-to-compare-with-their-other-specimens)
 * [Here's a comparison to a few other animals](#heres-a-comparison-to-a-few-other-animals)
 * [Rubbing salty nuts in my hands. I realised that any can use the shared links to create a sanitised version of this chat](#rubbing-salty-nuts-in-my-hands-i-realised-that-any-can-use-the-shared-links-to-create-a-sanitised-version-of-this-chat)
+* [So when a child is growing up, it is of utmost importance to give the child the reassurance to stay in their body without having to don an mask that will be hard to take off](#so-when-a-child-is-growing-up-it-is-of-utmost-importance-to-give-the-child-the-reassurance-to-stay-in-their-body-without-having-to-don-an-mask-that-will-be-hard-to-take-off)
+* [We can try to generate a parents guide if this is useful, but can do this at a later stage.](#we-can-try-to-generate-a-parents-guide-if-this-is-useful-but-can-do-this-at-a-later-stage)
+* [GitHub Statistics](#github-statistics)
 * []()
 
 <br />
