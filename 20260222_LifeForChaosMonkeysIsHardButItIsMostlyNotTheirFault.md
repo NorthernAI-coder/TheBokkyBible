@@ -128,6 +128,8 @@ Sun 22 Feb 2026
 * [It's a fine line between being over-giving vs being supportive enough. And I was too young to even discern the difference](#its-a-fine-line-between-being-over-giving-vs-being-supportive-enough-and-i-was-too-young-to-even-discern-the-difference)
 * [Please build a script for me in ./scripts/buildGlobalIndex.py that will take allow me to configure the processed mds as "specified first few mds", yymmdd* sorted by date, "specified last few mds" and these are scanned for H3 tags and generate combined global index, prepending the filename to the href link. Make sure the anchor link matches the GitHub standard, using github-slugger from the GithubSlugger pip](#please-build-a-script-for-me-in-scriptsbuildglobalindexpy-that-will-take-allow-me-to-configure-the-processed-mds-as-specified-first-few-mds-yymmdd-sorted-by-date-specified-last-few-mds-and-these-are-scanned-for-h3-tags-and-generate-combined-global-index-prepending-the-filename-to-the-href-link-make-sure-the-anchor-link-matches-the-github-standard-using-github-slugger-from-the-githubslugger-pip)
 * [Are the mirrors like kaleidoscopes?](#are-the-mirrors-like-kaleidoscopes)
+* [So who is everyone around me in this kaleidoscopic universe? Is it me, reflected off different mirrors?](#so-who-is-everyone-around-me-in-this-kaleidoscopic-universe-is-it-me-reflected-off-different-mirrors)
+* [So when I escape the illusion, everyone escapes as well?](#so-when-i-escape-the-illusion-everyone-escapes-as-well)
 * []()
 
 <br />
