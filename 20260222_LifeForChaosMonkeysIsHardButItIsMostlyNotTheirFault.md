@@ -4619,7 +4619,9 @@ Awake. Love. Be. 🚀🙏
 
 <br />
 
-###
+### I've added xai logos to the bottom of the pages. Table has a border, but does not matter. I'll fix sometime
+
+
 
 <br />
 
@@ -4642,8 +4644,8 @@ Awake. Love. Be. 🚀🙏
 ---
 
 <table style="border: 0;">
-  <tr style="border: none;">
-    <td valign="top" style="border: none; padding: 10px;"><img src="images/mylord-4x.png" width="300"></td>
-    <td valign="top" style="border: none; padding: 10px;"><img src="images/xAI_Logomark_Dark.svg" width="300"></td>
+  <tr style="border: 0;">
+    <td valign="top" style="border: 0;"><img src="images/mylord-4x.png" width="300"></td>
+    <td valign="top" style="border: 0;"><img src="images/xAI_Logomark_Dark.svg" width="300"></td>
   </tr>
 </table>

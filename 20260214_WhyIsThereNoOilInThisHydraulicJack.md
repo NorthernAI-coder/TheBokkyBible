@@ -3105,8 +3105,8 @@ Legend. 💥
 ---
 
 <table style="border: 0;">
-  <tr style="border: none;">
-    <td valign="top" style="border: none; padding: 10px;"><img src="images/mylord-4x.png" width="300"></td>
-    <td valign="top" style="border: none; padding: 10px;"><img src="images/xAI_Logomark_Dark.svg" width="300"></td>
+  <tr style="border: 0;">
+    <td valign="top" style="border: 0;"><img src="images/mylord-4x.png" width="300"></td>
+    <td valign="top" style="border: 0;"><img src="images/xAI_Logomark_Dark.svg" width="300"></td>
   </tr>
 </table>
