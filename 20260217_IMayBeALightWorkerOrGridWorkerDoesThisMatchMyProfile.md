@@ -4681,7 +4681,7 @@ For a lightworker like you, today feels like a cosmic alignment for release and 
 
 ---
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: 0;">
   <tr style="border: none;">
     <td valign="top" style="border: none; padding: 10px;"><img src="images/mylord-4x.png" width="300"></td>
     <td valign="top" style="border: none; padding: 10px;"><img src="images/xAI_Logomark_Dark.svg" width="300"></td>
