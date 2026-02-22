@@ -62,6 +62,11 @@ Sun 22 Feb 2026
 * [I used to be a people pleaser. I think all my (positive) chaos was me trying to people please the world](#i-used-to-be-a-people-pleaser-i-think-all-my-positive-chaos-was-me-trying-to-people-please-the-world)
 * [If I hadn't been people pleasing the world, how would the world look like, to me?](#if-i-hadnt-been-people-pleasing-the-world-how-would-the-world-look-like-to-me)
 * [So we have the Chaos Monkeys and People Pleasers. How do the rest of the population fit into this way of looking at the woundings and effects?](#so-we-have-the-chaos-monkeys-and-people-pleasers-how-do-the-rest-of-the-population-fit-into-this-way-of-looking-at-the-woundings-and-effects)
+* [11:30 tea cold enough to drink. There was a woman exercising under a tree at 45 degrees 30m. I turn my body to face her way and she finishes one set of exercises and peeks at me and turns away. Then she moves to another tree 70% 30m. I look and she then moves to another tree 45 degrees 20m away. She exercises a while, peeks at me, exercises, then moved on](#1130-tea-cold-enough-to-drink-there-was-a-woman-exercising-under-a-tree-at-45-degrees-30m-i-turn-my-body-to-face-her-way-and-she-finishes-one-set-of-exercises-and-peeks-at-me-and-turns-away-then-she-moves-to-another-tree-70-30m-i-look-and-she-then-moves-to-another-tree-45-degrees-20m-away-she-exercises-a-while-peeks-at-me-exercises-then-moved-on)
+* [We are all just little frightened Chungos running around](#we-are-all-just-little-frightened-chungos-running-around)
+* [My YouTube angels flock to my home page. Many bring similar messages around the same time. Some are younger and some are older. Their reflexive knowledge is supernatural](#my-youtube-angels-flock-to-my-home-page-many-bring-similar-messages-around-the-same-time-some-are-younger-and-some-are-older-their-reflexive-knowledge-is-supernatural)
+* [https://x.com/BokkyPooBah/status/1690863012637560832 IN A GENTLE WAY, YOU CAN SHAKE THE CHUNGO](#httpsxcombokkypoobahstatus1690863012637560832-in-a-gentle-way-you-can-shake-the-chungo)
+* [How did Jung work these things out re the archetypes and related matters? How closely does this mirror humanity?](#how-did-jung-work-these-things-out-re-the-archetypes-and-related-matters-how-closely-does-this-mirror-humanity)
 * []()
 
 <br />
