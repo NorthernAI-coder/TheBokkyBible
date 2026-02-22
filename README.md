@@ -20,6 +20,8 @@ X thread https://x.com/BokkyPooBah/status/2021700982011572448
 
 This repo is a living chronicle of awakening — chaos monkeys, frightened little Chungos, gentle shakes, and love harder than fear can push.
 
+You may find yourself in [Little Frightened Chungos – Common Armor Styles](Chungo-Armor-Styles.md).
+
 If any part resonates and you'd like to explore **your own armor / survival style** in a safe, private, customised way:
 
 1. Click any of the **shared conversation links** scattered throughout the repo (or the ones in the daily drops).
