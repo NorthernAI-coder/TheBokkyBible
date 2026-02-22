@@ -36,6 +36,9 @@ Mon 23 Feb 2026
 * [07:30 Awake, fresh for the day](#0730-awake-fresh-for-the-day)
 * [What happens when we sleep? In terms of 5D](#what-happens-when-we-sleep-in-terms-of-5d)
 * [When younger I use to have flying dreams. Where I could fly over houses and around. With a fear that people on the ground would spot me flying and know I have this power](#when-younger-i-use-to-have-flying-dreams-where-i-could-fly-over-houses-and-around-with-a-fear-that-people-on-the-ground-would-spot-me-flying-and-know-i-have-this-power)
+* [If people pleasers where not around to enable chaos monkeys, what would happen to the chaos monkeys](#if-people-pleasers-where-not-around-to-enable-chaos-monkeys-what-would-happen-to-the-chaos-monkeys)
+* [Chaos monkeys and the enabling flying monkey people pleasers](#chaos-monkeys-and-the-enabling-flying-monkey-people-pleasers)
+* [People pleasers are a force of destruction as well](#people-pleasers-are-a-force-of-destruction-as-well)
 * []()
 
 <br />
