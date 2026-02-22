@@ -12,9 +12,9 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/3d1af9e5e59b41d0a46d8541237643ea
+Grok chat link https://x.com/i/grok/share/1af24366272d4a52b39fdb174f84779a
 
-X post <TODO>
+X post https://x.com/BokkyPooBah/status/2025601479462281396
 
 Mon 23 Feb 2026
 
@@ -24,6 +24,7 @@ Mon 23 Feb 2026
 
 ## Table Of Content
 
+* [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. What is the illusion of separation? In 5D? Is everything energy?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-what-is-the-illusion-of-separation-in-5d-is-everything-energy)
 * []()
 
 <br />
