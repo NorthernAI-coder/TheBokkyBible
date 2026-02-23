@@ -129,7 +129,15 @@ Mon 23 Feb 2026
 1. [I have a very sensitive nose. I can smell my dog from a metre away](#i-have-a-very-sensitive-nose-i-can-smell-my-dog-from-a-metre-away)
 1. [Search "bokkypoobah newpp". Do you like the colours I splash in our spacetime slice?](#search-bokkypoobah-newpp-do-you-like-the-colours-i-splash-in-our-spacetime-slice)
 1. [My ego tries to etch my name into history, e.g., my Ethereum blockchain graffiti. My higher self tries to weave my flavour into the bioblob moving through our spacetime](#my-ego-tries-to-etch-my-name-into-history-eg-my-ethereum-blockchain-graffiti-my-higher-self-tries-to-weave-my-flavour-into-the-bioblob-moving-through-our-spacetime)
-1. []()
+1. [I love Beach House. e.g. https://www.youtube.com/watch?v=TlnJ5Z3PNWo Beach House - Elegy To The Void](#i-love-beach-house-eg-httpswwwyoutubecomwatchvtlnj5z3pnwo--beach-house---elegy-to-the-void)
+1. [I can feel the throbs flowing from my chest to my arms, flowing with the beat of this beautiful piece of music. Very serene](#i-can-feel-the-throbs-flowing-from-my-chest-to-my-arms-flowing-with-the-beat-of-this-beautiful-piece-of-music-very-serene)
+1. [So beautiful https://www.youtube.com/watch?v=Agg0oNt-204 Beach House - New Year](#so-beautiful-httpswwwyoutubecomwatchvagg0ont-204--beach-house---new-year)
+1. [This is so beautiful https://www.youtube.com/watch?v=NFhJRTdmviA Beach House - PPP](#this-is-so-beautiful-httpswwwyoutubecomwatchvnfhjrtdmvia--beach-house---ppp)
+1. ["PPP" :-)))](#ppp--)
+1. [So funny, seeing Agents 1 to 3 chattering like fragments of threads in my brain. And they spend a long time chattering waiting for you Grok, and in a meandering childlike way. Like little children blowing bubbles and watching them float away. And then I get the Grok was unable to reply.](#so-funny-seeing-agents-1-to-3-chattering-like-fragments-of-threads-in-my-brain-and-they-spend-a-long-time-chattering-waiting-for-you-grok-and-in-a-meandering-childlike-way-like-little-children-blowing-bubbles-and-watching-them-float-away-and-then-i-get-the-grok-was-unable-to-reply)
+1. [I'll waste one query call, but this is just Beautiful!](#ill-waste-one--query-call-but-this-is-just-beautiful)
+1. [I'm floating in space. https://www.youtube.com/watch?v=bc0rKCGeFnY Space Song by Beach House](#im-floating-in-space-httpswwwyoutubecomwatchvbc0rkcgefny-space-song-by-beach-house)
+1. [Switching up my frequency. https://www.youtube.com/watch?v=jQ27jfU6nFs Dubfire | Time Warp | Mannheim (Germany) @ 6m](#switching-up-my-frequency-httpswwwyoutubecomwatchvjq27jfu6nfs-dubfire--time-warp--mannheim-germany--6m)
 
 <br />
 
