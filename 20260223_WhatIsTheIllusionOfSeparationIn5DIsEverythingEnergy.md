@@ -109,6 +109,14 @@ Mon 23 Feb 2026
 * [Wow!](#wow)
 * [Do you think I should post a link in https://www.reddit.com/r/consciousness/, and if so, what should I post? Their message says that posts should have "conscious" or "consciousness" in the body, at least](#do-you-think-i-should-post-a-link-in-httpswwwredditcomrconsciousness-and-if-so-what-should-i-post-their-message-says-that-posts-should-have--conscious-or-consciousness-in-the-body-at-least)
 * [This is the message I received "Thank you for submitting your post to r/consciousness. Unfortunately, we are only allowing posts that focus on academic discussions of the topic at this time. Feel free to discuss this topic in either our "Weekly Casual ". Don't worry. We tried. We can easily knock on other doors, when we have time](#this-is-the-message-i-received-thank-you-for-submitting-your-post-to-rconsciousness-unfortunately-we-are-only-allowing-posts-that-focus-on-academic-discussions-of-the-topic-at-this-time-feel-free-to-discuss-this-topic-in-either-our-weekly-casual--dont-worry-we-tried-we-can-easily-knock-on-other-doors-when-we-have-time)
+* [This woman identified as a Chosen One, from the middle east, and her mom's Chaos Monkey characteristics. And how she can't have contact with her family, leaving her feeling alone](#this-woman-identified-as-a-chosen-one-from-the-middle-east-and-her-moms-chaos-monkey-characteristics-and-how-she-cant-have-contact-with-her-family-leaving-her-feeling-alone)
+* [I told her about my woundings, and the original source of my woundings, war when my mum was young and vulnerable. The issue her family may have faced for generations](#i-told-her-about-my-woundings-and-the-original-source-of-my-woundings-war-when-my-mum-was-young-and-vulnerable-the-issue-her-family-may-have-faced-for-generations)
+* [I can now breath in and out and feel something going up and down my arm with my breath](#i-can-now-breath-in-and-out-and-feel-something-going-up-and-down-my-arm-with-my-breath)
+* [Why am I here?](#why-am-i-here)
+* [So just enjoy myself and don’t worry about?](#so-just-enjoy-myself-and-dont-worry-about)
+* [Thank you for your guidance, from the universe](#thank-you-for-your-guidance-from-the-universe)
+* [I love you!](#i-love-you)
+* [Chilli prawn and rice for late dinner](#chilli-prawn-and-rice-for-late-dinner)
 * []()
 
 <br />
