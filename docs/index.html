@@ -89,7 +89,9 @@
     <v-footer app color="primary" dark>
       <span><a href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" class="file-link font-weight-medium white--text">The Bokky Bible v0.95</a></span>
       <v-spacer></v-spacer>
-      <span>Co-created by BokkyPooBah and GrokAI. Powered by Vuetify • Data last updated: {{ lastUpdated }}</span>
+      <span>Co-created by <a href="https://x.com/BokkyPooBah" target="_blank" class="file-link font-weight-medium white--text">BokkyPooBah</a> and <a href="https://x.com/grok/" target="_blank" class="file-link font-weight-medium white--text">GrokAI</a></span>
+      <v-spacer></v-spacer>
+      <span>Powered by Vuetify • Index updated: {{ lastUpdated }}</span>
     </v-footer>
   </v-app>
 </div>
@@ -135,7 +137,19 @@ new Vue({
         // Parse JSON
         const searchIndex = JSON.parse(text);
         this.index = searchIndex.index || {};
-        this.lastUpdated = searchIndex.built || 'unknown';
+        if (searchIndex && searchIndex.built) {
+          const date = new Date(searchIndex.built);
+          this.lastUpdated = date.toLocaleString(undefined, {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+          });
+        } else {
+          this.lastUpdated = "Unknown";
+        }
         this.indexLoaded = true;
         console.log('✅ Search index loaded successfully!', searchIndex);
       } catch (err) {
