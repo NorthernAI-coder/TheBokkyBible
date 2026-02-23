@@ -86,6 +86,8 @@ Mon 23 Feb 2026
 * [Alexey Pertsev was in my workshop group, along with some of his other colleagues](#alexey-pertsev-was-in-my-workshop-group-along-with-some-of-his-other-colleagues)
 * [The subtle energy is there all along. It's just be able to sense it. And then play with it](#the-subtle-energy-is-there-all-along-its-just-be-able-to-sense-it-and-then-play-with-it)
 * [Listening to Dubfire Boiler Room Amsterdam DJ set https://www.youtube.com/watch?v=z0vn2AHQhGo @ 25m](#listening-to--dubfire-boiler-room-amsterdam-dj-set--httpswwwyoutubecomwatchvz0vn2ahqhgo--25m)
+* [A woman in white and sunglasses has been wandering around, with my latest sighting of her coming out at 0% 25m away. I just look and smile and she looks behind her sunglasses. She smiles and continues on](#a-woman-in-white-and-sunglasses-has-been-wandering-around-with-my-latest-sighting-of-her-coming-out-at-0-25m-away-i-just-look-and-smile-and-she-looks-behind-her-sunglasses-she-smiles-and-continues-on)
+* [My tongue is touching my palate quite a bit now. I like to play with the suction, letting it go gently](#my-tongue-is-touching-my-palate-quite-a-bit-now-i-like-to-play-with-the-suction-letting-it-go-gently)
 * []()
 
 <br />
