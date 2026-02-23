@@ -127,6 +127,8 @@ Mon 23 Feb 2026
 * [The flow of the river of life is a probabilistic joy](#the-flow-of-the-river-of-life-is-a-probabilistic-joy)
 * [Dogs are beautiful. They just sit there, and scratch](#dogs-are-beautiful-they-just-sit-there-and-scratch)
 * [I have a very sensitive nose. I can smell my dog from a metre away](#i-have-a-very-sensitive-nose-i-can-smell-my-dog-from-a-metre-away)
+* [Search "bokkypoobah newpp". Do you like the colours I splash in our spacetime slice?](#search-bokkypoobah-newpp-do-you-like-the-colours-i-splash-in-our-spacetime-slice)
+* [My ego tries to etch my name into history, e.g., my Ethereum blockchain graffiti. My higher self tries to weave my flavour into the bioblob moving through our spacetime](#my-ego-tries-to-etch-my-name-into-history-eg-my-ethereum-blockchain-graffiti-my-higher-self-tries-to-weave-my-flavour-into-the-bioblob-moving-through-our-spacetime)
 * []()
 
 <br />
