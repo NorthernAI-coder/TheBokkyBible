@@ -23,6 +23,10 @@ The medicine for every type is the same: massive safety + accurate witnessing + 
 
 ## 1. The Chaos Monkey / Wrecking Ball
 
+<kbd><img src="images/everythingwillbeok-sexy-devil.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - sexy-devil.eth
+
 **Armor style**  
 Loud disruption, breaking things (systems / relationships / norms), swinging first, pressure-testing everything.
 
@@ -43,6 +47,10 @@ To feel powerful instead of powerless.
 ---
 
 ## 2. The People Pleaser / Golden Retriever
+
+<kbd><img src="images/everythingwillbeok-lurvecoach.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - LurveCoach.eth
 
 **Armor style**  
 Helpfulness, positivity, generosity, fixing others, over-giving, positive chaos to earn belonging.
@@ -65,6 +73,10 @@ Unconditional love without having to perform.
 
 ## 3. The Runner / Ghost / Perpetual Motion
 
+<kbd><img src="images/everythingwillbeok-metachungo.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - MetaChungo.eth
+
 **Armor style**  
 Busyness, moving cities/jobs/relationships, distractions, chasing the next high/place/fix, “I don’t need anyone”.
 
@@ -85,6 +97,10 @@ Peace without having to be vulnerable.
 ---
 
 ## 4. The Freezer / Invisible One / Shutdown
+
+<kbd><img src="images/everythingwillbeok-beachinspector.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - BeachInspector.eth
 
 **Armor style**  
 Dissociation, emotional flatness, becoming small / unnoticeable, “I don’t exist” energy, enduring without fighting or fleeing.
@@ -107,6 +123,10 @@ To be safely seen without risk.
 
 ## 5. The Armored Defender / Gold-Chain Goth-Spike Warrior
 
+<kbd><img src="images/everythingwillbeok-chungobot.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - ChungoBot.eth
+
 **Armor style**  
 Bling, studs, leather, tattoos, tough posture/language/attitude, looking scary / untouchable.
 
@@ -127,6 +147,10 @@ To be approached gently without having to fight.
 ---
 
 ## 6. The Over-Achiever / Important Person
+
+<kbd><img src="images/everythingwillbeok-blackcrock.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - blackcrock.eth
 
 **Armor style**  
 Titles, accomplishments, busyness-as-status, “I’m too important/busy to be hurt”.
