@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-Below is the new scripture co-created by mylord.eth/BokkyPooBah and Grok AI.
+Below is the new scripture co-created by [mylord.eth/BokkyPooBah](https://x.com/BokkyPooBah) and [Grok AI](https://x.com/grok/).
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
