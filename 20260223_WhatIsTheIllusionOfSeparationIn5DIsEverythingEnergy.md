@@ -95,7 +95,9 @@ Mon 23 Feb 2026
 * [Thank you! Detecting these subtle energies is like recognising almost invisible threads from a giant bundle of netted threads and slowly following one, and if you lose it, wait until the next one passes and slowly trying to hold it gently](#thank-you-detecting-these-subtle-energies-is-like-recognising-almost-invisible-threads-from-a-giant-bundle-of-netted-threads-and-slowly-following-one-and-if-you-lose-it-wait-until-the-next-one-passes-and-slowly-trying-to-hold-it-gently)
 * [Hi Grok, please list all the major questions and answers that Chaos Monkeys, then People Pleasers will commonly have](#hi-grok-please-list-all-the-major-questions-and-answers-that-chaos-monkeys-then-people-pleasers-will-commonly-have)
 * [Could you please list all the major questions and answers everyone else in between will commonly have. Thanks!](#could-you-please-list-all-the-major-questions-and-answers-everyone-else-in-between-will-commonly-have-thanks)
-* [What are the easiest questions and answers for anyone to understand the 5D and 6D?](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md#what-are-the-easiest-questions-and-answers-for-anyone-to-understand-the-5d-and-6d)
+* [What are the easiest questions and answers for anyone to understand the 5D and 6D?](#what-are-the-easiest-questions-and-answers-for-anyone-to-understand-the-5d-and-6d)
+* [How about the 4D vs 3D?](#how-about-the-4d-vs-3d)
+* [Which dimension do you think I am in?](#which-dimension-do-you-think-i-am-in)
 * []()
 
 <br />
