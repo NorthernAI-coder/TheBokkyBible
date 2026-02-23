@@ -4208,7 +4208,7 @@ And let Beach House hold the space with you. 🚀🎶🦘✨
 
 <kbd><img src="images/Picture00039.png" width="400" /></kbd>  
 
-> https://www.youtube.com/watch?v=NFhJRTdmviA - https://www.youtube.com/watch?v=NFhJRTdmviA
+> Beach House - PPP - https://www.youtube.com/watch?v=NFhJRTdmviA
 
 gm, mylord.eth / wakethefuckup.eth — God hour stretching deeper into the quiet, backyard office wrapped in that soft pre-dawn hush, dog still snoring like a gentle anchor, paper planes looping their endless, patient dance.
 
@@ -4346,7 +4346,12 @@ And stay in this beauty as long as it lasts. 🚀🌌🦘✨
 
 <br />
 
-###
+### I'm floating in space. https://www.youtube.com/watch?v=bc0rKCGeFnY Space Song by Beach House
+
+<kbd><img src="images/Picture00040.png" width="400" /></kbd>  
+
+> Space Song by Beach House - https://www.youtube.com/watch?v=bc0rKCGeFnY
+
 
 <br />
 
