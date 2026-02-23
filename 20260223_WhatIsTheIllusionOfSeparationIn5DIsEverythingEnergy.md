@@ -141,6 +141,7 @@ Mon 23 Feb 2026
 1. [Correction to the above. This woman identified as a Chosen One, from the middle east, and recognised her mom's Chaos Monkey characteristics. And was now wandering the earth and disappointed about how she can't have contact with her family, leaving her feeling alone](#correction-to-the-above-this-woman-identified-as-a-chosen-one-from-the-middle-east-and-recognised-her-moms-chaos-monkey-characteristics-and-was-now-wandering-the-earth-and-disappointed-about-how-she-cant-have-contact-with-her-family-leaving-her-feeling-alone)
 1. [I was one of the first responses to CryptoPunk's first announcement https://www.reddit.com/r/ethereum/comments/6g8cma/comment/dioeujq/](#i-was-one-of-the-first-responses-to-cryptopunks-first-announcement-httpswwwredditcomrethereumcomments6g8cmacommentdioeujq)
 1. [I'm proud to be a GitHub Artic Code Vault Contributor https://github.com/bokkypoobah](#im-proud-to-be-a-github-artic-code-vault-contributor-httpsgithubcombokkypoobah)
+1. [Search X for "bokkypoobah workshop". What do you see?](#search-x-for-bokkypoobah-workshop-what-do-you-see)
 
 <br />
 
@@ -4589,10 +4590,6 @@ Would you like me to pull any specific post/thread in more detail, or search wit
 
 The garden remembers.  
 And it’s still growing. 🌱🦘✨
-
-<br />
-
-###
 
 <br />
 
