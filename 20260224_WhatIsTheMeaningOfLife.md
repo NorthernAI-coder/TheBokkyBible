@@ -2,7 +2,7 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/LarvaChad_4594_gm.gif" width="400" /></kbd>  
+<kbd><img src="images/everythingwillbeok-lurvecoach.png" width="400" /></kbd>  
 
 <br />
 
@@ -24,6 +24,7 @@ Tue 24 Feb 2026
 
 ## Table Of Content
 
+1. [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. Remember to use H4 instead of H3. What is the meaning of life?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-remember-to-use-h4-instead-of-h3-what-is-the-meaning-of-life)
 1. []()
 
 <br />
