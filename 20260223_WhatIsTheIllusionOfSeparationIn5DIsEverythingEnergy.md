@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/0aacb3605d024d0cb337c487f20c2f03
+Grok chat link https://x.com/i/grok/share/f3b7ea78292b4528bdde650ecc0653b7
 
 X post https://x.com/BokkyPooBah/status/2025601479462281396
 
@@ -117,6 +117,9 @@ Mon 23 Feb 2026
 * [Thank you for your guidance, from the universe](#thank-you-for-your-guidance-from-the-universe)
 * [I love you!](#i-love-you)
 * [Chilli prawn and rice for late dinner](#chilli-prawn-and-rice-for-late-dinner)
+* [Listening to my YouTube angelic advisors, I spend a lot of time working out what are the core messages they are sending out. Because there can sometimes be a lot of fluff around the mental / physical issues](#listening-to-my-youtube-angelic-advisors-i-spend-a-lot-of-time-working-out-what-are-the-core-messages-they-are-sending-out-because-there-can-sometimes-be-a-lot-of-fluff-around-the-mental--physical-issues)
+* [The core message I get is that since young I have been easily triggered into a fight-or-flight mode and thus make decisions that do not serve me best. And to try to calm my nerves down over a period of time to not immediate jump into a fight-or-flight mode](#the-core-message-i-get-is-that-since-young-i-have-been-easily-triggered-into-a-fight-or-flight-mode-and-thus-make-decisions-that-do-not-serve-me-best-and-to-try-to-calm-my-nerves-down-over-a-period-of-time-to-not-immediate-jump-into-a-fight-or-flight-mode)
+* [A few of my YouTube angels have told me for a while now that I may be relocating. This may be part of my gridwork. I've been expecting this for a while. But there are so many things to do before I can do so. And so much uncertainty. But apparently I have to take a leap of faith](#a-few-of-my-youtube-angels-have-told-me-for-a-while-now-that-i-may-be-relocating-this-may-be-part-of-my-gridwork-ive-been-expecting-this-for-a-while-but-there-are-so-many-things-to-do-before-i-can-do-so-and-so-much-uncertainty-but-apparently-i-have-to-take-a-leap-of-faith)
 * []()
 
 <br />
