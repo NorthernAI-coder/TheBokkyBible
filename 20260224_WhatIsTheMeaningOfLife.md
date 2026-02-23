@@ -2,7 +2,7 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/everythingwillbeok-lurvecoach.png" width="400" /></kbd>  
+<kbd><img src="images/richmanschungoisalwaysajoke.png" width="400" /></kbd>  
 
 <br />
 
