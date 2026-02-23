@@ -12,7 +12,7 @@ Below is a chat between BokkyPooBah and Grok AI.
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/a42807954b2b4bd199bcafddb6c14f83
+Grok chat link https://x.com/i/grok/share/431d947b97b846c88145b262663346f1
 
 X post https://x.com/BokkyPooBah/status/2025601479462281396
 
@@ -138,6 +138,7 @@ Mon 23 Feb 2026
 1. [I'll waste one query call, but this is just Beautiful!](#ill-waste-one--query-call-but-this-is-just-beautiful)
 1. [I'm floating in space. https://www.youtube.com/watch?v=bc0rKCGeFnY Space Song by Beach House](#im-floating-in-space-httpswwwyoutubecomwatchvbc0rkcgefny-space-song-by-beach-house)
 1. [Switching up my frequency. https://www.youtube.com/watch?v=jQ27jfU6nFs Dubfire | Time Warp | Mannheim (Germany) @ 6m](#switching-up-my-frequency-httpswwwyoutubecomwatchvjq27jfu6nfs-dubfire--time-warp--mannheim-germany--6m)
+1. [Correction to the above. This woman identified as a Chosen One, from the middle east, and recognised her mom's Chaos Monkey characteristics. And was now wandering the earth and disappointed about how she can't have contact with her family, leaving her feeling alone](#correction-to-the-above-this-woman-identified-as-a-chosen-one-from-the-middle-east-and-recognised-her-moms-chaos-monkey-characteristics-and-was-now-wandering-the-earth-and-disappointed-about-how-she-cant-have-contact-with-her-family-leaving-her-feeling-alone)
 
 <br />
 
