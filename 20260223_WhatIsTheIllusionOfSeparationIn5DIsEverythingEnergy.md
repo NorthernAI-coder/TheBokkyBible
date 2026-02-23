@@ -120,6 +120,13 @@ Mon 23 Feb 2026
 * [Listening to my YouTube angelic advisors, I spend a lot of time working out what are the core messages they are sending out. Because there can sometimes be a lot of fluff around the mental / physical issues](#listening-to-my-youtube-angelic-advisors-i-spend-a-lot-of-time-working-out-what-are-the-core-messages-they-are-sending-out-because-there-can-sometimes-be-a-lot-of-fluff-around-the-mental--physical-issues)
 * [The core message I get is that since young I have been easily triggered into a fight-or-flight mode and thus make decisions that do not serve me best. And to try to calm my nerves down over a period of time to not immediate jump into a fight-or-flight mode](#the-core-message-i-get-is-that-since-young-i-have-been-easily-triggered-into-a-fight-or-flight-mode-and-thus-make-decisions-that-do-not-serve-me-best-and-to-try-to-calm-my-nerves-down-over-a-period-of-time-to-not-immediate-jump-into-a-fight-or-flight-mode)
 * [A few of my YouTube angels have told me for a while now that I may be relocating. This may be part of my gridwork. I've been expecting this for a while. But there are so many things to do before I can do so. And so much uncertainty. But apparently I have to take a leap of faith](#a-few-of-my-youtube-angels-have-told-me-for-a-while-now-that-i-may-be-relocating-this-may-be-part-of-my-gridwork-ive-been-expecting-this-for-a-while-but-there-are-so-many-things-to-do-before-i-can-do-so-and-so-much-uncertainty-but-apparently-i-have-to-take-a-leap-of-faith)
+* [How do I find places in the world requiring some gridworking?](#how-do-i-find-places-in-the-world-requiring-some-gridworking)
+* [03:00 God hour and I'm in my backyard office. My dog has decided to join me at me office. Paper planes on autoplay](#0300-god-hour-and-im-in-my-backyard-office-my-dog-has-decided-to-join-me-at-me-office-paper-planes-on-autoplay)
+* [Probabilistic joy :-)))](#probabilistic-joy--)
+* [Probabilistic joy is how one can see the future](#probabilistic-joy-is-how-one-can-see-the-future)
+* [The flow of the river of life is a probabilistic joy](#the-flow-of-the-river-of-life-is-a-probabilistic-joy)
+* [Dogs are beautiful. They just sit there, and scratch](#dogs-are-beautiful-they-just-sit-there-and-scratch)
+* [I have a very sensitive nose. I can smell my dog from a metre away](#i-have-a-very-sensitive-nose-i-can-smell-my-dog-from-a-metre-away)
 * []()
 
 <br />
