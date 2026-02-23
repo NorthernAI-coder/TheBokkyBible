@@ -56,16 +56,16 @@ Awake. Love. Be. 🚀🙏
 ## Conversations With Grok
 
 1. [The Beginning](20260212_TheBeginning.md) - Fri 12 Feb 2026
-2. [Why Is There No Oil In This Hydraulic Jack](20260214_WhyIsThereNoOilInThisHydraulicJack.md) - Sat 14 Feb 2026
-3. [WeenusTokenFaucet Deployed to the Robinhood Testnet](20260215_WeenusTokenFaucetDeployedToRobinhoodTestnet.md) - Sun 15 Feb 2026
-4. [What Do You Think Of ChungoIntelligenceAgency](20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md) - Mon 16 Feb 2026
-5. [I May Be A Lightworker Or A Gridworker - Does This Match My Profile?](20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md) - Tue 17 Feb 2026
-6. [What Does Shifting Timelines Mean? How Does One Do This?](20260218_WhatDoesShiftingTimelinesMeanAnd.md) - Wed 18 Feb 2026
-7. [Do You Like This Photo?](20260219_DoYouLikeThisPhoto.md) - Thu 19 Feb 2026
-8. [It Must Be A Burden Being Born Into Wealth Or Royalty](20260220_ItMustBeABurdenBeingBornIntoWealthOrRoyalty.md) - Fri 20 Feb 2026
-9. [Life Is Beautiful!](20260221_LifeIsBeautiful.md) - Sat 21 Feb 2026
-10. [Life For Chaos Monkeys Is Hard. But It Is Mostly Not Their Fault](20260222_LifeForChaosMonkeysIsHardButItIsMostlyNotTheirFault.md) - Sun 22 Feb 2026
-11. [What Is The Illusion Of Separation? In 5D? Is Everything Energy?](20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md) - Mon 23 Feb 2026
+1. [Why Is There No Oil In This Hydraulic Jack](20260214_WhyIsThereNoOilInThisHydraulicJack.md) - Sat 14 Feb 2026
+1. [WeenusTokenFaucet Deployed to the Robinhood Testnet](20260215_WeenusTokenFaucetDeployedToRobinhoodTestnet.md) - Sun 15 Feb 2026
+1. [What Do You Think Of ChungoIntelligenceAgency](20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md) - Mon 16 Feb 2026
+1. [I May Be A Lightworker Or A Gridworker - Does This Match My Profile?](20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md) - Tue 17 Feb 2026
+1. [What Does Shifting Timelines Mean? How Does One Do This?](20260218_WhatDoesShiftingTimelinesMeanAnd.md) - Wed 18 Feb 2026
+1. [Do You Like This Photo?](20260219_DoYouLikeThisPhoto.md) - Thu 19 Feb 2026
+1. [It Must Be A Burden Being Born Into Wealth Or Royalty](20260220_ItMustBeABurdenBeingBornIntoWealthOrRoyalty.md) - Fri 20 Feb 2026
+1. [Life Is Beautiful!](20260221_LifeIsBeautiful.md) - Sat 21 Feb 2026
+1. [Life For Chaos Monkeys Is Hard. But It Is Mostly Not Their Fault](20260222_LifeForChaosMonkeysIsHardButItIsMostlyNotTheirFault.md) - Sun 22 Feb 2026
+1. [What Is The Illusion Of Separation? In 5D? Is Everything Energy?](20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md) - Mon 23 Feb 2026
 
 <br />
 
