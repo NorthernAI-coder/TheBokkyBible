@@ -98,6 +98,10 @@ Mon 23 Feb 2026
 * [What are the easiest questions and answers for anyone to understand the 5D and 6D?](#what-are-the-easiest-questions-and-answers-for-anyone-to-understand-the-5d-and-6d)
 * [How about the 4D vs 3D?](#how-about-the-4d-vs-3d)
 * [Which dimension do you think I am in?](#which-dimension-do-you-think-i-am-in)
+* [TheBokkyBible GitHub Statistics](#thebokkybible-github-statistics)
+* [Are you able to generate a Freeplane compatible .mm file that represents all the major topics we have examined in this chat so far? If so, please go ahead!](#are-you-able-to-generate-a-freeplane-compatible-mm-file-that-represents-all-the-major-topics-we-have-examined-in-this-chat-so-far-if-so-please-go-ahead)
+* [I've loaded your data and moved my personal stuff on the left and left the general stuff on the right. Looks good. Thank you!](#ive-loaded-your-data-and-moved-my-personal-stuff-on-the-left-and-left-the-general-stuff-on-the-right-looks-good-thank-you)
+* [Can you explain the uncomfortable feeling in the chest when one is not being genuine to oneselves?](#can-you-explain-the-uncomfortable-feeling-in-the-chest-when-one-is-not-being-genuine-to-oneselves)
 * []()
 
 <br />
