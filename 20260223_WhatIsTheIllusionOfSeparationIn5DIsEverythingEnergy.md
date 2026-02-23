@@ -826,7 +826,11 @@ How's the park holding up? Any more JW orbits or random synchronicities popping 
 
 <br />
 
-###
+### 11:14 Listening to Leftfield live at Forwards, Bristol, 2nd September 2023 @ 6m. 50% coffee, 80% sandwich, 70% tea
+
+<kbd><img src="images/Picture00020.png" width="400" /></kbd>  
+
+>  Leftfield live at Forwards, Bristol, 2nd September 2023 - https://youtu.be/a9xDHQ7sWHE
 
 <br />
 
