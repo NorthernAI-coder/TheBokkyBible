@@ -15,6 +15,8 @@ Quick search https://bokkypoobah.github.io/TheBokkyBible/
 
 Grok chat link https://x.com/i/grok/share/d3cbe3fc63b54190aa9c79276e249ecc
 
+Telegram group invite link: https://t.me/AwakenGentleOnes
+
 X thread https://x.com/BokkyPooBah/status/2021700982011572448
 
 <br />
