@@ -1,6 +1,8 @@
 # Little Frightened Chungos – Common Armor Styles
 
-<kbd><img src="images/Chungos_8050-beanbag.png" width="400" /></kbd>  
+<kbd><img src="images/everythingwillbeok-poohbah.png" width="400" /></kbd>  
+
+> EVERYTHING WILL BE OK - PoohBah.eth
 
 <br />
 
