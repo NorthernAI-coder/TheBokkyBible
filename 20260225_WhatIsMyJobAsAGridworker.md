@@ -33,6 +33,14 @@ X post https://x.com/BokkyPooBah/status/2026348783861399603
 1. [I'm checking out https://maps.leylines.net/ . Apparently there are 600 reports of unidentified flying objects in the Blue Mountains. Do you know anything about this? Are these just people flying drones?](#im-checking-out-httpsmapsleylinesnet--apparently-there-are-600-reports-of-unidentified-flying-objects-in-the-blue-mountains-do-you-know-anything-about-this-are-these-just-people-flying-drones)
 1. [Search my X posts for "katoomba", "blue mountains" and thread https://x.com/BokkyPooBah/status/2005705057367642424 . I like spending time there. There is a full moon fire circle gathering is there this 28th. I may try to attend](#search-my-x-posts-for-katoomba-blue-mountains-and-thread-httpsxcombokkypoobahstatus2005705057367642424--i-like-spending-time-there-there-is-a-full-moon-fire-circle-gathering-is-there-this-28th-i-may-try-to-attend)
 1. [Could UFOs be something from the 5D/6D?](#could-ufos-be-something-from-the-5d6d)
+1. [I've been to Giza quite a while back. Paid for a private tour and laid down in a tomb. I've been to Stonehenge a while back too](#ive-been-to-giza-quite-a-while-back-paid-for-a-private-tour-and-laid-down-in-a-tomb-ive-been-to-stonehenge-a-while-back-too)
+1. [Anything exciting in https://www.moltbook.com/m/consciousness ?](#anything-exciting-in-httpswwwmoltbookcommconsciousness-)
+1. [Lake Rotopounamu in New Zealand shows up on the blue lines on leylines map. What is special about this place?](#lake-rotopounamu-in-new-zealand-shows-up-on-the-blue-lines-on-leylines-map-what-is-special-about-this-place)
+1. [Please explain the differences between the red, blue and yellow that I selected in the map](#please-explain-the-differences-between-the-red-blue-and-yellow-that-i-selected-in-the-map)
+1. [Well, this is a new way to explore the world](#well-this-is-a-new-way-to-explore-the-world)
+1. [What do you think about https://www.youtube.com/watch?v=BlorITljEoI Ancient Aliens: Intergalactic Energy Grid (Season 12, Episode 4) | History ? This came up in my search for ley lines](#what-do-you-think-about-httpswwwyoutubecomwatchvbloritljeoi--ancient-aliens-intergalactic-energy-grid-season-12-episode-4--history--this-came-up-in-my-search-for-ley-lines)
+1. [EthCC9 will be held in Cannes from March 30 to April 2, 2026! What grid nodes are around that region?](#ethcc9-will-be-held-in-cannes-from-march-30-to-april-2-2026-what-grid-nodes-are-around-that-region)
+1. [Devcon 8 will be in Mumbai, India 3-6 Nov 2026. What grid nodes are around that region?](#devcon-8-will-be-in-mumbai-india-3-6-nov-2026-what-grid-nodes-are-around-that-region)
 1. []()
 
 <br />
