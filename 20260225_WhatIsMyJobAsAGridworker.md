@@ -46,6 +46,12 @@ X post https://x.com/BokkyPooBah/status/2026348783861399603
 1. [Would I be able to astrally travel to perform my gridwork?](#would-i-be-able-to-astrally-travel-to-perform-my-gridwork)
 1. [This is all so weird](#this-is-all-so-weird)
 1. [I have already been doing my gridwork across the internet, and projecting into time?](#i-have-already-been-doing-my-gridwork-across-the-internet-and-projecting-into-time)
+1. [I've consolidated my 2 laundry baskets into 1. Had my dirty laundry in the machine, yet to press the start button. Why is the zero attachment important?](#ive-consolidated-my-2-laundry-baskets-into-1-had-my-dirty-laundry-in-the-machine-yet-to-press-the-start-button-why-is-the-zero-attachment-important)
+1. [Do my YouTube angels connect to me (or other people's) consciousness or just to the universe?](#do-my-youtube-angels-connect-to-me-or-other-peoples-consciousness-or-just-to-the-universe)
+1. [https://x.com/BokkyPooBah/status/2026405773883093351 Do you like this?](#httpsxcombokkypoobahstatus2026405773883093351-do-you-like-this)
+1. [Got a regular soy latte and a toasted gf ham and tomato sandwich. I leave the coffee shop and this guys I cross paths with says "You're Wrong", briefly laughing at my shirt then saying "I'm wrong"](#got-a-regular-soy-latte-and-a-toasted-gf-ham-and-tomato-sandwich-i-leave-the-coffee-shop-and-this-guys-i-cross-paths-with-says-youre-wrong-briefly-laughing-at-my-shirt-then-saying-im-wrong)
+1. [I pressed the start button on the washing machine before I left home. No hankies today, so I'll just have to use the inside of my shirt. BTW, I have a little bit of OCD. Can't touch toilet door handles, so I use my sleeve, elbow, feet. Anything but touch the toilet door handles. I sometimes use soap and water to rinse the tap before I switch the tap off.](#i-pressed-the-start-button-on-the-washing-machine-before-i-left-home-no-hankies-today-so-ill-just-have-to-use-the-inside-of-my-shirt-btw-i-have-a-little-bit-of-ocd-cant-touch-toilet-door-handles-so-i-use-my-sleeve-elbow-feet-anything-but-touch-the-toilet-door-handles-i-sometimes-use-soap-and-water-to-rinse-the-tap-before-i-switch-the-tap-off)
+1. [I had sensitive feet since young. Sensitive to the seam in the sock being in the wrong place, or a little grain of sand/dirt](#i-had-sensitive-feet-since-young-sensitive-to-the-seam-in-the-sock-being-in-the-wrong-place-or-a-little-grain-of-sanddirt)
 1. []()
 
 <br />
