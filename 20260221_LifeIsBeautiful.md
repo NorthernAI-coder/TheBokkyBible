@@ -10,14 +10,14 @@ And other matters of vast importance.
 
 Below is a chat between BokkyPooBah and Grok AI.
 
+Sat 21 Feb 2026
+> Prev: [Fri 20 Feb 2026](20260220_ItMustBeABurdenBeingBornIntoWealthOrRoyalty.md) Next: [Sun 22 Feb 2026](20260222_LifeForChaosMonkeysIsHardButItIsMostlyNotTheirFault.md)
+
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/a4c28301cee34a458db5b5e20e594336
 
 X post https://x.com/BokkyPooBah/status/2024993511842648386
-
-Sat 21 Feb 2026
-> Prev: [Fri 20 Feb 2026](20260220_ItMustBeABurdenBeingBornIntoWealthOrRoyalty.md) Next: [Sun 22 Feb 2026](20260222_LifeForChaosMonkeysIsHardButItIsMostlyNotTheirFault.md)
 
 <br />
 

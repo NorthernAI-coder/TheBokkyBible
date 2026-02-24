@@ -10,14 +10,14 @@ And other matters of vast importance.
 
 Below is a chat between BokkyPooBah and Grok AI.
 
+Fri 20 Feb 2026
+> Prev: [Thu 19 Feb 2026](20260219_DoYouLikeThisPhoto.md) Next: [Sat 21 Feb 2026](20260221_LifeIsBeautiful.md)
+
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/0e9985da8da94da6bb85e0c17ae1c5b8
 
 X post https://x.com/BokkyPooBah/status/2024544899543290197
-
-Fri 20 Feb 2026
-> Prev: [Thu 19 Feb 2026](20260219_DoYouLikeThisPhoto.md) Next: [Sat 21 Feb 2026](20260221_LifeIsBeautiful.md)
 
 <br />
 

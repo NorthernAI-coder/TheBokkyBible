@@ -13,15 +13,14 @@ https://github.com/bokkypoobah/WeenusTokenFaucet
 
 Below is a chat between BokkyPooBah and Grok AI.
 
+Sun 15 Feb 2026
+> Prev: [Sat 14 Feb 2026](20260214_WhyIsThereNoOilInThisHydraulicJack.md) Next: [Mon 16 Feb 2026](20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md)
+
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/6ca06a591e304999905a5dd3b76471b9
 
 X post https://x.com/BokkyPooBah/status/2022831896078770394
-
-Sun 15 Feb 2026
-> Prev: [Sat 14 Feb 2026](20260214_WhyIsThereNoOilInThisHydraulicJack.md) Next: [Mon 16 Feb 2026](20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md)
-
 
 <br />
 

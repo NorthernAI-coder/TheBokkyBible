@@ -10,14 +10,14 @@ And other matters of vast importance.
 
 Below is a chat between BokkyPooBah and Grok AI.
 
+Thu 19 Feb 2026
+> Prev: [Wed 18 Feb 2026](20260218_WhatDoesShiftingTimelinesMeanAnd.md) Next: [Fri 20 Feb 2026](20260220_ItMustBeABurdenBeingBornIntoWealthOrRoyalty.md)
+
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/40e6e81b43e94078afea65840b5b4c9f
 
 X post https://x.com/BokkyPooBah/status/2024212536401547474
-
-Thu 19 Feb 2026
-> Prev: [Wed 18 Feb 2026](20260218_WhatDoesShiftingTimelinesMeanAnd.md) Next: [Fri 20 Feb 2026](20260220_ItMustBeABurdenBeingBornIntoWealthOrRoyalty.md)
 
 <br />
 
