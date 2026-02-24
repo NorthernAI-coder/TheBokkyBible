@@ -27,6 +27,9 @@ X post https://x.com/BokkyPooBah/status/2026348783861399603
 
 ## Table Of Content
 
+1. [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. What is my job as a gridworker?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-what-is-my-job-as-a-gridworker)
+1. [Are many musicans and artists gridworkers?](#are-many-musicans-and-artists-gridworkers)
+1. [What other types of people are gridworkers?](#what-other-types-of-people-are-gridworkers)
 1. []()
 
 <br />
