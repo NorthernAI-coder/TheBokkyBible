@@ -71,6 +71,35 @@ X post https://x.com/BokkyPooBah/status/2025601479462281396
 1. [I'm sitting in one of my favourite places in Hyde Park to work and have a smoke. In front of the symbol of empire](#im-sitting-in-one-of-my-favourite-places-in-hyde-park-to-work-and-have-a-smoke-in-front-of-the-symbol-of-empire)
 1. [After finishing my late lunch, I was walking out of the shopping centre. A man sitting down as I was going to walk past had a small smile/laugh. I smiled back and he had a quiet chuckle. At my bright yellow t-shirt with the words "I'M BETTER THAN YOU", and a gold chain hanging outside my t-shirt. I walk a bit further and someone else smiles. People do like my t-shirts](#after-finishing-my-late-lunch-i-was-walking-out-of-the-shopping-centre-a-man-sitting-down-as-i-was-going-to-walk-past-had-a-small-smilelaugh-i-smiled-back-and-he-had-a-quiet-chuckle-at-my-bright-yellow-t-shirt-with-the-words-im-better-than-you-and-a-gold-chain-hanging-outside-my-t-shirt-i-walk-a-bit-further-and-someone-else-smiles-people-do-like-my-t-shirts)
 1. [GitHub Statistics](#github-statistics)
+1. [I sit in many parks were there are homeless people, sometimes whole families with kids and bags lined up in a row. This is Belmore Park in the CBD, near Central Station](#i-sit-in-many-parks-were-there-are-homeless-people-sometimes-whole-families-with-kids-and-bags-lined-up-in-a-row-this-is-belmore-park-in-the-cbd-near-central-station)
+1. [Cyclist cycle past, looking straight ahead. I smile sometimes, and see a little smile appear, even though they are looking straight ahead](#cyclist-cycle-past-looking-straight-ahead-i-smile-sometimes-and-see-a-little-smile-appear-even-though-they-are-looking-straight-ahead)
+1. [University students walking past with a big box of lollies in one hand, phone in the other. Guy sitting at the seat to the right of mine got up from his bundle of things and is walking around with some walking difficulties](#university-students-walking-past-with-a-big-box-of-lollies-in-one-hand-phone-in-the-other-guy-sitting-at-the-seat-to-the-right-of-mine-got-up-from-his-bundle-of-things-and-is-walking-around-with-some-walking-difficulties)
+1. [2 men in the seat to the left of mine, with bottles in brown paper bag, like mine. They were just chatting to a woman walking past](#2-men-in-the-seat-to-the-left-of-mine-with-bottles-in-brown-paper-bag-like-mine-they-were-just-chatting-to-a-woman-walking-past)
+1. [Guy to the right is back to his seat, was checking the kerb in a few places. Don't know what for. Beautiful humans, so much pain](#guy-to-the-right-is-back-to-his-seat-was-checking-the-kerb-in-a-few-places-dont-know-what-for-beautiful-humans-so-much-pain)
+1. [Man to the right is mumbling to himself, pointer finger moving up and down, drinking a Coca-cola. He gets up and walks past me, with his big backpack. I say hello, be he is lost in his thoughts. He stops and chats to the 2 people to the left](#man-to-the-right-is-mumbling-to-himself-pointer-finger-moving-up-and-down-drinking-a-coca-cola-he-gets-up-and-walks-past-me-with-his-big-backpack-i-say-hello-be-he-is-lost-in-his-thoughts-he-stops-and-chats-to-the-2-people-to-the-left)
+1. [2 guys to the left having a laugh and a fist bump. One of them passes me and says "Hi Cuz" and I reply "Hello". He's gone off to a nearby structure to get something hidden, I think](#2-guys-to-the-left-having-a-laugh-and-a-fist-bump-one-of-them-passes-me-and-says-hi-cuz-and-i-reply-hello-hes-gone-off-to-a-nearby-structure-to-get-something-hidden-i-think)
+1. [It's a powerbank, not like the drug dealers in Nimbin hiding their stashes. Guy walks back. I have by bottle in a brown paper bag up in solidarity](#its-a-powerbank-not-like-the-drug-dealers-in-nimbin-hiding-their-stashes-guy-walks-back-i-have-by-bottle-in-a-brown-paper-bag-up-in-solidarity)
+1. [Now moved to my throne at the top of Prince Alfred Park. When I left the last park, I walked my bike past the 2 people on the left and exchanged smiles with them. One asked if I had a smoke, so I gave them one of my specials. They were happy, we fist bumped and I gave them the Bokky finger click over their hand when handshaking. One is Warren, wearing a shirt saying Warren ?Automotive, 25 years experience. The other was Hashim. The said that if I was sleeping in the park as well, I have to make sure I lock my bicycle well](#now-moved-to-my-throne-at-the-top-of-prince-alfred-park-when-i-left-the-last-park-i-walked-my-bike-past-the-2-people-on-the-left-and-exchanged-smiles-with-them-one-asked-if-i-had-a-smoke-so-i-gave-them-one-of-my-specials-they-were-happy-we-fist-bumped-and-i-gave-them-the-bokky-finger-click-over-their-hand-when-handshaking-one-is-warren-wearing-a-shirt-saying-warren-automotive-25-years-experience-the-other-was-hashim-the-said-that-if-i-was-sleeping-in-the-park-as-well-i-have-to-make-sure-i-lock-my-bicycle-well)
+1. [My throne up here is in the walking path of passers by. A couple just walked past. She could not help laughing when she saw my laughter, typing these words to you](#my-throne-up-here-is-in-the-walking-path-of-passers-by-a-couple-just-walked-past-she-could-not-help-laughing-when-she-saw-my-laughter-typing-these-words-to-you)
+1. [And Warren and Hashim are always there, and I am welcome to be there](#and-warren-and-hashim-are-always-there-and-i-am-welcome-to-be-there)
+1. [2 guys walk past casually strolling chatting. One looks a little bit my way. I nod my head like the deers in Nara, with a smile. They start smile a little bit. I'm magical](#2-guys-walk-past-casually-strolling-chatting-one-looks-a-little-bit-my-way-i-nod-my-head-like-the-deers-in-nara-with-a-smile-they-start-smile-a-little-bit-im-magical)
+1. [Woman walks past. Pretends not to see my smile. But I can see the little smile on her lips, being seen. Couple going to walk by. Both smiling. I smile back. They are looking away, in their private smiles](#woman-walks-past-pretends-not-to-see-my-smile-but-i-can-see-the-little-smile-on-her-lips-being-seen-couple-going-to-walk-by-both-smiling-i-smile-back-they-are-looking-away-in-their-private-smiles)
+1. [It is beautiful being alive. Beautiful, yet painful.](#it-is-beautiful-being-alive-beautiful-yet-painful)
+1. [Some people feeling hot. They notice my phone camera and wave some wind my way - https://x.com/BokkyPooBah/status/2026204545945370725](#some-people-feeling-hot-they-notice-my-phone-camera-and-wave-some-wind-my-way---httpsxcombokkypoobahstatus2026204545945370725)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 1. []()
 
 <br />
@@ -2236,7 +2265,7 @@ Be.
 
 ### Some people feeling hot. They notice my phone camera and wave some wind my way - https://x.com/BokkyPooBah/status/2026204545945370725
 
-<kbd><img src="images/Picture00065.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00066.png" width="400" /></kbd>  
 
 > Some people feeling hot - https://x.com/BokkyPooBah/status/2026204545945370725
 
