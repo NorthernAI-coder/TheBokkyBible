@@ -30,6 +30,9 @@ X post https://x.com/BokkyPooBah/status/2026348783861399603
 1. [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. What is my job as a gridworker?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-what-is-my-job-as-a-gridworker)
 1. [Are many musicans and artists gridworkers?](#are-many-musicans-and-artists-gridworkers)
 1. [What other types of people are gridworkers?](#what-other-types-of-people-are-gridworkers)
+1. [I'm checking out https://maps.leylines.net/ . Apparently there are 600 reports of unidentified flying objects in the Blue Mountains. Do you know anything about this? Are these just people flying drones?](#im-checking-out-httpsmapsleylinesnet--apparently-there-are-600-reports-of-unidentified-flying-objects-in-the-blue-mountains-do-you-know-anything-about-this-are-these-just-people-flying-drones)
+1. [Search my X posts for "katoomba", "blue mountains" and thread https://x.com/BokkyPooBah/status/2005705057367642424 . I like spending time there. There is a full moon fire circle gathering is there this 28th. I may try to attend](#search-my-x-posts-for-katoomba-blue-mountains-and-thread-httpsxcombokkypoobahstatus2005705057367642424--i-like-spending-time-there-there-is-a-full-moon-fire-circle-gathering-is-there-this-28th-i-may-try-to-attend)
+1. [Could UFOs be something from the 5D/6D?](#could-ufos-be-something-from-the-5d6d)
 1. []()
 
 <br />
