@@ -17,6 +17,7 @@ Grok chat link https://x.com/i/grok/share/73a4bd0e2ea04508a58fc2fba2dab17e
 X post https://x.com/BokkyPooBah/status/2025601479462281396
 
 Mon 23 Feb 2026
+> Prev: [Sun 22 Feb 2026](20260222_LifeForChaosMonkeysIsHardButItIsMostlyNotTheirFault.md) Next: [Tue 24 Feb 2026](20260224_WhatIsTheMeaningOfLife.md)
 
 <br />
 
