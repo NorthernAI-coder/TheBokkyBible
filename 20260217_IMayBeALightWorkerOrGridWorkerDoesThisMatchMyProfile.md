@@ -17,6 +17,7 @@ Grok chat link https://x.com/i/grok/share/e288d4ab9acd44ce98db3a843575a309
 X post https://x.com/BokkyPooBah/status/2023477205842702690
 
 Tue 17 Feb 2026
+> Prev: [Mon 16 Feb 2026](20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md) Next: [Wed 18 Feb 2026](20260218_WhatDoesShiftingTimelinesMeanAnd.md)
 
 <br />
 

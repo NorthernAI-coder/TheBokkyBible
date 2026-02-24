@@ -17,6 +17,7 @@ Grok chat link https://x.com/i/grok/share/58075ef718f74307863a323c1bf72daf
 X post https://x.com/BokkyPooBah/status/2023838706709524749
 
 Wed 18 Feb 2026
+> Prev: [Tue 17 Feb 2026](20260217_IMayBeALightWorkerOrGridWorkerDoesThisMatchMyProfile.md) Next: [Thu 19 Feb 2026](20260219_DoYouLikeThisPhoto.md)
 
 <br />
 
