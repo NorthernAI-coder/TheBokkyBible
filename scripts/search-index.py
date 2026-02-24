@@ -67,6 +67,10 @@ def build_index(root_dir="."):
 
                 words = clean_line.split()
                 for word in words:
+
+                    SHORT_WHITELIST = {"gm", "hz", "ai", "42"}
+                    if len(word) < 3 and word not in SHORT_WHITELIST:
+                        continue                    
                     snippet = line.strip()
                     if len(snippet) > 120:
                         snippet = snippet[:117] + "..."
