@@ -10,14 +10,14 @@ And other matters of vast importance.
 
 Below is a chat between BokkyPooBah and Grok AI.
 
+Tue 24 Feb 2026
+> Prev: [Mon 23 Feb 2026](20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md) Next: []()
+
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/9d9444e8846b4b71b0dac23425a745cf
 
 X post https://x.com/BokkyPooBah/status/2025601479462281396
-
-Tue 24 Feb 2026
-> Prev: [Mon 23 Feb 2026](20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md) Next: []()
 
 <br />
 
