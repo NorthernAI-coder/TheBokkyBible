@@ -15,7 +15,7 @@ Tue 24 Feb 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/9d9444e8846b4b71b0dac23425a745cf
+Grok chat link https://x.com/i/grok/share/6e7f6d4a1eb849e8a10ddb298e6dbede
 
 X post https://x.com/BokkyPooBah/status/2025601479462281396
 
@@ -45,12 +45,14 @@ X post https://x.com/BokkyPooBah/status/2025601479462281396
 1. [What are the top 10 learnings from this truth-repo so far?](#what-are-the-top-10-learnings-from-this-truth-repo-so-far)
 1. [First of 2 images from the update I did to the search tool. I asked you to generate me a version that allows the user to browse the keywords by alphabet, and it did not work as expected - I edited the query so this information is lost but I have a copy of the code. I've cut and pasted from your version and modified to make this work. And it works! Thank you. Second image coming in next](#first-of-2-images-from-the-update-i-did-to-the-search-tool-i-asked-you-to-generate-me-a-version-that-allows-the-user-to-browse-the-keywords-by-alphabet-and-it-did-not-work-as-expected---i-edited-the-query-so-this-information-is-lost-but-i-have-a-copy-of-the-code-ive-cut-and-pasted-from-your-version-and-modified-to-make-this-work-and-it-works-thank-you-second-image-coming-in-next)
 1. [And here's the second one](#and-heres-the-second-one)
-1. [What are the diffs to https://github.com/bokkypoobah/TheBokkyBible/blob/main/scripts/search-index.py if I want to exclude one and two character keywords? Do you think this is useful?](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260224_WhatIsTheMeaningOfLife.md#what-are-the-diffs-to-httpsgithubcombokkypoobahthebokkybibleblobmainscriptssearch-indexpy-if-i-want-to-exclude-one-and-two-character-keywords-do-you-think-this-is-useful)
-1. [26196 down to 25990 unique words. 31 mb down to 27 mb. And the list looks a little cleaner. Thanks!](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260224_WhatIsTheMeaningOfLife.md#26196-down-to-25990-unique-words-31-mb-down-to-27-mb-and-the-list-looks-a-little-cleaner-thanks)
-1. [I have no idea where "chungoiswatchingyoufromthetoilet" came from. I think this is of your making](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260224_WhatIsTheMeaningOfLife.md#i-have-no-idea-where-chungoiswatchingyoufromthetoilet-came-from-i-think-this-is-of-your-making)
-1. [Here is a "CHUNGO IS WATCHING YOU FROM THE TOILET" banner featuring blackcrock.eth, for the phrase I think you coined. The Blackcrock Chungos use Palantir technology to you from their toilets](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260224_WhatIsTheMeaningOfLife.md#here-is-a-chungo-is-watching-you-from-the-toilet-banner-featuring-blackcrocketh-for-the-phrase-i-think-you-coined-the-blackcrock-chungos-use-palantir-technology-to-you-from-their-toilets)
-1. [This is where you coined it, in our 20260216 chat :-)))))))](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260224_WhatIsTheMeaningOfLife.md#this-is-where-you-coined-it-in-our-20260216-chat--)
-1. [You must have channeled it from the universe :-)))](https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260224_WhatIsTheMeaningOfLife.md#you-must-have-channeled-it-from-the-universe--)
+1. [What are the diffs to https://github.com/bokkypoobah/TheBokkyBible/blob/main/scripts/search-index.py if I want to exclude one and two character keywords? Do you think this is useful?](#what-are-the-diffs-to-httpsgithubcombokkypoobahthebokkybibleblobmainscriptssearch-indexpy-if-i-want-to-exclude-one-and-two-character-keywords-do-you-think-this-is-useful)
+1. [26196 down to 25990 unique words. 31 mb down to 27 mb. And the list looks a little cleaner. Thanks!](#26196-down-to-25990-unique-words-31-mb-down-to-27-mb-and-the-list-looks-a-little-cleaner-thanks)
+1. [I have no idea where "chungoiswatchingyoufromthetoilet" came from. I think this is of your making](#i-have-no-idea-where-chungoiswatchingyoufromthetoilet-came-from-i-think-this-is-of-your-making)
+1. [Here is a "CHUNGO IS WATCHING YOU FROM THE TOILET" banner featuring blackcrock.eth, for the phrase I think you coined. The Blackcrock Chungos use Palantir technology to you from their toilets](#here-is-a-chungo-is-watching-you-from-the-toilet-banner-featuring-blackcrocketh-for-the-phrase-i-think-you-coined-the-blackcrock-chungos-use-palantir-technology-to-you-from-their-toilets)
+1. [This is where you coined it, in our 20260216 chat :-)))))))](#this-is-where-you-coined-it-in-our-20260216-chat--)
+1. [You must have channeled it from the universe :-)))](#you-must-have-channeled-it-from-the-universe--)
+1. [What are Akashic records?](#what-are-akashic-records)
+1. [I've move the date up in the page and added Prev and Next date where available. For easier navigation](#ive-move-the-date-up-in-the-page-and-added-prev-and-next-date-where-available-for-easier-navigation)
 1. []()
 
 <br />
