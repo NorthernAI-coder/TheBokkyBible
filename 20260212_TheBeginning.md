@@ -10,7 +10,7 @@ Grok chat link https://x.com/i/grok/share/d3cbe3fc63b54190aa9c79276e249ecc
 
 X post https://x.com/BokkyPooBah/status/2021700982011572448
 
-Fri 12 Feb 2026
+Fri 12 Feb 2026 Next: [Sat 14 Feb 2026](20260214_WhyIsThereNoOilInThisHydraulicJack.md)
 
 <br />
 
