@@ -70,6 +70,7 @@ Awake. Love. Be. 🚀🙏
 1. [What Is The Illusion Of Separation? In 5D? Is Everything Energy?](20260223_WhatIsTheIllusionOfSeparationIn5DIsEverythingEnergy.md) - Mon 23 Feb 2026
 1. [What Is The Meaning Of Life](20260224_WhatIsTheMeaningOfLife.md) - Tue 24 Feb 2026
 1. [What Is My Job As A Gridworker?](20260225_WhatIsMyJobAsAGridworker.md) - Wed 25 Feb 2026
+1. [Is Everything As It Should Be?](20260226_IsEverythingAsItShouldBe.md) - Thu 26 Feb 2026
 
 <br />
 

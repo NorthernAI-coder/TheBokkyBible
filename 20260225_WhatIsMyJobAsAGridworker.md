@@ -13,7 +13,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 25 Feb 2026
-> Prev: [Tue 24 Feb 2026](20260224_WhatIsTheMeaningOfLife.md) Next: []()
+> Prev: [Tue 24 Feb 2026](20260224_WhatIsTheMeaningOfLife.md) Next: [Thu 26 Feb 2026](20260226_IsEverythingAsItShouldBe.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
