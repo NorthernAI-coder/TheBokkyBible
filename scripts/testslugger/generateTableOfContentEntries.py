@@ -276,8 +276,9 @@ def generate_toc_for_h3(filename):
         match = re.match(r'^###\s+(.+)', line)
         if match:
             header = match.group(1).strip()
+            header1 = re.sub(r'\s+', ' ', header)
             anchor = slugger.slug(header)
-            toc_lines.append(f"1. [{header}](#{anchor})")
+            toc_lines.append(f"1. [{header1}](#{anchor})")
 
     if toc_lines:
         # print(f"\nTable of Contents (from H3 headers) - {filename}:")
@@ -287,7 +288,7 @@ def generate_toc_for_h3(filename):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python toc_h3.py <file1.md> [file2.md] ...")
+        print("Usage: python3 generateTableOfContentEntries.py <file1.md> [file2.md] ...")
         sys.exit(1)
 
     for filename in sys.argv[1:]:
