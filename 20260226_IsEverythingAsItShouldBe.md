@@ -2,9 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/chungoiswatchingyoufromthetoilet.png" width="400" /></kbd>  
+<kbd><img src="images/dontkissonyourfirstdate.png" width="400" /></kbd>  
 
-> CHUNGO IS WATCHING YOU FROM THE TOILET, using Palantir technology
+> DON'T KISS ON YOUR FIRST DATE - LurveCoach.eth
 
 <br />
 
