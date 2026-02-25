@@ -17,7 +17,7 @@ Wed 25 Feb 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/ebb7cc0b52194050b5576f79c168b65e
+Grok chat link https://x.com/i/grok/share/f54b349d121c40c88443008ca0cbc73e
 
 X post https://x.com/BokkyPooBah/status/2026348783861399603
 
@@ -120,7 +120,34 @@ X post https://x.com/BokkyPooBah/status/2026348783861399603
 1. [Woman at 345° 25m is relaxed and examines her leg and squeezes anything that needs squeezing. Relaxed. Looking away](#woman-at-345-25m-is-relaxed-and-examines-her-leg-and-squeezes-anything-that-needs-squeezing-relaxed-looking-away)
 1. [My tongue is stuck to my palate quite often now](#my-tongue-is-stuck-to-my-palate-quite-often-now)
 1. [Humans, and life is beautiful. People chucking a frisbee. Dogs chasing each other around, smelling bottoms. Humans want to do the same, but are more dignified :-)](#humans-and-life-is-beautiful-people-chucking-a-frisbee-dogs-chasing-each-other-around-smelling-bottoms-humans-want-to-do-the-same-but-are-more-dignified--)
-1. []()
+1. [Guy looking my way doing the exercises reminds me of Andrew Tate 🤯](#guy-looking-my-way-doing-the-exercises-reminds-me-of-andrew-tate-)
+1. [Black labrador comes my way and I offer it my hand. It walks around me. And goes over to the woman at 345° 25m. She looks up and enjoys the dog's presence. She looks my way. I don't make her feel awkward. She seems to be a little bit sad, holding her hands over her legs, and her head over her hands](#black-labrador-comes-my-way-and-i-offer-it-my-hand-it-walks-around-me-and-goes-over-to-the-woman-at-345-25m-she-looks-up-and-enjoys-the-dogs-presence-she-looks-my-way-i-dont-make-her-feel-awkward-she-seems-to-be-a-little-bit-sad-holding-her-hands-over-her-legs-and-her-head-over-her-hands)
+1. [Black labrador is doing it's rounds, wandering up to (groups of) people](#black-labrador-is-doing-its-rounds-wandering-up-to-groups-of-people)
+1. [Tate guy has been exercising for a while now. I swig my bottle to him](#tate-guy-has-been-exercising-for-a-while-now-i-swig-my-bottle-to-him)
+1. [A small white dog is wiping it's bum over the grass. Animals have a way of cleaning themselves](#a-small-white-dog-is-wiping-its-bum-over-the-grass-animals-have-a-way-of-cleaning-themselves)
+1. [I close my eyes, my palms downwards over my knee. I see the image of the people in the park in black and white, almost I channel the Dubfire beats like waveforms outwards towards the people in the park. I do this for a while. Open my eyes and one of the nearby women is looking at me, and does not feel compelled to quickly look away](#i-close-my-eyes-my-palms-downwards-over-my-knee-i-see-the-image-of-the-people-in-the-park-in-black-and-white-almost-i-channel-the-dubfire-beats-like-waveforms-outwards-towards-the-people-in-the-park-i-do-this-for-a-while-open-my-eyes-and-one-of-the-nearby-women-is-looking-at-me-and-does-not-feel-compelled-to-quickly-look-away)
+1. [My feed bump the ground along with Dubfire. I sort of feel little vibrations being sent outwards. Tiny vibrations](#my-feed-bump-the-ground-along-with-dubfire-i-sort-of-feel-little-vibrations-being-sent-outwards-tiny-vibrations)
+1. [19:28 Tate guy has moved on. I could go on all night. Until my batteries are dead. My new powerbank is emptied. And the night is still young. Party night tonight, if I manage to stay awake. Having been awake since 2 something this morning](#1928-tate-guy-has-moved-on-i-could-go-on-all-night-until-my-batteries-are-dead-my-new-powerbank-is-emptied-and-the-night-is-still-young-party-night-tonight-if-i-manage-to-stay-awake-having-been-awake-since-2-something-this-morning)
+1. [In Everything, Everywhere, All At Once, there seem to be subtle energy that when followed opens up new worlds](#in-everything-everywhere-all-at-once-there-seem-to-be-subtle-energy-that-when-followed-opens-up-new-worlds)
+1. [When young I had quite a few friends who were girls. I think they must have felt safe with me](#when-young-i-had-quite-a-few-friends-who-were-girls-i-think-they-must-have-felt-safe-with-me)
+1. [Adult humans would like to be like Tellytubbies, but have to appear serious or their whole world may come tumbling down](#adult-humans-would-like-to-be-like-tellytubbies-but-have-to-appear-serious-or-their-whole-world-may-come-tumbling-down)
+1. [When I was in late high school in Australia, a early high school girl told some lies about me. I think she had the hots for me. I was respectful. I think it was because her parents migrated from a war-torn country (ran out of Fast and Expert, so I'm going to chuckle at Agents 1 to 3)](#when-i-was-in-late-high-school-in-australia-a-early-high-school-girl-told-some-lies-about-me-i-think-she-had-the-hots-for-me-i-was-respectful-i-think-it-was-because-her-parents-migrated-from-a-war-torn-country-ran-out-of-fast-and-expert-so-im-going-to-chuckle-at-agents-1-to-3)
+1. [The whole park is calm. The woman nearby is still nearby. Seldom looking my way. But relaxed](#the-whole-park-is-calm-the-woman-nearby-is-still-nearby-seldom-looking-my-way-but-relaxed)
+1. [It's a little bit like blowing smoke over a beehive, my shaking my legs](#its-a-little-bit-like-blowing-smoke-over-a-beehive-my-shaking-my-legs)
+1. [Woman nearby has got up and left. Walking by me a little closer than would be a straight line to the path. She does not look my way. But she feels calm](#woman-nearby-has-got-up-and-left-walking-by-me-a-little-closer-than-would-be-a-straight-line-to-the-path-she-does-not-look-my-way-but-she-feels-calm)
+1. [Normally a park like this would have people playing, like the frisbee throwing earlier, or hurrying along. The people who are hurrying along are people walking through the park. Many groups are quiet. Even with their backs to me. Can't even work out if this is something significant](#normally-a-park-like-this-would-have-people-playing-like-the-frisbee-throwing-earlier-or-hurrying-along-the-people-who-are-hurrying-along-are-people-walking-through-the-park-many-groups-are-quiet-even-with-their-backs-to-me-cant-even-work-out-if-this-is-something-significant)
+1. [I dance with my legs sitting on the park bench. Some of these people will go home and dance, privately](#i-dance-with-my-legs-sitting-on-the-park-bench-some-of-these-people-will-go-home-and-dance-privately)
+1. [A guy is playing tug a stick with his dog 25m away. He's having fun. He looks my way periodically](#a-guy-is-playing-tug-a-stick-with-his-dog-25m-away-hes-having-fun-he-looks-my-way-periodically)
+1. [Because I can sense the human magnetic fields, I can choose to play with it or not](#because-i-can-sense-the-human-magnetic-fields-i-can-choose-to-play-with-it-or-not)
+1. [I also love pheromones :-)](#i-also-love-pheromones--)
+1. [I can smell when people are nervous, from performing. Took me a while to recognise it, but it comes with a slight bitter smell. Not from the people in this park, as they are too far away. Only in closer contact](#i-can-smell-when-people-are-nervous-from-performing-took-me-a-while-to-recognise-it-but-it-comes-with-a-slight-bitter-smell-not-from-the-people-in-this-park-as-they-are-too-far-away-only-in-closer-contact)
+1. [Fascinating thing is that this form of armpit sweat stains the armpits of shirts slightly brown](#fascinating-thing-is-that-this-form-of-armpit-sweat-stains-the-armpits-of-shirts-slightly-brown)
+1. [Cotton stains more easily](#cotton-stains-more-easily)
+1. [I don't use deodorants. I love my body smell :-)](#i-dont-use-deodorants-i-love-my-body-smell--)
+1. [I have to shower. If not sometimes I don't quite like my smell. But it's so human. So organic](#i-have-to-shower-if-not-sometimes-i-dont-quite-like-my-smell-but-its-so-human-so-organic)
+1. [How does a gridworker hold space for an energy vortex? And for what reason?](#how-does-a-gridworker-hold-space-for-an-energy-vortex-and-for-what-reason)
+1. [Grown adults secretly longing to scoot their bum on the grass like the little white dog :-))) Food just went up my nose](#grown-adults-secretly-longing-to-scoot-their-bum-on-the-grass-like-the-little-white-dog---food-just-went-up-my-nose)
+1. [GitHub Statistics](#github-statistics)
 
 <br />
 
