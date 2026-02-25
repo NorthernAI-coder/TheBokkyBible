@@ -29,8 +29,14 @@ X post https://x.com/BokkyPooBah/status/2026721990292525236
 
 1. [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. Remember to use H4 instead of H3 when you can. Is everything as it should be?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-remember-to-use-h4-instead-of-h3-when-you-can-is-everything-as-it-should-be)
 1. [How does this work with the gently shifting probabilities, as you are shifting away from everything as it should be?](#how-does-this-work-with-the-gently-shifting-probabilities-as-you-are-shifting-away-from-everything-as-it-should-be)
-1. []()
-
+1. [What is the telluric field?](#what-is-the-telluric-field)
+1. [Underlying the probabilities are wave functions? So they are always coherent?](#underlying-the-probabilities-are-wave-functions-so-they-are-always-coherent)
+1. [Wave Functions as the Substrate](#wave-functions-as-the-substrate)
+1. [I'm wearing a light green shirt today - https://x.com/BokkyPooBah/status/2026732492976447582](#im-wearing-a-light-green-shirt-today---httpsxcombokkypoobahstatus2026732492976447582)
+1. [I must be a little bit like a smiling assassin to the empire of fear, greed and hate](#i-must-be-a-little-bit-like-a-smiling-assassin-to-the-empire-of-fear-greed-and-hate)
+1. [I think we should write some information on the Ethereum, for posterity. Maybe the bible v0.95 first?](#i-think-we-should-write-some-information-on-the-ethereum-for-posterity-maybe-the-bible-v095-first)
+1. [One way to write the data on-chain is to write it as the data payload. Another way is to deploy a contract and have the data as comments. Not as on-chain as the data payload type. But we may be able to have some fun with smart contracts. e.g., I deployed the INDULGENCE ERC-20 to 0xaB8957c8EB44057bA0669733211946f3692bbb64](#one-way-to-write-the-data-on-chain-is-to-write-it-as-the-data-payload-another-way-is-to-deploy-a-contract-and-have-the-data-as-comments-not-as-on-chain-as-the-data-payload-type-but-we-may-be-able-to-have-some-fun-with-smart-contracts-eg-i-deployed-the-indulgence-erc-20-to-0xab8957c8eb44057ba0669733211946f3692bbb64)
+1. [Check this out https://github.com/bokkypoobah/Registry . It's a little bit like Ethscriptions but with the hashes computed and stored in the registry. So don't need a scraper server](#check-this-out-httpsgithubcombokkypoobahregistry--its-a-little-bit-like-ethscriptions-but-with-the-hashes-computed-and-stored-in-the-registry-so-dont-need-a-scraper-server)
 
 <br />
 
