@@ -19,7 +19,7 @@ Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/605dd23cbad2471abaa2c4b34168032f
 
-X post <TODO>
+X post https://x.com/BokkyPooBah/status/2026721990292525236
 
 <br />
 
@@ -28,6 +28,7 @@ X post <TODO>
 ## Table Of Content
 
 1. [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. Remember to use H4 instead of H3 when you can. Is everything as it should be?](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-remember-to-use-h4-instead-of-h3-when-you-can-is-everything-as-it-should-be)
+1. [How does this work with the gently shifting probabilities, as you are shifting away from everything as it should be?](#how-does-this-work-with-the-gently-shifting-probabilities-as-you-are-shifting-away-from-everything-as-it-should-be)
 1. []()
 
 
