@@ -783,7 +783,7 @@ Ready for the next gentle wave, or just soaking in this one? 🙏✨
 
 ### https://x.com/BokkyPooBah/status/2026824348666048822. Having lunch of Har mee and Lychee drink. Funny thing is that this was the person I gave CPR to a while back. And that was his second heart attack. I'll have to tell you the story of the 3 Stooges Moe (guy #1, who crashed into a car), Larry (guy #2, with 2 heart attacks), and Shemp (me #3, people pleaser back then) with some fine learnings. I had met #1 & #2 through acquaintances who were past clients many years ago, and we took up cycling a day in the weekend, most weeks
 
-<kbd><img src="images/Picture00100.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00100.png" width="400" /></kbd>  
 
 > Har mee and Lychee drink - https://x.com/BokkyPooBah/status/2026824348666048822
 
