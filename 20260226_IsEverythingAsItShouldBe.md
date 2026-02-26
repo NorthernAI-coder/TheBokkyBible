@@ -13,7 +13,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 26 Feb 2026
-> Prev: [Tue 25 Feb 2026](20260225_WhatIsMyJobAsAGridworker.md) Next: []()
+> Prev: [Wed 25 Feb 2026](20260225_WhatIsMyJobAsAGridworker.md) Next: [Fri 27 Feb 2026]()
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
