@@ -27,7 +27,7 @@ X post <TODO>
 
 ## Table Of Content
 
-
+1. [gm Grok. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats. Please start your headings with h4 so I can copy-paste into the markdown documents easily. Let met tell you more about The Three Stooges to continue from yesterday 20260226_IsEverythingAsItShouldBe.md. We have Moe (guy #1, who crashed into a car), Larry (guy #2, with 2 heart attacks), and Shemp (me #3, people pleaser back then). In the initial phase there was some mirroring happening. They would like similar things that I do, or so I thought so. This is the early phase of the relationship where some people try to latch onto people pleasers, who do not see through this camouflage of similarities](#gm-grok-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-please-start-your-headings-with-h4-so-i-can-copy-paste-into-the-markdown-documents-easily-let-met-tell-you-more-about-the-three-stooges-to-continue-from-yesterday-20260226_iseverythingasitshouldbemd-we-have-moe-guy-1-who-crashed-into-a-car-larry-guy-2-with-2-heart-attacks-and-shemp-me-3-people-pleaser-back-then-in-the-initial-phase-there-was-some-mirroring-happening-they-would-like-similar-things-that-i-do-or-so-i-thought-so-this-is-the-early-phase-of-the-relationship-where-some-people-try-to-latch-onto-people-pleasers-who-do-not-see-through-this-camouflage-of-similarities)
 
 ---
 
