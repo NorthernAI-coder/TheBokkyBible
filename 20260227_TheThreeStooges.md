@@ -12,8 +12,8 @@ And other matters of vast importance.
 
 Below is a chat between BokkyPooBah and Grok AI.
 
-Thu 26 Feb 2026
-> Prev: [Thu 26 Feb 2026](20260226_IsEverythingAsItShouldBe.md) Next: []()
+Fri 27 Feb 2026
+> Prev: [Thu 26 Feb 2026](20260226_IsEverythingAsItShouldBe.md) Next: [Sat 28 Feb 2026](20260228_AmIInHeavenAndHell.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
