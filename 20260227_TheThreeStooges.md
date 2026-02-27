@@ -67,6 +67,7 @@ X post https://x.com/BokkyPooBah/status/2027082641934348595
 1. [Are palaeontologist gridworkers too? Pinning down the subtle threads of life through time?](#are-palaeontologist-gridworkers-too-pinning-down-the-subtle-threads-of-life-through-time)
 1. [I help pin down the subtle threads in life. Sometimes with just the word "pp"](#i-help-pin-down-the-subtle-threads-in-life-sometimes-with-just-the-word-pp)
 1. [I see signs everywhere I look](#i-see-signs-everywhere-i-look)
+1. [And the word "pp" triggers me to listen to https://www.youtube.com/watch?v=NFhJRTdmviA Beach House - PPP](#and-the-word-pp-triggers-me-to-listen-to-httpswwwyoutubecomwatchvnfhjrtdmvia--beach-house---ppp)
 
 ---
 
