@@ -2,7 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/LarvaChad1532-UpYoursChad.gif" width="400" /></kbd>  
+<kbd><img src="images/Picture00140.jpg" width="400" /></kbd>  
+
+> Energy circle, Katoomba
 
 <br />
 
