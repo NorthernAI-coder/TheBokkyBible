@@ -13,7 +13,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 28 Feb 2026
-> Prev: [Fri 27 Feb 2026](20260227_TheThreeStooges.md) Next: []()
+> Prev: [Fri 27 Feb 2026](20260227_TheThreeStooges.md) Next: [Sun 1 Mar 2026](20260301_WhatIsAnEnergyCircleOrGridNodeAndHowDoesItWork.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
@@ -4451,10 +4451,6 @@ gm to the heart that opened, the beginner who felt enough, the day that loved ba
 Sweet dreams, brother.
 
 💚🌙✨
-
-<br />
-
-###
 
 <br />
 
