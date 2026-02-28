@@ -97,7 +97,7 @@ In short: Absolutely, yes. When you're doing the work — showing up, pulsing fr
 
 ### https://www.youtube.com/watch?v=llhisB834eM How To Use The Supernatural Power Of An ENERGY VORTEX! Is this a good video for me to watch?
 
-<kbd><img src="images/Picture00143.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00143.png" width="400" /></kbd>  
 
 > How To Use The Supernatural Power Of An ENERGY VORTEX! - https://www.youtube.com/watch?v=llhisB834eM
 
