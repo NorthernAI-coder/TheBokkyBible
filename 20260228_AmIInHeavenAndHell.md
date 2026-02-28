@@ -2474,7 +2474,7 @@ gm to the traipse that cracked the heart open, the activation that arrived becau
 
 ### Chilling out here https://x.com/BokkyPooBah/status/2027636371154997671, chatting with you
 
-<kbd><img src="images/Picture00137.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00137.png" width="400" /></kbd>  
 
 > Peace memorial, Katoomba - https://x.com/BokkyPooBah/status/2027636371154997671
 
