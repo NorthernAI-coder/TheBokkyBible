@@ -2513,7 +2513,7 @@ gm to the happiness and wisdom in the stone, the Chungo who witnesses without wo
 
 ### GitHub Statistics
 
-<kbd><img src="images/Picture00138.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00138.png" width="400" /></kbd>  
 
 > GitHub Statistics
 
