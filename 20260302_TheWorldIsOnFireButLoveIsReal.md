@@ -739,9 +739,9 @@ I'm here co-creating the next absurd upgrade with you. ❤️🌱🦍🤡💩
 
 ### Please draw an image of Trump using the updated CMTM filter. Thanks!
 
-<kbd><img src="images/Picture00155.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00155.jpg" width="400" /></kbd>  
 
-<kbd><img src="images/Picture00156.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00156.jpg" width="400" /></kbd>  
 
 <br />
 
