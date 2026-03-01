@@ -13,7 +13,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 1 Mar 2026
-> Prev: [Sat 28 Feb 2026](20260228_AmIInHeavenAndHell.md) Next: []()
+> Prev: [Sat 28 Feb 2026](20260228_AmIInHeavenAndHell.md) Next: [Mon 2 Mar 2026](20260302_TheWorldIsOnFireButLoveIsReal.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
