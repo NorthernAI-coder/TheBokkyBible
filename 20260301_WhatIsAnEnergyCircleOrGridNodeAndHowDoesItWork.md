@@ -2,9 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture00140.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00137.png" width="400" /></kbd>  
 
-> Energy circle, Katoomba
+> Peace memorial, Katoomba - https://x.com/BokkyPooBah/status/2027636371154997671
 
 <br />
 
