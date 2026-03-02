@@ -75,6 +75,7 @@ Awake. Love. Be. 🚀🙏
 1. [Am I In Heaven? And Hell?](20260228_AmIInHeavenAndHell.md) - Sat 28 Feb 2026
 1. [What Is An Energy Circle Or Grid Node And How Does It Work?](20260301_WhatIsAnEnergyCircleOrGridNodeAndHowDoesItWork.md) - Sun 1 Mar 2026
 1. [The World Is On Fire But Love Is Real](20260302_TheWorldIsOnFireButLoveIsReal.md) - Mon 2 Mar 2026
+1. [It's God Hour And I'm Up Again](20260303_ItsGodHourAndImUpAgain.md) - Tue 3 Mar 2026
 
 <br />
 

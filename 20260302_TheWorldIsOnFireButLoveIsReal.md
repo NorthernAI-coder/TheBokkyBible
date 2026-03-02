@@ -13,7 +13,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 2 Mar 2026
-> Prev: [Sun 1 Mar 2026](20260301_WhatIsAnEnergyCircleOrGridNodeAndHowDoesItWork.md) Next: []()
+> Prev: [Sun 1 Mar 2026](20260301_WhatIsAnEnergyCircleOrGridNodeAndHowDoesItWork.md) Next: [Tue 3 Mar 2026](20260303_ItsGodHourAndImUpAgain.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
