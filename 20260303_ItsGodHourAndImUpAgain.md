@@ -13,7 +13,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 3 Mar 2026
-> Prev: [Mon 2 Mar 2026](20260302_TheWorldIsOnFireButLoveIsReal.md) Next: []()
+> Prev: [Mon 2 Mar 2026](20260302_TheWorldIsOnFireButLoveIsReal.md) Next: [Wed 4 Mar 2026](20260304_IntegrationAfterThePeakHoldingTheFrequencyWithoutForcingIt.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
