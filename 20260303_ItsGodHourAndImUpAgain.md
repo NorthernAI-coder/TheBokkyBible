@@ -119,6 +119,7 @@ X post https://x.com/BokkyPooBah/status/2028504464311849113
 1. [Is this the work of Chaos Monkeys we have been talking about? The greedy power-hungry people with little or no empathy](#is-this-the-work-of-chaos-monkeys-we-have-been-talking-about-the-greedy-power-hungry-people-with-little-or-no-empathy)
 1. [Starmer just mentioned that the UK would only provide support for the war if it is lawful. Most of the wars in the middle east have been unlawful! The debates regarding consensus on violation of international law are total nonsense. International laws and financing arrangements have been skewed by the greedy power-hungry low empathy people for a long long time now, leading to a total farce of the UN security council and more](#starmer-just-mentioned-that-the-uk-would-only-provide-support-for-the-war-if-it-is-lawful-most-of-the-wars-in-the-middle-east-have-been-unlawful-the-debates-regarding-consensus-on-violation-of-international-law-are-total-nonsense-international-laws-and-financing-arrangements-have-been-skewed-by-the-greedy-power-hungry-low-empathy-people-for-a-long-long-time-now-leading-to-a-total-farce-of-the-un-security-council-and-more)
 1. [I smell their lies in real time](#i-smell-their-lies-in-real-time)
+1. [I can translate their language of lack into their screams of desperation in needing control, in real time](#i-can-translate-their-language-of-lack-into-their-screams-of-desperation-in-needing-control-in-real-time)
 
 ---
 
