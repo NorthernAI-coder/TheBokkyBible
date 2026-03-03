@@ -115,6 +115,7 @@ X post https://x.com/BokkyPooBah/status/2028504464311849113
 1. [When I got here, 2 women were doing the swing arms qigong. I said I’m here to do that too](#when-i-got-here-2-women-were-doing-the-swing-arms-qigong-i-said-im-here-to-do-that-too)
 1. [I do a triangle with my palms facing away from me and hands a little ahead of me and walk and can feel a chill flow through my arms](#i-do-a-triangle-with-my-palms-facing-away-from-me-and-hands-a-little-ahead-of-me-and-walk-and-can-feel-a-chill-flow-through-my-arms)
 1. [Doing it again while walking and the chills go from my hands to my chest, then down to my legs](#doing-it-again-while-walking-and-the-chills-go-from-my-hands-to-my-chest-then-down-to-my-legs)
+1. [This came across my YouTube feed https://www.youtube.com/watch?v=kxQxMMNx050 Prof. Jeffrey Sachs : Did Trump Just Start WWIII ?](#this-came-across-my-youtube-feed-httpswwwyoutubecomwatchvkxqxmmnx050--prof-jeffrey-sachs--did-trump-just-start-wwiii-)
 
 ---
 
@@ -3401,7 +3402,38 @@ One hand-to-leg chill cycle, one mist-cleared valley, one Worm Moon peak at 22:3
 
 <br />
 
-###
+### This came across my YouTube feed https://www.youtube.com/watch?v=kxQxMMNx050  Prof. Jeffrey Sachs : Did Trump Just Start WWIII ?
+
+The video you shared is an interview with Professor Jeffrey Sachs, an economist and public policy analyst at Columbia University, conducted on the "Judging Freedom" channel (hosted by Judge Andrew Napolitano) and uploaded on March 2, 2026. It's about 28 minutes long and focuses on recent geopolitical events, particularly a U.S.-Israeli military action against Iran, which Sachs frames as a potential trigger for World War III. I'll summarize the key points objectively based on the content, aiming for a truth-seeking perspective without endorsing any side. Sachs is known for his critical views on U.S. foreign policy, so his commentary is strongly opinionated, but I'll highlight the arguments and context he provides.
+
+#### Main Themes and Arguments
+Sachs argues that the U.S.-supported invasion of Iran is not a spontaneous event but part of a long-standing strategy for American dominance in the Middle East and Israeli regional hegemony. He draws parallels to historical U.S. military interventions and expresses deep concern about escalation.
+
+1. **Historical Context and "Clean Break" Doctrine**:
+   - Sachs traces the action back to a 1996 document called "A Clean Break: A New Strategy for Securing the Realm," which he describes as a plan drafted for Benjamin Netanyahu. It advocated for a series of wars to reshape the Middle East, including actions against Iraq, Syria, Lebanon, and Iran.
+   - He compares this to General Wesley Clark's 2007 revelation about a U.S. plan for "seven wars in five years" post-9/11 (Iraq, Syria, Lebanon, Libya, Somalia, Sudan, and Iran).
+   - Quote from Sachs: "This is a Mossad-CIA plan that has been going on since 1996... It's a murderous delusion."
+
+2. **Trump's Role and "Betrayal" of Promises**:
+   - Sachs criticizes Trump for promising an "America First" policy with no new wars during his campaign, yet authorizing this invasion. He calls it a "complete betrayal" of public will, noting that polls show most Americans oppose such conflicts.
+   - He accuses the U.S. government of being "corrupted" by lobbies and lacking oversight, with Congress failing to declare war as required by the Constitution.
+   - Quote: "Trump is an utter disgrace. He lied. He said America First, no wars, and he did exactly the opposite of what he said and what Americans want."
+
+3. **Risk of World War III**:
+   - Sachs warns that assassinating Iranian leaders during negotiations (e.g., killing a religious leader amid talks) erodes trust and invites retaliation. He cites Iran's foreign minister stating that the U.S. has attacked during negotiations twice in the past 12 months.
+   - He highlights parallels to past U.S. actions, like withdrawing from the 2015 JCPOA (nuclear deal) and previous assassinations, which he calls "bad-faith" diplomacy.
+   - Broader risks include depleted U.S. missile defenses, NATO's eastward expansion (which he says violated 1990 promises to Russia), and the potential for nuclear escalation. He describes the situation as a "profound miscalculation" by "madmen."
+   - Quote: "There’s a good chance that Trump has started World War III... This is aggression, and it’s normalized."
+
+4. **Economic and Moral Costs**:
+   - Sachs argues that trillions spent on wars have diverted resources from U.S. domestic needs (e.g., infrastructure like high-speed rail, which China has built extensively). This leads to stagnant living standards and a "military state" rather than a prosperous society.
+   - He condemns the moral toll, referencing civilian casualties (e.g., "150 schoolgirls bombed by Israel") and a "psychopathic" mindset in leadership.
+   - Quote: "We have a broken, corrupted system... The litany of lies is non-stop."
+
+#### Overall Tone and Perspective
+Sachs is highly critical of U.S. and Israeli foreign policy, portraying it as aggressive and delusional, influenced by lobbies and lacking public accountability. He calls for rejecting such actions to preserve a "free society." The interview doesn't delve deeply into counterarguments or alternative views, focusing instead on Sachs' analysis. From a truth-seeking standpoint, his points align with documented historical events (e.g., the JCPOA withdrawal, NATO expansion debates), but they're interpretive and subjective—e.g., the idea of a "Mossad-CIA plan" is his framing, not universally accepted fact. If you're interested in balance, cross-referencing with sources like official U.S. State Department statements or Iranian perspectives could provide broader context.
+
+If this video sparked specific questions (e.g., about Sachs' background, the Iran situation, or related events in 2026), or if you want me to dig into any part, let me know! Otherwise, what's your take on it?
 
 <br />
 
