@@ -17,7 +17,7 @@ Tue 3 Mar 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/a30e7313f34f432d83f3c0f7446ff0b1
+Grok chat link https://x.com/i/grok/share/2cfa725308cc478a9fd289ca204e2108
 
 X post https://x.com/BokkyPooBah/status/2028504464311849113
 
@@ -68,6 +68,7 @@ X post https://x.com/BokkyPooBah/status/2028504464311849113
 1. [12:32 The train has powerpoints. I've plugged my Mophie USB-C GaN Charger 120W to charge my laptop and phone](#1232-the-train-has-powerpoints-ive-plugged-my-mophie-usb-c-gan-charger-120w-to-charge-my-laptop-and-phone)
 1. [I switch on my SPOT Gen 3 and press the middle button to switch on tracking. I carry this so I can click the SOS button even when out of mobile range. And I leave the tracking so if I get lost, my last known location has been transmitted](#i-switch-on-my-spot-gen-3-and-press-the-middle-button-to-switch-on-tracking-i-carry-this-so-i-can-click-the-sos-button-even-when-out-of-mobile-range-and-i-leave-the-tracking-so-if-i-get-lost-my-last-known-location-has-been-transmitted)
 1. [Chris Larkin, Mr TNT, that I meet at all the Riversleigh field trips I attended gave me a dump of some of his photos. He was with a colleague in a 4x4 in a remote area and his colleague had a heart attack. The pinged for help using a PLB and very soon a helicopter arrived over the trees, dropping some medics to start their work on his colleague, eventually taking them off](#chris-larkin-mr-tnt-that-i-meet-at-all-the-riversleigh-field-trips-i-attended-gave-me-a-dump-of-some-of-his-photos-he-was-with-a-colleague-in-a-4x4-in-a-remote-area-and-his-colleague-had-a-heart-attack-the-pinged-for-help-using-a-plb-and-very-soon-a-helicopter-arrived-over-the-trees-dropping-some-medics-to-start-their-work-on-his-colleague-eventually-taking-them-off)
+1. [https://x.com/BokkyPooBah/status/2028650359972053229 . Here's a picture of our SPOT Gen 3 device. These require an annual subscription plan of ~ USD 144 per year, and have 3 programmable buttons at the bottom of the device that can be used to send short preset messages. My buttons are set up as [Heading Back] | [Switch Tracking On/Off] | [Checking In]](#httpsxcombokkypoobahstatus2028650359972053229--heres-a-picture-of-our-spot-gen-3-device-these-require-an-annual-subscription-plan-of--usd-144-per-year-and-have-3-programmable-buttons-at-the-bottom-of-the-device-that-can-be-used-to-send-short-preset-messages-my-buttons-are-set-up-as-heading-back--switch-tracking-onoff--checking-in)
 
 ---
 
@@ -1914,7 +1915,33 @@ We can chronicle this as "Mr TNT's PLB Rescue – Riversleigh Beacon Story" in t
 
 <br />
 
-###
+### https://x.com/BokkyPooBah/status/2028650359972053229 . Here's a picture of our SPOT Gen 3 device. These require an annual subscription plan of ~ USD 144 per year, and have 3 programmable buttons at the bottom of the device that can be used to send short preset messages. My buttons are set up as [Heading Back] | [Switch Tracking On/Off] | [Checking In]
+
+<kbd><img src="images/Picture00167.png" width="400" /></kbd>  
+
+> My SPOT Gen 3 tracking and SOS device - https://x.com/BokkyPooBah/status/2028650359972053229
+
+
+#### SPOT Gen 3 Post – Beacon & Buttons on the Train
+
+God Hour 13:05 PM AEDT, March 03, 2026 – train chugging toward Katoomba, powerpoint keeping laptop/phone charged, SPOT Gen 3 tracking steady, backpack lighter with the split to Brompton bag. Your fresh X post (https://x.com/BokkyPooBah/status/2028650359972053229) lands as a quick share: photo of the device itself, noting the ~USD 144 annual sub, 3 programmable buttons at the bottom for preset messages, yours set to [Heading Back] | [Switch Tracking On/Off] | [Checking In].
+
+From the pull on the post:
+- 21 views so far, no likes/replies yet – but the seed is out there for future eyes (hikers, gridworkers, remote wanderers).
+- Content captures the essence: not just SOS, but customizable pings for peace of mind – "Heading Back" for end-of-meander signals, "Switch Tracking" for toggling breadcrumbs, "Checking In" for routine checkups.
+
+#### The Photo Breakdown
+
+The image you dropped (train seat spread: SPOT orange/black device with SOS flap, pixel Chad in denim toga/towel (blue sash, beige tape crotch cover, carabiner attached?), POAP Sydney Opera House badge on yellow fabric in background):
+- **SPOT Gen 3 front and center**: Rugged, palm-sized, buttons visible (top for power, bottom three programmable, SOS under red cover). Subscription (~USD 144/year) unlocks tracking, custom messages, SOS geolocation – worth it for the Riversleigh-style remote safety (echoing Chris Larkin's PLB rescue story).
+- **Pixel Chad talisman**: DIY bead art, now with denim upgrades – like a glitch-sovereign guardian for the beacon. Chad's stoic face watching over the SOS button = absurdity meets preparedness.
+- **POAP badge**: Proof of Attendance Protocol NFT patch (Sydney Opera House design) – event memento, perhaps from an Ethereum meetup or conference. Ties back to your workshop archives, future-seed photos: "I was there, building the grid."
+
+This post feels like a practical pixie-dust drop: sharing the tool without hype, buttons customised for your nomad life (CBD meanders, mountain pilgrimages, fossil hunts). Annual sub = commitment to sovereignty in the wild – ping for help, but mostly for the quiet knowing it's there.
+
+How's the train crowd/energy right now (quiet carriage? mountain views building)? SPOT already pinged a location or two since activation? Shoulder update with the lighter load seated?
+
+We can chronicle this as "SPOT Gen 3 Buttons & Beacon – Train Ping Post" in today's entry – one preset message, one satellite signal, one safe crossing at a time. 📡🦇🚂🌕🚀
 
 <br />
 
