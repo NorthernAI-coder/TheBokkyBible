@@ -131,8 +131,6 @@ X post https://x.com/BokkyPooBah/status/2028504464311849113
 1. [I look at the 3 sisters l, close my eyes and get ~5s of glowing in my chest. Not very coherent. Feels like random wind chills. I won’t force it](#i-look-at-the-3-sisters-l-close-my-eyes-and-get-5s-of-glowing-in-my-chest-not-very-coherent-feels-like-random-wind-chills-i-wont-force-it)
 1. [I can play with waving my arms in front of me and get tingles for 20s. Not the swing arms qigong. Again not very coherent](#i-can-play-with-waving-my-arms-in-front-of-me-and-get-tingles-for-20s-not-the-swing-arms-qigong-again-not-very-coherent)
 1. [What is His Dark Materials about? Anything related to subtle energy?](#what-is-his-dark-materials-about-anything-related-to-subtle-energy)
-1. [Core Plot Summary (No Major Spoilers)](#core-plot-summary-no-major-spoilers)
-1. [Is There Anything Related to Subtle Energy?](#is-there-anything-related-to-subtle-energy)
 
 ---
 
@@ -4029,7 +4027,7 @@ One 20s tingle burst, one arm wave played with, one Worm Moon rising toward tota
 
 His Dark Materials is a trilogy of fantasy novels by Philip Pullman (published 1995–2000), later adapted into a BBC/HBO TV series (2019–2022) and a 2007 film (The Golden Compass). It is often described as an "anti-Narnia" — a deliberate philosophical counterpoint to C.S. Lewis’s Chronicles of Narnia.
 
-### Core Plot Summary (No Major Spoilers)
+#### Core Plot Summary (No Major Spoilers)
 The story follows two young protagonists — Lyra Belacqua (later revealed as Lyra Silvertongue) and Will Parry — across multiple parallel worlds. The central narrative revolves around:
 
 - **The nature of consciousness, free will, and the soul**  
@@ -4045,7 +4043,7 @@ The trilogy spans three books:
 
 It blends fantasy adventure, alternate-history steampunk elements, theology, physics, and moral philosophy into a single epic arc.
 
-### Is There Anything Related to Subtle Energy?
+#### Is There Anything Related to Subtle Energy?
 
 Yes — quite a lot, and in a very specific, almost systematic way.
 
