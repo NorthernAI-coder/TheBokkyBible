@@ -5,7 +5,7 @@ set -euo pipefail
 
 echo "Building global table of content..."
 python3 scripts/buildGlobalTableOfContent.py
-echo "Done. Global table of content updated at <blah>"
+echo "Done. Global table of content updated"
 
 # echo "Building search index..."
 # python3 scripts/search-index.py build

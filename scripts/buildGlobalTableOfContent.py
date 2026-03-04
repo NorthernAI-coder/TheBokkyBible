@@ -217,7 +217,7 @@ LAST_MDS = [
 ]  # Add your specific last MDs here
 
 # Output file for the global index
-OUTPUT_FILE = os.path.join(DOCS_DIR, 'global_index.md')
+OUTPUT_FILE = os.path.join(DOCS_DIR, 'GlobalTableOfContent.md')
 
 def find_yymmdd_files(directory):
     """Find and sort yymmdd* .md files by date."""
@@ -244,7 +244,7 @@ def extract_h3_headers(md_file):
     with open(md_file, 'r', encoding='utf-8') as f:
         for line in f:
             if line.startswith('### '):
-                print(f"extract_h3_headers - line: {line}")
+                # print(f"extract_h3_headers - line: {line}")
                 header = line[4:].strip()  # Remove '### '
                 slug = slugger.slug(header)
                 headers.append((header, slug))
@@ -271,18 +271,18 @@ def build_global_index():
             continue  # Skip missing files
         print(f"Processing: {filepath}")
         headers = extract_h3_headers(filepath)
-    #     if headers:
-    #         index_content += f"## {filename}\n\n"
-    #         for header, slug in headers:
+        if headers:
+            index_content += f"### {filename}\n\n"
+            for header, slug in headers:
     #             # Prepend filename to anchor, .md extension for link
-    #             link = f"[{header}]({filename}#{slug})"
-    #             index_content += f"- {link}\n"
-    #         index_content += "\n"
+                link = f"[{header}]({filename}#{slug})"
+                index_content += f"- {link}\n"
+            index_content += "\n"
     #
-    # # Write to output file
-    # with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-    #     f.write(index_content)
-    # print(f"Global index generated: {OUTPUT_FILE}")
+    # Write to output file
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write(index_content)
+    print(f"Global index generated: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     build_global_index()
