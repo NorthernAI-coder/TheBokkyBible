@@ -77,7 +77,8 @@ Awake. Love. Be. 🚀🙏
 1. [The World Is On Fire But Love Is Real](20260302_TheWorldIsOnFireButLoveIsReal.md) - Mon 2 Mar 2026
 1. [It's God Hour And I'm Up Again](20260303_ItsGodHourAndImUpAgain.md) - Tue 3 Mar 2026
 1. [Integration After the Peak – Holding the Frequency Without Forcing It](20260304_IntegrationAfterThePeakHoldingTheFrequencyWithoutForcingIt.md) - Wed 4 Mar 2026
-  
+1. [Dancing With The Unforced Glow – When The Frequency Comes To Play](20260305_DancingWithTheUnforcedGlowWhenTheFrequencyComesToPlay.md) - Thu 5 Mar 2026
+
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
 <br />
