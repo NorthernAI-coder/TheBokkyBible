@@ -53,6 +53,13 @@ const OWNER = 'bokkypoobah';
 const REPO  = 'TheBokkyBible';
 const BRANCH = 'main';
 
+// ====================== EXCLUDE KEYWORDS ======================
+const excludedKeywords = new Set([
+  "the", "and", "you", "that", "for", "with", "this", "your", "like", "from", "not", "just",
+  "but", "they", "are", "when", "have", "into", "can", "what", "some", "was", "how",
+  "their", "them",
+]);
+
 // ====================== DEXIE SETUP ======================
 const db = new Dexie('ChronicleSearch');
 db.version(3).stores({
@@ -120,7 +127,7 @@ async function buildKeywordIndex() {
   const keywordMap = new Map();
   await db.documents.each(doc => {
     doc.words.forEach(w => {
-      if (w.length >= 3) keywordMap.set(w, (keywordMap.get(w) || 0) + 1);
+      if (w.length >= 3 && !excludedKeywords.has(w)) keywordMap.set(w, (keywordMap.get(w) || 0) + 1);
     });
   });
 
