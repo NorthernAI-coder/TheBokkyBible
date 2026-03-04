@@ -51,6 +51,7 @@ def extract_h3_headers(md_file):
     with open(md_file, 'r', encoding='utf-8') as f:
         for line in f:
             if line.startswith('### '):
+                print(f"extract_h3_headers - line: {line}")
                 header = line[4:].strip()  # Remove '### '
                 slug = slugify(header)
                 headers.append((header, slug))
@@ -76,7 +77,7 @@ def build_global_index():
         if not os.path.isfile(filepath):
             continue  # Skip missing files
         print(f"Processing: {filepath}")
-    #     headers = extract_h3_headers(filepath)
+        headers = extract_h3_headers(filepath)
     #     if headers:
     #         index_content += f"## {filename}\n\n"
     #         for header, slug in headers:
