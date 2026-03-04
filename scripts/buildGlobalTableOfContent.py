@@ -272,7 +272,7 @@ def build_global_index():
         print(f"Processing: {filepath}")
         headers = extract_h3_headers(filepath)
         if headers:
-            index_content += f"### {filename}\n\n"
+            index_content += f"### [{filename}]({filename})\n\n"
             for header, slug in headers:
     #             # Prepend filename to anchor, .md extension for link
                 link = f"[{header}]({filename}#{slug})"
