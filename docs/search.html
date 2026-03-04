@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BokkyBible Search</title>
+  <script src="https://unpkg.com/dexie@latest/dist/dexie.js"></script>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 0; padding: 0; display: flex; height: 100vh; }
+    #sidebar { width: 280px; background: #f8f9fa; border-right: 1px solid #ddd; overflow-y: auto; padding: 20px; }
+    #main { flex: 1; padding: 20px; overflow-y: auto; }
+    input, button { padding: 12px; font-size: 16px; margin: 10px 0; width: 100%; box-sizing: border-box; }
+    #results { margin-top: 20px; }
+    .result { padding: 12px; border-bottom: 1px solid #eee; cursor: pointer; }
+    .result:hover { background: #f0f8ff; }
+    .keyword-item { padding: 6px 0; cursor: pointer; }
+    .keyword-item:hover { color: #0066cc; }
+    .count { font-size: 0.85em; color: #777; margin-left: 6px; }
+    #modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.6); z-index: 1000; }
+    #modal-content { background: white; max-width: 90%; max-height: 90%; margin: 5% auto; padding: 20px; border-radius: 8px; overflow-y: auto; position: relative; }
+    #closeModal { position: absolute; top: 10px; right: 20px; font-size: 30px; cursor: pointer; }
+    mark { background: #ffff99; padding: 2px 4px; border-radius: 3px; }
+    #status { color: #555; margin: 15px 0; font-style: italic; }
+  </style>
+</head>
+<body>
+
+<div id="sidebar">
+  <h2>Keywords</h2>
+  <div id="keyword-list"></div>
+</div>
+
+<div id="main">
+  <h1>BokkyBible Search</h1>
+  <button id="indexBtn">Re-index All Files</button>
+  <div id="status">Ready...</div>
+
+  <input type="text" id="searchInput" placeholder="chaos monkey OR validator OR frequency" />
+
+  <div id="results"></div>
+</div>
+
+<!-- Modal -->
+<div id="modal">
+  <div id="modal-content">
+    <span id="closeModal">&times;</span>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script>
+// ====================== CONFIG ======================
+const OWNER = 'bokkypoobah';
+const REPO  = 'TheBokkyBible';
+const BRANCH = 'main';
+
+// ====================== DEXIE SETUP ======================
+const db = new Dexie('ChronicleSearch');
+db.version(3).stores({
+  documents: '++id, date, title, slug, text, *words',
+  metadata: 'id'                    // lastCommit + keywordIndex
+});
+
+// ====================== HELPERS ======================
+function parseQuery(query) {
+  if (!query?.trim()) return { and: [], or: [] };
+  const parts = query.trim().split(/\s+OR\s+/i);
+  const andGroups = parts.map(g => g.trim().split(/\s+/).filter(Boolean).map(w => w.toLowerCase().trim()));
+  return {
+    and: (andGroups[0] || []).filter(w => w.length >= 3),
+    or: andGroups.slice(1).flat().filter(w => w.length >= 3)
+  };
+}
+
+// ====================== LIST & INDEX ======================
+async function listMarkdownFiles() {
+  const url = `https://api.github.com/repos/${OWNER}/${REPO}/git/trees/${BRANCH}?recursive=1`;
+  const res = await fetch(url);
+  const data = await res.json();
+  return data.tree
+    .filter(item => item.type === 'blob' && item.path.endsWith('.md'))
+    .map(item => ({
+      path: item.path,
+      slug: item.path.replace(/\.md$/, '')
+    }));
+}
+
+async function fetchRawContent(path) {
+  const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${path}`;
+  const res = await fetch(url);
+  return await res.text();
+}
+
+async function indexFile(fileInfo, text) {
+  const dateMatch = fileInfo.path.match(/^(\d{8})/);
+  const date = dateMatch ? dateMatch[1] : 'unknown';
+  const title = fileInfo.path.replace(/^\d{8}_/, '').replace(/\.md$/, '').replace(/_/g, ' ');
+
+  const words = text.toLowerCase().split(/\W+/).filter(w => w.length >= 3);
+
+  await db.documents.put({ date, title, slug: fileInfo.slug, text, words });
+}
+
+// ====================== AUTO-UPDATE & KEYWORD INDEX ======================
+async function getLatestCommit() {
+  const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits/${BRANCH}`);
+  const data = await res.json();
+  return data.sha;
+}
+
+async function checkForUpdates() {
+  const latestCommit = await getLatestCommit();
+  const meta = await db.metadata.get('lastCommit');
+  return !meta || meta.sha !== latestCommit;
+}
+
+async function buildKeywordIndex() {
+  const existing = await db.metadata.get('keywordIndex');
+  if (existing && !await checkForUpdates()) return existing.keywordsWithCounts;
+
+  const keywordMap = new Map();
+  await db.documents.each(doc => {
+    doc.words.forEach(w => {
+      if (w.length >= 3) keywordMap.set(w, (keywordMap.get(w) || 0) + 1);
+    });
+  });
+
+  const keywordsWithCounts = Array.from(keywordMap.entries())
+    .map(([keyword, count]) => ({ keyword, count }))
+    .sort((a, b) => b.count - a.count);
+
+  await db.metadata.put({
+    id: 'keywordIndex',
+    keywordsWithCounts,
+    lastUpdated: Date.now()
+  });
+
+  return keywordsWithCounts;
+}
+
+// ====================== SEARCH ======================
+async function searchDocuments(query) {
+  const { and, or } = parseQuery(query);
+  if (and.length === 0 && or.length === 0) return [];
+
+  let q = db.documents;
+  if (and.length) q = q.filter(doc => and.every(term => doc.words.includes(term)));
+  if (or.length) q = q.filter(doc => or.some(term => doc.words.includes(term)));
+
+  const results = await q.reverse().sortBy('date');
+
+  return results.map(doc => {
+    let preview = doc.text.slice(0, 300);
+    const terms = [...and, ...or];
+    terms.forEach(t => {
+      const regex = new RegExp(`(${t})`, 'gi');
+      preview = preview.replace(regex, '<mark>$1</mark>');
+    });
+
+    return { ...doc, preview };
+  });
+}
+
+// ====================== UI ======================
+const statusEl = document.getElementById('status');
+const resultsEl = document.getElementById('results');
+const searchInput = document.getElementById('searchInput');
+const modal = document.getElementById('modal');
+const modalBody = document.getElementById('modal-body');
+const closeModal = document.getElementById('closeModal');
+
+closeModal.onclick = () => modal.style.display = 'none';
+window.onclick = e => { if (e.target === modal) modal.style.display = 'none'; };
+
+async function renderResults(results) {
+  resultsEl.innerHTML = results.map(r => `
+    <div class="result" onclick="openModal('${r.slug}', '${r.title}', '${r.date}')">
+      <div>${r.date} — ${r.title}</div>
+      <p>${r.preview}...</p>
+    </div>
+  `).join('');
+}
+
+async function openModal(slug, title, date) {
+  const doc = await db.documents.where('slug').equals(slug).first();
+  if (!doc) {
+    modalBody.innerHTML = '<p>Loading...</p>';
+  } else {
+    modalBody.innerHTML = `
+      <h2>${date} — ${title}</h2>
+      <pre style="white-space: pre-wrap;">${doc.text}</pre>
+    `;
+  }
+  modal.style.display = 'block';
+}
+
+async function renderKeywordList() {
+  const list = await buildKeywordIndex();
+  document.getElementById('keyword-list').innerHTML = list
+    .slice(0, 200) // limit to top 200 for now
+    .map(item => `
+      <div class="keyword-item" onclick="searchInput.value = '${item.keyword}'; searchInput.dispatchEvent(new Event('input'))">
+        ${item.keyword} <span class="count">(${item.count})</span>
+      </div>
+    `)
+    .join('');
+}
+
+// ====================== EVENT HANDLERS ======================
+searchInput.addEventListener('input', async () => {
+  const query = searchInput.value.trim();
+  const results = await searchDocuments(query);
+  renderResults(results);
+});
+
+document.getElementById('indexBtn').addEventListener('click', async () => {
+  const btn = document.getElementById('indexBtn');
+  btn.disabled = true;
+  statusEl.textContent = 'Fetching file list...';
+
+  try {
+    const files = await listMarkdownFiles();
+    statusEl.textContent = `Found ${files.length} files. Indexing...`;
+
+    for (const file of files) {
+      statusEl.textContent = `Indexing ${file.path}...`;
+      const text = await fetchRawContent(file.path);
+      await indexFile(file, text);
+    }
+
+    const latestCommit = await getLatestCommit();
+    await db.metadata.put({ id: 'lastCommit', sha: latestCommit });
+
+    await buildKeywordIndex(); // rebuild keyword list after indexing
+    await renderKeywordList();
+
+    statusEl.textContent = `✅ Indexed ${files.length} files. Search & keywords ready!`;
+  } catch (err) {
+    statusEl.textContent = `Error: ${err.message}`;
+  } finally {
+    btn.disabled = false;
+  }
+});
+
+// ====================== INIT ======================
+async function init() {
+  const needsUpdate = await checkForUpdates();
+  if (needsUpdate) {
+    statusEl.textContent = 'New content detected. Click "Re-index All Files" to update.';
+  } else {
+    statusEl.textContent = 'Database up to date. Ready to search.';
+  }
+
+  // Load keyword sidebar on start
+  renderKeywordList();
+}
+
+init();
+</script>
+
+</body>
+</html>
