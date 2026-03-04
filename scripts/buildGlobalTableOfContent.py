@@ -3,18 +3,17 @@ import re
 from datetime import datetime
 
 # Configuration: Directory to scan for MD files
-DOCS_DIR = './docs'  # Change to your actual docs directory if needed
+DOCS_DIR = './'  # Change to your actual docs directory if needed
 
 # Specified first few MDs (filenames relative to DOCS_DIR, in order)
 FIRST_MDS = [
-    'example_first1.md',
-    'example_first2.md'
+    'README.md'
 ]  # Add your specific first MDs here
 
 # Specified last few MDs (filenames relative to DOCS_DIR, in order)
 LAST_MDS = [
-    'example_last1.md',
-    'example_last2.md'
+    'Chungo-Armor-Styles.md',
+    'Little-Anchors.md'
 ]  # Add your specific last MDs here
 
 # Output file for the global index
@@ -32,13 +31,13 @@ def find_yymmdd_files(directory):
     """Find and sort yymmdd* .md files by date."""
     files = []
     for filename in os.listdir(directory):
-        if re.match(r'^\d{6}.*\.md$', filename):  # Matches yymmdd*.md
+        if re.match(r'^\d{8}.*\.md$', filename):  # Matches yymmdd*.md
             filepath = os.path.join(directory, filename)
             if os.path.isfile(filepath):
-                # Parse date from first 6 digits (yymmdd)
+                # Parse date from first 8 digits (yymmdd)
                 try:
-                    date_str = filename[:6]
-                    date = datetime.strptime(date_str, '%y%m%d')
+                    date_str = filename[:8]
+                    date = datetime.strptime(date_str, '%Y%m%d')
                     files.append((date, filename))
                 except ValueError:
                     continue  # Skip if date parse fails
@@ -59,11 +58,14 @@ def extract_h3_headers(md_file):
 
 def build_global_index():
     """Build and write the global index Markdown."""
+
     # Get sorted yymmdd files
     yymmdd_files = find_yymmdd_files(DOCS_DIR)
 
     # Full list of MDs in order: first + yymmdd + last
     all_mds = FIRST_MDS + yymmdd_files + LAST_MDS
+
+    # print(f"build_global_index - all_mds: {all_mds}")
 
     # Generate index content
     index_content = "# Global Index\n\n"
@@ -73,20 +75,20 @@ def build_global_index():
         filepath = os.path.join(DOCS_DIR, filename)
         if not os.path.isfile(filepath):
             continue  # Skip missing files
-
-        headers = extract_h3_headers(filepath)
-        if headers:
-            index_content += f"## {filename}\n\n"
-            for header, slug in headers:
-                # Prepend filename to anchor, .md extension for link
-                link = f"[{header}]({filename}#{slug})"
-                index_content += f"- {link}\n"
-            index_content += "\n"
-
-    # Write to output file
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        f.write(index_content)
-    print(f"Global index generated: {OUTPUT_FILE}")
+        print(f"Processing: {filepath}")
+    #     headers = extract_h3_headers(filepath)
+    #     if headers:
+    #         index_content += f"## {filename}\n\n"
+    #         for header, slug in headers:
+    #             # Prepend filename to anchor, .md extension for link
+    #             link = f"[{header}]({filename}#{slug})"
+    #             index_content += f"- {link}\n"
+    #         index_content += "\n"
+    #
+    # # Write to output file
+    # with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    #     f.write(index_content)
+    # print(f"Global index generated: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     build_global_index()
