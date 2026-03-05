@@ -201,6 +201,13 @@ async function openModal(slug, title, date) {
     });
     console.log("openModal - html: " + JSON.stringify(html, null, 2));
     modalBody.innerHTML = html;
+
+    // External links in new tab
+    document.querySelectorAll('#modal-body a[href^="http"]').forEach(a => {
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+    });
+
     // modalBody.innerHTML = `
     //   <h2>${date} — ${title}</h2>
     //   <pre style="white-space: pre-wrap;">${doc.text}</pre>
