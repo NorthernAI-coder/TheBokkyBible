@@ -203,7 +203,7 @@ def slug(value: str, maintain_case: bool = False):
 
 
 # Configuration: Directory to scan for MD files
-DOCS_DIR = './'  # Change to your actual docs directory if needed
+DOCS_DIR = './docs/'  # Change to your actual docs directory if needed
 
 # Specified first few MDs (filenames relative to DOCS_DIR, in order)
 FIRST_MDS = [
