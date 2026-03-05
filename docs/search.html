@@ -104,6 +104,7 @@ async function indexFile(fileInfo, text) {
   const title = fileInfo.path.replace(/^\d{8}_/, '').replace(/\.md$/, '').replace(/_/g, ' ');
 
   const words = text.toLowerCase().split(/\W+/).filter(w => w.length >= 3);
+  // const words = text.toLowerCase().split(/\W+/).filter(w => w.length >= 3).filter((w, i, arr) => arr.indexOf(w) === i);
 
   await db.documents.put({ date, title, slug: fileInfo.slug, text, words });
 }
