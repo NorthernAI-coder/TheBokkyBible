@@ -2,9 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture00199.png" width="400" /></kbd>  
+<kbd><img src="images/chungoonme.png" width="400" /></kbd>  
 
-> Bird poop caterpillar, early-stage larva of the orchard swallowtail butterfly - https://x.com/BokkyPooBah/status/1605727003834929152
+> CHUNGO ON ME - sexy-devil.eth
 
 <br />
 
