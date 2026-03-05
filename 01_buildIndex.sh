@@ -11,7 +11,6 @@ gzip -f scripts/search_index.json
 echo "Done. Gzipped scripts/search_index.json to scripts/search_index.json.gz"
 
 mv -f scripts/search_index.json.gz docs/
-# rm -f scripts/search_index.json.gz
 echo "Done. scripts/search_index.json.gz moved to docs/search_index.json.gz"
 
 ls -alrh docs/search_index.json.gz

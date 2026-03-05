@@ -36,7 +36,7 @@ def normalize_text(text):
     return text
 
 
-def build_index(root_dir="."):
+def build_index(root_dir="./docs/"):
     """Scan all .md files and build a simple inverted index"""
     index = defaultdict(list)           # word -> list of (file, line, snippet)
     file_count = 0
@@ -70,7 +70,7 @@ def build_index(root_dir="."):
 
                     SHORT_WHITELIST = {"gm", "hz", "ai", "42"}
                     if len(word) < 3 and word not in SHORT_WHITELIST:
-                        continue                    
+                        continue
                     snippet = line.strip()
                     if len(snippet) > 120:
                         snippet = snippet[:117] + "..."
