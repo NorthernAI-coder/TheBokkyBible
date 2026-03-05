@@ -84,7 +84,7 @@ async function listMarkdownFiles() {
   const res = await fetch(url);
   const data = await res.json();
   return data.tree
-    .filter(item => item.type === 'blob' && item.path.endsWith('.md') && !item.path.startsWith('scripts/') && !item.path.startsWith('GlobalTableOfContent'))
+    .filter(item => item.type === 'blob' && item.path.endsWith('.md') && item.path.startsWith('docs/') && !item.path.startsWith('GlobalTableOfContent'))
     .map(item => ({
       path: item.path,
       slug: item.path.replace(/\.md$/, '')
