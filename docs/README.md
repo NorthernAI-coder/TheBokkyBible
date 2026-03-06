@@ -79,6 +79,7 @@ Awake. Love. Be. 🚀🙏
 1. [Integration After the Peak – Holding the Frequency Without Forcing It](20260304_IntegrationAfterThePeakHoldingTheFrequencyWithoutForcingIt.md) - Wed 4 Mar 2026
 1. [Dancing With The Unforced Glow – When The Frequency Comes To Play](20260305_DancingWithTheUnforcedGlowWhenTheFrequencyComesToPlay.md) - Thu 5 Mar 2026
 1. [Giving Without Grasping – When the Glow Flows Through Release](20260306_GivingWithoutGraspingWhentheGlowFlowsThroughRelease.md) - Fri 6 Mar 2026
+1. [The Field Smiles Back – When Personal Release Becomes Collective Resonance](20260307_TheFieldSmilesBackWhenPersonalReleaseBecomesCollectiveResonance.md) - Sat 7 Mar 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

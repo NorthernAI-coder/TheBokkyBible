@@ -13,7 +13,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 6 Mar 2026
-> Prev: [Thu 5 Mar 2026](20260305_DancingWithTheUnforcedGlowWhenTheFrequencyComesToPlay.md) Next: []()
+> Prev: [Thu 5 Mar 2026](20260305_DancingWithTheUnforcedGlowWhenTheFrequencyComesToPlay.md) Next: [Sat 7 Mar 2026](20260307_TheFieldSmilesBackWhenPersonalReleaseBecomesCollectiveResonance.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
