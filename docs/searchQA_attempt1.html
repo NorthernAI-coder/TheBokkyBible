@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>searchQA.html – BokkyBible Chronicle Search</title>
+
+  <!-- Vuetify 2 CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.6.0/dist/vuetify.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify@2.6.0/dist/vuetify.min.js"></script>
+
+  <!-- marked.js -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+
+  <!-- Dexie.js -->
+  <script src="https://cdn.jsdelivr.net/npm/dexie@3.2.2/dist/dexie.min.js"></script>
+
+  <style>
+    body { font-family: system-ui, sans-serif; }
+    .v-application { font-family: system-ui, sans-serif; }
+    .result-card { transition: all 0.2s; }
+    .result-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important; }
+    mark { background: #fff59d; padding: 2px 4px; border-radius: 3px; }
+    .split-item { border-left: 4px solid #4caf50; }
+  </style>
+</head>
+<body>
+
+<div id="app">
+  <v-app>
+    <v-app-bar color="primary" dark flat>
+      <v-toolbar-title>BokkyBible Chronicle Search</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn @click="checkForUpdatesAndIndex" color="white" text :loading="indexing">
+        <v-icon left>mdi-refresh</v-icon>
+        Check for Updates & Re-index
+      </v-btn>
+    </v-app-bar>
+
+    <v-main>
+      <v-container fluid>
+        <v-tabs v-model="tab" grow>
+          <v-tab>Search</v-tab>
+          <v-tab>Browse Full Documents</v-tab>
+          <v-tab>Browse Split Q&A</v-tab>
+        </v-tabs>
+
+        <v-tabs-items v-model="tab">
+          <!-- SEARCH TAB -->
+          <v-tab-item>
+            <v-card class="ma-4">
+              <v-card-text>
+                <v-text-field
+                  v-model="searchQuery"
+                  label="Search keywords (e.g. chungos OR yield OR toilet paper)"
+                  outlined
+                  clearable
+                  append-icon="mdi-magnify"
+                  @input="performSearch"
+                ></v-text-field>
+
+                <v-alert v-if="searchResults.length === 0 && searchQuery" type="info" dense>
+                  No matches found. Try broader keywords.
+                </v-alert>
+
+                <v-row>
+                  <v-col v-for="result in searchResults" :key="result.id" cols="12" md="6" lg="4">
+                    <v-card class="result-card" @click="showDetail(result)">
+                      <v-card-title class="text-subtitle-1">
+                        {{ result.date }} – {{ result.title }}
+                      </v-card-title>
+                      <v-card-text>
+                        <div v-if="result.isSplit" class="split-item pa-2">
+                          <strong>Q{{ result.qNum }}:</strong> {{ result.question.substring(0,120) }}...
+                        </div>
+                        <div v-else v-html="result.preview"></div>
+                      </v-card-text>
+                    </v-card>
+                  </v-col>
+                </v-row>
+              </v-card-text>
+            </v-card>
+          </v-tab-item>
+
+          <!-- BROWSE FULL DOCUMENTS -->
+          <v-tab-item>
+            <v-card class="ma-4">
+              <v-card-text>
+                <v-text-field v-model="docFilter" label="Filter documents" outlined clearable></v-text-field>
+                <v-list>
+                  <v-list-item v-for="doc in filteredDocs" :key="doc.id" @click="showDetail(doc)">
+                    <v-list-item-content>
+                      <v-list-item-title>{{ doc.date }} — {{ doc.title }}</v-list-item-title>
+                    </v-list-item-content>
+                  </v-list-item>
+                </v-list>
+              </v-card-text>
+            </v-card>
+          </v-tab-item>
+
+          <!-- BROWSE SPLIT Q&A -->
+          <v-tab-item>
+            <v-card class="ma-4">
+              <v-card-text>
+                <v-text-field v-model="qaFilter" label="Filter Q&A" outlined clearable></v-text-field>
+                <v-list>
+                  <v-list-item v-for="qa in filteredQA" :key="qa.id" @click="showDetail(qa)">
+                    <v-list-item-content>
+                      <v-list-item-title>
+                        {{ qa.date }} — Q{{ qa.qNum }}: {{ qa.question.substring(0,80) }}...
+                      </v-list-item-title>
+                    </v-list-item-content>
+                  </v-list-item>
+                </v-list>
+              </v-card-text>
+            </v-card>
+          </v-tab-item>
+        </v-tabs-items>
+      </v-container>
+    </v-main>
+
+    <!-- DETAIL DIALOG -->
+    <v-dialog v-model="detailDialog" max-width="900" scrollable>
+      <v-card>
+        <v-card-title>
+          <span v-if="currentItem.isSplit">Q{{ currentItem.qNum }} – {{ currentItem.date }}</span>
+          <span v-else>{{ currentItem.date }} – {{ currentItem.title }}</span>
+          <v-spacer></v-spacer>
+          <v-btn icon @click="detailDialog = false"><v-icon>mdi-close</v-icon></v-btn>
+        </v-card-title>
+        <v-card-text v-if="currentItem">
+          <div v-html="renderedContent"></div>
+        </v-card-text>
+        <v-card-text v-else>
+          <v-alert type="warning" dense>No content selected</v-alert>
+        </v-card-text>
+      </v-card>
+    </v-dialog>
+
+    <!-- STATUS BAR -->
+    <v-footer fixed color="grey lighten-4">
+      <v-container>
+        <v-row align="center">
+          <v-col>
+            <span class="caption">{{ status }}</span>
+          </v-col>
+          <v-col class="text-right">
+            <span class="caption">Indexed {{ docCount }} documents • {{ qaCount }} Q&A pairs</span>
+          </v-col>
+        </v-row>
+      </v-container>
+    </v-footer>
+  </v-app>
+</div>
+
+<script>
+// ====================== DEXIE SETUP ======================
+const db = new Dexie('BokkyBibleSearchQA');
+// db.version(2).stores({
+//   documents: '++id, date, title, slug, content, *keywords',
+//   qa: '++id, doc_id, qNum, question, answer, *keywords, date'
+// });
+db.version(3).stores({
+  documents: '++id, date, title, slug, content, *keywords',
+  qa: '++id, doc_id, qNum, question, answer, *keywords, date',
+  metadata: 'id'   // simple key-value store for lastCommit etc.
+});
+// ====================== CONFIG ======================
+const OWNER = 'bokkypoobah';
+const REPO = 'TheBokkyBible';
+const BRANCH = 'main';
+
+// ====================== VUETIFY APP ======================
+new Vue({
+  el: '#app',
+  vuetify: new Vuetify(),
+  data: {
+    tab: 0,
+    searchQuery: '',
+    searchResults: [],
+    docFilter: '',
+    qaFilter: '',
+    allDocs: [],
+    allQA: [],
+    detailDialog: false,
+    currentItem: {},
+    status: 'Ready',
+    indexing: false,
+    docCount: 0,
+    qaCount: 0
+  },
+  computed: {
+    filteredDocs() {
+      const q = this.docFilter.toLowerCase();
+      return this.allDocs.filter(d => d.title.toLowerCase().includes(q) || d.date.includes(q));
+    },
+    filteredQA() {
+      const q = this.qaFilter.toLowerCase();
+      return this.allQA.filter(qa => qa.question.toLowerCase().includes(q) || qa.answer.toLowerCase().includes(q));
+    },
+    renderedContent() {
+      if (!this.currentItem) return '';
+
+      let text = '';
+      if (this.currentItem.isSplit) {
+        if (!this.currentItem.question || !this.currentItem.answer) return '';
+        text = `**Question:** ${this.currentItem.question}\n\n**Answer:** ${this.currentItem.answer}`;
+      } else {
+        if (!this.currentItem.content) return '';
+        text = this.currentItem.content;
+      }
+
+      try {
+        return marked.parse(text);
+      } catch (err) {
+        console.error('marked parse failed:', err);
+        return '<p style="color: red;">Rendering error – check console</p>';
+      }
+    },
+    // renderedContent() {
+    //   if (!this.currentItem) return '';
+    //   const text = this.currentItem.isSplit
+    //     ? `**Question:** ${this.currentItem.question}\n\n**Answer:** ${this.currentItem.answer}`
+    //     : this.currentItem.content;
+    //   return marked.parse(text);
+    // }
+  },
+  watch: {
+    searchQuery() { this.performSearch(); }
+  },
+  methods: {
+    async init() {
+      await this.loadAllData();
+      this.updateCounts();
+    },
+
+    async loadAllData() {
+      this.allDocs = await db.documents.toArray();
+      this.allQA = await db.qa.toArray();
+    },
+
+    updateCounts() {
+      this.docCount = this.allDocs.length;
+      this.qaCount = this.allQA.length;
+    },
+
+    async checkForUpdatesAndIndex() {
+      this.indexing = true;
+      this.status = 'Checking for updates...';
+
+      try {
+        const latestCommit = await this.getLatestCommit();
+        const meta = await db.metadata.get('lastCommit');
+        const testing = true;
+        if (!meta || meta.sha !== latestCommit || testing) {
+          this.status = 'New content detected – re-indexing...';
+          await this.fullReIndex();
+          await db.metadata.put({ id: 'lastCommit', sha: latestCommit });
+        } else {
+          this.status = 'Already up to date';
+        }
+        await this.loadAllData();
+        this.updateCounts();
+      } catch (e) {
+        this.status = 'Error: ' + e.message;
+      } finally {
+        this.indexing = false;
+      }
+    },
+
+    async getLatestCommit() {
+      const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits/${BRANCH}`);
+      const data = await res.json();
+      console.log("getLatestCommit - data: " + JSON.stringify(data, null, 2));
+      return data.sha;
+    },
+
+    async fullReIndex() {
+      this.status = 'Fetching file list...';
+      const files = await this.listMarkdownFiles();
+      console.log("fullReIndex - files: " + JSON.stringify(files, null, 2));
+
+      // Clear old data
+      await db.documents.clear();
+      await db.qa.clear();
+
+      for (const file of files) {
+        console.log("fullReIndex - file.path: " + JSON.stringify(file.path, null, 2));
+        this.status = `Processing ${file.path}...`;
+        const text = await this.fetchRawContent(file.path);
+        await this.indexDocument(file, text);
+      }
+      this.status = `Indexed ${files.length} daily chronicles`;
+    },
+
+    async listMarkdownFiles() {
+      const url = `https://api.github.com/repos/${OWNER}/${REPO}/git/trees/${BRANCH}?recursive=1`;
+      console.log("listMarkdownFiles - url: " + JSON.stringify(url, null, 2));
+      const res = await fetch(url);
+      console.log("listMarkdownFiles - res: " + JSON.stringify(res, null, 2));
+      const data = await res.json();
+      console.log("listMarkdownFiles - data: " + JSON.stringify(data, null, 2));
+      return data.tree
+        .filter(item => item.type === 'blob' && item.path.endsWith('.md') && /^docs\/\d{8}_/.test(item.path))
+        .map(item => ({ path: item.path, slug: item.path.replace(/\.md$/, '') }));
+    },
+
+    async fetchRawContent(path) {
+      const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${path}`;
+      const res = await fetch(url);
+      return await res.text();
+    },
+
+    async indexDocument(fileInfo, fullText) {
+      const dateMatch = fileInfo.path.match(/^(\d{8})/);
+      const date = dateMatch ? dateMatch[1] : 'unknown';
+      const title = fileInfo.path.replace(/^\d{8}_/, '').replace(/\.md$/, '').replace(/_/g, ' ');
+
+      // Store whole document
+      const docKeywords = this.extractKeywords(fullText);
+      const doc = {
+        date, title, slug: fileInfo.slug, content: fullText, keywords: docKeywords
+      };
+      const docId = await db.documents.add(doc);
+
+      // Split by ### (h3)
+      const sections = fullText.split(/^###\s+/m);
+      for (let i = 1; i < sections.length; i++) {  // skip header
+        const section = sections[i].trim();
+        const lines = section.split('\n');
+        const question = lines[0].trim();
+        const answer = lines.slice(1).join('\n').trim();
+
+        if (!question) continue;
+
+        const qaKeywords = this.extractKeywords(question + ' ' + answer);
+        await db.qa.add({
+          doc_id: docId,
+          qNum: i,
+          question,
+          answer,
+          keywords: qaKeywords,
+          date
+        });
+      }
+    },
+
+    extractKeywords(text) {
+      const words = text.toLowerCase().match(/\b[a-z]{3,}\b/g) || [];
+      const unique = [...new Set(words.filter(w => w.length >= 3))];
+      return unique;
+    },
+
+    async performSearch() {
+      const q = this.searchQuery.trim().toLowerCase();
+      if (!q) {
+        this.searchResults = [];
+        return;
+      }
+
+      const terms = q.split(/\s+/);
+
+      // Search documents
+      const docs = await db.documents
+        .filter(doc => terms.every(term => doc.keywords.some(k => k.includes(term))))
+        .toArray();
+
+      // Search split Q&A
+      const qas = await db.qa
+        .filter(qa => terms.every(term => qa.keywords.some(k => k.includes(term))))
+        .toArray();
+
+      this.searchResults = [
+        ...docs.map(d => ({ ...d, isSplit: false, preview: marked.parse(d.content.substring(0, 300)) })),
+        ...qas.map(qa => ({ ...qa, isSplit: true, preview: qa.question }))
+      ].slice(0, 50);
+    },
+
+    showDetail(item) {
+      this.currentItem = item;
+      this.detailDialog = true;
+    }
+  },
+  mounted() {
+    this.init();
+  }
+});
+</script>
+</body>
+</html>

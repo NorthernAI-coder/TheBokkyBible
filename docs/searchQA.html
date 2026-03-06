@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>searchQA - The Bokky Bible Chronicles</title>
+  <!-- Vuetify 3 CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@3.7.2/dist/vuetify.min.css" rel="stylesheet">
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify@3.7.2/dist/vuetify.min.js"></script>
+  <!-- Marked.js -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- Dexie.js -->
+  <script src="https://unpkg.com/dexie@4/dist/dexie.js"></script>
+  <style>
+    body { font-family: system-ui, sans-serif; }
+    .markdown-content { line-height: 1.6; }
+    .markdown-content h1, .markdown-content h2, .markdown-content h3 { margin-top: 1.5em; }
+    .v-window-item { padding: 16px; }
+    .chip { margin: 2px; }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <v-app>
+      <v-app-bar color="primary" density="compact">
+        <v-app-bar-title>The Bokky Bible Chronicles - SearchQA</v-app-bar-title>
+        <v-spacer></v-spacer>
+        <v-btn @click="checkForUpdates" color="white" variant="outlined">Check for Updates</v-btn>
+      </v-app-bar>
+
+      <v-main>
+        <v-container fluid>
+          <v-tabs v-model="tab" color="primary" grow>
+            <v-tab value="documents">Documents</v-tab>
+            <v-tab value="qas">Questions & Answers</v-tab>
+            <v-tab value="keyword">Keyword Search</v-tab>
+          </v-tabs>
+
+          <v-window v-model="tab" class="mt-4">
+            <!-- DOCUMENTS TAB -->
+            <v-window-item value="documents">
+              <v-row justify="end" class="mb-4">
+                <v-col cols="auto">
+                  <v-btn-group>
+                    <v-btn @click="prevPage('docs')" :disabled="docsPage === 1" icon="mdi-chevron-left"></v-btn>
+                    <v-btn @click="nextPage('docs')" :disabled="docsPage >= docsTotalPages" icon="mdi-chevron-right"></v-btn>
+                  </v-btn-group>
+                </v-col>
+                <v-col cols="auto">
+                  <v-select v-model="docsPageSize" :items="[10,25,50,100]" label="Page size" density="compact" style="width:120px"></v-select>
+                </v-col>
+              </v-row>
+
+              <v-data-table
+                :items="paginatedDocs"
+                :headers="docHeaders"
+                :items-per-page="-1"
+                hide-default-footer
+                class="elevation-1"
+              >
+                <template v-slot:item.title="{ item }">
+                  <a href="#" @click.prevent="viewDocument(item)">{{ item.title }}</a>
+                </template>
+                <template v-slot:item.keywords="{ item }">
+                  <v-chip v-for="kw in item.keywords" :key="kw" size="small" class="chip">{{ kw }}</v-chip>
+                </template>
+              </v-data-table>
+            </v-window-item>
+
+            <!-- QUESTIONS & ANSWERS TAB -->
+            <v-window-item value="qas">
+              <v-row justify="end" class="mb-4">
+                <v-col cols="auto">
+                  <v-btn-group>
+                    <v-btn @click="prevPage('qas')" :disabled="qasPage === 1" icon="mdi-chevron-left"></v-btn>
+                    <v-btn @click="nextPage('qas')" :disabled="qasPage >= qasTotalPages" icon="mdi-chevron-right"></v-btn>
+                  </v-btn-group>
+                </v-col>
+                <v-col cols="auto">
+                  <v-select v-model="qasPageSize" :items="[10,25,50,100]" label="Page size" density="compact" style="width:120px"></v-select>
+                </v-col>
+              </v-row>
+
+              <v-data-table
+                :items="paginatedQAs"
+                :headers="qaHeaders"
+                :items-per-page="-1"
+                hide-default-footer
+                class="elevation-1"
+              >
+                <template v-slot:item.question="{ item }">
+                  <a href="#" @click.prevent="viewQA(item)">{{ item.question.substring(0, 120) }}...</a>
+                </template>
+                <template v-slot:item.keywords="{ item }">
+                  <v-chip v-for="kw in item.keywords" :key="kw" size="small" class="chip">{{ kw }}</v-chip>
+                </template>
+              </v-data-table>
+            </v-window-item>
+
+            <!-- KEYWORD SEARCH TAB -->
+            <v-window-item value="keyword">
+              <v-row class="mb-4">
+                <v-col cols="12" md="6">
+                  <v-text-field v-model="searchKeyword" label="Search keywords" prepend-inner-icon="mdi-magnify" clearable @keyup.enter="performKeywordSearch"></v-text-field>
+                </v-col>
+                <v-col cols="12" md="6">
+                  <v-btn @click="performKeywordSearch" color="primary">Search</v-btn>
+                </v-col>
+              </v-row>
+
+              <v-row justify="end" class="mb-4">
+                <v-col cols="auto">
+                  <v-btn-group>
+                    <v-btn @click="prevPage('search')" :disabled="searchPage === 1" icon="mdi-chevron-left"></v-btn>
+                    <v-btn @click="nextPage('search')" :disabled="searchPage >= searchTotalPages" icon="mdi-chevron-right"></v-btn>
+                  </v-btn-group>
+                </v-col>
+                <v-col cols="auto">
+                  <v-select v-model="searchPageSize" :items="[10,25,50,100]" label="Page size" density="compact" style="width:120px"></v-select>
+                </v-col>
+              </v-row>
+
+              <v-data-table
+                :items="paginatedSearchResults"
+                :headers="searchHeaders"
+                :items-per-page="-1"
+                hide-default-footer
+                class="elevation-1"
+              >
+                <template v-slot:item.type="{ item }">
+                  <v-chip :color="item.type === 'document' ? 'blue' : 'green'" size="small">{{ item.type }}</v-chip>
+                </template>
+                <template v-slot:item.title="{ item }">
+                  <a href="#" @click.prevent="viewSearchItem(item)">{{ item.title }}</a>
+                </template>
+              </v-data-table>
+            </v-window-item>
+          </v-window>
+        </v-container>
+      </v-main>
+
+      <!-- Document / QA Viewer Dialog -->
+      <v-dialog v-model="viewerDialog" max-width="900">
+        <v-card>
+          <v-card-title>{{ viewerTitle }}</v-card-title>
+          <v-card-text>
+            <div v-html="viewerHtml" class="markdown-content"></div>
+          </v-card-text>
+          <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn @click="viewerDialog = false">Close</v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
+    </v-app>
+  </div>
+
+  <script>
+    const { createApp } = Vue
+    const { createVuetify } = Vuetify
+
+    const vuetify = createVuetify({
+      theme: { defaultTheme: 'light' }
+    })
+
+    const app = createApp({
+      data() {
+        return {
+          tab: 'documents',
+          db: null,
+          documents: [],
+          qas: [],
+          searchResults: [],
+          docsPage: 1,
+          docsPageSize: 25,
+          qasPage: 1,
+          qasPageSize: 25,
+          searchPage: 1,
+          searchPageSize: 25,
+          searchKeyword: '',
+          viewerDialog: false,
+          viewerTitle: '',
+          viewerHtml: '',
+          docHeaders: [
+            { title: 'Date', key: 'date' },
+            { title: 'Title', key: 'title' },
+            { title: 'Keywords', key: 'keywords' }
+          ],
+          qaHeaders: [
+            { title: 'Date', key: 'date' },
+            { title: 'Question', key: 'question' },
+            { title: 'Keywords', key: 'keywords' }
+          ],
+          searchHeaders: [
+            { title: 'Type', key: 'type' },
+            { title: 'Date', key: 'date' },
+            { title: 'Title', key: 'title' }
+          ]
+        }
+      },
+      computed: {
+        paginatedDocs() {
+          const start = (this.docsPage - 1) * this.docsPageSize
+          return this.documents.slice(start, start + this.docsPageSize)
+        },
+        docsTotalPages() {
+          return Math.ceil(this.documents.length / this.docsPageSize)
+        },
+        paginatedQAs() {
+          const start = (this.qasPage - 1) * this.qasPageSize
+          return this.qas.slice(start, start + this.qasPageSize)
+        },
+        qasTotalPages() {
+          return Math.ceil(this.qas.length / this.qasPageSize)
+        },
+        paginatedSearchResults() {
+          const start = (this.searchPage - 1) * this.searchPageSize
+          return this.searchResults.slice(start, start + this.searchPageSize)
+        },
+        searchTotalPages() {
+          return Math.ceil(this.searchResults.length / this.searchPageSize)
+        }
+      },
+      methods: {
+        async initDB() {
+          this.db = new Dexie('BokkyBibleSearch')
+          this.db.version(2).stores({
+            documents: '++id, filename, date, title',
+            qas: '++id, docId, date, question',
+            metadata: 'key'
+          })
+          await this.db.open()
+          console.log('IndexedDB ready')
+        },
+
+        async loadAllFiles() {
+          // Get list of .md files
+          const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
+          const files = await resp.json()
+          const mdFiles = files.filter(f => f.name.endsWith('.md')).sort((a,b) => b.name.localeCompare(a.name))
+
+          for (const file of mdFiles) {
+            const filename = file.name
+            const existing = await this.db.documents.where({filename}).first()
+            if (existing) continue // skip if already loaded (checkForUpdates will handle updates)
+
+            const rawUrl = `https://raw.githubusercontent.com/bokkypoobah/TheBokkyBible/main/docs/${filename}`
+            const text = await (await fetch(rawUrl)).text()
+
+            const date = filename.split('_')[0] // YYYYMMDD
+            const lines = text.split('\n')
+            let title = ''
+            for (let line of lines) {
+              if (line.startsWith('## ')) {
+                title = line.replace('## ', '').trim()
+                break
+              }
+            }
+
+            const keywords = this.extractKeywords(text)
+
+            const doc = {
+              filename,
+              date,
+              title: title || filename,
+              content: text,
+              keywords: [...new Set(keywords)]
+            }
+            const docId = await this.db.documents.add(doc)
+
+            // Split into Q&A
+            const qaBlocks = text.split(/^### /m).slice(1)
+            for (let block of qaBlocks) {
+              const qaLines = block.split('\n')
+              const question = qaLines[0].trim()
+              const answer = qaLines.slice(1).join('\n').trim()
+              if (!question) continue
+              const qaKeywords = this.extractKeywords(question + ' ' + answer)
+              await this.db.qas.add({
+                docId,
+                date,
+                question,
+                answer,
+                keywords: [...new Set(qaKeywords)]
+              })
+            }
+          }
+          this.refreshData()
+        },
+
+        extractKeywords(text) {
+          return text.toLowerCase()
+            .replace(/[^\w\s]/g, ' ')
+            .split(/\s+/)
+            .filter(w => w.length > 3)
+        },
+
+        async refreshData() {
+          this.documents = await this.db.documents.toArray()
+          this.qas = await this.db.qas.toArray()
+        },
+
+        async checkForUpdates() {
+          // Simple check: compare total files vs DB
+          const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
+          const files = await resp.json()
+          const mdCount = files.filter(f => f.name.endsWith('.md')).length
+          const dbCount = await this.db.documents.count()
+          if (mdCount > dbCount) {
+            await this.loadAllFiles()
+          } else {
+            alert('Already up to date')
+          }
+        },
+
+        viewDocument(doc) {
+          this.viewerTitle = doc.title
+          // Sanitize before parsing
+          const safeContent = doc.content.replace(/<script/gi, '&lt;script')
+          this.viewerHtml = marked.parse(safeContent)
+          this.viewerDialog = true
+        },
+
+        viewQA(qa) {
+          this.viewerTitle = qa.question
+          const safeAnswer = qa.answer.replace(/<script/gi, '&lt;script')
+          this.viewerHtml = `<h3>${qa.question}</h3>\n\n${marked.parse(safeAnswer)}`
+          this.viewerDialog = true
+        },
+
+        async performKeywordSearch() {
+          if (!this.searchKeyword) return
+          const term = this.searchKeyword.toLowerCase()
+          const docMatches = await this.db.documents
+            .filter(doc => doc.keywords.some(k => k.includes(term)) || doc.title.toLowerCase().includes(term))
+            .toArray()
+          const qaMatches = await this.db.qas
+            .filter(qa => qa.keywords.some(k => k.includes(term)) || qa.question.toLowerCase().includes(term))
+            .toArray()
+
+          this.searchResults = [
+            ...docMatches.map(d => ({ type: 'document', date: d.date, title: d.title, id: d.id })),
+            ...qaMatches.map(q => ({ type: 'qa', date: q.date, title: q.question, id: q.id }))
+          ]
+          this.searchPage = 1
+        },
+
+        viewSearchItem(item) {
+          if (item.type === 'document') {
+            this.db.documents.get(item.id).then(doc => this.viewDocument(doc))
+          } else {
+            this.db.qas.get(item.id).then(qa => this.viewQA(qa))
+          }
+        },
+
+        prevPage(tab) {
+          if (tab === 'docs') this.docsPage = Math.max(1, this.docsPage - 1)
+          else if (tab === 'qas') this.qasPage = Math.max(1, this.qasPage - 1)
+          else this.searchPage = Math.max(1, this.searchPage - 1)
+        },
+        nextPage(tab) {
+          if (tab === 'docs') this.docsPage = Math.min(this.docsTotalPages, this.docsPage + 1)
+          else if (tab === 'qas') this.qasPage = Math.min(this.qasTotalPages, this.qasPage + 1)
+          else this.searchPage = Math.min(this.searchTotalPages, this.searchPage + 1)
+        }
+      },
+      async mounted() {
+        await this.initDB()
+        // Create metadata if missing
+        const meta = await this.db.metadata.get('lastUpdated')
+        if (!meta) await this.db.metadata.put({ key: 'lastUpdated', value: Date.now() })
+        await this.loadAllFiles()
+        this.refreshData()
+      }
+    })
+
+    app.use(vuetify)
+    app.mount('#app')
+  </script>
+</body>
+</html>
