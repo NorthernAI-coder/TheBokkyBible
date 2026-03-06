@@ -63,7 +63,24 @@
                   <a href="#" @click.prevent="viewDocument(item)">{{ item.title }}</a>
                 </template>
                 <template v-slot:item.keywords="{ item }">
-                  <v-chip v-for="kw in item.keywords" :key="kw" size="small" class="chip">{{ kw }}</v-chip>
+                  <!-- <v-chip v-for="kw in item.keywords" :key="kw" size="small" class="chip">{{ kw }}</v-chip> -->
+                  <div class="d-flex flex-wrap">
+                    <v-chip
+                      v-for="(kw, i) in item.keywords.slice(0, 8)"
+                      :key="i"
+                      size="small"
+                      class="ma-1"
+                    >{{ kw }}</v-chip>
+                    <v-chip
+                      v-if="item.keywords.length > 8"
+                      size="small"
+                      class="ma-1"
+                      color="grey"
+                      @click="showAllKeywords(item)"
+                    >
+                      +{{ item.keywords.length - 8 }} more
+                    </v-chip>
+                  </div>
                 </template>
               </v-data-table>
             </v-window-item>
@@ -93,7 +110,24 @@
                   <a href="#" @click.prevent="viewQA(item)">{{ item.question.substring(0, 120) }}...</a>
                 </template>
                 <template v-slot:item.keywords="{ item }">
-                  <v-chip v-for="kw in item.keywords" :key="kw" size="small" class="chip">{{ kw }}</v-chip>
+                  <!-- <v-chip v-for="kw in item.keywords" :key="kw" size="small" class="chip">{{ kw }}</v-chip> -->
+                  <div class="d-flex flex-wrap">
+                    <v-chip
+                      v-for="(kw, i) in item.keywords.slice(0, 8)"
+                      :key="i"
+                      size="small"
+                      class="ma-1"
+                    >{{ kw }}</v-chip>
+                    <v-chip
+                      v-if="item.keywords.length > 8"
+                      size="small"
+                      class="ma-1"
+                      color="grey"
+                      @click="showAllKeywords(item)"
+                    >
+                      +{{ item.keywords.length - 8 }} more
+                    </v-chip>
+                  </div>
                 </template>
               </v-data-table>
             </v-window-item>
@@ -294,6 +328,12 @@
             .replace(/[^\w\s]/g, ' ')
             .split(/\s+/)
             .filter(w => w.length > 3)
+        },
+
+        showAllKeywords(item) {
+          const all = item.keywords.join(' • ')
+          alert(`All keywords for this item:\n\n${all}`)
+          // Or upgrade to a nice v-dialog if you want fancier
         },
 
         async refreshData() {
