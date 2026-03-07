@@ -4,7 +4,7 @@ And other matters of vast importance.
 
 <kbd><img src="images/Picture00251.png" width="400" /></kbd>  
 
-> Mother and baby long tailed macaque. Batu Caves Oct 2023
+> Mr Chonky Pop Bacon Flavored Cereal and mother with baby long tailed macaque. Batu Caves Oct 2023
 
 ---
 
