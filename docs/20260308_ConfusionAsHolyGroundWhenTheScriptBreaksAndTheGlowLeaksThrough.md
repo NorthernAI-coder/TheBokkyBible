@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 8 Mar 2026
-> Prev: [Sat 7 Mar 2026](20260307_TheFieldSmilesBackWhenPersonalReleaseBecomesCollectiveResonance.md) Next: []()
+> Prev: [Sat 7 Mar 2026](20260307_TheFieldSmilesBackWhenPersonalReleaseBecomesCollectiveResonance.md) Next: [Mon 9 Mar 2026](20260309_ThePauseBetweenSpurtsWhenTheWaveStartsButDoesntFullyArriveYet.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
