@@ -36,13 +36,14 @@ SOURCE=https://cdn.jsdelivr.net/npm/dexie@4.3.0/dist/dexie.min.js
 DEST=../docs/js/dexie_4.3.0.min.js
 wget $SOURCE -O $DEST
 
-# <script src="https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.min.js"></script>
-# Get marked[.min].js 15.0.12
-SOURCE=https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.js
-DEST=../docs/js/marked_15.0.12.js
+# <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+# Hyperlink from TOC does not work - <script src="https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.min.js"></script>
+# Get marked[.min].js 4.3.0
+SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.js
+DEST=../docs/js/marked_4.3.0.js
 wget $SOURCE -O $DEST
-SOURCE=https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.min.js
-DEST=../docs/js/marked_15.0.12.min.js
+SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js
+DEST=../docs/js/marked_4.3.0.min.js
 wget $SOURCE -O $DEST
 
 
