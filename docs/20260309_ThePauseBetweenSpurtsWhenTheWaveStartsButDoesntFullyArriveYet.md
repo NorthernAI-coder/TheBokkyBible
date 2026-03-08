@@ -15,7 +15,7 @@ Mon 9 Mar 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/d734b7235533419a8120edd8efbad39e
+Grok chat link https://x.com/i/grok/share/122258b655cd4e8d9fa613dbb9a55d3c
 
 X post <TODO>
 
@@ -47,6 +47,7 @@ X post <TODO>
 1. [An abundance of food in Malaysia](#an-abundance-of-food-in-malaysia)
 1. [https://x.com/BokkyPooBah/status/1713019523899723884 I visited for ETHKL as well](#httpsxcombokkypoobahstatus1713019523899723884-i-visited-for-ethkl-as-well)
 1. [The universe is amazing! All the hurt little Chungos in kindergarten is an emergent feature of this universe. And hopefully this is a stage that we outgrow. AI is also an emergent feature of this universe](#the-universe-is-amazing-all-the-hurt-little-chungos-in-kindergarten-is-an-emergent-feature-of-this-universe-and-hopefully-this-is-a-stage-that-we-outgrow-ai-is-also-an-emergent-feature-of-this-universe)
+1. [How to fishing operations catch small whitebait / anchovies without catching the larger animals?](#how-to-fishing-operations-catch-small-whitebait--anchovies-without-catching-the-larger-animals)
 
 ---
 
@@ -851,7 +852,44 @@ Holding the amazement (and the tenderness) with you. 🌍👐🥧🤖✨
 
 <br />
 
-###
+### How to fishing operations catch small whitebait / anchovies without catching the larger animals?
+
+Commercial fisheries primarily target small pelagic fish like **anchovies** (and similar tiny species often called whitebait in some regions, e.g., juvenile herrings/sprats in places like New Zealand or the UK) using highly selective gear and techniques that exploit the size, behavior, and schooling habits of the target species while minimizing larger bycatch.
+
+The dominant method worldwide for industrial-scale anchovy/whitebait fishing is the **purse seine** net — and here's how it achieves relatively low bycatch of larger animals:
+
+#### 1. **Purse Seining – The Core Technique**
+- A fast boat (or pair of boats) spots a dense school of small anchovies near the surface, often using sonar, echo sounders, spotter planes/helicopters, or even lights at night (light-assisted purse seining in some regions).
+- A smaller skiff deploys the long net in a circle around the entire school.
+- The bottom of the net has a weighted "lead line" (chain or cable) and the top has floats. Once encircled, the lead line is pulled in (the "pursing" action) like drawing a drawstring bag closed at the bottom → this traps the school inside a giant vertical "purse."
+- The net is then hauled alongside the vessel, and fish are pumped or brailed (scooped) aboard.
+
+**Why this selectively catches small fish and spares larger ones:**
+- Anchovies form extremely tight, dense schools near the surface (often in shallow depths), while larger predatory fish (tuna, sharks, billfish) or marine mammals tend to swim deeper, more dispersed, or avoid the encirclement if they detect it early.
+- The net is set quickly around the visible/boiling school → larger animals usually aren't inside the circle to begin with.
+- Mesh size in the main body and bunt (the bag end) is very small (typically 8–14 mm stretched mesh for anchovies, sometimes as small as 6–9 mm in some fleets) — physically too small for most adult larger fish to get gilled or entangled. Larger animals either never enter the net or can sometimes swim out before pursing if they're fast/strong enough (though this is less common).
+
+#### 2. **Behavior-Based Selectivity**
+- Anchovies are highly gregarious and stay in massive monospecific (or near-monospecific) schools.
+- Many larger species are solitary hunters or school differently → they don't co-occur in the same tight surface aggregations that purse seiners target.
+- Fishers actively avoid setting on mixed schools (e.g., schools with obvious tuna or dolphins) — spotters look for "pure" anchovy signs (boiling water, bird activity over small fish only).
+
+#### 3. **Bycatch Reduction Tools & Practices (When Needed)**
+While anchovy purse seining generally has low bycatch of large animals compared to other methods (e.g., longlines or trawls), some fleets/regions add mitigation:
+- **Backdown procedure** (common in tuna-associated sets, but adapted in some anchovy ops) — partially open the net top after pursing to let dolphins/mammals escape.
+- **Medina panel** or similar escape panels in some purse seines — fine-mesh sections that allow small non-target fish to escape while retaining anchovies.
+- **Avoidance protocols** — skip sets if marine mammals, large pelagics, or protected species are present.
+- **Observer programs** and real-time monitoring (e.g., in Peru/Chile, major anchoveta fisheries) help document and reduce rare larger bycatch events.
+
+#### Regional Notes
+- **Peru/Chile (anchoveta – Engraulis ringens)** — world's largest anchovy fishery by volume; almost entirely purse seine with very small mesh → extremely low large-animal bycatch (main issues are juvenile anchovies or small pelagics, not big predators).
+- **Mediterranean/Black Sea** — similar purse seine with small mesh.
+- **New Zealand/Australia whitebait** (juveniles of galaxiids/inanga) — mostly scoop nets, set nets, or small fyke nets in rivers/estuaries → inherently size-selective (small gear in shallow water catches tiny migrating juveniles, not adults or larger species).
+- Artisanal/small-scale → often beach seines, lift nets, or cast nets with fine mesh → same principle: small mesh + targeting surface schools.
+
+In short: the combination of **very small mesh size**, **targeting tight monospecific surface schools**, **rapid encirclement**, and **visual/sonar avoidance of mixed schools** lets purse seiners (and small-scale nets) catch billions of tiny anchovies/whitebait annually with surprisingly low catches of larger animals. It's one of the more selective industrial methods for small pelagics precisely because of how the fish behave and how the gear is sized/designed.
+
+If you're thinking of a specific region/fishery (e.g., Japanese shirasu, Peruvian anchoveta, NZ whitebait), I can zoom in further! 🌊🐟✨
 
 <br />
 
