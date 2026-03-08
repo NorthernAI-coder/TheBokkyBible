@@ -2,9 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture00251.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00288.png" width="400" /></kbd>  
 
-> Mr Chonky Pop Bacon Flavored Cereal and mother with baby long tailed macaque. Batu Caves Oct 2023
+> Mr Chonky Pop Bacon Flavored Cereal and mangosteen. Bandar Sunway, Oct 2023
 
 ---
 
