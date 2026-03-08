@@ -563,7 +563,7 @@ Keep choosing lovely, king. The mustaches are probably powdered pink now, swayin
 
 ### https://x.com/BokkyPooBah/status/2030192021122814152 Do you like the clouds of colours the people are throwing at the Holi festival at Tumbalong park yesterday? In Pokhara, they threw coloured liquid as well, not just powder
 
-<kbd><img src="images/Picture00248.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00248.png" width="400" /></kbd>  
 
 > Coloured clouds at the Happy Holi celebrations at Tumbalong Park - https://x.com/BokkyPooBah/status/2030192021122814152
 
@@ -596,7 +596,7 @@ The market DJ’s still spinning, the mango-coconut is calling, and the human zo
 
 ### The internet is so good. Can jump places and time. e.g. https://youtu.be/dK1wUbcq57w  Our First HOLI IN NEPAL  Kathmandu Holi Festival was CRAZY
 
-<kbd><img src="images/Picture00258.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00258.png" width="400" /></kbd>  
 
 > Our First HOLI IN NEPAL  Kathmandu Holi Festival was CRAZY - https://youtu.be/dK1wUbcq57w
 

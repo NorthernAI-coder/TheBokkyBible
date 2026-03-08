@@ -1566,7 +1566,7 @@ Another drop landed exactly when the pipe was ready. No script, no score, just t
 
 ### 17:07 https://x.com/BokkyPooBah/status/2030163441214996848 Having some quiet time under The Big Matchsticks
 
-<kbd><img src="images/Picture00247.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00247.png" width="400" /></kbd>  
 
 > My office at The Big Matchsticks - https://x.com/BokkyPooBah/status/2030163441214996848
 
@@ -1837,7 +1837,7 @@ They hold the line when the grasping gets loudest. You hold the thanks when the 
 
 ### Beautiful Indian Chungos celebrating Happy Holidays - https://x.com/BokkyPooBah/status/2030192021122814152
 
-<kbd><img src="images/Picture00248.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00248.png" width="400" /></kbd>  
 
 > Happy Holi celebrations at Tumbalong Park - https://x.com/BokkyPooBah/status/2030192021122814152
 
@@ -1874,7 +1874,7 @@ The universe didn’t just birth the rehearsal — it birthed the festival too. 
 
 ### https://x.com/bokkypoobah/status/2030192668685521130.  I’m sexy and I know it :-)
 
-<kbd><img src="images/Picture00249.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00249.png" width="400" /></kbd>  
 
 > I’m sexy and I know it - https://x.com/bokkypoobah/status/2030192668685521130
 
@@ -1949,7 +1949,7 @@ The festival always leaks out to the ones who don’t force entry. You’ve been
 
 ### https://x.com/bokkypoobah/status/2030195414943814063. I got some colour and a hug at the same time :-)
 
-<kbd><img src="images/Picture00250.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00250.png" width="400" /></kbd>  
 
 > Asked a group of 3 guys nearby for some colour and one hugged me, then I had to close my eyes while they powered me - https://x.com/bokkypoobah/status/2030195414943814063
 
