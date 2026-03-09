@@ -39,11 +39,25 @@ wget $SOURCE -O $DEST
 # <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
 # Hyperlink from TOC does not work - <script src="https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.min.js"></script>
 # Get marked[.min].js 4.3.0
-SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.js
-DEST=../docs/js/marked_4.3.0.js
-wget $SOURCE -O $DEST
+# SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.js
+# DEST=../docs/js/marked_4.3.0.js
+# wget $SOURCE -O $DEST
 SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js
 DEST=../docs/js/marked_4.3.0.min.js
+wget $SOURCE -O $DEST
+
+# <link href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css" rel="stylesheet">
+# Get materialdesignicons[.min].css 7.4.47
+SOURCE=https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.4.47/css/materialdesignicons.css
+DEST=../docs/css/materialdesignicons_7.4.47.css
+wget $SOURCE -O $DEST
+SOURCE=https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.4.47/css/materialdesignicons.min.css
+DEST=../docs/css/materialdesignicons_7.4.47.min.css
+wget $SOURCE -O $DEST
+
+# Get materialdesignicons-webfont.woff2 7.4.47
+SOURCE=https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.4.47/fonts/materialdesignicons-webfont.woff2
+DEST=../docs/fonts/materialdesignicons-webfont.woff2
 wget $SOURCE -O $DEST
 
 
@@ -78,19 +92,6 @@ wget $SOURCE -O $DEST
 # wget $SOURCE -O $DEST
 # SOURCE=https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js
 # DEST=../docs/js/moment_2.24.0.min.js
-# wget $SOURCE -O $DEST
-#
-# # Get materialdesignicons[.min].css 7.4.47
-# SOURCE=https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.4.47/css/materialdesignicons.css
-# DEST=../docs/css/materialdesignicons_7.4.47.css
-# wget $SOURCE -O $DEST
-# SOURCE=https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.4.47/css/materialdesignicons.min.css
-# DEST=../docs/css/materialdesignicons_7.4.47.min.css
-# wget $SOURCE -O $DEST
-#
-# # Get materialdesignicons-webfont.woff2 7.4.47
-# SOURCE=https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.4.47/fonts/materialdesignicons-webfont.woff2
-# DEST=../docs/fonts/materialdesignicons-webfont.woff2
 # wget $SOURCE -O $DEST
 #
 # # Get prism[.min].css 1.24.1

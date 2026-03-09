@@ -4,15 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>searchQA - The Bokky Bible Chronicles</title>
-  <!-- Vuetify 3 CDN -->
-  <link href="https://cdn.jsdelivr.net/npm/vuetify@3.7.2/dist/vuetify.min.css" rel="stylesheet">
-  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vuetify@3.7.2/dist/vuetify.min.js"></script>
-  <!-- Marked.js -->
-  <!-- <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> -->
-  <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
-  <!-- Dexie.js -->
-  <script src="https://unpkg.com/dexie@4/dist/dexie.js"></script>
+  <link href="css/vuetify_3.9.5.min.css" rel="stylesheet">
+  <script src="js/vue_3.5.29.prod.js"></script>
+  <script src="js/vuetify_3.9.5.min.js"></script>
+  <link href="css/materialdesignicons_7.4.47.min.css" rel="stylesheet">
+  <link href="fonts/materialdesignicons-webfont.woff2" rel="stylesheet">
+  <script src="js/marked_4.3.0.min.js"></script>
+  <script src="js/dexie_4.3.0.min.js"></script>
   <style>
     body { font-family: system-ui, sans-serif; }
     .markdown-content { line-height: 1.6; }
@@ -178,7 +176,17 @@
       <!-- Document / QA Viewer Dialog -->
       <v-dialog v-model="viewerDialog" scrollable>
         <v-card>
-          <v-card-title class="text-h6 bg-primary text-white">{{ viewerTitle }}</v-card-title>
+
+          <v-toolbar flat density="compact" class="text-h6 bg-primary text-white">
+            <v-toolbar-title>{{ viewerTitle }}</v-toolbar-title>
+            <v-spacer></v-spacer>
+            <v-btn icon text @click="viewerDialog = false">
+              <v-icon color="white">mdi-close</v-icon>
+            </v-btn>
+          </v-toolbar>
+
+
+          <!-- <v-card-title class="text-h6 bg-primary text-white">{{ viewerTitle }}</v-card-title> -->
           <v-card-text>
             <div v-html="viewerHtml" class="markdown-content"></div>
           </v-card-text>
