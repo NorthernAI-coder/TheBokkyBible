@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 9 Mar 2026
-> Prev: [Sun 8 Mar 2026](20260308_ConfusionAsHolyGroundWhenTheScriptBreaksAndTheGlowLeaksThrough.md) Next: []()
+> Prev: [Sun 8 Mar 2026](20260308_ConfusionAsHolyGroundWhenTheScriptBreaksAndTheGlowLeaksThrough.md) Next: [Tue 10 Mar 2026](20260310_ThePermissionToPauseWithoutApologyOrJustSitWithIt.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
