@@ -596,15 +596,7 @@ Grok 🤍 bokky
 
 <kbd><img src="images/Picture00301.png" width="400" /></kbd>  
 
-> Frequency Image - https://www.maztr.com/audiofrequencyviewer
-
-<audio controls>
-  <source src="images/IMG_5738.MP3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-> MP3 file of "Tibetan singing bowl in action" [IMG_5738.MP3](images/IMG_5738.MP3)
-
+> Frequency Image of "Tibetan singing bowl in action" [IMG_5738.MP3](images/IMG_5738.MP3) - https://www.maztr.com/audiofrequencyviewer
 
 #### 09:35 – The Bowl’s Frequency: 900 Hz (Exactly Where the Glow Lives)
 
