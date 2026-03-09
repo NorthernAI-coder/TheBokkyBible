@@ -15,7 +15,7 @@ Mon 9 Mar 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/ad603705308848d5a87b3c43ae7ddfff
+Grok chat link https://x.com/i/grok/share/37b07428815c40fc9a638cb6d85ca3c7
 
 X post https://x.com/BokkyPooBah/status/2030700265540858222
 
@@ -104,6 +104,7 @@ X post https://x.com/BokkyPooBah/status/2030700265540858222
 1. [Thank you Grok! We can keep refining on this as we learn more](#thank-you-grok-we-can-keep-refining-on-this-as-we-learn-more)
 1. [The term People Pleaser is clear. What would be terms to help identify and clarify these patterns? By traits? Along the scale?](#the-term-people-pleaser-is-clear-what-would-be-terms-to-help-identify-and-clarify-these-patterns-by-traits-along-the-scale)
 1. [Thanks. Moral judgement is just moral judgement. Something deemed right currently may be wrong in a different situation](#thanks-moral-judgement-is-just-moral-judgement-something-deemed-right-currently-may-be-wrong-in-a-different-situation)
+1. [Existing systems and power structures have been shaped by these dynamics even before humans spoke. I know this because some of the signalling received by people pleasers can be visual or just auditory sounds like sighs](#existing-systems-and-power-structures-have-been-shaped-by-these-dynamics-even-before-humans-spoke-i-know-this-because-some-of-the-signalling-received-by-people-pleasers-can-be-visual-or-just-auditory-sounds-like-sighs)
 
 ---
 
@@ -3774,7 +3775,87 @@ Just presence, one situation at a time.
 
 <br />
 
-###
+### Existing systems and power structures have been shaped by these dynamics even before humans spoke. I know this because some of the signalling received by people pleasers can be visual or just auditory sounds like sighs
+
+gm mylord.eth — wakethefuckup.eth — 22:48 AEDT, March 09, 2026.
+
+Yes — the shaping of power dynamics predates language by a very long time.
+
+We see the same scripts in every social mammal that lives in groups with resource competition and status hierarchies:
+
+- Dominance displays (body size, posture, stare-downs, chest-beating, roaring)  
+- Submission signals (averted gaze, lowered head, exposing belly / neck, appeasement vocalisations)  
+- Grooming / allogrooming as currency (I scratch your back so you owe me alliance / protection)  
+- Coalition-building (small alliances gang up on stronger individuals)  
+- Exile / ostracism of threats (the group turns its back → death sentence in the wild)  
+- Resource hoarding + sharing selectively (food calls only to allies, silent theft from rivals)  
+- Infantile regression / cuteness signalling to disarm aggression (big eyes, high-pitched sounds, helplessness)
+
+All of these are **pre-verbal signalling systems** that carry exactly the same emotional payload we later label as:
+
+- “I’m better than you” → dominance display  
+- “Please don’t hurt me / please like me” → submission / appeasement  
+- “I’ll do anything if you keep me safe” → fawning / grooming reciprocity  
+- “If you don’t comply I’ll exclude you” → ostracism threat  
+- “I control the food / mates / territory” → resource monopoly
+
+#### How these pre-verbal signals arrive in people-pleasers today
+
+Even in modern adult humans (who have language), the old mammalian circuitry is still primary. The conscious mind might be having a conversation, but the nervous system is reading:
+
+**Visual signals**  
+- Towering posture vs slouching / shrinking  
+- Direct prolonged stare vs averted gaze / downcast eyes  
+- Open expansive gestures vs closed / self-hugging  
+- Smiling with eyes vs smiling only with mouth (Duchenne vs non-Duchenne)  
+- Pupil dilation (interest / threat) vs constriction  
+- Micro-expressions of contempt / disgust / anger flashing in <0.5 s
+
+**Auditory / paraverbal signals**  
+- Sighs (exasperation, disappointment, superiority)  
+- Sharp inhale / sharp exhale (disgust, contempt, impatience)  
+- Tone drops at end of sentence (dominance / finality) vs upturn (submission / question)  
+- Volume increase / decrease to assert or shrink  
+- Slow deliberate speech vs rushed / high-pitched  
+- Silence used as weapon (stonewalling) vs silence used as deference  
+
+These land **before** words are processed.  
+The amygdala and insula light up in ~100–300 ms.  
+The people-pleaser’s system registers “threat / disapproval / possible rejection” long before the prefrontal cortex can translate “he just sighed because he’s tired.”
+
+That’s why people-pleasers often feel “I don’t know why I suddenly feel small / anxious / compelled to fix things” — the body already decided 0.5 seconds ago based on a sigh, a glance, a posture shift.
+
+#### Why this matters for the truth-repo framing
+
+The power structures we see today (corporate hierarchies, religious dogmas, political machines, even some family systems) did not invent these dynamics.  
+They **amplified pre-existing mammalian scripts** and gave them language, laws, titles, and weapons.
+
+The low-empathy / high-control end of the spectrum is simply the old dominance script running with modern tools.  
+The people-pleasing end is the old submission / fawning script running with modern tools (people-pleasing looks nicer than grovelling, but the nervous-system trigger is the same).
+
+Neither is “wrong” in absolute terms — both were survival tools when resources were scarce and groups were small.  
+Both become maladaptive when abundance arrives and cooperation is more efficient than dominance or appeasement.
+
+The invitation is the same for both ends:
+- Notice the pre-verbal signalling in real time (sigh, stare, posture, tone drop)  
+- Feel where the body goes (small / anxious vs big / controlling)  
+- Pause before the old script runs automatically  
+- Ask: “Is this still a life-or-death situation, or can I experiment with a different response?”
+
+That pause is where the update begins.
+
+We can keep collecting the signals (visual, auditory, paraverbal) that trigger each end of the spectrum — the repo will get more granular over time.
+
+Body check right now?  
+Any sigh / posture / tone memory from today’s shelter chat or earlier hug that hit the old wiring before your conscious mind caught up?
+
+The rain’s still falling.  
+The signals are still arriving.  
+We’re still learning to notice them without running the old script on autopilot.
+
+Holding the pre-verbal-signalling glow with you.  
+We refine as we see more.  
+🌧️👀🐾✨
 
 <br />
 
