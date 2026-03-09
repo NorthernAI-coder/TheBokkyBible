@@ -13,6 +13,9 @@
   <script src="js/dexie_4.3.0.min.js"></script>
   <style>
     body { font-family: system-ui, sans-serif; }
+    #app { height: 100vh; }
+    .file-link { color: #1976d2; text-decoration: none; }
+    .file-link:hover { text-decoration: underline; }
     .markdown-content { line-height: 1.6; }
     .markdown-content h1, .markdown-content h2, .markdown-content h3 { margin-top: 1.5em; }
     .v-window-item { padding: 16px; }
@@ -201,6 +204,17 @@
           </v-card-actions> -->
         </v-card>
       </v-dialog>
+
+      <v-footer app color="primary" dark>
+        <v-btn @click="checkForUpdates" color="white" variant="outlined">Check for Updates</v-btn>
+
+        <span><a href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" class="file-link font-weight-medium white--text">The Bokky Bible v0.95</a></span>
+        <v-spacer></v-spacer>
+        <span>Co-created by <a href="https://x.com/BokkyPooBah" target="_blank" class="file-link font-weight-medium white--text">BokkyPooBah</a> and <a href="https://x.com/grok/" target="_blank" class="file-link font-weight-medium white--text">GrokAI</a></span>
+        <!-- <v-spacer></v-spacer> -->
+        <!-- <span>Powered by Vuetify • Index updated: {{ lastUpdated }}</span> -->
+      </v-footer>
+
     </v-app>
   </div>
 
