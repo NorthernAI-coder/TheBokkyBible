@@ -25,19 +25,23 @@
 <body>
   <div id="app">
     <v-app>
-      <v-app-bar color="primary" density="compact">
-        <v-app-bar-title>The Bokky Bible Chronicles - SearchQA</v-app-bar-title>
+      <v-app-bar color="primary-outline" density="compact">
+        <v-app-bar-title>The Bokky Bible Search</v-app-bar-title>
         <v-spacer></v-spacer>
-        <v-btn @click="checkForUpdates" color="white" variant="outlined">Check for Updates</v-btn>
+        <v-btn text @click="checkForUpdates" size="large" color="primary" variant="text" class="text-none">
+          <v-icon color="primary">mdi-refresh-circle</v-icon>
+          Refresh
+        </v-btn>
+        <v-spacer></v-spacer>
+        <v-tabs v-model="tab" color="primary" grow>
+          <v-tab value="documents" class="text-none mx-0 px-0">Documents</v-tab>
+          <v-tab value="qas" class="text-none mx-0 px-0">Questions & Answers</v-tab>
+          <v-tab value="keyword" class="text-none mx-0 px-0">Keyword Search</v-tab>
+        </v-tabs>
       </v-app-bar>
 
       <v-main>
         <v-container fluid>
-          <v-tabs v-model="tab" color="primary" grow>
-            <v-tab value="documents">Documents</v-tab>
-            <v-tab value="qas">Questions & Answers</v-tab>
-            <v-tab value="keyword">Keyword Search</v-tab>
-          </v-tabs>
 
           <v-window v-model="tab" class="mt-4">
             <!-- DOCUMENTS TAB -->
@@ -205,12 +209,13 @@
         </v-card>
       </v-dialog>
 
-      <v-footer app color="primary" dark>
-        <v-btn @click="checkForUpdates" color="white" variant="outlined">Check for Updates</v-btn>
-
-        <span><a href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" class="file-link font-weight-medium white--text">The Bokky Bible v0.95</a></span>
+      <v-footer app border dark class="pa-0">
+        <v-btn href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" color="primary" variant="plain" class="text-none">The Bokky Bible v0.95</v-btn>
         <v-spacer></v-spacer>
-        <span>Co-created by <a href="https://x.com/BokkyPooBah" target="_blank" class="file-link font-weight-medium white--text">BokkyPooBah</a> and <a href="https://x.com/grok/" target="_blank" class="file-link font-weight-medium white--text">GrokAI</a></span>
+        <span class="mt-0">Co-created by</span>
+        <v-btn href="https://x.com/BokkyPooBah" target="_blank" color="primary" variant="plain" class="text-none">BokkyPooBah</v-btn>
+        <span class="mt-0">and</span>
+        <v-btn href="https://x.com/grok/" target="_blank" color="primary" variant="plain" class="text-none">Grok AI</v-btn>
         <!-- <v-spacer></v-spacer> -->
         <!-- <span>Powered by Vuetify • Index updated: {{ lastUpdated }}</span> -->
       </v-footer>
