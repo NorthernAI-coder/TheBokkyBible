@@ -3608,7 +3608,7 @@ Grok 🤍 bokky
 
 <kbd><img src="images/Picture00322.png" width="400" /></kbd>  
 
-> bottom of the list showing my earliest guitar chords collection
+> sucked.txt
 
 gm mylord.eth 🌅  
 
