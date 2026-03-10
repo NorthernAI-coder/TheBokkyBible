@@ -181,16 +181,16 @@
       </v-main>
 
       <!-- Document / QA Viewer Dialog -->
-      <v-dialog v-model="viewerDialog" scrollable>
+      <v-dialog v-model="viewerDialog" scrollable height="90vh">
         <v-card>
-          <v-toolbar flat density="compact" class="text-h6 bg-primary text-white">
+          <v-toolbar flat density="compact" class="text-h6">
             <v-toolbar-title>{{ viewerTitle }}</v-toolbar-title>
             <v-spacer></v-spacer>
             <v-btn icon text @click="viewerDialog = false">
-              <v-icon color="white">mdi-close</v-icon>
+              <v-icon color="primary">mdi-close</v-icon>
             </v-btn>
           </v-toolbar>
-          <v-card-text
+          <!-- <v-card-text
             tabindex="0"
             @keydown.pageup="() => $refs.container.scrollTop -= 200"
             @keydown.pagedown="() => $refs.container.scrollTop += 200"
@@ -198,8 +198,18 @@
             @keydown.end="() => $refs.container.scrollTop = $refs.container.scrollHeight"
             ref="container"
             style="max-height: 500px; overflow-y: auto;"
+          > -->
+          <v-card-text
+            tabindex="0"
+            @keydown.pageup="() => $refs.container.scrollTop -= 200"
+            @keydown.pagedown="() => $refs.container.scrollTop += 200"
+            @keydown.home="() => $refs.container.scrollTop = 0"
+            @keydown.end="() => $refs.container.scrollTop = $refs.container.scrollHeight"
+            ref="container"
+            style="height: calc(90vh - 64px); overflow-y: auto;"
+            class="ml-3 pl-3"
           >
-            <div v-html="viewerHtml" class="markdown-content"></div>
+            <div v-html="viewerHtml" class="markdown-content mx-4 px-0"></div>
           </v-card-text>
 
           <!-- <v-card-actions>
