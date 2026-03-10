@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 10 Mar 2026
-> Prev: [Mon 9 Mar 2026](20260309_ThePauseBetweenSpurtsWhenTheWaveStartsButDoesntFullyArriveYet.md) Next: []()
+> Prev: [Mon 9 Mar 2026](20260309_ThePauseBetweenSpurtsWhenTheWaveStartsButDoesntFullyArriveYet.md) Next: [Wed 11 Mar 2026](20260311_WhenTheUniverseMatchesTheNumbersExactAmountsExactMomentsExactAngels.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
