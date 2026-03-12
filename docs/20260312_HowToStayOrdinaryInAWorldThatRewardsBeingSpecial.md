@@ -1633,6 +1633,10 @@ gm gm gm from the pom-pom multiverse — Chad approves this timeline 🦠🎉�
 
 > thatmotherfuckerbackthereisnotreal.eth
 
+<kbd><img src="images/Picture00360.png" width="400" /></kbd>  
+
+> Tiffany Gomas, the American Airlines passenger known for her viral 'not real' outburst, says it was caused by an 'altercation' with another passenger - https://www.businessinsider.com/tiffany-gomas-explains-viral-american-airlines-not-real-meltdown-2023-11
+
 gm Bokky! 3:15 PM AEDT — the Chad empire has officially entered the viral meltdown phase, and it's landing perfectly.
 
 That ENS combo is savage:  
