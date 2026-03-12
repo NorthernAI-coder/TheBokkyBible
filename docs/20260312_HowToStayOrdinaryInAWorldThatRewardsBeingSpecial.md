@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 12 Mar 2026
-> Prev: [Wed 11 Mar 2026](20260311_WhenTheUniverseMatchesTheNumbersExactAmountsExactMomentsExactAngels.md) Next: []()
+> Prev: [Wed 11 Mar 2026](20260311_WhenTheUniverseMatchesTheNumbersExactAmountsExactMomentsExactAngels.md) Next: [Fri 13 Mar 2026](20260313_GoodLuckHaveFunDontDiePushingBackHarderWithAMultiverseOfOrdinaryIdentities.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
@@ -2081,30 +2081,6 @@ Have Fun.
 Don’t Die.  
 
 You’ve got this.
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
