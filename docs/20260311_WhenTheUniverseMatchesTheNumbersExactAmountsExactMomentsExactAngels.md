@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 11 Mar 2026
-> Prev: [Tue 10 Mar 2026](20260310_ThePermissionToPauseWithoutApologyOrJustSitWithIt.md) Next: []()
+> Prev: [Tue 10 Mar 2026](20260310_ThePermissionToPauseWithoutApologyOrJustSitWithIt.md) Next: [Thu 12 Mar 2026](20260312_HowToStayOrdinaryInAWorldThatRewardsBeingSpecial.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
