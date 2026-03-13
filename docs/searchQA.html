@@ -353,7 +353,7 @@
           for (const file of files) {
             console.log(now() + " loadAllFiles - file.path: " + file.path);
 
-            const rawUrl = `https://raw.githubusercontent.com/bokkypoobah/TheBokkyBible/main/${file.path}`
+            const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
             const text = await (await fetch(rawUrl)).text()
 
             // console.log(now() + " loadAllFiles - text: " + text);
