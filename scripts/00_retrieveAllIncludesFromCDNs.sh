@@ -60,6 +60,13 @@ SOURCE=https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.4.47/font
 DEST=../docs/fonts/materialdesignicons-webfont.woff2
 wget $SOURCE -O $DEST
 
+# Get moment[.min].js 2.24.0
+SOURCE=https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.js
+DEST=../docs/js/moment_2.24.0.js
+wget $SOURCE -O $DEST
+SOURCE=https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js
+DEST=../docs/js/moment_2.24.0.min.js
+wget $SOURCE -O $DEST
 
 #
 # # Get vuex[.min].js 4.1.0
@@ -84,14 +91,6 @@ wget $SOURCE -O $DEST
 # wget $SOURCE -O $DEST
 # SOURCE=https://cdnjs.cloudflare.com/ajax/libs/ethers/5.8.0/ethers.umd.min.js
 # DEST=../docs/js/ethers_5.8.0.umd.min.js
-# wget $SOURCE -O $DEST
-#
-# # Get moment[.min].js 2.24.0
-# SOURCE=https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.js
-# DEST=../docs/js/moment_2.24.0.js
-# wget $SOURCE -O $DEST
-# SOURCE=https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js
-# DEST=../docs/js/moment_2.24.0.min.js
 # wget $SOURCE -O $DEST
 #
 # # Get prism[.min].css 1.24.1
