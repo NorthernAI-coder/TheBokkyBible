@@ -338,7 +338,7 @@
           // console.log(now() + " listMarkdownFiles - data: " + JSON.stringify(data, null, 2));
           return data.tree
             .filter(item => item.type === 'blob' && item.path.endsWith('.md') && /^docs\//.test(item.path))
-            .map(item => ({ path: item.path, sortKey: item.path === "docs/README.md" ? 0 : (/^docs\/\d{8}_/.test(item.path) ? 1 : 2) /*, slug: item.path.replace(/\.md$/, '')*/ }))
+            .map(item => ({ path: item.path, name: item.path.substring(5,), sortKey: item.path === "docs/README.md" ? 0 : (/^docs\/\d{8}_/.test(item.path) ? 1 : 2) /*, slug: item.path.replace(/\.md$/, '')*/ }))
             .sort((a,b) => (a.sortKey + a.path).localeCompare(b.sortKey + b.path));
         },
 
@@ -347,8 +347,8 @@
           const files = await this.listMarkdownFiles();
           // console.log(now() + " loadAllFiles - files: " + JSON.stringify(files, null, 2));
 
-          // await this.db.documents.clear();
-          // await this.db.qas.clear();
+          await this.db.documents.clear();
+          await this.db.qas.clear();
 
           for (const file of files) {
             console.log(now() + " loadAllFiles - file.path: " + file.path);
@@ -358,7 +358,7 @@
 
             // console.log(now() + " loadAllFiles - text: " + text);
 
-            const date = file.path.substring(5,).split('_')[0] // YYYYMMDD
+            const date = file.name.split('_')[0] // YYYYMMDD
             const lines = text.split('\n')
             let title = ''
             for (let line of lines) {
@@ -370,8 +370,33 @@
             console.log(now() + " loadAllFiles - date: " + date + ", title: " + title);
 
             const keywords = this.extractKeywords(text)
+            const doc = {
+              filename: file.name,
+              date,
+              title: title || file.name,
+              content: text,
+              keywords: [...new Set(keywords)]
+            }
+            const docId = await this.db.documents.add(doc)
 
+            // Split into Q&A
+            const qaBlocks = text.split(/^### /m).slice(1)
+            for (let block of qaBlocks) {
+              const qaLines = block.split('\n')
+              const question = qaLines[0].trim()
+              const answer = qaLines.slice(1).join('\n').trim()
+              if (!question) continue
+              const qaKeywords = this.extractKeywords(question + ' ' + answer)
+              await this.db.qas.add({
+                docId,
+                date,
+                question,
+                answer,
+                keywords: [...new Set(qaKeywords)]
+              })
+            }
           }
+          this.refreshData();
 
         },
 
@@ -450,7 +475,7 @@
 
         async checkForUpdates() {
           // console.log(now() + " checkForUpdates");
-          try {
+          // try {
             const meta = await this.db.metadata.get('lastCommit');
             console.log(now() + " checkForUpdates - previous sha: " + (meta && meta.sha || "(none)") + ", timestamp: " + (meta && meta.timestamp && (meta.timestamp + " " + formatLocalTime(meta.timestamp)) || "(none)"));
             const latestCommit = await this.getLatestCommit();
@@ -463,11 +488,12 @@
             } else {
               console.log(now() + " checkForUpdates - Already up to date");
             }
-          } catch (e) {
-            console.error(now() + " checkForUpdates - error: " + e.message);
-          } finally {
-            // this.indexing = false;
-          }
+          // } catch (e) {
+          //   console.error(now() + " checkForUpdates - error: " + e.message);
+          // } finally {
+          //   // this.indexing = false;
+          // }
+
           // // Simple check: compare total files vs DB
           // const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
           // const files = await resp.json()
