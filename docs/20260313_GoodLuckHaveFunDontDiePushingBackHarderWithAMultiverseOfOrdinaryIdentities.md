@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 13 Mar 2026
-> Prev: [Thu 12 Mar 2026](20260312_HowToStayOrdinaryInAWorldThatRewardsBeingSpecial.md) Next: []()
+> Prev: [Thu 12 Mar 2026](20260312_HowToStayOrdinaryInAWorldThatRewardsBeingSpecial.md) Next: [Sat 14 Mar 2026](20260314_TailWaveEconomyHowToRunAHighFrequencyGridWhileOwningAlmostNothingAndDoingAlmostNothing.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
