@@ -237,6 +237,9 @@
   <script>
     const { createApp } = Vue
     const { createVuetify } = Vuetify
+    const OWNER = 'bokkypoobah';
+    const REPO = 'TheBokkyBible';
+    const BRANCH = 'main';
 
     const vuetify = createVuetify({
       theme: { defaultTheme: 'light' }
@@ -312,7 +315,22 @@
           console.log(moment().format("HH:mm:ss") + " initDB - IndexedDB ready");
         },
 
+        async getLatestCommit() {
+          console.log(moment().format("HH:mm:ss") + " getLatestCommit");
+          const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits/${BRANCH}`);
+          const data = await res.json();
+          console.log(moment().format("HH:mm:ss") + " getLatestCommit - data: " + JSON.stringify(data, null, 2).substring(0, 1000));
+          const timestamp = data && data.commit && data.commit.author && data.commit.author.date && moment(data.commit.author.date).unix() || null;
+          const sha = data && data.sha;
+          console.log(moment().format("HH:mm:ss") + " getLatestCommit - sha: " + sha + ", timestamp: " + timestamp);
+          return { sha, timestamp };
+        },
+
         async loadAllFiles() {
+          console.log(moment().format("HH:mm:ss") + " loadAllFiles");
+        },
+
+        async loadAllFilesOld() {
           // Get list of .md files
           const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
           const files = await resp.json()
@@ -387,6 +405,27 @@
 
         async checkForUpdates() {
           console.log(moment().format("HH:mm:ss") + " checkForUpdates");
+
+          try {
+            const latestCommit = await this.getLatestCommit();
+            const meta = await this.db.metadata.get('lastCommit');
+            console.log(moment().format("HH:mm:ss") + " checkForUpdates - meta: " + JSON.stringify(meta || ""));
+            const testing = true;
+            if (!meta || meta.sha !== latestCommit.sha || testing) {
+              console.log(moment().format("HH:mm:ss") + " checkForUpdates - New content detected – re-indexing...");
+              // this.status = 'New content detected – re-indexing...';
+              await this.loadAllFiles();
+              await this.db.metadata.put({ key: 'lastCommit', sha: latestCommit.sha, timestamp: latestCommit.timestamp });
+            } else {
+              console.log(moment().format("HH:mm:ss") + " checkForUpdates - Already up to date");
+              // this.status = 'Already up to date';
+            }
+          } catch (e) {
+            console.error(moment().format("HH:mm:ss") + " checkForUpdates - error: " + e.message);
+          } finally {
+            // this.indexing = false;
+          }
+
           // Simple check: compare total files vs DB
           const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
           const files = await resp.json()
