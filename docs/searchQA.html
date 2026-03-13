@@ -345,7 +345,7 @@
         async loadAllFiles() {
           // console.log(now() + " loadAllFiles");
           const files = await this.listMarkdownFiles();
-          console.log(now() + " loadAllFiles - files: " + JSON.stringify(files, null, 2));
+          // console.log(now() + " loadAllFiles - files: " + JSON.stringify(files, null, 2));
 
           // await this.db.documents.clear();
           // await this.db.qas.clear();
@@ -356,7 +356,20 @@
             const rawUrl = `https://raw.githubusercontent.com/bokkypoobah/TheBokkyBible/main/${file.path}`
             const text = await (await fetch(rawUrl)).text()
 
-            console.log(now() + " loadAllFiles - text: " + text);
+            // console.log(now() + " loadAllFiles - text: " + text);
+
+            const date = file.path.substring(5,).split('_')[0] // YYYYMMDD
+            const lines = text.split('\n')
+            let title = ''
+            for (let line of lines) {
+              if (line.startsWith('## ')) {
+                title = line.replace('## ', '').trim()
+                break
+              }
+            }
+            console.log(now() + " loadAllFiles - date: " + date + ", title: " + title);
+
+            const keywords = this.extractKeywords(text)
 
           }
 
