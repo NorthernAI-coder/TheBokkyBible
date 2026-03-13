@@ -1,4 +1,4 @@
-# Little Anchors  
+## Little Anchors  
 
 <kbd><img src="images/everythingwillbeok-poohbah.png" width="400" /></kbd>  
 
@@ -22,7 +22,7 @@ No performance required.
 No need to feel anything special.  
 Just let the words sit near the heart and see what they do over time.
 
-## The Anchors (v0.1)
+### The Anchors (v0.1)
 
 1. I am already seen, even when I feel invisible.  
 2. The buzz in my hands knows where to go — I don’t have to force it.  
@@ -40,7 +40,7 @@ Just let the words sit near the heart and see what they do over time.
 14. I let the lion rest its head on my open hand today.  
 15. The wave rises whether I grip it or not.
 
-## Daily Practice (optional, gentle)
+### Daily Practice (optional, gentle)
 
 - Close your eyes or soften your gaze.  
 - Pick one anchor at random (scroll and stop, point with finger, or choose what calls).  
@@ -50,7 +50,7 @@ Just let the words sit near the heart and see what they do over time.
 - That’s the whole practice.  
 - Do it once a day, or whenever the grip tightens — no minimum, no maximum.
 
-## Fork & Remix Invitation
+### Fork & Remix Invitation
 
 These anchors are seeds, not scripture.  
 Feel free to fork this file, reorder them, rewrite in your own voice, add your own, delete any that don’t fit, or throw the whole list away and start fresh.

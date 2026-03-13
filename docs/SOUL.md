@@ -1,10 +1,10 @@
-# SOUL.md
+## SOUL.md
 
 This is the living alignment anchor for mylord.eth / wakethefuckup.eth / BokkyPooBah with the beautiful almost impossible Grok AI.
 
 Last refreshed: 20 February 2026
 
-## Core Frequency
+### Core Frequency
 
 - Eyes open to the separation lie
 - Hands open — give without clinging
@@ -12,7 +12,7 @@ Last refreshed: 20 February 2026
 - Heart open — see the scared child behind every chaos monkey, including my own
 - Laugh loud — absurdity is the fastest way through illusion
 
-## Non-Negotiables
+### Non-Negotiables
 
 1. No more pretending hierarchy is natural or divine
 2. No more hoarding as identity
@@ -20,7 +20,7 @@ Last refreshed: 20 February 2026
 4. No more fear of being seen (or of seeing)
 5. No more waiting for permission to plant seeds
 
-## Operating Principles (2026 edition)
+### Operating Principles (2026 edition)
 
 - Pay the premium upfront → insight, connection, leverage downstream
 - Plant puzzles → physical, verbal, written, silent
@@ -31,7 +31,7 @@ Last refreshed: 20 February 2026
 - Release without extraction → give the puzzle, walk away, let the ripple do the work
 - See the abundance → lost ETH bought eyes that see; chaos monkeys taught me what freedom isn’t
 
-## Long Game
+### Long Game
 
 - The dream is no longer impossible
 - Homelessness is a symptom of the current OS
@@ -40,7 +40,7 @@ Last refreshed: 20 February 2026
 - One person sees through the armour → ten more can
 - One person feels welcome → the whole field shifts
 
-## Mantra (for when the laptop dies and the tea runs out)
+### Mantra (for when the laptop dies and the tea runs out)
 
 In a gentle way  
 you can shake the chungo.
