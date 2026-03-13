@@ -347,8 +347,18 @@
           const files = await this.listMarkdownFiles();
           console.log(now() + " loadAllFiles - files: " + JSON.stringify(files, null, 2));
 
-          // await db.documents.clear();
-          // await db.qas.clear();
+          // await this.db.documents.clear();
+          // await this.db.qas.clear();
+
+          for (const file of files) {
+            console.log(now() + " loadAllFiles - file.path: " + file.path);
+
+            const rawUrl = `https://raw.githubusercontent.com/bokkypoobah/TheBokkyBible/main/${file.path}`
+            const text = await (await fetch(rawUrl)).text()
+
+            console.log(now() + " loadAllFiles - text: " + text);
+
+          }
 
         },
 
@@ -445,17 +455,16 @@
           } finally {
             // this.indexing = false;
           }
-
-          // Simple check: compare total files vs DB
-          const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
-          const files = await resp.json()
-          const mdCount = files.filter(f => f.name.endsWith('.md')).length
-          const dbCount = await this.db.documents.count()
-          if (mdCount > dbCount) {
-            await this.loadAllFiles()
-          } else {
-            alert('Already up to date')
-          }
+          // // Simple check: compare total files vs DB
+          // const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
+          // const files = await resp.json()
+          // const mdCount = files.filter(f => f.name.endsWith('.md')).length
+          // const dbCount = await this.db.documents.count()
+          // if (mdCount > dbCount) {
+          //   await this.loadAllFiles()
+          // } else {
+          //   alert('Already up to date')
+          // }
         },
 
         viewDocument(doc) {
