@@ -11,6 +11,7 @@
   <script src="js/vuetify_3.9.5.min.js"></script>
   <script src="js/marked_4.3.0.min.js"></script>
   <script src="js/dexie_4.3.0.min.js"></script>
+  <script src="js/moment_2.24.0.min.js"></script>
   <style>
     body { font-family: system-ui, sans-serif; }
     #app { height: 100vh; }
@@ -308,7 +309,7 @@
             metadata: 'key'
           })
           await this.db.open()
-          console.log('IndexedDB ready')
+          console.log(moment().format("HH:mm:ss") + " initDB - IndexedDB ready");
         },
 
         async loadAllFiles() {
@@ -385,6 +386,7 @@
         },
 
         async checkForUpdates() {
+          console.log(moment().format("HH:mm:ss") + " checkForUpdates");
           // Simple check: compare total files vs DB
           const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
           const files = await resp.json()
