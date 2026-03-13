@@ -241,6 +241,13 @@
     const REPO = 'TheBokkyBible';
     const BRANCH = 'main';
 
+    function now() {
+      return moment().format("HH:mm:ss");
+    }
+    function formatLocalTime(t) {
+      return moment.unix(t).format("YYYY-MM-DD HH:mm:ss");
+    }
+
     const vuetify = createVuetify({
       theme: { defaultTheme: 'light' }
     })
@@ -312,22 +319,37 @@
             metadata: 'key'
           })
           await this.db.open()
-          console.log(moment().format("HH:mm:ss") + " initDB - IndexedDB ready");
+          console.log(now() + " initDB - IndexedDB ready");
         },
 
         async getLatestCommit() {
-          console.log(moment().format("HH:mm:ss") + " getLatestCommit");
+          // console.log(now() + " getLatestCommit");
           const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits/${BRANCH}`);
           const data = await res.json();
-          console.log(moment().format("HH:mm:ss") + " getLatestCommit - data: " + JSON.stringify(data, null, 2).substring(0, 1000));
-          const timestamp = data && data.commit && data.commit.author && data.commit.author.date && moment(data.commit.author.date).unix() || null;
-          const sha = data && data.sha;
-          console.log(moment().format("HH:mm:ss") + " getLatestCommit - sha: " + sha + ", timestamp: " + timestamp);
-          return { sha, timestamp };
+          // console.log(now() + " getLatestCommit - data: " + JSON.stringify(data, null, 2));
+          return { sha: data && data.sha || null, timestamp: data && data.commit && data.commit.author && data.commit.author.date && moment(data.commit.author.date).unix() || null };
+        },
+
+        async listMarkdownFiles() {
+          // console.log(now() + " listMarkdownFiles");
+          const url = `https://api.github.com/repos/${OWNER}/${REPO}/git/trees/${BRANCH}?recursive=1`;
+          const res = await fetch(url);
+          const data = await res.json();
+          // console.log(now() + " listMarkdownFiles - data: " + JSON.stringify(data, null, 2));
+          return data.tree
+            .filter(item => item.type === 'blob' && item.path.endsWith('.md') && /^docs\//.test(item.path))
+            .map(item => ({ path: item.path, sortKey: item.path === "docs/README.md" ? 0 : (/^docs\/\d{8}_/.test(item.path) ? 1 : 2) /*, slug: item.path.replace(/\.md$/, '')*/ }))
+            .sort((a,b) => (a.sortKey + a.path).localeCompare(b.sortKey + b.path));
         },
 
         async loadAllFiles() {
-          console.log(moment().format("HH:mm:ss") + " loadAllFiles");
+          // console.log(now() + " loadAllFiles");
+          const files = await this.listMarkdownFiles();
+          console.log(now() + " loadAllFiles - files: " + JSON.stringify(files, null, 2));
+
+          // await db.documents.clear();
+          // await db.qas.clear();
+
         },
 
         async loadAllFilesOld() {
@@ -404,24 +426,22 @@
         },
 
         async checkForUpdates() {
-          console.log(moment().format("HH:mm:ss") + " checkForUpdates");
-
+          // console.log(now() + " checkForUpdates");
           try {
-            const latestCommit = await this.getLatestCommit();
             const meta = await this.db.metadata.get('lastCommit');
-            console.log(moment().format("HH:mm:ss") + " checkForUpdates - meta: " + JSON.stringify(meta || ""));
+            console.log(now() + " checkForUpdates - previous sha: " + (meta && meta.sha || "(none)") + ", timestamp: " + (meta && meta.timestamp && (meta.timestamp + " " + formatLocalTime(meta.timestamp)) || "(none)"));
+            const latestCommit = await this.getLatestCommit();
+            console.log(now() + " checkForUpdates - latest   sha: " + (latestCommit && latestCommit.sha || "(none)") + ", timestamp: " + (latestCommit && latestCommit.timestamp && (latestCommit.timestamp + " " + formatLocalTime(latestCommit.timestamp)) || "(none)"));
             const testing = true;
             if (!meta || meta.sha !== latestCommit.sha || testing) {
-              console.log(moment().format("HH:mm:ss") + " checkForUpdates - New content detected – re-indexing...");
-              // this.status = 'New content detected – re-indexing...';
+              console.log(now() + " checkForUpdates - New content detected – re-indexing...");
               await this.loadAllFiles();
               await this.db.metadata.put({ key: 'lastCommit', sha: latestCommit.sha, timestamp: latestCommit.timestamp });
             } else {
-              console.log(moment().format("HH:mm:ss") + " checkForUpdates - Already up to date");
-              // this.status = 'Already up to date';
+              console.log(now() + " checkForUpdates - Already up to date");
             }
           } catch (e) {
-            console.error(moment().format("HH:mm:ss") + " checkForUpdates - error: " + e.message);
+            console.error(now() + " checkForUpdates - error: " + e.message);
           } finally {
             // this.indexing = false;
           }
@@ -492,9 +512,9 @@
       async mounted() {
         await this.initDB()
         // Create metadata if missing
-        const meta = await this.db.metadata.get('lastUpdated')
-        if (!meta) await this.db.metadata.put({ key: 'lastUpdated', value: Date.now() })
-        await this.loadAllFiles()
+        // const meta = await this.db.metadata.get('lastUpdated')
+        // if (!meta) await this.db.metadata.put({ key: 'lastUpdated', value: Date.now() })
+        // await this.loadAllFiles()
         this.refreshData()
       }
     })
