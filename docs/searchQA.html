@@ -412,12 +412,46 @@
         },
 
         processFile(file, text) {
-          console.log(now() + " processFile - file: " + JSON.stringify(file) + ", text: " + text.substring(1, 1000));
+          // console.log(now() + " processFile - file: " + JSON.stringify(file) + ", text: " + text.substring(1, 1000));
+
+          const lines = text.split('\n');
+          let inCodeBlock = false;
+          let chapters = [];
+          let currentChapter = '';
+          for (let line of lines) {
+            // console.log(now() + " processFile - line: " + line);
+            if (line.trim().startsWith('```')) {
+              inCodeBlock = !inCodeBlock;
+            }
+            if (inCodeBlock) {
+              currentChapter += line + '\n';
+              continue;
+            }
+            if (line.match(/^#{1,6}\s+(.+)$/)) {
+              if (currentChapter) {
+                chapters.push(currentChapter);
+              }
+              currentChapter = line + '\n';
+            } else {
+              currentChapter += line + '\n';
+            }
+          }
+          if (currentChapter) {
+            chapters.push(currentChapter);
+          }
+          for (let chapter of chapters) {
+            const trimmedChapter = chapter
+              .replace(/<br\s*\/>\s*---\s*<table[^>]*>[\s\S]*?<\/table>\s*$/, '')
+              .replace(/<br\s*\/>\s*---\s*$/, '')
+              .replace(/<br\s*\/>\s*$/, '');
+            console.log(now() + " processFile - trimmedChapter: " + trimmedChapter);
+          }
+
         },
 
         async testIt() {
           console.log(now() + " testIt");
-          const files = (await this.listMarkdownFiles()).filter(item => /^20260304/.test(item.name));
+          const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
           for (const file of files) {
             // console.log(now() + " testIt - file: " + JSON.stringify(file));
             const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
