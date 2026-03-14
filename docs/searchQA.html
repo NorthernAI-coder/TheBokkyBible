@@ -29,10 +29,11 @@
       <v-app-bar color="primary-outline" density="compact">
         <v-app-bar-title>The Bokky Bible Search</v-app-bar-title>
         <v-spacer></v-spacer>
-        <v-btn text @click="checkForUpdates" size="large" color="primary" variant="text" class="text-none">
+        <v-btn text :disabled="sync.info != null" @click="checkForUpdates" size="large" color="primary" variant="text" class="text-none">
           <v-icon color="primary">mdi-refresh-circle</v-icon>
           Refresh
         </v-btn>
+        <v-progress-circular v-if="sync.info != null" color="primary" :model-value="sync.total ? (parseInt(sync.completed * 100 / sync.total)) : 0" :size="30" :width="6" v-tooltip="'#' + sync.completed + (sync.total ? ('/' + sync.total) : '') + ': ' + sync.info"></v-progress-circular>
         <v-spacer></v-spacer>
         <v-tabs v-model="tab" color="primary" grow>
           <v-tab value="documents" class="text-none mx-0 px-0">Documents</v-tab>
@@ -270,6 +271,12 @@
           viewerDialog: false,
           viewerTitle: '',
           viewerHtml: '',
+          sync: {
+            info: null,
+            completed: null,
+            total: null,
+            halt: false,
+          },
           docHeaders: [
             { title: 'Date', key: 'date' },
             { title: 'Title', key: 'title' },
@@ -323,19 +330,15 @@
         },
 
         async getLatestCommit() {
-          // console.log(now() + " getLatestCommit");
           const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits/${BRANCH}`);
           const data = await res.json();
-          // console.log(now() + " getLatestCommit - data: " + JSON.stringify(data, null, 2));
           return { sha: data && data.sha || null, timestamp: data && data.commit && data.commit.author && data.commit.author.date && moment(data.commit.author.date).unix() || null };
         },
 
         async listMarkdownFiles() {
-          // console.log(now() + " listMarkdownFiles");
           const url = `https://api.github.com/repos/${OWNER}/${REPO}/git/trees/${BRANCH}?recursive=1`;
           const res = await fetch(url);
           const data = await res.json();
-          // console.log(now() + " listMarkdownFiles - data: " + JSON.stringify(data, null, 2));
           return data.tree
             .filter(item => item.type === 'blob' && item.path.endsWith('.md') && /^docs\//.test(item.path))
             .map(item => ({ path: item.path, name: item.path.substring(5,), sortKey: item.path === "docs/README.md" ? 0 : (/^docs\/\d{8}_/.test(item.path) ? 1 : 2) /*, slug: item.path.replace(/\.md$/, '')*/ }))
@@ -343,15 +346,18 @@
         },
 
         async loadAllFiles() {
-          // console.log(now() + " loadAllFiles");
           const files = await this.listMarkdownFiles();
           // console.log(now() + " loadAllFiles - files: " + JSON.stringify(files, null, 2));
 
           await this.db.documents.clear();
           await this.db.qas.clear();
 
+          this.sync.total = files.length;
+
+          this.sync.completed = 0;
           for (const file of files) {
             console.log(now() + " loadAllFiles - file.path: " + file.path);
+            this.sync.info = "Processing " + file.path;
 
             const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
             const text = await (await fetch(rawUrl)).text()
@@ -395,64 +401,10 @@
                 keywords: [...new Set(qaKeywords)]
               })
             }
+            this.sync.completed++;
           }
           this.refreshData();
 
-        },
-
-        async loadAllFilesOld() {
-          // Get list of .md files
-          const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
-          const files = await resp.json()
-          const mdFiles = files.filter(f => f.name.endsWith('.md')).sort((a,b) => b.name.localeCompare(a.name))
-
-          for (const file of mdFiles) {
-            const filename = file.name
-            const existing = await this.db.documents.where({filename}).first()
-            if (existing) continue // skip if already loaded (checkForUpdates will handle updates)
-
-            const rawUrl = `https://raw.githubusercontent.com/bokkypoobah/TheBokkyBible/main/docs/${filename}`
-            const text = await (await fetch(rawUrl)).text()
-
-            const date = filename.split('_')[0] // YYYYMMDD
-            const lines = text.split('\n')
-            let title = ''
-            for (let line of lines) {
-              if (line.startsWith('## ')) {
-                title = line.replace('## ', '').trim()
-                break
-              }
-            }
-
-            const keywords = this.extractKeywords(text)
-
-            const doc = {
-              filename,
-              date,
-              title: title || filename,
-              content: text,
-              keywords: [...new Set(keywords)]
-            }
-            const docId = await this.db.documents.add(doc)
-
-            // Split into Q&A
-            const qaBlocks = text.split(/^### /m).slice(1)
-            for (let block of qaBlocks) {
-              const qaLines = block.split('\n')
-              const question = qaLines[0].trim()
-              const answer = qaLines.slice(1).join('\n').trim()
-              if (!question) continue
-              const qaKeywords = this.extractKeywords(question + ' ' + answer)
-              await this.db.qas.add({
-                docId,
-                date,
-                question,
-                answer,
-                keywords: [...new Set(qaKeywords)]
-              })
-            }
-          }
-          this.refreshData()
         },
 
         extractKeywords(text) {
@@ -474,36 +426,22 @@
         },
 
         async checkForUpdates() {
-          // console.log(now() + " checkForUpdates");
-          // try {
-            const meta = await this.db.metadata.get('lastCommit');
-            console.log(now() + " checkForUpdates - previous sha: " + (meta && meta.sha || "(none)") + ", timestamp: " + (meta && meta.timestamp && (meta.timestamp + " " + formatLocalTime(meta.timestamp)) || "(none)"));
-            const latestCommit = await this.getLatestCommit();
-            console.log(now() + " checkForUpdates - latest   sha: " + (latestCommit && latestCommit.sha || "(none)") + ", timestamp: " + (latestCommit && latestCommit.timestamp && (latestCommit.timestamp + " " + formatLocalTime(latestCommit.timestamp)) || "(none)"));
-            const testing = true;
-            if (!meta || meta.sha !== latestCommit.sha || testing) {
-              console.log(now() + " checkForUpdates - New content detected – re-indexing...");
-              await this.loadAllFiles();
-              await this.db.metadata.put({ key: 'lastCommit', sha: latestCommit.sha, timestamp: latestCommit.timestamp });
-            } else {
-              console.log(now() + " checkForUpdates - Already up to date");
-            }
-          // } catch (e) {
-          //   console.error(now() + " checkForUpdates - error: " + e.message);
-          // } finally {
-          //   // this.indexing = false;
-          // }
-
-          // // Simple check: compare total files vs DB
-          // const resp = await fetch('https://api.github.com/repos/bokkypoobah/TheBokkyBible/contents/docs')
-          // const files = await resp.json()
-          // const mdCount = files.filter(f => f.name.endsWith('.md')).length
-          // const dbCount = await this.db.documents.count()
-          // if (mdCount > dbCount) {
-          //   await this.loadAllFiles()
-          // } else {
-          //   alert('Already up to date')
-          // }
+          const meta = await this.db.metadata.get('lastCommit');
+          console.log(now() + " checkForUpdates - previous sha: " + (meta && meta.sha || "(none)") + ", timestamp: " + (meta && meta.timestamp && (meta.timestamp + " " + formatLocalTime(meta.timestamp)) || "(none)"));
+          this.sync.info = "Getting latest information";
+          this.sync.total = null;
+          const latestCommit = await this.getLatestCommit();
+          this.sync.completed = 1;
+          console.log(now() + " checkForUpdates - latest   sha: " + (latestCommit && latestCommit.sha || "(none)") + ", timestamp: " + (latestCommit && latestCommit.timestamp && (latestCommit.timestamp + " " + formatLocalTime(latestCommit.timestamp)) || "(none)"));
+          const testing = true;
+          if (!meta || meta.sha !== latestCommit.sha || testing) {
+            console.log(now() + " checkForUpdates - New content detected – re-indexing...");
+            await this.loadAllFiles();
+            await this.db.metadata.put({ key: 'lastCommit', sha: latestCommit.sha, timestamp: latestCommit.timestamp });
+          } else {
+            console.log(now() + " checkForUpdates - Already up to date");
+          }
+          this.sync.info = null;
         },
 
         viewDocument(doc) {
