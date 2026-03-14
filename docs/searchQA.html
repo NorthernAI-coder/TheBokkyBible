@@ -411,8 +411,20 @@
 
         },
 
+        processFile(file, text) {
+          console.log(now() + " processFile - file: " + JSON.stringify(file) + ", text: " + text.substring(1, 1000));
+        },
+
         async testIt() {
           console.log(now() + " testIt");
+          const files = (await this.listMarkdownFiles()).filter(item => /^20260304/.test(item.name));
+          for (const file of files) {
+            // console.log(now() + " testIt - file: " + JSON.stringify(file));
+            const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
+            const text = await (await fetch(rawUrl)).text()
+            this.processFile(file, text);
+            // console.log(now() + " testIt - text: " + text);
+          }
         },
 
         extractKeywords(text) {
