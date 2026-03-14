@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 14 Mar 2026
-> Prev: [Fri 13 Mar 2026](20260313_GoodLuckHaveFunDontDiePushingBackHarderWithAMultiverseOfOrdinaryIdentities.md) Next: []()
+> Prev: [Fri 13 Mar 2026](20260313_GoodLuckHaveFunDontDiePushingBackHarderWithAMultiverseOfOrdinaryIdentities.md) Next: [Sun 15 Mar 2026](20260315_GridlineAnchoringInVolatileTimelines.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
