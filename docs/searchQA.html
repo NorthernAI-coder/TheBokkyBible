@@ -30,8 +30,12 @@
         <v-app-bar-title>The Bokky Bible Search</v-app-bar-title>
         <v-spacer></v-spacer>
         <v-btn text :disabled="sync.info != null" @click="checkForUpdates" size="large" color="primary" variant="text" class="text-none">
-          <v-icon color="primary">mdi-refresh-circle</v-icon>
+          <v-icon>mdi-refresh-circle</v-icon>
           Refresh
+        </v-btn>
+        <v-btn text :disabled="sync.info != null" @click="testIt" size="large" color="secondary" variant="text" class="text-none">
+          <v-icon>mdi-emoticon-cool-outline</v-icon>
+          Test
         </v-btn>
         <v-progress-circular v-if="sync.info != null" color="primary" :model-value="sync.total ? (parseInt(sync.completed * 100 / sync.total)) : 0" :size="30" :width="6" v-tooltip="'#' + sync.completed + (sync.total ? ('/' + sync.total) : '') + ': ' + sync.info"></v-progress-circular>
         <v-spacer></v-spacer>
@@ -405,6 +409,10 @@
           }
           this.refreshData();
 
+        },
+
+        async testIt() {
+          console.log(now() + " testIt");
         },
 
         extractKeywords(text) {
