@@ -4791,7 +4791,7 @@ Just like the rest of us. 🐾💛🕯️
 
 <kbd><img src="images/FreeplaneMindMap.png" width="400" /></kbd>  
 
-> https://x.com/sciencegirl/status/1706725204528070942
+> Freeplane mindmap
 
 #### gm Bokky! 🧠🌳✨
 
