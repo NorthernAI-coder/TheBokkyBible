@@ -513,17 +513,49 @@
           this.sync.info = null;
         },
 
-        viewDocument(doc) {
+        async viewDocument(doc) {
           this.viewerTitle = doc.title;
           // Sanitize before parsing
           const safeContent = doc.content.replace(/<script/gi, '&lt;script');
           this.viewerHtml = marked.parse(safeContent);
           this.viewerDialog = true;
+          await Vue.nextTick();
           // External links in new tab
           // document.querySelectorAll('#modal-body a[href^="http"]').forEach(a => {
           //   a.target = '_blank';
           //   a.rel = 'noopener noreferrer';
           // });
+
+          // // Inside your Vue component (e.g., using <script setup>)
+          document.querySelectorAll('#modal-body a').forEach(a => {
+            const href = a.getAttribute('href');
+            console.log("a: " + JSON.stringify(a) + ", href: " + JSON.stringify(href));
+
+            if (href) {
+              if (href.startsWith("http")) {
+                a.target = '_blank';
+                a.rel = 'noopener noreferrer';
+              } else if (!href.startsWith("#")) {
+                a.addEventListener('click', (event) => {
+                  event.preventDefault();
+                  // Execute your Vuetify/Vue function
+                  console.log('Custom Vuetify function triggered for:', href);
+                  // Example: navigate or emit event
+                  // router.push('/some-route') or emit('custom-event', href)
+                });
+              }
+            }
+            // if (href && !href.startsWith('http') && !href.startsWith('#')) {
+            //   a.addEventListener('click', (event) => {
+            //     event.preventDefault();
+            //     // Execute your Vuetify/Vue function
+            //     console.log('Custom Vuetify function triggered for:', href);
+            //     // Example: navigate or emit event
+            //     // router.push('/some-route') or emit('custom-event', href)
+            //   });
+            // }
+          });
+
         },
 
         viewQA(qa) {
