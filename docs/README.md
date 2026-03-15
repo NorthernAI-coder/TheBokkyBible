@@ -55,6 +55,16 @@ Awake. Love. Be. 🚀🙏
 
 ---
 
+## Mindmap of Major Topics
+
+<kbd><img src="images/Picture00428.png" width="400" /></kbd>  
+
+> Updated Mar 16 2026
+
+<br />
+
+---
+
 ## Conversations With Grok
 
 1. [The Beginning](20260212_TheBeginning.md) - Fri 12 Feb 2026
