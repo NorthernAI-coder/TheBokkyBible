@@ -252,6 +252,15 @@
     function formatLocalTime(t) {
       return moment.unix(t).format("YYYY-MM-DD HH:mm:ss");
     }
+    function countHashes(text) {
+      let i = 0;
+      if (text) {
+        while (text.substring(i, i + 1) == "#") {
+          i++;
+        }
+      }
+      return i;
+    }
 
     const vuetify = createVuetify({
       theme: { defaultTheme: 'light' }
@@ -427,7 +436,7 @@
               currentChapter += line + '\n';
               continue;
             }
-            if (line.match(/^#{1,6}\s+(.+)$/)) {
+            if (line.match(/^#{1,3}\s+(.+)$/)) {
               if (currentChapter) {
                 chapters.push(currentChapter);
               }
@@ -440,18 +449,24 @@
             chapters.push(currentChapter);
           }
           for (let chapter of chapters) {
+            const headingLevel = countHashes(chapter);
             const trimmedChapter = chapter
               .replace(/<br\s*\/>\s*---\s*<table[^>]*>[\s\S]*?<\/table>\s*$/, '')
               .replace(/<br\s*\/>\s*---\s*$/, '')
               .replace(/<br\s*\/>\s*$/, '');
-            console.log(now() + " processFile - trimmedChapter: " + trimmedChapter);
+            if (headingLevel >= 2 && headingLevel <= 3) {
+              // console.log(now() + " processFile - headingLevel: " + headingLevel + ", trimmedChapter: " + trimmedChapter);
+            } else {
+              console.error(now() + " processFile - headingLevel: " + headingLevel + ", trimmedChapter: " + trimmedChapter);
+            }
           }
 
         },
 
         async testIt() {
           console.log(now() + " testIt");
-          const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
+          // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
+          const files = (await this.listMarkdownFiles());
           for (const file of files) {
             // console.log(now() + " testIt - file: " + JSON.stringify(file));
             const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`

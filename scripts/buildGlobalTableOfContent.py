@@ -262,7 +262,7 @@ def build_global_index():
     # print(f"build_global_index - all_mds: {all_mds}")
 
     # Generate index content
-    index_content = "# Global Table of Content\n\n"
+    index_content = "## Global Table of Content\n\n"
     index_content += "Combined table of contents from selected MD files.\n\n"
 
     for filename in all_mds:
