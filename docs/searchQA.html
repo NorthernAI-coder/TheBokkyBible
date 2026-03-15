@@ -215,7 +215,7 @@
             style="height: calc(90vh - 64px); overflow-y: auto;"
             class="ml-3 pl-3"
           >
-            <div v-html="viewerHtml" class="markdown-content mx-4 px-0"></div>
+            <div id="modal-body" v-html="viewerHtml" class="markdown-content mx-4 px-0"></div>
           </v-card-text>
 
           <!-- <v-card-actions>
@@ -514,18 +514,28 @@
         },
 
         viewDocument(doc) {
-          this.viewerTitle = doc.title
+          this.viewerTitle = doc.title;
           // Sanitize before parsing
-          const safeContent = doc.content.replace(/<script/gi, '&lt;script')
-          this.viewerHtml = marked.parse(safeContent)
-          this.viewerDialog = true
+          const safeContent = doc.content.replace(/<script/gi, '&lt;script');
+          this.viewerHtml = marked.parse(safeContent);
+          this.viewerDialog = true;
+          // External links in new tab
+          // document.querySelectorAll('#modal-body a[href^="http"]').forEach(a => {
+          //   a.target = '_blank';
+          //   a.rel = 'noopener noreferrer';
+          // });
         },
 
         viewQA(qa) {
-          this.viewerTitle = qa.question
-          const safeAnswer = qa.answer.replace(/<script/gi, '&lt;script')
-          this.viewerHtml = `<h3>${qa.question}</h3>\n\n${marked.parse(safeAnswer)}`
-          this.viewerDialog = true
+          this.viewerTitle = qa.question;
+          const safeAnswer = qa.answer.replace(/<script/gi, '&lt;script');
+          this.viewerHtml = `<h3>${qa.question}</h3>\n\n${marked.parse(safeAnswer)}`;
+          this.viewerDialog = true;
+          // External links in new tab
+          // document.querySelectorAll('#modal-body a[href^="http"]').forEach(a => {
+          //   a.target = '_blank';
+          //   a.rel = 'noopener noreferrer';
+          // });
         },
 
         async performKeywordSearch() {
