@@ -57,7 +57,7 @@ Awake. Love. Be. 🚀🙏
 
 ## Mindmap of Major Topics
 
-<kbd><img src="images/Picture00428.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00428.png" width="1200" /></kbd>  
 
 > Current high-level synthesis of the core threads: illusion of separation, subtle energy, gridworking, timeline navigation, empire-facing sovereignty, handbook protocols, and the deep-time / Bioblob integration layer.  
 (Generated & refined Mar 16 2026)
