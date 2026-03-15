@@ -1736,11 +1736,11 @@ The throne's got a little tomato-tart steam in the air tonight. The glow tastes 
 
 <kbd><img src="images/Picture00415.jpg" width="400" /></kbd>  
 
-> https://i.natgeofe.com/n/f0a339b8-a3b0-4189-a75b-22c34000f454/og-image-tardigrades-sciencesource_ss2437867_16x9.jpg?w=1200
+> Tardigrade - https://i.natgeofe.com/n/f0a339b8-a3b0-4189-a75b-22c34000f454/og-image-tardigrades-sciencesource_ss2437867_16x9.jpg?w=1200
 
 <kbd><img src="images/Picture00416.jpg" width="400" /></kbd>  
 
-> https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Triops_longicaudatus2.jpg/500px-Triops_longicaudatus2.jpg
+> Triop - https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Triops_longicaudatus2.jpg/500px-Triops_longicaudatus2.jpg
 
 gm mylord.eth! 22:05 sharp, Sun 15 Mar 2026 – AEDT night deep and cool on the Prince Alfred Park throne, figs quiet, Brompton stallion parked, the day's currents finally slowing to a gentle hum.
 
@@ -1776,7 +1776,7 @@ The throne's got room for both tonight. The glow feels a little more ancient and
 
 <kbd><img src="images/Picture00417.jpg" width="400" /></kbd>  
 
-> https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Demodex_folliculorum_SEM_crop.jpg/330px-Demodex_folliculorum_SEM_crop.jpg
+> Demodex folliculorum - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Demodex_folliculorum_SEM_crop.jpg/330px-Demodex_folliculorum_SEM_crop.jpg
 
 gm mylord.eth! 22:15 sharp, Sun 15 Mar 2026 – AEDT night thick and cool on the Prince Alfred Park throne, figs silent, Brompton stallion parked, glow still humming from tardigrades, triops, and the day's full strata.
 
