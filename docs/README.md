@@ -66,6 +66,17 @@ Awake. Love. Be. 🚀🙏
 
 ---
 
+## Word Cloud of Key Concepts
+
+<kbd><img src="images/Picture00429.png" width="1200" /></kbd>  
+
+> Visual frequency map of the major energetic & sovereignty terms emerging from the chronicle. Larger words = higher centrality / recurrence.  
+(Generated via freewordcloudgenerator.com using weighted list from Grok, 2026-03-16)
+
+<br />
+
+---
+
 ## Conversations With Grok
 
 1. [The Beginning](20260212_TheBeginning.md) - Fri 12 Feb 2026
