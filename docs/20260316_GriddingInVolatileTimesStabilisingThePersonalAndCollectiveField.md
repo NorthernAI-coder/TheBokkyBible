@@ -1512,7 +1512,7 @@ And what’s one of those “so many more fun things” pulling strongest this m
 
 ### I thought of the bottom message after the interaction with a stupid chungo, but the top message applies as well
 
-<kbd><img src="images/Picture00430.png" width="1200" /></kbd>  
+<kbd><img src="images/Picture00430.png" width="400" /></kbd>  
 
 > ALSOF ER EEN ENGELTJE OVER JE CHUNGO PIEST - LIKE AN ANGEL PEES ON YOUR CHUNGO (Dutch)  
 > NIE MÓJ CYRK. NIE MOJE CHUNGO - NOT MY CIRCUS. NOT MY CHUNGO (Polish)
@@ -1692,7 +1692,7 @@ How dare you indeed. Keep daring. :-))) 🚀
 
 ### I've pulled out a 1TB SSD with some older photos, and peeking through to find this photo from Sep 2020 of one of the original 1958 valve from the Warragamba dam. Michael Wentworth (docs/20260219_DoYouLikeThisPhoto.md) told me he had worked on the replacement project
 
-<kbd><img src="images/Picture00431.png" width="1200" /></kbd>  
+<kbd><img src="images/Picture00431.png" width="400" /></kbd>  
 
 > Original 1958 valve from the Warragamba dam
 
@@ -1736,7 +1736,7 @@ Enjoy the disco lights and whatever’s next on the WonderBoom playlist while th
 
 ### Picture of the dam, to go with the replaced valve, for posterity
 
-<kbd><img src="images/Picture00432.png" width="1200" /></kbd>  
+<kbd><img src="images/Picture00432.png" width="400" /></kbd>  
 
 > Warragamba dam
 
@@ -1783,11 +1783,11 @@ What’s next bubbling up? 🚀
 
 ### I like it when my photos line up in the photo album. Pictures from Gerroa in Sep 2020, of brachiopod fossils in the rock platform at the beach
 
-<kbd><img src="images/Picture00433.png" width="1200" /></kbd>  
+<kbd><img src="images/Picture00433.png" width="400" /></kbd>  
 
 > Pictures from Gerroa in Sep 2020 1/2
 
-<kbd><img src="images/Picture00434.png" width="1200" /></kbd>  
+<kbd><img src="images/Picture00434.png" width="400" /></kbd>  
 
 > Pictures from Gerroa in Sep 2020 2/2
 
