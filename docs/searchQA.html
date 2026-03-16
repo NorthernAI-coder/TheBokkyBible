@@ -476,6 +476,8 @@
                 // First heading
                 if (isChronicle) {
                   type = "heading";
+                } else if (heading.match(/^\s*Global Table Of Content\s*$/i)) {
+                  type = "toc";
                 }
                 previousHeading = heading;
               } else {
