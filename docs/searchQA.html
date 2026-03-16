@@ -12,6 +12,7 @@
   <script src="js/marked_4.3.0.min.js"></script>
   <script src="js/dexie_4.3.0.min.js"></script>
   <script src="js/moment_2.24.0.min.js"></script>
+  <script src="js/minisearch_7.2.0.js"></script>
   <style>
     body { font-family: system-ui, sans-serif; }
     #app { height: 100vh; }
@@ -528,15 +529,58 @@
         },
 
         async testIt() {
-          console.log(now() + " testIt");
+          // A collection of documents for our examples
+          const documents = [
+            {
+              id: 1,
+              title: 'Moby Dick',
+              text: 'Call me Ishmael. Some years ago...',
+              category: 'fiction'
+            },
+            {
+              id: 2,
+              title: 'Zen and the Art of Motorcycle Maintenance',
+              text: 'I can see by my watch...',
+              category: 'fiction'
+            },
+            {
+              id: 3,
+              title: 'Neuromancer',
+              text: 'The sky above the port was...',
+              category: 'fiction'
+            },
+            {
+              id: 4,
+              title: 'Zen and the Art of Archery',
+              text: 'At first sight it must seem...',
+              category: 'non-fiction'
+            },
+            // ...and more
+          ];
+
+          let miniSearch = new MiniSearch({
+            fields: ['title', 'text'], // fields to index for full-text search
+            storeFields: ['title', 'category'] // fields to return with search results
+          });
+
+          // Index all documents
+          miniSearch.addAll(documents);
+
+          // Search with default options
+          let results = miniSearch.search('zen art arcger');
+          console.log(JSON.stringify(results, null, 2));
+        },
+
+        async testItOld() {
+          console.log(now() + " testItOld");
           const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
           // const files = (await this.listMarkdownFiles());
           for (const file of files) {
-            // console.log(now() + " testIt - file: " + JSON.stringify(file));
+            // console.log(now() + " testItOld - file: " + JSON.stringify(file));
             const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
             const text = await (await fetch(rawUrl)).text()
             this.processFile(file, text);
-            // console.log(now() + " testIt - text: " + text);
+            // console.log(now() + " testItOld - text: " + text);
           }
         },
 
