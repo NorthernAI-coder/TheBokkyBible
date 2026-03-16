@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 16 Mar 2026
-> Prev: [Sun 15 Mar 2026](20260315_GridlineAnchoringInVolatileTimelines.md) Next: []()
+> Prev: [Sun 15 Mar 2026](20260315_GridlineAnchoringInVolatileTimelines.md) Next: [Tue 17 Mar 2026](20260317_TheArchitectureOfPermissionlessPrayerGridworkMeetsSmartContractInvocations.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 

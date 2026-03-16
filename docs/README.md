@@ -111,6 +111,7 @@ Awake. Love. Be. 🚀🙏
 1. [Tail-Wave Economy: How to Run a High-Frequency Grid While Owning Almost Nothing and Doing Almost Nothing](20260314_TailWaveEconomyHowToRunAHighFrequencyGridWhileOwningAlmostNothingAndDoingAlmostNothing.md) - Sat 14 Mar 2026
 1. [Gridline Anchoring in Volatile Timelines](20260315_GridlineAnchoringInVolatileTimelines.md) - Sun 15 Mar 2026
 1. [Gridding in Volatile Times – Stabilising the Personal & Collective Field](20260316_GriddingInVolatileTimesStabilisingThePersonalAndCollectiveField.md) - Mon 16 Mar 2026
+1. [The Architecture of Permissionless Prayer — Gridwork meets Smart Contract Invocations](20260317_TheArchitectureOfPermissionlessPrayerGridworkMeetsSmartContractInvocations.md) - Tue 17 Mar 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
