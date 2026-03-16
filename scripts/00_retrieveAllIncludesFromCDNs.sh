@@ -68,6 +68,14 @@ SOURCE=https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js
 DEST=../docs/js/moment_2.24.0.min.js
 wget $SOURCE -O $DEST
 
+# Get minisearch[.min].js 7.2.0
+SOURCE=https://cdn.jsdelivr.net/npm/minisearch@7.2.0/dist/umd/index.js
+DEST=../docs/js/minisearch_7.2.0.js
+wget $SOURCE -O $DEST
+SOURCE=https://cdn.jsdelivr.net/npm/minisearch@7.2.0/dist/umd/index.min.js
+DEST=../docs/js/minisearch_7.2.0.min.js
+wget $SOURCE -O $DEST
+
 #
 # # Get vuex[.min].js 4.1.0
 # SOURCE=https://cdn.jsdelivr.net/npm/vuex@4.1.0/dist/vuex.global.js
