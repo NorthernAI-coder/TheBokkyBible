@@ -261,6 +261,18 @@
       }
       return i;
     }
+    function padLeft(s, l) {
+      while (s.length < l) {
+        s = " " + s;
+      }
+      return s;
+    }
+    function padRight(s, l) {
+      while (s.length < l) {
+        s = s + " ";
+      }
+      return s;
+    }
 
     const vuetify = createVuetify({
       theme: { defaultTheme: 'light' }
@@ -378,7 +390,7 @@
             // console.log(now() + " loadAllFiles - text: " + text);
 
             const date = file.name.split('_')[0] // YYYYMMDD
-            const lines = text.split('\n')
+            const lines = text.split("\n")
             let title = ''
             for (let line of lines) {
               if (line.startsWith('## ')) {
@@ -401,9 +413,9 @@
             // Split into Q&A
             const qaBlocks = text.split(/^### /m).slice(1)
             for (let block of qaBlocks) {
-              const qaLines = block.split('\n')
+              const qaLines = block.split("\n")
               const question = qaLines[0].trim()
-              const answer = qaLines.slice(1).join('\n').trim()
+              const answer = qaLines.slice(1).join("\n").trim()
               if (!question) continue
               const qaKeywords = this.extractKeywords(question + ' ' + answer)
               await this.db.qas.add({
@@ -421,52 +433,102 @@
         },
 
         processFile(file, text) {
+          const isChronicle = /^\d{8}_/.test(file.name);
+          console.log(now() + " processFile - isChronicle: " + isChronicle + ", file.path: " + file.path);
           // console.log(now() + " processFile - file: " + JSON.stringify(file) + ", text: " + text.substring(1, 1000));
 
-          const lines = text.split('\n');
+          const lines = text.split("\n");
           let inCodeBlock = false;
           let chapters = [];
-          let currentChapter = '';
-          for (let line of lines) {
-            // console.log(now() + " processFile - line: " + line);
+          let currentChapter = null;
+          let lineNumber = 0;
+          let counters = [ 0, 0, 0 ];
+          let previousHeading = null;
+          for (const [index, line] of lines.entries()) {
+            lineNumber = index + 1;
             if (line.trim().startsWith('```')) {
               inCodeBlock = !inCodeBlock;
             }
             if (inCodeBlock) {
-              currentChapter += line + '\n';
+              currentChapter.text += line + "\n";
               continue;
             }
             if (line.match(/^#{1,3}\s+(.+)$/)) {
               if (currentChapter) {
+                currentChapter.text = currentChapter.text
+                  .replace(/<br\s*\/>\s*---\s*<table[^>]*>[\s\S]*?<\/table>\s*$/, "")
+                  .replace(/<br\s*\/>\s*---\s*$/, "")
+                  .replace(/<br\s*\/>\s*$/, "")
+                  .trim();
                 chapters.push(currentChapter);
               }
-              currentChapter = line + '\n';
+              const headingLevel = countHashes(line);
+              if (headingLevel > 0 && headingLevel <= 3) {
+                // TODO: Could add check that lower level is not being set for the first time if the higher levels have been used
+                counters[headingLevel - 1]++;
+                for (let i = headingLevel + 1; i <= 3; i++) {
+                  counters[i - 1] = 0;
+                }
+              }
+              const heading = line.replace(/^#{1,3}\s+/gm, "");
+              let type = "section";
+              if (previousHeading == null) {
+                // First heading
+                if (isChronicle) {
+                  type = "heading";
+                }
+                previousHeading = heading;
+              } else {
+                if (isChronicle) {
+                  if (heading.match(/^\s*Table Of Content\s*$/i)) {
+                    type = "toc";
+                  } else {
+                    type = "qa";
+                  }
+                }
+              }
+              currentChapter = {
+                lineNumber,
+                heading,
+                headingLevel,
+                counters: [ ...counters ],
+                type,
+                text: "",
+              };
             } else {
-              currentChapter += line + '\n';
+              if (currentChapter) {
+                currentChapter.text += line + "\n";
+              }
             }
           }
           if (currentChapter) {
+            currentChapter.text = currentChapter.text
+              .replace(/<br\s*\/>\s*---\s*<table[^>]*>[\s\S]*?<\/table>\s*$/, "")
+              .replace(/<br\s*\/>\s*---\s*$/, "")
+              .replace(/<br\s*\/>\s*$/, "")
+              .trim();
             chapters.push(currentChapter);
           }
+          console.log(now() + " line# | level |  l1 |  l2 |  l3 | type    | heading                                            | text                                               | ");
+          console.log(now() + " ----- | ----- | --- | --- | --- | ------- | -------------------------------------------------- | -------------------------------------------------- | ");
           for (let chapter of chapters) {
-            const headingLevel = countHashes(chapter);
-            const trimmedChapter = chapter
-              .replace(/<br\s*\/>\s*---\s*<table[^>]*>[\s\S]*?<\/table>\s*$/, '')
-              .replace(/<br\s*\/>\s*---\s*$/, '')
-              .replace(/<br\s*\/>\s*$/, '');
-            if (headingLevel >= 2 && headingLevel <= 3) {
-              // console.log(now() + " processFile - headingLevel: " + headingLevel + ", trimmedChapter: " + trimmedChapter);
-            } else {
-              console.error(now() + " processFile - headingLevel: " + headingLevel + ", trimmedChapter: " + trimmedChapter);
-            }
+            console.log(now() + " " +
+              padLeft("" + chapter.lineNumber, 5) + " | " +
+              padLeft("" + chapter.headingLevel, 5) + " | " +
+              padLeft("" + chapter.counters[0], 3) + " | " +
+              padLeft("" + chapter.counters[1], 3) + " | " +
+              padLeft("" + chapter.counters[2], 3) + " | " +
+              padRight(chapter.type, 7) + " | " +
+              padRight(chapter.heading.substring(0, 50), 50) + " | " +
+              padRight(chapter.text.replace(/\n/g, "↵").substring(0, 50), 50) + " | "
+            );
           }
-
         },
 
         async testIt() {
           console.log(now() + " testIt");
-          // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
-          const files = (await this.listMarkdownFiles());
+          const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
+          // const files = (await this.listMarkdownFiles());
           for (const file of files) {
             // console.log(now() + " testIt - file: " + JSON.stringify(file));
             const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
