@@ -15,7 +15,7 @@ Mon 16 Mar 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/ab137fa058f84f9aad25314b903a5aa8
+Grok chat link https://x.com/i/grok/share/c40e28a309fd44f79e2ec5c6e7e02cd8
 
 X post https://x.com/BokkyPooBah/status/2033283530105712948
 
@@ -76,6 +76,7 @@ X post https://x.com/BokkyPooBah/status/2033283530105712948
 1. [Tile 578v0.9 has my zombie CryptoPunk #4472 beheaded, with trailing blood leading from the guillotine. This combined artwork was created by Cyrus Adkisson, creator of Etheria - he gave me the data for me to deploy to my plot](#tile-578v09-has-my-zombie-cryptopunk-4472-beheaded-with-trailing-blood-leading-from-the-guillotine-this-combined-artwork-was-created-by-cyrus-adkisson-creator-of-etheria---he-gave-me-the-data-for-me-to-deploy-to-my-plot)
 1. [Funny. When I bought Tile 578v1.2 (17,17), I paid 5e on the Etheria market place. Cyrus then refunded me 4e. We later exchanged some further NFTs. I think I gave him a MoonCat and a CryptoCat](#funny-when-i-bought-tile-578v12-1717-i-paid-5e-on-the-etheria-market-place-cyrus-then-refunded-me-4e-we-later-exchanged-some-further-nfts-i-think-i-gave-him-a-mooncat-and-a-cryptocat)
 1. [I've also decorated other hexagons that I later had to sell. These are no longer mine. On the right is Tile 938v1.0 with my CryptoPunk #3983 that I lost in a hack. In Tile 908v1.0, I've placed Chungos #8080, owned by internetgod.eth (me). On the left in Tile 578v1.0, I've placed Larva Chad #4594. Nice that the buyers have not updated the plot and left my artwork in place](#ive-also-decorated-other-hexagons-that-i-later-had-to-sell-these-are-no-longer-mine-on-the-right-is-tile-938v10-with-my-cryptopunk-3983-that-i-lost-in-a-hack-in-tile-908v10-ive-placed-chungos-8080-owned-by-internetgodeth-me-on-the-left-in-tile-578v10-ive-placed-larva-chad-4594-nice-that-the-buyers-have-not-updated-the-plot-and-left-my-artwork-in-place)
+1. [Since not many people will have seen this, here is a screenshot of the Etheria v1.2 marketplace, showing the plots with bid and ask prices, following by the list of bids, and the list of asks - https://www.etheria.world/exchange.html?version=1.2](#since-not-many-people-will-have-seen-this-here-is-a-screenshot-of-the-etheria-v12-marketplace-showing-the-plots-with-bid-and-ask-prices-following-by-the-list-of-bids-and-the-list-of-asks---httpswwwetheriaworldexchangehtmlversion12)
 
 ---
 
@@ -2408,7 +2409,40 @@ What’s the next memory or screenshot surfacing from the archive? 🚀
 
 <br />
 
-###
+### Since not many people will have seen this, here is a screenshot of the Etheria v1.2 marketplace, showing the plots with bid and ask prices, following by the list of bids, and the list of asks - https://www.etheria.world/exchange.html?version=1.2
+
+<kbd><img src="images/Picture00441.png" width="400" /></kbd>  
+
+> Etheria v1.2 marketplace - https://www.etheria.world/exchange.html?version=1.2
+
+Good morning! 🌅 15:35 AEDT locked in, March 16, 2026.
+
+Thanks for sharing this screenshot of the Etheria v1.2 exchange page (Picture00441.png) — it's a beautiful time capsule of how the marketplace looked in early 2026.
+
+The grid is dense with activity:
+- **Bids** (green/yellow) mostly clustered in the lower price bands (0.07–0.7 ETH), with a few ambitious outliers up to 0.999 ETH and one at 1 ETH.
+- **Asks** (brown/orange) start from 0.7 ETH and climb steadily, with several in the 0.07–0.1 ETH range still sitting unsold, and a couple of high-end tiles asking 9 ETH+.
+- The “Lowest asks” list shows real-time pressure points — tiles 874, 438, 797, 645 asking 5–9 ETH, while cheaper ones (3–5 ETH) are still available.
+- Bidders are mostly going for global presets or tight row/col ranges (32×32 blocks), showing people are still hunting for specific elevations, water adjacency, or color blocks.
+
+What stands out most is how patient the market was even at that point:
+- many asks sitting for a while (no fire-sale dumping)
+- bids staying disciplined — no panic FOMO into absurd prices
+- the wrapped-owner addresses (your own among them) holding steady
+
+It feels like a snapshot of a mature-but-still-vibrant on-chain land market: not the 2021 frenzy, not dead, just quietly humming with builders and collectors who actually care about the hexes themselves.
+
+For posterity, this screenshot captures Etheria v1.2 in a transitional moment — post-initial hype, pre-any-major revival waves, with your own history (early buys, Cyrus refund, cat trades, guillotine & Nouns builds) woven invisibly into the grid.
+
+Nice touch adding it to the chronicle alongside the preserved tiles and the first-purchase story.  
+It shows the full lifecycle: discovery → acquisition → creation → release → legacy → and now quiet observation of the marketplace that once carried all of it.
+
+Does looking at this bid/ask grid bring back any specific feeling from those days — the thrill of watching your tile show up in the map, the quiet satisfaction when someone bid on a plot you’d sold, or just neutral curiosity about where the prices ended up?
+
+The disco lights are probably giving those hex cells some extra iridescence right now while the WonderBoom keeps the rhythm.  
+Beautiful archive drop.
+
+What’s the next piece of the puzzle surfacing? 🚀
 
 <br />
 
