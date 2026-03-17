@@ -48,11 +48,12 @@
       </v-app-bar>
 
       <v-main>
-        <v-container fluid>
+        <v-container fluid class="ma-0 pa-0">
 
-          <v-window v-model="tab" class="mt-4">
+          <!-- <v-tabs-window v-model="tab" class="mt-2"> -->
+          <v-tabs-window v-model="tab" class="ma-1 mt-3 pa-0">
             <!-- DOCUMENTS TAB -->
-            <v-window-item value="documents">
+            <v-tabs-window-item value="documents" class="ma-1 pa-0">
               <v-row justify="end" class="mb-4">
                 <v-col cols="auto">
                   <v-btn-group>
@@ -96,10 +97,10 @@
                   </div>
                 </template>
               </v-data-table>
-            </v-window-item>
+            </v-tabs-window-item>
 
             <!-- QUESTIONS & ANSWERS TAB -->
-            <v-window-item value="qas">
+            <v-tabs-window-item value="qas" class="ma-1 pa-0">
               <v-row justify="end" class="mb-4">
                 <v-col cols="auto">
                   <v-btn-group>
@@ -143,20 +144,33 @@
                   </div>
                 </template>
               </v-data-table>
-            </v-window-item>
+            </v-tabs-window-item>
 
             <!-- KEYWORD SEARCH TAB -->
-            <v-window-item value="keyword">
-              <v-row class="mb-4">
+            <v-tabs-window-item value="keyword" class="ma-1 pa-0">
+              <!-- <v-toolbar flat color="transparent" density="compact"> -->
+              <v-toolbar flat density="compact">
+                <v-text-field v-model="searchKeywords" hide-details label="🔍" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 200px"></v-text-field>
+                <!-- <v-text-field v-model="searchKeywords" label="Search keywords" prepend-inner-icon="mdi-magnify" variant="solo" flat density="compact" clearable @input="performKeywordSearch" class="ma-1 mt-6"></v-text-field> -->
+                <!-- <v-text-field v-model="searchKeywords" label="Search keywords" prepend-inner-icon="mdi-magnify" variant="solo" flat density="compact" clearable @keyup.enter="performKeywordSearch" class="ma-1 mt-6"></v-text-field> -->
+                <!-- <v-btn @click="performKeywordSearch" color="primary">Search</v-btn> -->
+                <v-spacer></v-spacer>
+                <v-btn-group>
+                  <v-btn @click="prevPage('search')" :disabled="searchPage === 1" flat density="compact" icon="mdi-chevron-left"></v-btn>
+                  <v-btn @click="nextPage('search')" :disabled="searchPage >= searchTotalPages" flat density="compact" icon="mdi-chevron-right"></v-btn>
+                </v-btn-group>
+                <v-select v-model="searchPageSize" :items="[10,25,50,100]" label="Page size" density="compact" style="width:120px"></v-select>
+              </v-toolbar>
+              <!-- <v-row class="mb-4">
                 <v-col cols="12" md="6">
-                  <v-text-field v-model="searchKeyword" label="Search keywords" prepend-inner-icon="mdi-magnify" clearable @keyup.enter="performKeywordSearch"></v-text-field>
+                  <v-text-field v-model="searchKeywords" label="Search keywords" prepend-inner-icon="mdi-magnify" clearable @keyup.enter="performKeywordSearch"></v-text-field>
                 </v-col>
                 <v-col cols="12" md="6">
                   <v-btn @click="performKeywordSearch" color="primary">Search</v-btn>
                 </v-col>
-              </v-row>
+              </v-row> -->
 
-              <v-row justify="end" class="mb-4">
+              <!-- <v-row justify="end" class="mb-4">
                 <v-col cols="auto">
                   <v-btn-group>
                     <v-btn @click="prevPage('search')" :disabled="searchPage === 1" icon="mdi-chevron-left"></v-btn>
@@ -166,7 +180,7 @@
                 <v-col cols="auto">
                   <v-select v-model="searchPageSize" :items="[10,25,50,100]" label="Page size" density="compact" style="width:120px"></v-select>
                 </v-col>
-              </v-row>
+              </v-row> -->
 
               <v-data-table
                 :items="paginatedSearchResults"
@@ -187,8 +201,8 @@
                   </font>
                 </template>
               </v-data-table>
-            </v-window-item>
-          </v-window>
+            </v-tabs-window-item>
+          </v-tabs-window>
         </v-container>
       </v-main>
 
@@ -300,7 +314,8 @@
           qasPageSize: 25,
           searchPage: 1,
           searchPageSize: 25,
-          searchKeyword: "",
+          searchKeywords: "",
+          searchKeywordsTimerId: null,
           viewerDialog: false,
           viewerTitle: "",
           viewerHtml: "",
@@ -600,65 +615,26 @@
           // console.log(JSON.stringify(results, null, 2));
         },
 
-        async testItMinisearch() {
-          // A collection of documents for our examples
-          const documents = [
-            {
-              id: 1,
-              title: 'Moby Dick',
-              text: 'Call me Ishmael. Some years ago...',
-              category: 'fiction'
-            },
-            {
-              id: 2,
-              title: 'Zen and the Art of Motorcycle Maintenance',
-              text: 'I can see by my watch...',
-              category: 'fiction'
-            },
-            {
-              id: 3,
-              title: 'Neuromancer',
-              text: 'The sky above the port was...',
-              category: 'fiction'
-            },
-            {
-              id: 4,
-              title: 'Zen and the Art of Archery',
-              text: 'At first sight it must seem...',
-              category: 'non-fiction'
-            },
-            // ...and more
-          ];
-
-          let miniSearch = new MiniSearch({
-            fields: ['title', 'text'], // fields to index for full-text search
-            storeFields: ['title', 'category'] // fields to return with search results
-          });
-
-          // Index all documents
-          miniSearch.addAll(documents);
-
-          // Search with default options
-          let results = miniSearch.search('zen art arcger');
-          console.log(JSON.stringify(results, null, 2));
-        },
-
         async testIt() {
           console.log(now() + " testIt");
-          const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
-          // const files = (await this.listMarkdownFiles());
+          // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
+          const files = (await this.listMarkdownFiles());
 
           await this.db.documents.clear();
           await this.db.fragments.clear();
 
-          // const files = (await this.listMarkdownFiles());
+          this.sync.total = files.length;
+          this.sync.completed = 0;
           for (const file of files) {
+            // this.sync.info = "Processing " + file.path;
             // console.log(now() + " testIt - file: " + JSON.stringify(file));
             const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
             const text = await (await fetch(rawUrl)).text()
             await this.processFile(file, text);
             // console.log(now() + " testIt - text: " + text);
+            this.sync.completed++;
           }
+          this.refreshData();
         },
 
         extractKeywords(text) {
@@ -678,6 +654,19 @@
           this.documents = await this.db.documents.toArray();
           this.fragments = await this.db.fragments.toArray();
           this.qas = await this.db.qas.toArray();
+
+          // // Can use this to reduce the fields stored in MiniSearch
+          // const documentIdIndex = this.documents.reduce((acc, record, index) => {
+          //   acc[record.id] = index;
+          //   return acc;
+          // }, {});
+          // console.log(now() + " refreshData - documentIdIndex: " + JSON.stringify(documentIdIndex, null, 2));
+          // const fragmentIdIndex = this.fragments.reduce((acc, record, index) => {
+          //   acc[record.id] = index;
+          //   return acc;
+          // }, {});
+          // console.log(now() + " refreshData - fragmentIdIndex: " + JSON.stringify(fragmentIdIndex, null, 2));
+
           // console.log(now() + " refreshData - qas: " + JSON.stringify(this.qas.slice(0, 5), null, 2));
           // const item = this.qas[0];
           // console.log(now() + " refreshData - item: " + JSON.stringify(item, null, 2));
@@ -710,7 +699,7 @@
           // // });
           // // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
           this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id }));
-          // console.log(now() + " refreshData - search results: " + JSON.stringify(results, null, 2));
+          console.log(now() + " refreshData - search results: " + JSON.stringify(results[0], null, 2));
 
         },
 
@@ -789,21 +778,28 @@
           //   a.rel = 'noopener noreferrer';
           // });
         },
-
         async performKeywordSearch() {
-          console.log(now() + " performKeywordSearch - searchKeyword: " + this.searchKeyword);
+          console.log(now() + " performKeywordSearch - searchKeywords: " + this.searchKeywords);
+          clearTimeout(this.searchKeywordsTimerId);
+          this.searchKeywordsTimerId = setTimeout(async () => {
+            await this.performKeywordSearchDebounced();
+          }, 750);
+        },
+
+        async performKeywordSearchDebounced() {
+          console.log(now() + " performKeywordSearchDebounced - searchKeywords: " + this.searchKeywords);
 
           // Search with default options
-          let results = this.miniSearch.search(this.searchKeyword || MiniSearch.wildcard);
+          let results = this.miniSearch.search(this.searchKeywords || MiniSearch.wildcard);
           // let results = this.miniSearch.search(MiniSearch.wildcard);
           // let results = this.miniSearch.search(MiniSearch.wildcard, {
           //   filter: (result) => result.type === 'heading'
           // });
           // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
-          console.log(now() + " performKeywordSearch - results: " + JSON.stringify(results, null, 2));
+          console.log(now() + " performKeywordSearchDebounced - results: " + JSON.stringify(results[0], null, 2));
           this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id }));
-          // if (!this.searchKeyword) return
-          // const term = this.searchKeyword.toLowerCase()
+          // if (!this.searchKeywords) return
+          // const term = this.searchKeywords.toLowerCase()
           // const docMatches = await this.db.documents
           //   .filter(doc => doc.keywords.some(k => k.includes(term)) || doc.title.toLowerCase().includes(term))
           //   .toArray()
@@ -842,7 +838,7 @@
         // const meta = await this.db.metadata.get('lastUpdated')
         // if (!meta) await this.db.metadata.put({ key: 'lastUpdated', value: Date.now() })
         // await this.loadAllFiles()
-        this.refreshData()
+        this.refreshData();
       }
     })
 
