@@ -704,11 +704,12 @@
 
           // // Search with default options
           // let results = this.miniSearch.search('youtube angels');
-          // // let results = this.miniSearch.search(MiniSearch.wildcard);
+          let results = this.miniSearch.search(MiniSearch.wildcard);
           // // let results = this.miniSearch.search(MiniSearch.wildcard, {
           // //   filter: (result) => result.type === 'heading'
           // // });
           // // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
+          this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id }));
           // console.log(now() + " refreshData - search results: " + JSON.stringify(results, null, 2));
 
         },
