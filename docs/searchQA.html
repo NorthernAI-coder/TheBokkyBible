@@ -149,8 +149,8 @@
             <!-- KEYWORD SEARCH TAB -->
             <v-tabs-window-item value="keyword" class="ma-1 pa-0">
               <!-- <v-toolbar flat color="transparent" density="compact"> -->
-              <v-toolbar flat density="compact">
-                <v-text-field v-model="searchKeywords" hide-details label="🔍" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 200px"></v-text-field>
+              <v-toolbar flat color="transparent" density="compact">
+                <v-text-field v-model="searchKeywords" hide-details label="🔍" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
                 <!-- <v-text-field v-model="searchKeywords" label="Search keywords" prepend-inner-icon="mdi-magnify" variant="solo" flat density="compact" clearable @input="performKeywordSearch" class="ma-1 mt-6"></v-text-field> -->
                 <!-- <v-text-field v-model="searchKeywords" label="Search keywords" prepend-inner-icon="mdi-magnify" variant="solo" flat density="compact" clearable @keyup.enter="performKeywordSearch" class="ma-1 mt-6"></v-text-field> -->
                 <!-- <v-btn @click="performKeywordSearch" color="primary">Search</v-btn> -->
@@ -626,7 +626,7 @@
           this.sync.total = files.length;
           this.sync.completed = 0;
           for (const file of files) {
-            // this.sync.info = "Processing " + file.path;
+            this.sync.info = "Processing " + file.path;
             // console.log(now() + " testIt - file: " + JSON.stringify(file));
             const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
             const text = await (await fetch(rawUrl)).text()
@@ -634,7 +634,9 @@
             // console.log(now() + " testIt - text: " + text);
             this.sync.completed++;
           }
+          this.sync.info = "Refreshing data";
           this.refreshData();
+          this.sync.info = null;
         },
 
         extractKeywords(text) {
