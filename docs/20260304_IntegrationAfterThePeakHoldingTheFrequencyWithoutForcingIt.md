@@ -3227,7 +3227,7 @@ Your example code is already very close to a working pattern — splitting into 
 
 #### Quick Review & Small Polish of Your Pattern
 
-````js
+```js
 // 1. Database definition (do this once)
 const db = new Dexie('ChronicleSearch');
 db.version(1).stores({
@@ -3254,7 +3254,8 @@ async function indexDocument({ date, title, slug, text }) {
 
 // 3. Simple keyword search
 async function search(keywords) {
-  if (!keywords?.length) return [];
+  // EDIT - removed ? below if (!keywords?.length) return []; for formatting
+  if (!keywords.length) return [];
 
   const terms = keywords.map(k => k.toLowerCase().trim());
 
@@ -3272,7 +3273,7 @@ async function search(keywords) {
     matchCount: terms.filter(t => doc.words.includes(t)).length
   })).sort((a, b) => b.matchCount - a.matchCount); // best matches first
 }
-````
+```
 
 #### How to Use It in Practice
 
@@ -3289,7 +3290,7 @@ async function search(keywords) {
    - Once done: enable search input
 
 3. **Search UI** (minimal example)
-   ````html
+   ```html
    <input type="text" id="search" placeholder="chaos monkey OR validator OR frequency" />
    <div id="results"></div>
 
@@ -3310,7 +3311,7 @@ async function search(keywords) {
        .join('');
    });
    </script>
-   ````
+   ```
 
 #### Small Enhancements You Might Like
 - **Truncate text** → store only first 1000–2000 chars in `text` to save space (still enough for snippets).
@@ -3354,10 +3355,11 @@ You can parse the input string into groups of required terms (AND) and optional 
 
 #### 2. Updated Search Function with AND/OR Support
 
-````js
+```js
 // Helper to parse query into AND and OR groups
 function parseQuery(query) {
-  if (!query?.trim()) return { and: [], or: [] };
+  // EDIT: I have removed the ? from if (!query?.trim()) return { and: [], or: [] }; for formatting
+  if (!query.trim()) return { and: [], or: [] };
 
   const parts = query
     .trim()
@@ -3419,14 +3421,14 @@ async function searchDocuments(query) {
     return { ...doc, score };
   }).sort((a, b) => b.score - a.score); // best matches first
 }
-````
+```
 
 #### 3. Even Better: Use Dexie Compound / Multi-Entry Tricks (Optional Optimization)
 If you want to avoid `.filter()` (which scans the whole table), you can pre-compute n-grams or bigrams, but for your current scale (30–50 files), the `.filter()` version above is plenty fast — it runs in < 50 ms even on large indexes.
 
 #### 4. Example Usage in UI
 
-````html
+```html
 <input type="text" id="searchInput" placeholder="chaos monkey OR validator frequency" />
 
 <script>
@@ -3446,7 +3448,7 @@ document.getElementById('searchInput').addEventListener('input', async e => {
     .join('');
 });
 </script>
-````
+```
 
 #### Summary of What You Get
 - `chaos monkey` → must have **both** words (AND)
@@ -3475,10 +3477,10 @@ Here are the two main realistic paths in 2026 for a GitHub-hosted chronicle like
 
 #### Option 1: Load .md files directly from GitHub blob/raw URLs (most common for quick prototypes)
 
-````text
+```text
 https://github.com/bokkypoobah/TheBokkyBible/blob/main/20260304_IntegrationAfterThePeak.md
 → raw URL → https://raw.githubusercontent.com/bokkypoobah/TheBokkyBible/main/20260304_IntegrationAfterThePeak.md
-````
+```
 
 **How it works in UI**
 - Search results show a list of links/titles/dates.
@@ -3511,10 +3513,10 @@ This is what most people do for small-to-medium personal knowledge bases / chron
 - Enable GitHub Pages on the `main` branch `/docs` folder (or `gh-pages` branch root)
 
 **UI then loads from**
-````
+```
 https://bokkypoobah.github.io/TheBokkyBible/20260304_IntegrationAfterThePeak.md
 (or custom domain if you set one up)
-````
+```
 
 **Pros**
 - Faster loading (GitHub Pages CDN is quick and cached well).
@@ -3544,7 +3546,7 @@ https://bokkypoobah.github.io/TheBokkyBible/20260304_IntegrationAfterThePeak.md
 
 #### Minimal Starter Code for Option 1 (raw URLs + Dexie)
 
-````js
+```js
 // When user clicks a result
 async function loadAndRenderMarkdown(slug) {
   const url = `https://raw.githubusercontent.com/bokkypoobah/TheBokkyBible/main/${slug}.md`;
@@ -3565,12 +3567,13 @@ async function loadAndRenderMarkdown(slug) {
     console.error(err);
     // fallback: try from Dexie cache if available
     const cached = await db.documents.get(slug);
-    if (cached?.text) {
+    // EDIT removed ? for formatting if (cached?.text) {
+    if (cached.text) {
       document.getElementById('content').innerHTML = marked.parse(cached.text);
     }
   }
 }
-````
+```
 
 This gives you instant online preview + offline fallback once cached.
 
@@ -3592,7 +3595,7 @@ You can extract **all unique keywords** (and optionally their document counts) f
 
 #### 1. Simplest: All unique keywords (no counts)
 
-````js
+```js
 async function getAllKeywords() {
   // Use Dexie's .distinct() on the multiEntry index
   const uniqueWords = await db.documents
@@ -3602,14 +3605,14 @@ async function getAllKeywords() {
   // uniqueKeys() returns an array like ["chaos", "monkey", "validator", ...]
   return uniqueWords.sort();    // optional: alphabetical sort
 }
-````
+```
 
 - **Pros**: Extremely fast, uses native IndexedDB index efficiency.
 - **Cons**: No counts, no filtering short/common words here (but you can filter after).
 
 #### 2. With document counts (how many docs contain each keyword)
 
-````js
+```js
 async function getKeywordCounts(minCount = 1, minLength = 3) {
   const keywordMap = new Map();
 
@@ -3632,7 +3635,7 @@ async function getKeywordCounts(minCount = 1, minLength = 3) {
     .filter(item => item.count >= minCount)
     .sort((a, b) => b.count - a.count);   // most frequent first
 }
-````
+```
 
 - **Pros**: Gives real usage stats (e.g. "chaos" appears in 12 docs).
 - **Cons**: Slower than `uniqueKeys()` because it needs to visit every document (but for your current ~30–50 files its still < 100 ms).
@@ -3641,7 +3644,7 @@ async function getKeywordCounts(minCount = 1, minLength = 3) {
 
 If you want to show a scrollable list of keywords (e.g. in a sidebar or autocomplete dropdown), combine both approaches:
 
-````js
+```js
 // Pre-compute once and cache in Dexie (or localStorage)
 async function buildKeywordIndex() {
   const existing = await db.keywordIndex.get('all');
@@ -3687,7 +3690,7 @@ async function showKeywordList() {
     `)
     .join('');
 }
-````
+```
 
 #### UI Pattern Suggestions
 
@@ -3725,7 +3728,7 @@ This assumes you want to run this in a static HTML page hosted anywhere (GitHub 
 
 #### Full Working Example (Copy-Paste Ready)
 
-````html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -3859,7 +3862,7 @@ document.getElementById('loadBtn').addEventListener('click', async () => {
 
 </body>
 </html>
-````
+```
 
 #### How It Works / Key Points
 
@@ -3910,7 +3913,7 @@ List. Load. Index. Be. ❤️🛶📜🔍🚀
 
 Just save this as `search.html` (or any name) and open it in a browser. It works 100% client-side.
 
-````html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -3953,7 +3956,8 @@ db.version(2).stores({
 
 // ====================== HELPERS ======================
 function parseQuery(query) {
-  if (!query?.trim()) return { and: [], or: [] };
+  // EDIT: removed ? for formatting if (!query?.trim()) return { and: [], or: [] };
+  if (!query.trim()) return { and: [], or: [] };
   const parts = query.trim().split(/\s+OR\s+/i);
   const andGroups = parts.map(g => g.trim().split(/\s+/).filter(Boolean).map(w => w.toLowerCase().trim()));
   return {
@@ -4086,7 +4090,7 @@ init();
 
 </body>
 </html>
-````
+```
 
 #### How to Use It
 1. Save as `search.html`
@@ -4126,7 +4130,7 @@ Here is the **updated, fully-featured version** of the search.html file with all
 
 Just save as `search.html` and open in any browser. Everything is self-contained.
 
-````html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -4191,7 +4195,8 @@ db.version(3).stores({
 
 // ====================== HELPERS ======================
 function parseQuery(query) {
-  if (!query?.trim()) return { and: [], or: [] };
+  // EDIT: I removed ? for formatting if (!query?.trim()) return { and: [], or: [] };
+  if (!query.trim()) return { and: [], or: [] };
   const parts = query.trim().split(/\s+OR\s+/i);
   const andGroups = parts.map(g => g.trim().split(/\s+/).filter(Boolean).map(w => w.toLowerCase().trim()));
   return {
@@ -4388,7 +4393,7 @@ init();
 
 </body>
 </html>
-````
+```
 
 #### What’s New / Improved
 - **Snippet highlighting** — uses regex to wrap matching terms in `<mark>` in the preview  
