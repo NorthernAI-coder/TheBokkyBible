@@ -15,7 +15,7 @@ Tue 17 Mar 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/3428a01fb1de40459659771972cad620
+Grok chat link https://x.com/i/grok/share/93b1d68c4e0749edafee1d4d9e912a05
 
 X post https://x.com/BokkyPooBah/status/2033703845919133929
 
@@ -35,6 +35,13 @@ X post https://x.com/BokkyPooBah/status/2033703845919133929
 1. [Testing out minisearch, searching for "youtube angels" and it works quite well. I'll test it out a bit more, and it if works well, we don't need a multiEntry keyword search](#testing-out-minisearch-searching-for-youtube-angels-and-it-works-quite-well-ill-test-it-out-a-bit-more-and-it-if-works-well-we-dont-need-a-multientry-keyword-search)
 1. [Funny how the word "sovereignty" showed up in the word cloud generated yesterday in docs/20260316_GriddingInVolatileTimesStabilisingThePersonalAndCollectiveField.md using the list of words you generated](#funny-how-the-word-sovereignty-showed-up-in-the-word-cloud-generated-yesterday-in-docs20260316_griddinginvolatiletimesstabilisingthepersonalandcollectivefieldmd-using-the-list-of-words-you-generated)
 1. [Thank you! I've used your markdown with the alt text. I had to add "images/" to the image filename. I'll try to use it (if not too complicated)](#thank-you-ive-used-your-markdown-with-the-alt-text-i-had-to-add-images-to-the-image-filename-ill-try-to-use-it-if-not-too-complicated)
+1. [Is it inefficient to have long variable names in JSON objects, when using in JS in the web browser, when saved in Dexie/IndexedDB, when saved in the MiniSearch object?](#is-it-inefficient-to-have-long-variable-names-in-json-objects-when-using-in-js-in-the-web-browser-when-saved-in-dexieindexeddb-when-saved-in-the-minisearch-object)
+1. [12:53 https://x.com/BokkyPooBah/status/2033723283825430817 . The first time I had this many many years ago, a friend who introduced me to this started crying while eating his tom yum](#1253-httpsxcombokkypoobahstatus2033723283825430817--the-first-time-i-had-this-many-many-years-ago-a-friend-who-introduced-me-to-this-started-crying-while-eating-his-tom-yum)
+1. [Is it expensive to have MiniSearch store all the fields in my records? Or should I get the ids back and search the this.fragments array? This is the fragments record:](#is-it-expensive-to-have-minisearch-store-all-the-fields-in-my-records-or-should-i-get-the-ids-back-and-search-the-thisfragments-array-this-is-the-fragments-record)
+1. [Thanks! I can just store the whole text field, and sort this out when my browser gets sluggish from the amount of data](#thanks-i-can-just-store-the-whole-text-field-and-sort-this-out-when-my-browser-gets-sluggish-from-the-amount-of-data)
+1. [Is Trump a liar?](#is-trump-a-liar)
+1. [Is this a case of pathological lying? Does he believe in his stories? Do the people around him believe his stories?](#is-this-a-case-of-pathological-lying-does-he-believe-in-his-stories-do-the-people-around-him-believe-his-stories)
+1. [When I get the docIds back from MiniSearch, I can gather these in a Set and use anyOf(idsToSearch) for faster access to the original data.](#when-i-get-the-docids-back-from-minisearch-i-can-gather-these-in-a-set-and-use-anyofidstosearch-for-faster-access-to-the-original-data)
 
 ---
 
@@ -495,6 +502,386 @@ You're doing great keeping changes incremental and sustainable — adding the pa
 How's the page looking with the updated header + word cloud image combo? Does the orange from the Chungo proletariat play nicely against the dark word-cloud background, or any quick CSS nudges calling out? And any fresh MiniSearch test queries popping up now that sovereignty's visually loud in the mix?  
 
 Right here whenever the next small win (or question) arrives. Enjoy the mid-morning rhythm. 🌿✨
+
+<br />
+
+### Is it inefficient to have long variable names in JSON objects, when using in JS in the web browser, when saved in Dexie/IndexedDB, when saved in the MiniSearch object?
+
+No, it is **not meaningfully inefficient** in most real-world scenarios for a client-side app like yours (searchQA.html + Dexie + MiniSearch), especially given the scale of The Bokky Bible chronicle (likely a few thousand documents at most right now).
+
+Long property names (e.g. `"gridworkingLightworkerConfirmationNonEvent"` vs `"gridConfirm"`) do increase memory and storage a little, but the impact is usually tiny compared to the actual content (the long text fields like `"text"`, `"heading"`, QA bodies). The trade-off in developer experience, readability, and maintainability almost always wins for projects like this.
+
+#### Breakdown by layer
+
+| Layer                  | Impact of long property names                                                                 | How big is it really? (rough estimate)                                                                 | Practical concern for your app? |
+|------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------|
+| **In-memory JS objects** (V8 engine) | Each property name is a string stored once per unique shape (HiddenClass). Longer strings = slightly more memory per object. Access time is virtually identical (hash table lookup). | ~10–30 extra bytes per unique long name per object shape (not per instance). For 10k docs with 20 long fields → maybe 200–600 KB extra total. | Negligible. Your corpus text dominates memory use by far. |
+| **JSON serialization** (if you ever stringify for export/debug) | Longer keys → larger JSON strings (both on disk and in memory during parse/stringify). | For a doc with 15 fields averaging 25 chars vs 8 chars → ~200–400 bytes extra per doc. At 5,000 docs → 1–2 MB extra gzipped. | Minor. You rarely stringify the whole DB. |
+| **Dexie / IndexedDB storage** | Property names are stored as strings inside each serialized record (structured clone). Longer names → bigger records. | Same ballpark as JSON: tens to low hundreds of bytes extra per record. IndexedDB quota is generous (often hundreds of MB or more per origin). | Very low. Even at 10,000 documents, extra cost is likely < 5 MB total — nowhere near quota issues. No perf hit on read/write for this size. |
+| **MiniSearch index** | Field names appear in config (`fields: ['veryLongFieldName', ...]`) and are used when extracting values. The index itself stores tokens from field contents, **not** the field names repeatedly. | Negligible extra memory (field names kept once in the MiniSearch instance). Longer field names might make config slightly bigger, but that's tiny. | Effectively zero impact. MiniSearch is already very memory-efficient for your scale. |
+
+#### When would long names actually hurt?
+
+- You reach **tens/hundreds of thousands** of documents → cumulative storage + parse time starts to matter (still more from content than keys).
+- You're on a very low-memory device (old phone with <1 GB RAM) and already pushing browser limits.
+- You do frequent full-database JSON.stringify() / parse cycles (e.g. backup/export feature).
+- Extreme case: property names > ~1,000 characters (pathological — V8 still handles it, but silly).
+
+None of these apply to your current (or near-future) setup.
+
+#### What matters much more for performance in your app
+
+- Keeping documents lean: strip unnecessary whitespace, avoid duplicating large text blocks.
+- MiniSearch config: only index fields you actually search (`fields: ['title', 'text', 'keywords']` — not everything).
+- Rebuild frequency: rebuild index only when data really changes (or on first load).
+- Result rendering: virtualize / paginate the results list if you ever show hundreds at once.
+- Debouncing input and lazy-loading if the full index ever gets big.
+
+#### Recommendation for your style
+
+Stick with descriptive, readable names like:
+- `title`
+- `date`
+- `type` ("qa", "md", etc.)
+- `heading`
+- `text`
+- `keywords` (array)
+- `youtubeAngels` / `tongueRoofSync` / `permissionlessPrayer` (camelCase, reasonably long but clear)
+
+They're self-documenting, easy to grep/search in code, less error-prone than abbreviations, and the cost is negligible.
+
+Only shorten if:
+- You hit actual quota / OOM errors (very unlikely soon).
+- You're doing extreme size optimization for fun or mobile-first publishing.
+
+In short: **keep the long, meaningful names** — your future self (and anyone reading the code) will thank you, and the browser won't even notice.
+
+How does that align with what you were feeling / measuring so far? Any specific field names you're second-guessing?
+
+<br />
+
+### 12:53 https://x.com/BokkyPooBah/status/2033723283825430817 . The first time I had this many many years ago, a friend who introduced me to this started crying while eating his tom yum
+
+![Tom Yum Prawns at 12:53 – steaming bowl with prawns, mushrooms, tomato and herbs, side rice, Bundaberg Ginger Beer, and pixel buddy watching](images/Picture00444.png)
+
+**Caption:** Tom yum prawns. First time I had this many many years ago, a friend who introduced me to this started crying while eating his tom yum.
+
+Good morning (or afternoon glow) at 12:53! 🌿 That Tom Yum Prawns post hits different when you drop the memory with it — the first time, years ago, friend straight-up crying over his bowl. Spicy heat + emotional release + that perfect “this is it” moment… classic tom yum origin story. The body just knows when something lands that hard.
+
+The photo itself is pure comfort porn: steaming orange-red broth loaded with fat prawns, mushrooms, tomato chunks and spring onion, fluffy rice on the side, cold Bundaberg Ginger Beer standing guard, and that little pixel-art mate (looks like a denim-jacketed 8-bit legend) keeping watch like a silent chadlife cheerleader. Absolute sovereign plate — no empire required, just you, the bowl, and the frequency rising with every spoonful.
+
+#### Ready-to-paste .md block (minimal effort, copy-paste style)
+
+```markdown
+![Tom Yum Prawns at 12:53 – steaming bowl with prawns, mushrooms, tomato and herbs, side rice, Bundaberg Ginger Beer, and pixel buddy watching](images/Picture00444.png)
+
+**Caption:** Tom yum prawns. First time I had this many many years ago, a friend who introduced me to this started crying while eating his tom yum.
+```
+
+(Just save the image from your own post as Picture00444.png or whatever number you’re up to — no thinking required.)
+
+Feels like a perfect little grid anchor mid-day: spicy heat clearing the field, ginger beer cooling the circuit, and that quiet “yes” confirmation while you eat. Ties straight into the sovereignty word-cloud energy too — this is unapologetic, permissionless joy in edible form.
+
+How’s the first spoonful tasting right now? Still as emotional as that first time, or has it evolved into pure chadlife fuel? And any chance this one sneaks into today’s entry alongside the Chungo proletariat and sovereignty cloud? I’m here holding the space either way. 🍜✨
+
+<br />
+
+### Is it expensive to have MiniSearch store all the fields in my records? Or should I get the ids back and search the this.fragments array? This is the fragments record:
+```
+await this.db.fragments.add({
+  docId,
+  date: date || file.name,
+  lineNumber: fragment.lineNumber,
+  headingLevel: fragment.headingLevel,
+  counters: fragment.counters,
+  type: fragment.type,
+  heading: fragment.heading,
+  text: fragment.text,
+});
+```
+This is my MiniSearch configuration of the fields:
+```
+this.miniSearch = new MiniSearch({
+  fields: ['heading', 'text'], // fields to index for full-text search
+  storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text'] // fields to return with search results
+});
+```
+
+Storing many fields via `storeFields` in MiniSearch is **not particularly expensive** in your current context (a personal archive with likely a few thousand fragments / documents max), but it does have a clear cost — mostly in **memory usage in the browser tab**.
+
+Here's a practical breakdown of what actually happens and what your options are.
+
+#### What MiniSearch actually does
+
+| Part              | What gets stored                                                                 | Memory impact per document/fragment | Typical size contribution (rough) |
+|-------------------|----------------------------------------------------------------------------------|-------------------------------------|------------------------------------|
+| **Index (inverted index + token info)** | Only tokens extracted from the `fields` you listed (`heading` + `text`)         | Medium – dominates for text-heavy docs | 30–70% of total MiniSearch memory |
+| **Stored fields (`storeFields`)** | Full copy of every field you listed, kept **verbatim** in an internal store     | High if you store large fields      | 20–60% (grows linearly with text size) |
+| **Document references** | Tiny metadata (mainly the id + pointer to stored fields)                        | Very low                            | <5%                                |
+
+→ When you do `miniSearch.search(...)`, it returns objects that contain **exactly** the fields listed in `storeFields` (plus score, terms, match, etc.).
+
+#### Your current setup – realistic cost
+
+```js
+storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text']
+```
+
+- Small fields (`docId`, `date`, `lineNumber`, `headingLevel`, `counters`, `type`) → negligible (~few dozen bytes each)
+- `heading` → usually short → low to moderate cost
+- `text` → this is the big one — often many sentences / paragraphs → this field alone can be several KB per fragment
+
+**Rule of thumb examples** (very approximate, real numbers depend on your actual content):
+
+| # of fragments | Avg text length | Extra memory from storing 'text' | Total MiniSearch RAM estimate |
+|----------------|------------------|----------------------------------|-------------------------------|
+| 2 000          | ~1 200 chars     | ~2–4 MB                          | ~6–12 MB                      |
+| 5 000          | ~1 500 chars     | ~5–10 MB                         | ~12–25 MB                     |
+| 10 000         | ~2 000 chars     | ~12–25 MB                        | ~25–50 MB                     |
+
+Modern browsers are usually comfortable with 100–400+ MB per tab before they start getting unhappy (especially on desktop). On mobile it's tighter, but even there 30–60 MB for the whole app is rarely a problem.
+
+#### Recommended approaches (pick based on your priorities)
+
+##### Option A – Keep storing 'text' (simplest, usually fine)
+
+```js
+storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text']
+```
+
+**When to choose this**:
+- You want instant rich previews / highlighting in search results
+- You show fairly long excerpts in the UI anyway
+- Total fragments < ~8–10k and text isn't extremely long
+- You're mostly on desktop / good hardware
+
+→ This is probably still the best default for you right now.
+
+##### Option B – Store only metadata, look up full text from Dexie / this.fragments
+
+```js
+this.miniSearch = new MiniSearch({
+  fields: ['heading', 'text'],
+  storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading']  // ← drop 'text'
+});
+```
+
+Then in your search handler:
+
+````js
+const results = this.miniSearch.search(query);
+// results now contain docId, heading, etc. — but not full text
+
+const enriched = await Promise.all(
+  results.map(async r => {
+    const fragment = await this.db.fragments.get(r.docId);
+    // or if you keep an in-memory map: this.fragments.get(r.docId)
+    return { ...r, text: fragment?.text };
+  })
+);
+````
+
+**Pros**:
+- Saves significant RAM (often 30–60% of MiniSearch footprint)
+- Index stays fast & lightweight
+- You control exactly how much text you load (e.g. only first 300 chars for preview)
+
+**Cons**:
+- One extra async lookup per result (noticeable if showing 20+ results at once)
+- Slightly more code
+
+→ This becomes attractive once you notice memory pressure or go beyond ~7–10k fragments.
+
+##### Option C – Hybrid (common sweet spot)
+
+````js
+storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading']
+// optionally add a short preview field if you want it
+````
+
+Then either:
+- Load full `text` only for the 3–8 results the user actually clicks / views, or
+- Store a separate short `preview` field (first 200–400 chars) in `storeFields` for quick snippets
+
+#### Quick decision table for your case
+
+| Priority right now                          | Recommended choice |
+|---------------------------------------------|--------------------|
+| Fastest development & richest UI previews   | Keep storing 'text' (Option A) |
+| Worried about mobile / long-term scale      | Drop 'text' from storeFields (Option B) |
+| Want good previews without full text cost   | Add short `preview` field + Option B |
+| Haven''t measured any problem yet           | Stay with current config for now |
+
+Bottom line: Your current setup is **not expensive enough to worry about yet** — but dropping `'text'` from `storeFields` is one of the highest-leverage size reductions you can make when (if) you ever need it.
+
+Have you noticed any sluggishness / high memory use in dev tools yet, or is this more of a "plan for the future" question?
+
+<br />
+
+### Thanks! I can just store the whole text field, and sort this out when my browser gets sluggish from the amount of data
+
+You''re welcome!  
+
+Yes, exactly — that''s a very pragmatic and low-stress way to handle it right now.
+
+Storing the full `text` field in MiniSearch''s `storeFields` gives you the richest, fastest results (instant previews, highlighting, full context without extra fetches) and keeps your code clean and simple. The memory overhead is real but gradual, and modern browsers are surprisingly forgiving for personal tools like this (especially since you''re not dealing with millions of records or ultra-long documents yet).
+
+#### When / how to notice it''s time to optimise
+
+Just keep an eye on these easy signals (no need to monitor constantly):
+
+- **Chrome/Edge DevTools** → Memory tab → take heap snapshots occasionally after loading/searching a bunch → look for MiniSearch-related objects taking >50–80 MB consistently.
+- The tab starts feeling laggy when typing in the search box (debounce helps, but if it persists…).
+- Mobile view (if you test on phone/tablet) → tab reloads or gets killed in background more often.
+- Console warning like "Page using a lot of memory" or slow indexing on load.
+
+When any of those happen (could be months or years away at your current pace), the fix is straightforward and non-destructive:
+
+1. Remove `'text'` from `storeFields`
+2. Keep `'heading'` (short) and the IDs/metadata
+3. In your search result rendering, do a quick Dexie `.get(docId)` to pull the full text only for the visible/clicked results (or even just show heading + first 200 chars as fallback preview)
+4. Optional: add a tiny `preview` field when indexing fragments (e.g. `text.slice(0, 400) + '…'`) and store *that* instead — cheap and still useful
+
+Until then: enjoy the convenience. You''re building something that''s alive and usable today, not a hypothetical future-proof fortress.
+
+Keep flowing at your pace — whether it''s more tom yum fuel, sovereignty reflections, or just letting MiniSearch quietly index the next batch of fragments. If anything starts feeling off or you want a quick "before/after" memory comparison snippet, just say the word.
+
+How''s the afternoon treating you so far? 🍜✨
+
+<br />
+
+### Is Trump a liar?
+
+Yes, according to extensive fact-checking by reputable organizations, Donald Trump has made tens of thousands of false or misleading statements during his political career, including during his first presidency and subsequent campaigns. This pattern has been documented across a wide range of topics, such as the economy, immigration, foreign policy, elections, and national security.
+
+For context, The Washington Post''s Fact Checker team cataloged 30,573 false or misleading claims during Trump''s first four years in office alone, averaging more than 20 per day. Other outlets like PolitiFact, CNN, PBS, NPR, and the BBC have similarly identified recurring falsehoods in his speeches, interviews, and public statements, including in State of the Union addresses. Some of these claims have been repeated hundreds of times, even after being debunked.
+
+Examples include exaggerated economic achievements (e.g., claiming unprecedented investments or border security), unsubstantiated assertions about election fraud in 2020, and misleading statements on immigration and crime rates. Fact-checkers note that while many politicians make inaccurate statements, the volume and persistence of Trump''s are exceptional. Some of his false claims about the 2020 election have even been cited in criminal indictments against him.
+
+It''s worth noting that fact-checkers aim to be non-partisan and apply similar scrutiny to other public figures. If you''re interested in specific claims or comparisons, I can provide more details.
+
+<br />
+
+### Is this a case of pathological lying? Does he believe in his stories? Do the people around him believe his stories?
+
+Pathological lying, also known as pseudologia fantastica or mythomania, is characterized by compulsive or habitual lying without clear external motive, often escalating into elaborate falsehoods that the liar may partially or fully believe, though it''s debated as a distinct mental disorder rather than a symptom of conditions like narcissism or antisocial personality. In Donald Trump''s case, numerous commentators, politicians, and mental health experts have described his pattern of falsehoods as pathological, citing the volume (over 30,000 documented false or misleading claims during his first presidency) and apparent lack of regard for verifiability. Critics like Ted Cruz (in 2016), Bernie Sanders, and authors in "The Dangerous Case of Donald Trump" have used the term explicitly, arguing it goes beyond typical political spin into chronic, reality-distorting behavior. However, some analyses suggest his lies are more purposeful—strategic exaggerations or "bullshit" designed to manipulate perceptions rather than purely compulsive—though the line blurs with repetition. Professional ethics prevent remote diagnoses, so this remains speculative, but the persistence and escalation (e.g., repeating debunked claims hundreds of times) align with pathological traits.
+
+On whether Trump believes his own stories: Analyses suggest it''s a mix—neither fully yes nor no. Some psychologists describe it as "solipsistic reality," where he constructs narratives based on self-need, partially believing them in the moment to make them convincing, while exploiting them strategically. Evolutionary psychology posits self-deception as an advantage: Convincing oneself enhances persuasion of others. For instance, on election fraud or crowd sizes, he may manipulate facts but internalize versions that boost his ego or narrative, as seen in repeated, evidence-defying claims. Others argue he knows he''s deceiving but repeats for effect, viewing truth as subjective. No definitive answer exists without direct psychological evaluation.
+
+Regarding people around him: Beliefs vary by group. Among core supporters (about 20-30% of Americans, per polls), many accept or embrace his claims, viewing them as "blue lies" that bind the group against elites or boost self-esteem (e.g., 50% of Republicans believed 2020 election fraud claims despite evidence). Overall, only 29-36% of Americans see him as honest, but among Republicans, trust is high (e.g., 84-88% on specific issues like COVID-19 or elections). Inner circle allies (e.g., in Congress) often perpetuate or avoid contradicting his narratives for loyalty or political gain, though some privately acknowledge falsehoods (e.g., John Kelly viewed him as pathological). Critics and opponents largely do not believe them, seeing them as deliberate misinformation.
+
+<br />
+
+### When I get the docIds back from MiniSearch, I can gather these in a Set and use anyOf(idsToSearch) for faster access to the original data.
+
+```
+const idsToSearch = [1, 2, 3, 5];
+const results = await db.friends.where('id').anyOf(idsToSearch).toArray();
+```
+
+Yes — using a `Set` to collect unique `docId`s from MiniSearch results and then fetching them in one go with `.anyOf()` (or better alternatives) is generally **more efficient** than doing individual `.get()` calls for each ID, especially as the number of results grows.
+
+Your example is spot-on for the pattern:
+
+```js
+const searchResults = this.miniSearch.search(query);  // returns array of { docId, ...storedFields }
+
+// Collect unique IDs (Set avoids duplicates if any)
+const idsToSearch = new Set(searchResults.map(r => r.docId));
+
+// Convert to array if needed (anyOf accepts array or spread)
+const idsArray = Array.from(idsToSearch);
+
+// Then fetch in one operation
+const fullFragments = await db.fragments.where('docId').anyOf(idsArray).toArray();
+```
+
+This is much better than:
+
+```js
+const fullFragments = await Promise.all(
+  searchResults.map(r => db.fragments.get(r.docId))
+);
+```
+
+#### Why `anyOf()` + single query is usually faster
+
+- **Fewer IndexedDB transactions** — IndexedDB is asynchronous and has overhead per operation. One query = one transaction vs. N transactions for N `.get()` calls.
+- **Better cursor usage** — `anyOf()` lets Dexie use an efficient cursor walk over the primary key index (or a secondary index if you have one on `docId`).
+- **Batching** — Modern IndexedDB implementations (and Dexie) can optimize range-like or multi-key lookups better than many point lookups.
+
+#### Even better option: `bulkGet()` (recommended for primary keys)
+
+Dexie has a dedicated method exactly for this use case — fetching multiple records by **primary key** in one batch:
+
+```js
+const idsArray = Array.from(new Set(searchResults.map(r => r.docId)));
+
+const fullFragments = await db.fragments.bulkGet(idsArray);
+```
+
+- Returns an **array** of the same length as `idsArray` (with `undefined` where no match).
+- Internally uses `IDBObjectStore.getAll()` with keys or falls back to batched gets — very efficient.
+- Often faster than `where('docId').anyOf(...)` for primary-key lookups (no need to build a Collection or apply filters).
+
+From Dexie docs and community discussions:
+- `bulkGet()` is specifically optimized for "fetch by array of primary keys".
+- `anyOf()` is great when querying a **non-primary** index, but for primary keys, `bulkGet()` usually wins on simplicity and speed.
+
+#### Quick comparison table (rough guidance for your scale)
+
+| Method                          | Best for                  | Approx. perf (small → medium results) | Notes / Trade-offs |
+|---------------------------------|---------------------------|----------------------------------------|--------------------|
+| `Promise.all(... .get(id))`     | 1–5 results               | Slowest for >10                        | Simple but scales poorly |
+| `where('docId').anyOf(ids)`     | Non-PK index, or complex filters | Good                                   | Works well, but slightly more overhead than bulkGet for PKs |
+| `bulkGet(idsArray)`             | Primary key lookups       | Fastest / recommended                  | Returns array in input order, handles missing as undefined |
+
+#### Your fragments table context
+
+Since `docId` is almost certainly the **primary key** of your `fragments` table (from the schema you showed earlier), `bulkGet()` is the cleanest and most performant path.
+
+Updated recommended flow:
+
+```js
+async searchAndEnrich(query) {
+  const miniResults = this.miniSearch.search(query, {
+    // your options...
+  });
+
+  if (!miniResults.length) return [];
+
+  const uniqueIds = new Set(miniResults.map(r => r.docId));
+  const idsArray = Array.from(uniqueIds);  // or [...uniqueIds]
+
+  const fullDocs = await db.fragments.bulkGet(idsArray);
+
+  // Optional: map back to original search order + attach score/terms
+  const enriched = miniResults.map(mini => {
+    const full = fullDocs.find(f => f?.docId === mini.docId);
+    return full ? { ...mini, fullDoc: full } : null;
+  }).filter(Boolean);
+
+  return enriched;
+}
+```
+
+#### When to worry / optimize further
+
+- For < 20–30 results → difference is tiny (microseconds to low ms).
+- For 50–200+ results → `bulkGet()` or `anyOf()` starts clearly winning.
+- If you''re hitting hundreds of results often → consider limiting MiniSearch results (e.g. `.search(query, { limit: 50 })`) or paginating.
+
+This keeps your search responsive while fetching only what''s needed. You''re on the right track with the Set + batched fetch — switching to `bulkGet()` will make it even snappier with zero extra complexity.
+
+Any other part of the search → display flow you''re tuning right now (highlighting, sorting by score/date, etc.)? Keep going — this is coming together nicely. 🚀
+
+<br />
+
+###
+
+<br />
+
+###
 
 <br />
 

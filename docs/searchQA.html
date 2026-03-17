@@ -285,6 +285,7 @@
           tab: 'documents',
           db: null,
           documents: [],
+          fragments: [],
           qas: [],
           minisearch: null,
           searchResults: [],
@@ -554,6 +555,9 @@
             await this.db.fragments.add({
               docId,
               date: date || file.name,
+              lineNumber: fragment.lineNumber,
+              headingLevel: fragment.headingLevel,
+              counters: fragment.counters,
               type: fragment.type,
               heading: fragment.heading,
               text: fragment.text,
@@ -667,22 +671,39 @@
 
         async refreshData() {
           this.documents = await this.db.documents.toArray();
+          this.fragments = await this.db.fragments.toArray();
           this.qas = await this.db.qas.toArray();
           // console.log(now() + " refreshData - qas: " + JSON.stringify(this.qas.slice(0, 5), null, 2));
-          const item = this.qas[0];
+          // const item = this.qas[0];
           // console.log(now() + " refreshData - item: " + JSON.stringify(item, null, 2));
           this.miniSearch = new MiniSearch({
-            fields: ['question', 'answer'], // fields to index for full-text search
-            storeFields: ['question', 'answer', 'date'] // fields to return with search results
+            fields: ['heading', 'text'], // fields to index for full-text search
+            storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text'] // fields to return with search results
           });
 
+          // await this.db.fragments.add({
+          //   docId,
+          //   date: date || file.name,
+          //   lineNumber: fragment.lineNumber,
+          //   headingLevel: fragment.headingLevel,
+          //   counters: fragment.counters,
+          //   type: fragment.type,
+          //   heading: fragment.heading,
+          //   text: fragment.text,
+          // });
+
           // Index all documents
-          console.log(now() + " refreshData - index start: " + this.qas.length);
-          this.miniSearch.addAll(this.qas);
-          console.log(now() + " refreshData - index end: " + this.qas.length);
+          console.log(now() + " refreshData - index start: " + this.fragments.length);
+          this.miniSearch.addAll(this.fragments);
+          console.log(now() + " refreshData - index end: " + this.fragments.length);
 
           // Search with default options
           let results = this.miniSearch.search('youtube angels');
+          // let results = this.miniSearch.search(MiniSearch.wildcard);
+          // let results = this.miniSearch.search(MiniSearch.wildcard, {
+          //   filter: (result) => result.type === 'heading'
+          // });
+          // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
           console.log(now() + " refreshData - search results: " + JSON.stringify(results, null, 2));
 
         },
