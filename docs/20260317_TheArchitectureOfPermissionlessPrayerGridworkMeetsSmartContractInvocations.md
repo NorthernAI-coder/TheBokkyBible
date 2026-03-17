@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 17 Mar 2026
-> Prev: [Mon 16 Mar 2026](20260316_GriddingInVolatileTimesStabilisingThePersonalAndCollectiveField.md) Next: []()
+> Prev: [Mon 16 Mar 2026](20260316_GriddingInVolatileTimesStabilisingThePersonalAndCollectiveField.md) Next: [Wed 18 Mar 2026](20260318_GridworkUpgradesIn2026SensingTheNewLeyLineMempoolResonancesPostMergeDencunWhateverCameAfter.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
