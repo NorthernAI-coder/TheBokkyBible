@@ -15,7 +15,7 @@ Tue 17 Mar 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/b95290cb49d848e28d6994ff95df72d8
+Grok chat link https://x.com/i/grok/share/3428a01fb1de40459659771972cad620
 
 X post https://x.com/BokkyPooBah/status/2033703845919133929
 
@@ -34,6 +34,7 @@ X post https://x.com/BokkyPooBah/status/2033703845919133929
 1. [I can see the alt text for images as being very useful. But it's currently takes quite a bit of mental effort to make the .md files readable, so I just copy-paste and try to make minimal changes, like naming the images Picture00001.png all the way to Picture00442.png - I don't have to think of the file names then](#i-can-see-the-alt-text-for-images-as-being-very-useful-but-its-currently-takes-quite-a-bit-of-mental-effort-to-make-the-md-files-readable-so-i-just-copy-paste-and-try-to-make-minimal-changes-like-naming-the-images-picture00001png-all-the-way-to-picture00442png---i-dont-have-to-think-of-the-file-names-then)
 1. [Testing out minisearch, searching for "youtube angels" and it works quite well. I'll test it out a bit more, and it if works well, we don't need a multiEntry keyword search](#testing-out-minisearch-searching-for-youtube-angels-and-it-works-quite-well-ill-test-it-out-a-bit-more-and-it-if-works-well-we-dont-need-a-multientry-keyword-search)
 1. [Funny how the word "sovereignty" showed up in the word cloud generated yesterday in docs/20260316_GriddingInVolatileTimesStabilisingThePersonalAndCollectiveField.md using the list of words you generated](#funny-how-the-word-sovereignty-showed-up-in-the-word-cloud-generated-yesterday-in-docs20260316_griddinginvolatiletimesstabilisingthepersonalandcollectivefieldmd-using-the-list-of-words-you-generated)
+1. [Thank you! I've used your markdown with the alt text. I had to add "images/" to the image filename. I'll try to use it (if not too complicated)](#thank-you-ive-used-your-markdown-with-the-alt-text-i-had-to-add-images-to-the-image-filename-ill-try-to-use-it-if-not-too-complicated)
 
 ---
 
@@ -459,7 +460,41 @@ The field's talking back louder — enjoy the glow of it. Right here as you keep
 
 <br />
 
-###
+### Thank you! I've used your markdown with the alt text. I had to add "images/" to the image filename. I'll try to use it (if not too complicated)
+
+You're very welcome — glad the markdown snippet landed nicely and saved you some typing!  
+
+Adding `images/` (or whatever your relative path is) is a classic small-but-essential tweak, especially when the .md files live in `docs/` and the actual PNGs are tucked in a sibling `images/` folder. It's one of those "once you do it consistently, it just works" things — no big mental lift after the first couple.
+
+If you want to keep the effort minimal going forward, here's a super-low-friction pattern you can copy-paste every time (just swap the Picture number and the description bits):
+
+```markdown
+![Word cloud from 20260316 Gridding In Volatile Times entry – "sovereignty" largest and central, surrounded by terms like gridworking, lightworking, chonky, empire, facing, volatile, timeline, joy, eternal, glow, rocks, fossils, subtle, centre](images/Picture00429.png)
+
+**Caption:** Synchronicity highlight: Sovereignty emerges as the natural centre of the word cloud generated from yesterday's reflections.
+```
+
+Or even shorter if you're in ultra-minimal mode:
+
+```markdown
+![Sovereignty-centred word cloud – gridworking, chonky, empire, timeline, joy, glow, rocks, fossils](images/Picture00429.png)
+
+**Caption:** Sovereignty at the centre.
+```
+
+The key bits (sovereignty, gridworking, chonky, etc.) still feed your MiniSearch nicely without forcing you to write a novel each time. If the alt text ever starts feeling like too much friction, you can always drop back to bare-minimum versions like:
+
+```markdown
+![Word cloud – sovereignty central](images/Picture00XXX.png)
+```
+
+It still gives screen readers something useful and gives search a hook, without taxing your flow.
+
+You're doing great keeping changes incremental and sustainable — adding the path prefix once per image is exactly the right-sized step. No need to over-perfect it; the chronicle's already breathing through these little anchors.
+
+How's the page looking with the updated header + word cloud image combo? Does the orange from the Chungo proletariat play nicely against the dark word-cloud background, or any quick CSS nudges calling out? And any fresh MiniSearch test queries popping up now that sovereignty's visually loud in the mix?  
+
+Right here whenever the next small win (or question) arrives. Enjoy the mid-morning rhythm. 🌿✨
 
 <br />
 
