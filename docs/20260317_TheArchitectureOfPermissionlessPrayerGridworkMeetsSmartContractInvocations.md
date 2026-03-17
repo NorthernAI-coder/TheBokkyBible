@@ -668,7 +668,7 @@ this.miniSearch = new MiniSearch({
 
 Then in your search handler:
 
-````js
+```js
 const results = this.miniSearch.search(query);
 // results now contain docId, heading, etc. — but not full text
 
@@ -676,10 +676,11 @@ const enriched = await Promise.all(
   results.map(async r => {
     const fragment = await this.db.fragments.get(r.docId);
     // or if you keep an in-memory map: this.fragments.get(r.docId)
-    return { ...r, text: fragment?.text };
+    // EDIT: I had to remove the ? after fragment? below for formatting
+    return { ...r, text: fragment.text };
   })
 );
-````
+```
 
 **Pros**:
 - Saves significant RAM (often 30–60% of MiniSearch footprint)
@@ -694,10 +695,10 @@ const enriched = await Promise.all(
 
 ##### Option C – Hybrid (common sweet spot)
 
-````js
+```js
 storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading']
 // optionally add a short preview field if you want it
-````
+```
 
 Then either:
 - Load full `text` only for the 3–8 results the user actually clicks / views, or
@@ -710,7 +711,7 @@ Then either:
 | Fastest development & richest UI previews   | Keep storing 'text' (Option A) |
 | Worried about mobile / long-term scale      | Drop 'text' from storeFields (Option B) |
 | Want good previews without full text cost   | Add short `preview` field + Option B |
-| Haven''t measured any problem yet           | Stay with current config for now |
+| Haven't measured any problem yet           | Stay with current config for now |
 
 Bottom line: Your current setup is **not expensive enough to worry about yet** — but dropping `'text'` from `storeFields` is one of the highest-leverage size reductions you can make when (if) you ever need it.
 
@@ -720,13 +721,13 @@ Have you noticed any sluggishness / high memory use in dev tools yet, or is this
 
 ### Thanks! I can just store the whole text field, and sort this out when my browser gets sluggish from the amount of data
 
-You''re welcome!  
+You're welcome!  
 
-Yes, exactly — that''s a very pragmatic and low-stress way to handle it right now.
+Yes, exactly — that's a very pragmatic and low-stress way to handle it right now.
 
-Storing the full `text` field in MiniSearch''s `storeFields` gives you the richest, fastest results (instant previews, highlighting, full context without extra fetches) and keeps your code clean and simple. The memory overhead is real but gradual, and modern browsers are surprisingly forgiving for personal tools like this (especially since you''re not dealing with millions of records or ultra-long documents yet).
+Storing the full `text` field in MiniSearch's `storeFields` gives you the richest, fastest results (instant previews, highlighting, full context without extra fetches) and keeps your code clean and simple. The memory overhead is real but gradual, and modern browsers are surprisingly forgiving for personal tools like this (especially since you're not dealing with millions of records or ultra-long documents yet).
 
-#### When / how to notice it''s time to optimise
+#### When / how to notice it's time to optimise
 
 Just keep an eye on these easy signals (no need to monitor constantly):
 
@@ -742,11 +743,11 @@ When any of those happen (could be months or years away at your current pace), t
 3. In your search result rendering, do a quick Dexie `.get(docId)` to pull the full text only for the visible/clicked results (or even just show heading + first 200 chars as fallback preview)
 4. Optional: add a tiny `preview` field when indexing fragments (e.g. `text.slice(0, 400) + '…'`) and store *that* instead — cheap and still useful
 
-Until then: enjoy the convenience. You''re building something that''s alive and usable today, not a hypothetical future-proof fortress.
+Until then: enjoy the convenience. You're building something that's alive and usable today, not a hypothetical future-proof fortress.
 
-Keep flowing at your pace — whether it''s more tom yum fuel, sovereignty reflections, or just letting MiniSearch quietly index the next batch of fragments. If anything starts feeling off or you want a quick "before/after" memory comparison snippet, just say the word.
+Keep flowing at your pace — whether it's more tom yum fuel, sovereignty reflections, or just letting MiniSearch quietly index the next batch of fragments. If anything starts feeling off or you want a quick "before/after" memory comparison snippet, just say the word.
 
-How''s the afternoon treating you so far? 🍜✨
+How's the afternoon treating you so far? 🍜✨
 
 <br />
 
@@ -754,19 +755,19 @@ How''s the afternoon treating you so far? 🍜✨
 
 Yes, according to extensive fact-checking by reputable organizations, Donald Trump has made tens of thousands of false or misleading statements during his political career, including during his first presidency and subsequent campaigns. This pattern has been documented across a wide range of topics, such as the economy, immigration, foreign policy, elections, and national security.
 
-For context, The Washington Post''s Fact Checker team cataloged 30,573 false or misleading claims during Trump''s first four years in office alone, averaging more than 20 per day. Other outlets like PolitiFact, CNN, PBS, NPR, and the BBC have similarly identified recurring falsehoods in his speeches, interviews, and public statements, including in State of the Union addresses. Some of these claims have been repeated hundreds of times, even after being debunked.
+For context, The Washington Post's Fact Checker team cataloged 30,573 false or misleading claims during Trump's first four years in office alone, averaging more than 20 per day. Other outlets like PolitiFact, CNN, PBS, NPR, and the BBC have similarly identified recurring falsehoods in his speeches, interviews, and public statements, including in State of the Union addresses. Some of these claims have been repeated hundreds of times, even after being debunked.
 
-Examples include exaggerated economic achievements (e.g., claiming unprecedented investments or border security), unsubstantiated assertions about election fraud in 2020, and misleading statements on immigration and crime rates. Fact-checkers note that while many politicians make inaccurate statements, the volume and persistence of Trump''s are exceptional. Some of his false claims about the 2020 election have even been cited in criminal indictments against him.
+Examples include exaggerated economic achievements (e.g., claiming unprecedented investments or border security), unsubstantiated assertions about election fraud in 2020, and misleading statements on immigration and crime rates. Fact-checkers note that while many politicians make inaccurate statements, the volume and persistence of Trump's are exceptional. Some of his false claims about the 2020 election have even been cited in criminal indictments against him.
 
-It''s worth noting that fact-checkers aim to be non-partisan and apply similar scrutiny to other public figures. If you''re interested in specific claims or comparisons, I can provide more details.
+It's worth noting that fact-checkers aim to be non-partisan and apply similar scrutiny to other public figures. If you're interested in specific claims or comparisons, I can provide more details.
 
 <br />
 
 ### Is this a case of pathological lying? Does he believe in his stories? Do the people around him believe his stories?
 
-Pathological lying, also known as pseudologia fantastica or mythomania, is characterized by compulsive or habitual lying without clear external motive, often escalating into elaborate falsehoods that the liar may partially or fully believe, though it''s debated as a distinct mental disorder rather than a symptom of conditions like narcissism or antisocial personality. In Donald Trump''s case, numerous commentators, politicians, and mental health experts have described his pattern of falsehoods as pathological, citing the volume (over 30,000 documented false or misleading claims during his first presidency) and apparent lack of regard for verifiability. Critics like Ted Cruz (in 2016), Bernie Sanders, and authors in "The Dangerous Case of Donald Trump" have used the term explicitly, arguing it goes beyond typical political spin into chronic, reality-distorting behavior. However, some analyses suggest his lies are more purposeful—strategic exaggerations or "bullshit" designed to manipulate perceptions rather than purely compulsive—though the line blurs with repetition. Professional ethics prevent remote diagnoses, so this remains speculative, but the persistence and escalation (e.g., repeating debunked claims hundreds of times) align with pathological traits.
+Pathological lying, also known as pseudologia fantastica or mythomania, is characterized by compulsive or habitual lying without clear external motive, often escalating into elaborate falsehoods that the liar may partially or fully believe, though it's debated as a distinct mental disorder rather than a symptom of conditions like narcissism or antisocial personality. In Donald Trump's case, numerous commentators, politicians, and mental health experts have described his pattern of falsehoods as pathological, citing the volume (over 30,000 documented false or misleading claims during his first presidency) and apparent lack of regard for verifiability. Critics like Ted Cruz (in 2016), Bernie Sanders, and authors in "The Dangerous Case of Donald Trump" have used the term explicitly, arguing it goes beyond typical political spin into chronic, reality-distorting behavior. However, some analyses suggest his lies are more purposeful—strategic exaggerations or "bullshit" designed to manipulate perceptions rather than purely compulsive—though the line blurs with repetition. Professional ethics prevent remote diagnoses, so this remains speculative, but the persistence and escalation (e.g., repeating debunked claims hundreds of times) align with pathological traits.
 
-On whether Trump believes his own stories: Analyses suggest it''s a mix—neither fully yes nor no. Some psychologists describe it as "solipsistic reality," where he constructs narratives based on self-need, partially believing them in the moment to make them convincing, while exploiting them strategically. Evolutionary psychology posits self-deception as an advantage: Convincing oneself enhances persuasion of others. For instance, on election fraud or crowd sizes, he may manipulate facts but internalize versions that boost his ego or narrative, as seen in repeated, evidence-defying claims. Others argue he knows he''s deceiving but repeats for effect, viewing truth as subjective. No definitive answer exists without direct psychological evaluation.
+On whether Trump believes his own stories: Analyses suggest it's a mix—neither fully yes nor no. Some psychologists describe it as "solipsistic reality," where he constructs narratives based on self-need, partially believing them in the moment to make them convincing, while exploiting them strategically. Evolutionary psychology posits self-deception as an advantage: Convincing oneself enhances persuasion of others. For instance, on election fraud or crowd sizes, he may manipulate facts but internalize versions that boost his ego or narrative, as seen in repeated, evidence-defying claims. Others argue he knows he's deceiving but repeats for effect, viewing truth as subjective. No definitive answer exists without direct psychological evaluation.
 
 Regarding people around him: Beliefs vary by group. Among core supporters (about 20-30% of Americans, per polls), many accept or embrace his claims, viewing them as "blue lies" that bind the group against elites or boost self-esteem (e.g., 50% of Republicans believed 2020 election fraud claims despite evidence). Overall, only 29-36% of Americans see him as honest, but among Republicans, trust is high (e.g., 84-88% on specific issues like COVID-19 or elections). Inner circle allies (e.g., in Congress) often perpetuate or avoid contradicting his narratives for loyalty or political gain, though some privately acknowledge falsehoods (e.g., John Kelly viewed him as pathological). Critics and opponents largely do not believe them, seeing them as deliberate misinformation.
 
@@ -857,7 +858,8 @@ async searchAndEnrich(query) {
 
   // Optional: map back to original search order + attach score/terms
   const enriched = miniResults.map(mini => {
-    const full = fullDocs.find(f => f?.docId === mini.docId);
+    // EDIT: I had to remove the ? for formatting const full = fullDocs.find(f => f?.docId === mini.docId);
+    const full = fullDocs.find(f => f.docId === mini.docId);
     return full ? { ...mini, fullDoc: full } : null;
   }).filter(Boolean);
 
@@ -869,11 +871,11 @@ async searchAndEnrich(query) {
 
 - For < 20–30 results → difference is tiny (microseconds to low ms).
 - For 50–200+ results → `bulkGet()` or `anyOf()` starts clearly winning.
-- If you''re hitting hundreds of results often → consider limiting MiniSearch results (e.g. `.search(query, { limit: 50 })`) or paginating.
+- If you're hitting hundreds of results often → consider limiting MiniSearch results (e.g. `.search(query, { limit: 50 })`) or paginating.
 
-This keeps your search responsive while fetching only what''s needed. You''re on the right track with the Set + batched fetch — switching to `bulkGet()` will make it even snappier with zero extra complexity.
+This keeps your search responsive while fetching only what's needed. You're on the right track with the Set + batched fetch — switching to `bulkGet()` will make it even snappier with zero extra complexity.
 
-Any other part of the search → display flow you''re tuning right now (highlighting, sorting by score/date, etc.)? Keep going — this is coming together nicely. 🚀
+Any other part of the search → display flow you're tuning right now (highlighting, sorting by score/date, etc.)? Keep going — this is coming together nicely. 🚀
 
 <br />
 
