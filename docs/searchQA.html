@@ -180,6 +180,11 @@
                 </template>
                 <template v-slot:item.title="{ item }">
                   <a href="#" @click.prevent="viewSearchItem(item)">{{ item.title }}</a>
+                  <font size="-2">
+                    <pre>
+{{ item }}
+                    </pre>
+                  </font>
                 </template>
               </v-data-table>
             </v-window-item>
@@ -282,7 +287,7 @@
     const app = createApp({
       data() {
         return {
-          tab: 'documents',
+          tab: "keyword", // 'documents'
           db: null,
           documents: [],
           fragments: [],
@@ -295,10 +300,10 @@
           qasPageSize: 25,
           searchPage: 1,
           searchPageSize: 25,
-          searchKeyword: '',
+          searchKeyword: "",
           viewerDialog: false,
-          viewerTitle: '',
-          viewerHtml: '',
+          viewerTitle: "",
+          viewerHtml: "",
           sync: {
             info: null,
             completed: null,
@@ -697,14 +702,14 @@
           this.miniSearch.addAll(this.fragments);
           console.log(now() + " refreshData - index end: " + this.fragments.length);
 
-          // Search with default options
-          let results = this.miniSearch.search('youtube angels');
-          // let results = this.miniSearch.search(MiniSearch.wildcard);
-          // let results = this.miniSearch.search(MiniSearch.wildcard, {
-          //   filter: (result) => result.type === 'heading'
-          // });
-          // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
-          console.log(now() + " refreshData - search results: " + JSON.stringify(results, null, 2));
+          // // Search with default options
+          // let results = this.miniSearch.search('youtube angels');
+          // // let results = this.miniSearch.search(MiniSearch.wildcard);
+          // // let results = this.miniSearch.search(MiniSearch.wildcard, {
+          // //   filter: (result) => result.type === 'heading'
+          // // });
+          // // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
+          // console.log(now() + " refreshData - search results: " + JSON.stringify(results, null, 2));
 
         },
 
@@ -785,19 +790,29 @@
         },
 
         async performKeywordSearch() {
-          if (!this.searchKeyword) return
-          const term = this.searchKeyword.toLowerCase()
-          const docMatches = await this.db.documents
-            .filter(doc => doc.keywords.some(k => k.includes(term)) || doc.title.toLowerCase().includes(term))
-            .toArray()
-          const qaMatches = await this.db.qas
-            .filter(qa => qa.keywords.some(k => k.includes(term)) || qa.question.toLowerCase().includes(term))
-            .toArray()
+          console.log(now() + " performKeywordSearch - searchKeyword: " + this.searchKeyword);
 
-          this.searchResults = [
-            ...docMatches.map(d => ({ type: 'document', date: d.date, title: d.title, id: d.id })),
-            ...qaMatches.map(q => ({ type: 'qa', date: q.date, title: q.question, id: q.id }))
-          ]
+          // Search with default options
+          let results = this.miniSearch.search(this.searchKeyword || MiniSearch.wildcard);
+          // let results = this.miniSearch.search(MiniSearch.wildcard);
+          // let results = this.miniSearch.search(MiniSearch.wildcard, {
+          //   filter: (result) => result.type === 'heading'
+          // });
+          // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
+          console.log(now() + " performKeywordSearch - results: " + JSON.stringify(results, null, 2));
+          this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id }));
+          // if (!this.searchKeyword) return
+          // const term = this.searchKeyword.toLowerCase()
+          // const docMatches = await this.db.documents
+          //   .filter(doc => doc.keywords.some(k => k.includes(term)) || doc.title.toLowerCase().includes(term))
+          //   .toArray()
+          // const qaMatches = await this.db.qas
+          //   .filter(qa => qa.keywords.some(k => k.includes(term)) || qa.question.toLowerCase().includes(term))
+          //   .toArray()
+          // this.searchResults = [
+          //   ...docMatches.map(d => ({ type: 'document', date: d.date, title: d.title, id: d.id })),
+          //   ...qaMatches.map(q => ({ type: 'qa', date: q.date, title: q.question, id: q.id }))
+          // ]
           this.searchPage = 1
         },
 
