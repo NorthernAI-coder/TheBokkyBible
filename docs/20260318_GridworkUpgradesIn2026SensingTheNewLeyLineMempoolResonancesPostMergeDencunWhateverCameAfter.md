@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 18 Mar 2026
-> Prev: [Tue 17 Mar 2026](20260317_TheArchitectureOfPermissionlessPrayerGridworkMeetsSmartContractInvocations.md) Next: []()
+> Prev: [Tue 17 Mar 2026](20260317_TheArchitectureOfPermissionlessPrayerGridworkMeetsSmartContractInvocations.md) Next: [Thu 19 Mar 2026](20260319_FeelingRealTimeMempoolResonancesInGridworkAndSimpleDailyTuningPractices.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
