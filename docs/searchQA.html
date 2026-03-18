@@ -688,12 +688,23 @@
           this.miniSearch = new MiniSearch({
             fields: ['heading', 'text'], // fields to index for full-text search
             storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text'] // fields to return with search results
+            // storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading'] // fields to return with search results
           });
 
           // Index all documents
           console.log(now() + " refreshData - index start: " + this.fragments.length);
           this.miniSearch.addAll(this.fragments);
           console.log(now() + " refreshData - index end: " + this.fragments.length);
+
+          console.log(now() + " refreshData - documents start: " + this.documents.length);
+          const documentsMiniSearch = new MiniSearch({
+            fields: ['title', 'content'], // fields to index for full-text search
+            storeFields: ['filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
+            // storeFields: ['filename', 'date', 'title'] // fields to return with search results
+          });
+          documentsMiniSearch.addAll(this.documents);
+          console.log(now() + " refreshData - documents end: " + this.documents.length);
+
 
           // Word frequency - from search.brave.com
           // const importantWords = [];
