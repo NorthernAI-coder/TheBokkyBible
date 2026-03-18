@@ -489,14 +489,14 @@
         },
 
         async loadAllFiles() {
+          // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
           const files = await this.listMarkdownFiles();
           // console.log(now() + " loadAllFiles - files: " + JSON.stringify(files, null, 2));
 
           await this.db.documents.clear();
-          await this.db.qas.clear();
+          await this.db.fragments.clear();
 
           this.sync.total = files.length;
-
           this.sync.completed = 0;
           for (const file of files) {
             console.log(now() + " loadAllFiles - file.path: " + file.path);
@@ -504,50 +504,11 @@
 
             const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
             const text = await (await fetch(rawUrl)).text()
-
+            await this.processFile(file, text);
             // console.log(now() + " loadAllFiles - text: " + text);
-
-            const date = file.name.split('_')[0] // YYYYMMDD
-            const lines = text.split("\n")
-            let title = ''
-            for (let line of lines) {
-              if (line.startsWith('## ')) {
-                title = line.replace('## ', '').trim()
-                break
-              }
-            }
-            console.log(now() + " loadAllFiles - date: " + date + ", title: " + title);
-
-            const keywords = this.extractKeywords(text)
-            const doc = {
-              filename: file.name,
-              date,
-              title: title || file.name,
-              content: text,
-              keywords: [...new Set(keywords)]
-            }
-            const docId = await this.db.documents.add(doc)
-
-            // Split into Q&A
-            const qaBlocks = text.split(/^### /m).slice(1)
-            for (let block of qaBlocks) {
-              const qaLines = block.split("\n")
-              const question = qaLines[0].trim()
-              const answer = qaLines.slice(1).join("\n").trim()
-              if (!question) continue
-              const qaKeywords = this.extractKeywords(question + ' ' + answer)
-              await this.db.qas.add({
-                docId,
-                date,
-                question,
-                answer,
-                keywords: [...new Set(qaKeywords)]
-              })
-            }
             this.sync.completed++;
           }
           this.refreshData();
-
         },
 
         async processFile(file, text) {
