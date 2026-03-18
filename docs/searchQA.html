@@ -807,7 +807,6 @@
           // });
         },
         async performKeywordSearch() {
-          console.log(now() + " performKeywordSearch - searchKeywords: " + this.searchKeywords);
           clearTimeout(this.searchKeywordsTimerId);
           this.searchKeywordsTimerId = setTimeout(async () => {
             await this.performKeywordSearchDebounced();
