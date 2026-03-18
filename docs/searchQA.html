@@ -176,7 +176,7 @@
               </v-toolbar> -->
 
               <v-data-table
-                :items="paginatedSearchResults"
+                :items="sortedPaginatedSearchResults"
                 :headers="searchHeaders"
                 :items-per-page="-1"
                 hide-default-footer
@@ -198,33 +198,42 @@
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
-                      class="mr-6"
+                      class="mr-8"
                       color="primary"
                     >
                     </v-pagination>
+                    <v-select
+                      v-model="searchSortOption"
+                      :items="searchSortOptions"
+                      variant="plain"
+                      density="compact"
+                      class="mt-4 mr-2"
+                      style="max-width: 150px;"
+                    >
+                    </v-select>
                   </v-toolbar>
                 </template>
                 <template v-slot:bottom>
                   <v-toolbar flat color="grey-lighten-4" density="compact">
                     <v-spacer></v-spacer>
-                    <v-select
-                      v-model="searchPageSize"
-                      :items="pageSizes"
-                      variant="plain"
-                      density="compact"
-                      class="mt-4"
-                      style="max-width: 70px;"
-                    ></v-select>
                     <v-pagination
                       v-model="searchPage"
                       :length="Math.ceil((searchResults.length + 1) / searchPageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
-                      class="mr-6"
+                      class="mr-8"
                       color="primary"
                     >
                     </v-pagination>
+                    <v-select
+                      v-model="searchPageSize"
+                      :items="pageSizes"
+                      variant="plain"
+                      density="compact"
+                      class="mt-4 mr-2"
+                      style="max-width: 70px;"
+                    ></v-select>
                   </v-toolbar>
                 </template>
                 <template v-slot:item.type="{ index, item }">
@@ -354,6 +363,7 @@
           docsPageSize: 25,
           qasPage: 1,
           qasPageSize: 25,
+          searchSortOption: "datedsc",
           searchPage: 1,
           searchPageSize: 25,
           searchKeywords: "",
@@ -368,6 +378,12 @@
             { value: 100, title: "100" },
             { value: 500, title: "500" },
           ],
+          searchSortOptions: [
+            { value: "datedsc", title: "▼ Date" },
+            { value: "dateasc", title: "▲ Date" },
+            { value: "scoredsc", title: "▼ Score" },
+            { value: "scoreasc", title: "▲ Score" },
+          ],
           docHeaders: [
             { title: 'Date', key: 'date' },
             { title: 'Title', key: 'title' },
@@ -379,9 +395,9 @@
             { title: 'Keywords', key: 'keywords' }
           ],
           searchHeaders: [
-            { title: 'Type', key: 'type' },
-            { title: 'Date', key: 'date' },
-            { title: 'Title', key: 'title' }
+            { title: 'Type', key: 'type', sortable: false },
+            { title: 'Date', key: 'date', sortable: false },
+            { title: 'Title', key: 'title', sortable: false }
           ],
           sync: {
             info: null,
@@ -406,9 +422,39 @@
         qasTotalPages() {
           return Math.ceil(this.qas.length / this.qasPageSize)
         },
-        paginatedSearchResults() {
+        sortedSearchResults() {
+          console.log(now() + " sortedSearchResults");
+          if (this.searchSortOption == "datedsc") {
+            return this.searchResults.sort((a, b) => {
+              return b.id - a.id;
+            });
+          } else if (this.searchSortOption == "dateasc") {
+            return this.searchResults.sort((a, b) => {
+              return a.id - b.id;
+            });
+          } else if (this.searchSortOption == "scoredsc") {
+            return this.searchResults.sort((a, b) => {
+              if (a.score == b.score) {
+                return b.id - a.id;
+              } else {
+                return b.score - a.score;
+              }
+            });
+          } else if (this.searchSortOption == "scoreasc") {
+            return this.searchResults.sort((a, b) => {
+              if (a.score == b.score) {
+                return a.id - b.id;
+              } else {
+                return a.score - b.score;
+              }
+            });
+          }
+          return this.searchResults;
+        },
+        sortedPaginatedSearchResults() {
+          console.log(now() + " sortedPaginatedSearchResults");
           const start = (this.searchPage - 1) * this.searchPageSize
-          return this.searchResults.slice(start, start + this.searchPageSize)
+          return this.sortedSearchResults.slice(start, start + this.searchPageSize)
         },
         searchTotalPages() {
           return Math.ceil(this.searchResults.length / this.searchPageSize)
@@ -438,7 +484,7 @@
           const res = await fetch(url);
           const data = await res.json();
           return data.tree
-            .filter(item => item.type === 'blob' && item.path.endsWith('.md') && /^docs\//.test(item.path))
+            .filter(item => item.type === 'blob' && item.path.endsWith('.md') && /^docs\//.test(item.path) && !/GlobalTableOfContent/.test(item.path))
             .map(item => ({ path: item.path, name: item.path.substring(5,), sortKey: item.path === "docs/README.md" ? 0 : (/^docs\/\d{8}_/.test(item.path) ? 1 : 2) /*, slug: item.path.replace(/\.md$/, '')*/ }))
             .sort((a,b) => (a.sortKey + a.path).localeCompare(b.sortKey + b.path));
         },
@@ -749,7 +795,7 @@
           // //   filter: (result) => result.type === 'heading'
           // // });
           // // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
-          this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id }));
+          this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id, score: q.score, docId: q.docId, lineNumber: q.lineNumber, headingLevel: q.headingLevel, counters: q.counters }));
           console.log(now() + " refreshData - search results: " + JSON.stringify(results[0], null, 2));
 
           // Notes
@@ -855,8 +901,8 @@
           //   filter: (result) => result.type === 'heading'
           // });
           // Does not work let results = this.miniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
-          console.log(now() + " performKeywordSearchDebounced - results: " + JSON.stringify(results[0], null, 2));
-          this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id }));
+          console.log(now() + " performKeywordSearchDebounced - results: " + JSON.stringify(results.slice(0, 10), null, 2));
+          this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id, score: q.score, docId: q.docId, lineNumber: q.lineNumber, headingLevel: q.headingLevel, counters: q.counters }));
           // if (!this.searchKeywords) return
           // const term = this.searchKeywords.toLowerCase()
           // const docMatches = await this.db.documents
