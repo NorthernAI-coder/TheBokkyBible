@@ -65,7 +65,7 @@
                   <v-toolbar flat color="grey-lighten-4" density="compact">
                     <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
                     <v-spacer></v-spacer>
-                    <v-chip color="primary" variant="text" v-tooltip="'#search/#total fragments'">
+                    <v-chip color="primary" variant="text" v-tooltip="'#search/#total documents'">
                       {{ filteredSortedDocuments.length }} / {{ documents.length }}
                     </v-chip>
                     <v-spacer></v-spacer>
