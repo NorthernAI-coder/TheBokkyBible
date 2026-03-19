@@ -2,7 +2,7 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/PrincessLeiaPeachExpelsARainbowBigBang.png" width="400" /></kbd>  
+<kbd><img src="images/PrincessLeiaPeachExpelsARainbowBigBang.png" width="800" /></kbd>  
 
 > Princess Leia Peach Expels A Rainbow Big Bang, April 2018
 
