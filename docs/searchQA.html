@@ -446,27 +446,51 @@
               filename: q.filename,
               date: q.date,
               title: q.title,
-              // score: q.score,
-              // terms: q.terms,
-              // queryTerms: q.queryTerms,
-              // match: q.match,
+              score: q.score,
+              terms: q.terms,
+              queryTerms: q.queryTerms,
+              match: q.match,
               content: q.content,
               keywords: q.keywords,
             }));
-
           } else {
             results = this.documents.map(q => ({
               id: q.id,
               filename: q.filename,
               date: q.date,
               title: q.title,
-              // score: q.score,
-              // terms: q.terms,
-              // queryTerms: q.queryTerms,
-              // match: q.match
+              score: 1,
+              terms: [],
+              queryTerms: [],
+              match: {},
               content: q.content,
               keywords: q.keywords,
             }));
+          }
+          if (this.settings.documents.sortOption == "datedsc") {
+            results.sort((a, b) => {
+              return b.id - a.id;
+            });
+          } else if (this.settings.documents.sortOption == "dateasc") {
+            results.sort((a, b) => {
+              return a.id - b.id;
+            });
+          } else if (this.settings.documents.sortOption == "scoredsc") {
+            results.sort((a, b) => {
+              if (a.score == b.score) {
+                return b.id - a.id;
+              } else {
+                return b.score - a.score;
+              }
+            });
+          } else if (this.settings.documents.sortOption == "scoreasc") {
+            results.sort((a, b) => {
+              if (a.score == b.score) {
+                return a.id - b.id;
+              } else {
+                return a.score - b.score;
+              }
+            });
           }
           return results;
         },
@@ -474,7 +498,7 @@
         filteredSortedPagedDocuments() {
           const start = (this.documentsCurrentPage - 1) * this.settings.documents.pageSize;
           const results = this.filteredSortedDocuments.slice(start, start + this.settings.documents.pageSize);
-          // console.log(now() + " filteredSortedPagedDocuments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
+          console.log(now() + " filteredSortedPagedDocuments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
         },
         // docsTotalPages() {
@@ -508,14 +532,13 @@
               counters: q.counters,
               type: q.type,
               title: q.heading,
-              // score: q.score,
-              // terms: q.terms,
-              // queryTerms: q.queryTerms,
-              // match: q.match
+              score: 1,
+              terms: [],
+              queryTerms: [],
+              match: {},
               text: q.text,
             }));
           }
-
           if (this.settings.fragments.sortOption == "datedsc") {
             results.sort((a, b) => {
               return b.id - a.id;
@@ -924,7 +947,8 @@
         async applyFilter() {
           console.log(now() + " applyFilter - settings.filter: '" + this.settings.filter + "'");
           if (this.settings.filter) {
-            this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
+            // this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
+            this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard);
             // console.log(now() + " applyFilter - filteredDocuments: " + JSON.stringify(this.filteredDocuments.slice(0, 10), null, 2));
             this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
           } else {
