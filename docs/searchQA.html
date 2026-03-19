@@ -63,7 +63,7 @@
               >
                 <template v-slot:top>
                   <v-toolbar flat color="grey-lighten-4" density="compact">
-                    <v-text-field v-model="searchKeywords" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
+                    <v-text-field v-model="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
                     <v-spacer></v-spacer>
                     <v-chip color="primary" variant="text" v-tooltip="'#documents'">
                       <!-- {{ searchResults.length }} / {{ documents.length }} -->
@@ -71,8 +71,9 @@
                     </v-chip>
                     <v-spacer></v-spacer>
                     <v-pagination
-                      v-model="docsPage"
-                      :length="Math.ceil((documents.length + 1) / docsPageSize)"
+                      v-model="settings.documents.currentPage"
+                      @update:model-value="saveSettings();"
+                      :length="Math.ceil((documents.length + 1) / settings.documents.pageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
@@ -81,7 +82,8 @@
                     >
                     </v-pagination>
                     <v-select
-                      v-model="docsSortOption"
+                      v-model="settings.documents.sortOption"
+                      @update:model-value="saveSettings();"
                       :items="docsSortOptions"
                       variant="plain"
                       density="compact"
@@ -95,8 +97,9 @@
                   <v-toolbar flat color="grey-lighten-4" density="compact">
                     <v-spacer></v-spacer>
                     <v-pagination
-                      v-model="docsPage"
-                      :length="Math.ceil((documents.length + 1) / docsPageSize)"
+                      v-model="settings.documents.currentPage"
+                      @update:model-value="saveSettings();"
+                      :length="Math.ceil((documents.length + 1) / settings.documents.pageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
@@ -105,7 +108,8 @@
                     >
                     </v-pagination>
                     <v-select
-                      v-model="docsPageSize"
+                      v-model="settings.documents.pageSize"
+                      @update:model-value="saveSettings();"
                       :items="pageSizes"
                       variant="plain"
                       density="compact"
@@ -152,15 +156,16 @@
               >
                 <template v-slot:top>
                   <v-toolbar flat color="grey-lighten-4" density="compact">
-                    <v-text-field v-model="searchKeywords" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
+                    <v-text-field v-model="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
                     <v-spacer></v-spacer>
                     <v-chip color="primary" variant="text" v-tooltip="'#search/#total fragments'">
                       {{ searchResults.length }} / {{ fragments.length }}
                     </v-chip>
                     <v-spacer></v-spacer>
                     <v-pagination
-                      v-model="searchPage"
-                      :length="Math.ceil((searchResults.length + 1) / searchPageSize)"
+                      v-model="settings.fragments.currentPage"
+                      @update:model-value="saveSettings();"
+                      :length="Math.ceil((searchResults.length + 1) / settings.fragments.pageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
@@ -169,7 +174,8 @@
                     >
                     </v-pagination>
                     <v-select
-                      v-model="searchSortOption"
+                      v-model="settings.fragments.sortOption"
+                      @update:model-value="saveSettings();"
                       :items="searchSortOptions"
                       variant="plain"
                       density="compact"
@@ -183,8 +189,9 @@
                   <v-toolbar flat color="grey-lighten-4" density="compact">
                     <v-spacer></v-spacer>
                     <v-pagination
-                      v-model="searchPage"
-                      :length="Math.ceil((searchResults.length + 1) / searchPageSize)"
+                      v-model="settings.fragments.currentPage"
+                      @update:model-value="saveSettings();"
+                      :length="Math.ceil((searchResults.length + 1) / settings.fragments.pageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
@@ -193,7 +200,8 @@
                     >
                     </v-pagination>
                     <v-select
-                      v-model="searchPageSize"
+                      v-model="settings.fragments.pageSize"
+                      @update:model-value="saveSettings();"
                       :items="pageSizes"
                       variant="plain"
                       density="compact"
@@ -204,7 +212,7 @@
                 </template>
                 <template v-slot:item.type="{ index, item }">
                   <v-chip color="primary" variant="plain" size="small">
-                    {{ (searchPage - 1) * searchPageSize + index + 1 }}
+                    {{ (settings.fragments.currentPage - 1) * settings.fragments.pageSize + index + 1 }}
                   </v-chip>
                   <br />
                   <v-chip :color="item.type === 'document' ? 'blue' : 'green'" size="small" class="mt-3">{{ item.type }}</v-chip>
@@ -374,19 +382,21 @@
 
           settings: {
             tab: "documents", // "keyword"
-            version: 0,
+            filter: null,
+            documents: {
+              currentPage: 1,
+              pageSize: 10,
+              sortOption: "datedsc",
+            },
+            fragments: {
+              currentPage: 1,
+              pageSize: 25,
+              sortOption: "datedsc",
+            },
+            version: 1,
           },
           searchResults: [],
-          docsSortOption: "datedsc",
-          docsPage: 1,
-          docsPageSize: 10,
-          qasPage: 1,
-          qasPageSize: 25,
-          searchSortOption: "datedsc",
-          searchPage: 1,
-          searchPageSize: 25,
-          searchKeywords: "",
-          searchKeywordsTimerId: null,
+          filterTimerId: null,
           viewerDialog: false,
           viewerTitle: "",
           viewerHtml: "",
@@ -434,29 +444,22 @@
       },
       computed: {
         paginatedDocs() {
-          const start = (this.docsPage - 1) * this.docsPageSize
-          return this.documents.slice(start, start + this.docsPageSize)
+          const start = (this.settings.documents.currentPage - 1) * this.settings.documents.pageSize;
+          return this.documents.slice(start, start + this.settings.documents.pageSize);
         },
         docsTotalPages() {
-          return Math.ceil(this.documents.length / this.docsPageSize)
-        },
-        paginatedQAs() {
-          const start = (this.qasPage - 1) * this.qasPageSize
-          return this.qas.slice(start, start + this.qasPageSize)
-        },
-        qasTotalPages() {
-          return Math.ceil(this.qas.length / this.qasPageSize)
+          return Math.ceil(this.documents.length / this.settings.documents.pageSize);
         },
         sortedSearchResults() {
-          if (this.searchSortOption == "datedsc") {
+          if (this.settings.fragments.sortOption == "datedsc") {
             return this.searchResults.sort((a, b) => {
               return b.id - a.id;
             });
-          } else if (this.searchSortOption == "dateasc") {
+          } else if (this.settings.fragments.sortOption == "dateasc") {
             return this.searchResults.sort((a, b) => {
               return a.id - b.id;
             });
-          } else if (this.searchSortOption == "scoredsc") {
+          } else if (this.settings.fragments.sortOption == "scoredsc") {
             return this.searchResults.sort((a, b) => {
               if (a.score == b.score) {
                 return b.id - a.id;
@@ -464,7 +467,7 @@
                 return b.score - a.score;
               }
             });
-          } else if (this.searchSortOption == "scoreasc") {
+          } else if (this.settings.fragments.sortOption == "scoreasc") {
             return this.searchResults.sort((a, b) => {
               if (a.score == b.score) {
                 return a.id - b.id;
@@ -476,13 +479,13 @@
           return this.searchResults;
         },
         sortedPaginatedSearchResults() {
-          const start = (this.searchPage - 1) * this.searchPageSize;
-          const results = this.sortedSearchResults.slice(start, start + this.searchPageSize);
+          const start = (this.settings.fragments.currentPage - 1) * this.settings.fragments.pageSize;
+          const results = this.sortedSearchResults.slice(start, start + this.settings.fragments.pageSize);
           // console.log(now() + " sortedPaginatedSearchResults - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
         },
         searchTotalPages() {
-          return Math.ceil(this.searchResults.length / this.searchPageSize)
+          return Math.ceil(this.searchResults.length / this.settings.fragments.pageSize)
         }
       },
       methods: {
@@ -846,15 +849,15 @@
           // });
         },
         async performKeywordSearch() {
-          clearTimeout(this.searchKeywordsTimerId);
-          this.searchKeywordsTimerId = setTimeout(async () => {
+          clearTimeout(this.filterTimerId);
+          this.filterTimerId = setTimeout(async () => {
             await this.performKeywordSearchDebounced();
           }, 750);
         },
 
         async performKeywordSearchDebounced() {
-          console.log(now() + " performKeywordSearchDebounced - searchKeywords: " + this.searchKeywords);
-          let fragmentsResults = fragmentsMiniSearch.search(this.searchKeywords || MiniSearch.wildcard, { fuzzy: 0.2 });
+          console.log(now() + " performKeywordSearchDebounced - settings.filter: " + this.settings.filter);
+          let fragmentsResults = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
           // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
           //   filter: (result) => result.type === 'heading'
           // });
@@ -875,8 +878,8 @@
             match: q.match
           }));
 
-          // if (!this.searchKeywords) return
-          // const term = this.searchKeywords.toLowerCase()
+          // if (!this.settings.filter) return
+          // const term = this.settings.filter.toLowerCase()
           // const docMatches = await this.db.documents
           //   .filter(doc => doc.keywords.some(k => k.includes(term)) || doc.title.toLowerCase().includes(term))
           //   .toArray()
@@ -887,7 +890,8 @@
           //   ...docMatches.map(d => ({ type: 'document', date: d.date, title: d.title, id: d.id })),
           //   ...qaMatches.map(q => ({ type: 'qa', date: q.date, title: q.question, id: q.id }))
           // ]
-          this.searchPage = 1
+          this.settings.fragments.currentPage = 1
+          this.saveSettings();
         },
 
         viewSearchItem(item) {
@@ -903,17 +907,6 @@
           console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
           localStorage.searchQASettings = JSON.stringify(this.settings);
         },
-
-        // prevPage(tab) {
-        //   if (tab === 'docs') this.docsPage = Math.max(1, this.docsPage - 1)
-        //   else if (tab === 'qas') this.qasPage = Math.max(1, this.qasPage - 1)
-        //   else this.searchPage = Math.max(1, this.searchPage - 1)
-        // },
-        // nextPage(tab) {
-        //   if (tab === 'docs') this.docsPage = Math.min(this.docsTotalPages, this.docsPage + 1)
-        //   else if (tab === 'qas') this.qasPage = Math.min(this.qasTotalPages, this.qasPage + 1)
-        //   else this.searchPage = Math.min(this.searchTotalPages, this.searchPage + 1)
-        // }
       },
       async mounted() {
 
@@ -921,15 +914,11 @@
           const tempSettings = JSON.parse(localStorage.searchQASettings);
           if ('version' in tempSettings && tempSettings.version == this.settings.version) {
             this.settings = tempSettings;
-          //   if (this.settings.safesTable.currentPage > 1) {
-          //     this.settings.safesTable.currentPage = 1;
-          //   }
+            this.settings.documents.currentPage = 1;
+            this.settings.fragments.currentPage = 1;
             console.log(now() + " mounted - this.settings: " + JSON.stringify(this.settings, null, 2));
           }
         }
-
-
-
         await this.initDB()
         // Create metadata if missing
         // const meta = await this.db.metadata.get('lastUpdated')
