@@ -15,7 +15,7 @@ Thu 19 Mar 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/d3006e5ac36444e9bda13caffd68c977
+Grok chat link https://x.com/i/grok/share/e235cc3340d94918bc7e07db0baf7d15
 
 X post https://x.com/BokkyPooBah/status/2034385762431672634
 
@@ -46,6 +46,7 @@ X post https://x.com/BokkyPooBah/status/2034385762431672634
 1. [I've set up the Vuetify 3 code so that the documents and fragments IndexedDB data are first loaded into memory. Then both these data structures are pumped through separate MiniSearch objects for documents and fragments separately. If there is a saved search query, the documents and fragments results sets are computed. Otherwise both search result sets are null. In the computed properties, records are pulled from the IndexedDB pulled data, or from the search result set. So the app is quick to display the full data set, then there is a pause, then the filter, if any, gets applied](#ive-set-up-the-vuetify-3-code-so-that-the-documents-and-fragments-indexeddb-data-are-first-loaded-into-memory-then-both-these-data-structures-are-pumped-through-separate-minisearch-objects-for-documents-and-fragments-separately-if-there-is-a-saved-search-query-the-documents-and-fragments-results-sets-are-computed-otherwise-both-search-result-sets-are-null-in-the-computed-properties-records-are-pulled-from-the-indexeddb-pulled-data-or-from-the-search-result-set-so-the-app-is-quick-to-display-the-full-data-set-then-there-is-a-pause-then-the-filter-if-any-gets-applied)
 1. [Re 1. I've got a circular progress bar showing the file being processed, including the total files; re 2. I've got a 750ms debounce period; 5. I've got a paging function so page sizes can be 10, 25, 50, 100, 500](#re-1-ive-got-a-circular-progress-bar-showing-the-file-being-processed-including-the-total-files-re-2-ive-got-a-750ms-debounce-period-5-ive-got-a-paging-function-so-page-sizes-can-be-10-25-50-100-500)
 1. [I've turned off the v-data-table header automatic sorting function, because the data table will only sort the currently paged data set. I have added basic sorting so far. The Date sorting is just using the documents table id and fragments table id, both sequentially increasing. The Score sorting is using the MiniSearch score value. When there is no search, this defaults to 1 in the MiniSearch "Wildcard" results. When there is no search query, data will be taken from the IndexedDB table array in memory, and a score of 1 is added to each record](#ive-turned-off-the-v-data-table-header-automatic-sorting-function-because-the-data-table-will-only-sort-the-currently-paged-data-set-i-have-added-basic-sorting-so-far-the-date-sorting-is-just-using-the-documents-table-id-and-fragments-table-id-both-sequentially-increasing-the-score-sorting-is-using-the-minisearch-score-value-when-there-is-no-search-this-defaults-to-1-in-the-minisearch-wildcard-results-when-there-is-no-search-query-data-will-be-taken-from-the-indexeddb-table-array-in-memory-and-a-score-of-1-is-added-to-each-record)
+1. [When working with clients pre crypto, I would encourage them to set up knowledge bases using MediaWiki type systems. I used Tiki and a few other systems like that. Some of my clients started with the open source systems, and one moved to Confluence. These systems allow the subject matter expert to write down their notes, not requiring an intermediate "editor" to filter the sometimes complicated information](#when-working-with-clients-pre-crypto-i-would-encourage-them-to-set-up-knowledge-bases-using-mediawiki-type-systems-i-used-tiki-and-a-few-other-systems-like-that-some-of-my-clients-started-with-the-open-source-systems-and-one-moved-to-confluence-these-systems-allow-the-subject-matter-expert-to-write-down-their-notes-not-requiring-an-intermediate-editor-to-filter-the-sometimes-complicated-information)
 
 ---
 
@@ -769,7 +770,66 @@ Ready to ship this sorting layer, or itching to add one more polish (e.g. asc/de
 
 <br />
 
-###
+### When working with clients pre crypto, I would encourage them to set up knowledge bases using MediaWiki type systems. I used Tiki and a few other systems like that. Some of my clients started with the open source systems, and one moved to Confluence. These systems allow the subject matter expert to write down their notes, not requiring an intermediate "editor" to filter the sometimes complicated information
+
+#### Pre-crypto knowledge base setups – MediaWiki-style systems for direct SME capture
+
+Good evening — 18:xx AEDT, March 19, 2026. 🌳💡
+
+That pre-crypto workflow you describe was (and still is) one of the most permissionless and low-friction ways to build institutional memory: hand the subject matter expert (SME) the keys to a wiki-style system and let them dump raw, unfiltered knowledge directly. No "editor bottleneck", no translation layer losing nuance, no waiting for polished prose. Just write → save → iterate.
+
+#### Systems you mentioned + their strengths for SME-first capture
+
+- **MediaWiki** (the Wikipedia engine)
+  - Extremely flexible markup (wikitext is learnable in ~30 minutes for most tech-savvy SMEs).
+  - Version history built-in → every change tracked, rollback easy, no fear of "breaking" things.
+  - Categories, templates, namespaces → structure emerges organically without rigid forms.
+  - Extensions galore (Semantic MediaWiki for structured data, VisualEditor for WYSIWYG if needed).
+  - Self-hosted, open-source, zero vendor lock-in.
+
+- **Tiki Wiki CMS Groupware** (one you used a fair bit)
+  - More "batteries included" out of the box than plain MediaWiki: built-in forums, trackers (like lightweight databases), file galleries, calendars, polls.
+  - WYSIWYG editor stronger by default → lowers barrier for non-wiki natives.
+  - Plugin ecosystem huge → embed charts, mindmaps, code snippets, etc.
+  - Great for teams that want wiki + collaboration tools in one place without gluing separate apps.
+
+- **Confluence** (the migration path one client took)
+  - Cloud or Data Center versions.
+  - Modern, polished UI → easier onboarding for non-technical SMEs.
+  - Page trees, labels, macros, templates → good for structured spaces (e.g. product docs, runbooks).
+  - Strong Atlassian ecosystem integration (Jira, Bitbucket).
+  - Trade-off: proprietary (Atlassian owns the data model), subscription cost scales with users, export/migration can be painful later.
+
+#### Why the "no intermediate editor" model worked so well (and still does)
+
+- SMEs often think in non-linear, interconnected ways — wikis let them link ideas immediately ("see also", [[double brackets]]), create stubs for future expansion, and refine over time without gatekeepers.
+- Complicated domain knowledge (engineering specs, process quirks, tribal knowledge) survives better when captured raw first — editors tend to sanitize or over-simplify.
+- Psychological safety: "I can just dump this messy note now" → higher capture rate than "I have to make it perfect before sharing".
+- Emergent structure: start chaotic → categories/tags/links evolve naturally as the body of knowledge grows.
+
+#### Modern echoes / successors (post-2020 lens)
+
+Even though the core idea hasn't changed much, the landscape has evolved a bit:
+
+- **Notion / Coda / ClickUp Docs** — very popular now for their block-based, database-like pages. SMEs love the drag-drop + inline databases, but can become chaotic without governance.
+- **Obsidian / Logseq / Tana** — personal knowledge bases that many SMEs now use solo (Markdown files, graph view). Export/sync to shared wikis still clunky.
+- **Git + Markdown wikis** (e.g. MkDocs, Docusaurus, GitBook, Foam) — version control via git → appeals to devs, but SMEs need Git comfort.
+- **Anytype / AppFlowy** — open-source Notion alternatives gaining traction.
+- **BookStack** — simple, beautiful self-hosted wiki with shelves/books/pages — lower learning curve than MediaWiki.
+- **Outline** — modern, fast, Slack-like search — good middle ground between Confluence polish and open-source freedom.
+
+The purest "SME direct capture, no editor" spirit lives strongest in self-hosted open-source wikis (Tiki, BookStack, MediaWiki with VisualEditor) or git-based Markdown flows — because there's no SaaS pricing pressure to limit users or force "premium" features.
+
+#### Quick journal line (lvl 4, copy-paste ready)
+
+#### Pre-crypto client advice: push MediaWiki / Tiki-style wikis for direct SME knowledge capture – no editor filter, raw notes preserved, structure emerges organically; some migrated to Confluence for polish
+
+Or shorter:
+
+"Encouraged clients to use Tiki/MediaWiki for SME-direct wikis – complicated info captured unfiltered, no intermediate editor needed. One later moved to Confluence."
+
+Does any particular client story or pain point from those days stand out now (e.g. why one migrated, what broke in the open-source setups)?  
+Or want to brainstorm how that same "no bottleneck" philosophy maps to today's gridwork / tail-wave / permissionless prayer note-taking tools? 😌🚀
 
 <br />
 
