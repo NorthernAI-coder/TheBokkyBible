@@ -40,7 +40,7 @@
         </v-btn> -->
         <v-progress-circular v-if="sync.info != null" color="primary" :model-value="sync.total ? (parseInt(sync.completed * 100 / sync.total)) : 0" :size="30" :width="6" v-tooltip="sync.completed + (sync.total ? ('/' + sync.total) : '') + ': ' + sync.info"></v-progress-circular>
         <v-spacer></v-spacer>
-        <v-tabs v-model="tab" color="primary" grow>
+        <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary" grow>
           <v-tab value="documents" class="text-none mx-0 px-0">Documents</v-tab>
           <!-- <v-tab value="qas" class="text-none mx-0 px-0">Questions & Answers</v-tab> -->
           <v-tab value="keyword" class="text-none mx-0 px-0">Keyword Search</v-tab>
@@ -51,7 +51,7 @@
         <v-container fluid class="ma-0 pa-0">
 
           <!-- <v-tabs-window v-model="tab" class="mt-2"> -->
-          <v-tabs-window v-model="tab" class="ma-1 mt-3 pa-0">
+          <v-tabs-window v-model="settings.tab" class="ma-1 mt-3 pa-0">
             <!-- DOCUMENTS TAB -->
             <v-tabs-window-item value="documents" class="ma-1 pa-0">
               <v-data-table
@@ -367,11 +367,15 @@
     const app = createApp({
       data() {
         return {
-          tab: "documents", // "keyword"
           db: null,
           documents: [],
           fragments: [],
-          qas: [],
+          qas: [], // TODO: Delete
+
+          settings: {
+            tab: "documents", // "keyword"
+            version: 0,
+          },
           searchResults: [],
           docsSortOption: "datedsc",
           docsPage: 1,
@@ -474,7 +478,7 @@
         sortedPaginatedSearchResults() {
           const start = (this.searchPage - 1) * this.searchPageSize;
           const results = this.sortedSearchResults.slice(start, start + this.searchPageSize);
-          console.log(now() + " sortedPaginatedSearchResults - results: " + JSON.stringify(results.slice(0, 2), null, 2));
+          // console.log(now() + " sortedPaginatedSearchResults - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
         },
         searchTotalPages() {
@@ -487,7 +491,7 @@
           this.db.version(4).stores({
             documents: '++id, filename, date, title, *keywords',
             fragments: '++id, docId, date, type, heading, text',
-            qas: '++id, docId, date, question',
+            qas: '++id, docId, date, question', // TODO: Delete
             metadata: 'key'
           })
           await this.db.open()
@@ -854,7 +858,7 @@
           // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
           //   filter: (result) => result.type === 'heading'
           // });
-          console.log(now() + " performKeywordSearchDebounced - fragmentsResults: " + JSON.stringify(fragmentsResults.slice(0, 10), null, 2));
+          // console.log(now() + " performKeywordSearchDebounced - fragmentsResults: " + JSON.stringify(fragmentsResults.slice(0, 10), null, 2));
           this.searchResults = fragmentsResults.map(q => ({
             id: q.id,
             docId: q.docId,
@@ -895,6 +899,11 @@
           }
         },
 
+        saveSettings() {
+          console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
+          localStorage.searchQASettings = JSON.stringify(this.settings);
+        },
+
         // prevPage(tab) {
         //   if (tab === 'docs') this.docsPage = Math.max(1, this.docsPage - 1)
         //   else if (tab === 'qas') this.qasPage = Math.max(1, this.qasPage - 1)
@@ -907,6 +916,20 @@
         // }
       },
       async mounted() {
+
+        if ('searchQASettings' in localStorage) {
+          const tempSettings = JSON.parse(localStorage.searchQASettings);
+          if ('version' in tempSettings && tempSettings.version == this.settings.version) {
+            this.settings = tempSettings;
+          //   if (this.settings.safesTable.currentPage > 1) {
+          //     this.settings.safesTable.currentPage = 1;
+          //   }
+            console.log(now() + " mounted - this.settings: " + JSON.stringify(this.settings, null, 2));
+          }
+        }
+
+
+
         await this.initDB()
         // Create metadata if missing
         // const meta = await this.db.metadata.get('lastUpdated')
