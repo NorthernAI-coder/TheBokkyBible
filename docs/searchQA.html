@@ -315,6 +315,8 @@
     const OWNER = 'bokkypoobah';
     const REPO = 'TheBokkyBible';
     const BRANCH = 'main';
+    let documentsMiniSearch = null;
+    let fragmentsMiniSearch = null;
 
     function now() {
       return moment().format("HH:mm:ss");
@@ -356,8 +358,8 @@
           documents: [],
           fragments: [],
           qas: [],
-          documentsMiniSearch: null,
-          fragmentsMiniSearchX: null,
+          // documentsMiniSearch: null,
+          // fragmentsMiniSearch: null,
           searchResults: [],
           docsPage: 1,
           docsPageSize: 25,
@@ -686,7 +688,7 @@
           // console.log(now() + " refreshData - qas: " + JSON.stringify(this.qas.slice(0, 5), null, 2));
           // const item = this.qas[0];
           // console.log(now() + " refreshData - item: " + JSON.stringify(item, null, 2));
-          this.fragmentsMiniSearch = new MiniSearch({
+          fragmentsMiniSearch = new MiniSearch({
             fields: ['heading', 'text'], // fields to index for full-text search
             storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text'] // fields to return with search results
             // storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading'] // fields to return with search results
@@ -694,22 +696,23 @@
 
           // Index all documents
           console.log(now() + " refreshData - index start: " + this.fragments.length);
-          this.fragmentsMiniSearch.addAll(this.fragments);
+          fragmentsMiniSearch.addAll(this.fragments);
           console.log(now() + " refreshData - index end: " + this.fragments.length);
 
-          // console.log(now() + " refreshData - documents start: " + this.documents.length);
-          // const documentsMiniSearch = new MiniSearch({
-          //   fields: ['title', 'content'], // fields to index for full-text search
-          //   storeFields: ['filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
-          //   // storeFields: ['filename', 'date', 'title'] // fields to return with search results
-          // });
-          // documentsMiniSearch.addAll(this.documents);
-          // console.log(now() + " refreshData - documents end: " + this.documents.length);
+          console.log(now() + " refreshData - documents start: " + this.documents.length);
+          documentsMiniSearch = new MiniSearch({
+            fields: ['title', 'content'], // fields to index for full-text search
+            storeFields: ['filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
+            // storeFields: ['filename', 'date', 'title'] // fields to return with search results
+          });
+          documentsMiniSearch.addAll(this.documents);
+          console.log(now() + " refreshData - documents end: " + this.documents.length);
 
+          await this.performKeywordSearchDebounced();
 
           // Word frequency - from search.brave.com
           // const importantWords = [];
-          // for (const [term, fieldMap] of this.fragmentsMiniSearch._index) {
+          // for (const [term, fieldMap] of fragmentsMiniSearch._index) {
           //   let totalFreq = 0;
           //   for (const [field, docMap] of fieldMap) {
           //     for (const [docId, freq] of docMap) {
@@ -722,24 +725,23 @@
           // importantWords.sort((a, b) => b.frequency - a.frequency);
           // console.log(now() + " refreshData - importantWords: " + JSON.stringify(importantWords, null, 2));
 
-
-          // // Search with default options
-          // let results = this.fragmentsMiniSearch.search('youtube angels');
-          let results = this.fragmentsMiniSearch.search(MiniSearch.wildcard);
-          // // let results = this.fragmentsMiniSearch.search(MiniSearch.wildcard, {
-          // //   filter: (result) => result.type === 'heading'
-          // // });
-          // // Does not work let results = this.fragmentsMiniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
-          this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id, score: q.score, docId: q.docId, lineNumber: q.lineNumber, headingLevel: q.headingLevel, counters: q.counters, terms: q.terms, queryTerms: q.queryTerms, match: q.match }));
-          // console.log(now() + " refreshData - search results: " + JSON.stringify(results[0], null, 2));
-
-          // Notes
-          // miniSearch.search({ combineWith: 'OR', queries: ['apple', 'pear'] }) // Returns documents with "apple" OR "pear"
-          // miniSearch.search({ combineWith: 'AND', queries: [ 'zen', { combineWith: 'OR', queries: ['motorcycle', 'archery'] } ] }) // Returns documents with "zen" AND ("motorcycle" OR "archery")
-          // miniSearch.search('zen', { fields: ['title'] })    // Search specific field(s)
-          // miniSearch.search('zen', { boost: { title: 2 } })  // Boost title field
-          // miniSearch.search('moto', { prefix: true })        // Prefix search (so that 'moto' will match 'motorcycle')
-          // miniSearch.search('ismael', { fuzzy: 0.2 })        // Fuzzy search, in this example, with a max edit distance of 0.2 * term length.
+          // // // Search with default options
+          // // let results = fragmentsMiniSearch.search('youtube angels');
+          // let results = fragmentsMiniSearch.search(MiniSearch.wildcard);
+          // // // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
+          // // //   filter: (result) => result.type === 'heading'
+          // // // });
+          // // // Does not work let results = fragmentsMiniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
+          // this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id, score: q.score, docId: q.docId, lineNumber: q.lineNumber, headingLevel: q.headingLevel, counters: q.counters, terms: q.terms, queryTerms: q.queryTerms, match: q.match }));
+          // // console.log(now() + " refreshData - search results: " + JSON.stringify(results[0], null, 2));
+          //
+          // // Notes
+          // // miniSearch.search({ combineWith: 'OR', queries: ['apple', 'pear'] }) // Returns documents with "apple" OR "pear"
+          // // miniSearch.search({ combineWith: 'AND', queries: [ 'zen', { combineWith: 'OR', queries: ['motorcycle', 'archery'] } ] }) // Returns documents with "zen" AND ("motorcycle" OR "archery")
+          // // miniSearch.search('zen', { fields: ['title'] })    // Search specific field(s)
+          // // miniSearch.search('zen', { boost: { title: 2 } })  // Boost title field
+          // // miniSearch.search('moto', { prefix: true })        // Prefix search (so that 'moto' will match 'motorcycle')
+          // // miniSearch.search('ismael', { fuzzy: 0.2 })        // Fuzzy search, in this example, with a max edit distance of 0.2 * term length.
 
         },
 
@@ -808,9 +810,10 @@
         },
 
         viewQA(qa) {
-          this.viewerTitle = qa.question;
-          const safeAnswer = qa.answer.replace(/<script/gi, '&lt;script');
-          this.viewerHtml = `<h3>${qa.question}</h3>\n\n${marked.parse(safeAnswer)}`;
+          console.log(now() + " viewQA - qa: " + JSON.stringify(qa, null, 2));
+          this.viewerTitle = qa.heading;
+          const safeAnswer = qa.text.replace(/<script/gi, '&lt;script');
+          this.viewerHtml = `<h3>${qa.heading}</h3>\n\n${marked.parse(safeAnswer)}`;
           this.viewerDialog = true;
           // External links in new tab
           // document.querySelectorAll('#modal-body a[href^="http"]').forEach(a => {
@@ -829,12 +832,12 @@
           console.log(now() + " performKeywordSearchDebounced - searchKeywords: " + this.searchKeywords);
 
           // Search with default options
-          let results = this.fragmentsMiniSearch.search(this.searchKeywords || MiniSearch.wildcard);
-          // let results = this.fragmentsMiniSearch.search(MiniSearch.wildcard);
-          // let results = this.fragmentsMiniSearch.search(MiniSearch.wildcard, {
+          let results = fragmentsMiniSearch.search(this.searchKeywords || MiniSearch.wildcard);
+          // let results = fragmentsMiniSearch.search(MiniSearch.wildcard);
+          // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
           //   filter: (result) => result.type === 'heading'
           // });
-          // Does not work let results = this.fragmentsMiniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
+          // Does not work let results = fragmentsMiniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
           console.log(now() + " performKeywordSearchDebounced - results: " + JSON.stringify(results.slice(0, 10), null, 2));
           this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id, score: q.score, docId: q.docId, lineNumber: q.lineNumber, headingLevel: q.headingLevel, counters: q.counters, terms: q.terms, queryTerms: q.queryTerms, match: q.match }));
           // if (!this.searchKeywords) return
@@ -856,7 +859,8 @@
           if (item.type === 'document') {
             this.db.documents.get(item.id).then(doc => this.viewDocument(doc))
           } else {
-            this.db.qas.get(item.id).then(qa => this.viewQA(qa))
+            // this.db.qas.get(item.id).then(qa => this.viewQA(qa))
+            this.db.fragments.get(item.id).then(fragment => this.viewQA(fragment))
           }
         },
 
