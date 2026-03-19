@@ -65,9 +65,8 @@
                   <v-toolbar flat color="grey-lighten-4" density="compact">
                     <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
                     <v-spacer></v-spacer>
-                    <v-chip color="primary" variant="text" v-tooltip="'#documents'">
-                      <!-- {{ filteredFragments.length }} / {{ documents.length }} -->
-                      {{ documents.length }}
+                    <v-chip color="primary" variant="text" v-tooltip="'#search/#total fragments'">
+                      {{ filteredSortedDocuments.length }} / {{ documents.length }}
                     </v-chip>
                     <v-spacer></v-spacer>
                     <v-pagination
@@ -159,13 +158,13 @@
                     <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
                     <v-spacer></v-spacer>
                     <v-chip color="primary" variant="text" v-tooltip="'#search/#total fragments'">
-                      {{ filteredFragments.length }} / {{ fragments.length }}
+                      {{ filteredSortedFragments.length }} / {{ fragments.length }}
                     </v-chip>
                     <v-spacer></v-spacer>
                     <v-pagination
                       v-model="fragmentsCurrentPage"
                       @update:model-value="saveSettings();"
-                      :length="Math.ceil(filteredFragments.length / settings.fragments.pageSize)"
+                      :length="Math.ceil(filteredSortedFragments.length / settings.fragments.pageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
@@ -191,7 +190,7 @@
                     <v-pagination
                       v-model="fragmentsCurrentPage"
                       @update:model-value="saveSettings();"
-                      :length="Math.ceil(filteredFragments.length / settings.fragments.pageSize)"
+                      :length="Math.ceil(filteredSortedFragments.length / settings.fragments.pageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
@@ -395,7 +394,8 @@
           },
           documentsCurrentPage: 1,
           fragmentsCurrentPage: 1,
-          filteredFragments: [],
+          filteredDocuments: null,
+          filteredFragments: null,
           filterTimerId: null,
           viewerDialog: false,
           viewerTitle: "",
@@ -429,11 +429,6 @@
             { title: "Date", key: "date", sortable: false },
             { title: "Title", key: "title", sortable: false }
           ],
-          // qaHeaders: [
-          //   { title: "Date", key: "date" },
-          //   { title: "Question", key: "question" },
-          //   { title: "Keywords", key: "keywords" }
-          // ],
           sync: {
             info: null,
             completed: null,
@@ -443,15 +438,84 @@
         }
       },
       computed: {
+        filteredSortedDocuments() {
+          let results = [];
+          if (this.filteredDocuments) {
+            results = this.filteredDocuments.map(q => ({
+              id: q.id,
+              filename: q.filename,
+              date: q.date,
+              title: q.title,
+              // score: q.score,
+              // terms: q.terms,
+              // queryTerms: q.queryTerms,
+              // match: q.match,
+              content: q.content,
+              keywords: q.keywords,
+            }));
+
+          } else {
+            results = this.documents.map(q => ({
+              id: q.id,
+              filename: q.filename,
+              date: q.date,
+              title: q.title,
+              // score: q.score,
+              // terms: q.terms,
+              // queryTerms: q.queryTerms,
+              // match: q.match
+              content: q.content,
+              keywords: q.keywords,
+            }));
+          }
+          return results;
+        },
+
         filteredSortedPagedDocuments() {
           const start = (this.documentsCurrentPage - 1) * this.settings.documents.pageSize;
-          return this.documents.slice(start, start + this.settings.documents.pageSize);
+          const results = this.filteredSortedDocuments.slice(start, start + this.settings.documents.pageSize);
+          // console.log(now() + " filteredSortedPagedDocuments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
+          return results;
         },
         // docsTotalPages() {
         //   return Math.ceil(this.documents.length / this.settings.documents.pageSize);
         // },
         filteredSortedFragments() {
-          const results = this.filteredFragments;
+          let results = [];
+          if (this.filteredFragments) {
+            results = this.filteredFragments.map(q => ({
+              id: q.id,
+              docId: q.docId,
+              date: q.date,
+              lineNumber: q.lineNumber,
+              headingLevel: q.headingLevel,
+              counters: q.counters,
+              type: q.type,
+              title: q.heading,
+              score: q.score,
+              terms: q.terms,
+              queryTerms: q.queryTerms,
+              match: q.match,
+              text: q.text,
+            }));
+          } else if (this.fragments) {
+            results = this.fragments.map(q => ({
+              id: q.id,
+              docId: q.docId,
+              date: q.date,
+              lineNumber: q.lineNumber,
+              headingLevel: q.headingLevel,
+              counters: q.counters,
+              type: q.type,
+              title: q.heading,
+              // score: q.score,
+              // terms: q.terms,
+              // queryTerms: q.queryTerms,
+              // match: q.match
+              text: q.text,
+            }));
+          }
+
           if (this.settings.fragments.sortOption == "datedsc") {
             results.sort((a, b) => {
               return b.id - a.id;
@@ -662,25 +726,25 @@
           }
         },
 
-        async testIt() {
-          console.log(now() + " testIt");
-          // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
-          const files = (await this.listMarkdownFiles());
-          await this.db.documents.clear();
-          await this.db.fragments.clear();
-          this.sync.total = files.length;
-          this.sync.completed = 0;
-          for (const file of files) {
-            this.sync.info = "Processing " + file.path;
-            const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
-            const text = await (await fetch(rawUrl)).text()
-            await this.processFile(file, text);
-            this.sync.completed++;
-          }
-          this.sync.info = "Refreshing data";
-          this.refreshData();
-          this.sync.info = null;
-        },
+        // async testIt() {
+        //   console.log(now() + " testIt");
+        //   // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
+        //   const files = (await this.listMarkdownFiles());
+        //   await this.db.documents.clear();
+        //   await this.db.fragments.clear();
+        //   this.sync.total = files.length;
+        //   this.sync.completed = 0;
+        //   for (const file of files) {
+        //     this.sync.info = "Processing " + file.path;
+        //     const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
+        //     const text = await (await fetch(rawUrl)).text()
+        //     await this.processFile(file, text);
+        //     this.sync.completed++;
+        //   }
+        //   this.sync.info = "Refreshing data";
+        //   this.refreshData();
+        //   this.sync.info = null;
+        // },
 
         extractKeywords(text) {
           return text.toLowerCase()
@@ -698,7 +762,7 @@
         async refreshData() {
           this.documents = await this.db.documents.toArray();
           this.fragments = await this.db.fragments.toArray();
-          this.qas = await this.db.qas.toArray();
+          // this.qas = await this.db.qas.toArray();
 
           // // Can use this to reduce the fields stored in MiniSearch
           // const documentIdIndex = this.documents.reduce((acc, record, index) => {
@@ -711,6 +775,17 @@
           //   return acc;
           // }, {});
           // console.log(now() + " refreshData - fragmentIdIndex: " + JSON.stringify(fragmentIdIndex, null, 2));
+          // await Vue.nextTick();
+
+          // Index all documents
+          console.log(now() + " refreshData - documents start: " + this.documents.length);
+          documentsMiniSearch = new MiniSearch({
+            fields: ['title', 'content'], // fields to index for full-text search
+            storeFields: ['filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
+            // storeFields: ['filename', 'date', 'title'] // fields to return with search results
+          });
+          documentsMiniSearch.addAll(this.documents);
+          console.log(now() + " refreshData - documents end: " + this.documents.length);
 
           // console.log(now() + " refreshData - qas: " + JSON.stringify(this.qas.slice(0, 5), null, 2));
           // const item = this.qas[0];
@@ -726,17 +801,7 @@
           fragmentsMiniSearch.addAll(this.fragments);
           console.log(now() + " refreshData - index end: " + this.fragments.length);
 
-          // Index all documents
-          // console.log(now() + " refreshData - documents start: " + this.documents.length);
-          // documentsMiniSearch = new MiniSearch({
-          //   fields: ['title', 'content'], // fields to index for full-text search
-          //   storeFields: ['filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
-          //   // storeFields: ['filename', 'date', 'title'] // fields to return with search results
-          // });
-          // documentsMiniSearch.addAll(this.documents);
-          // console.log(now() + " refreshData - documents end: " + this.documents.length);
-
-          await this.performKeywordSearchDebounced();
+          await this.applyFilter();
 
           // Word frequency - from search.brave.com
           // const importantWords = [];
@@ -852,32 +917,41 @@
         async performKeywordSearch() {
           clearTimeout(this.filterTimerId);
           this.filterTimerId = setTimeout(async () => {
-            await this.performKeywordSearchDebounced();
+            await this.applyFilter();
           }, 750);
         },
 
-        async performKeywordSearchDebounced() {
-          console.log(now() + " performKeywordSearchDebounced - settings.filter: '" + this.settings.filter + "'");
-          let fragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
+        async applyFilter() {
+          console.log(now() + " applyFilter - settings.filter: '" + this.settings.filter + "'");
+          if (this.settings.filter) {
+            this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
+            // console.log(now() + " applyFilter - filteredDocuments: " + JSON.stringify(this.filteredDocuments.slice(0, 10), null, 2));
+            this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
+          } else {
+            this.filteredDocuments = null;
+            this.filteredFragments = null;
+          }
+
+          // let fragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
           // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
           //   filter: (result) => result.type === 'heading'
           // });
-          // console.log(now() + " performKeywordSearchDebounced - fragments: " + JSON.stringify(fragments.slice(0, 10), null, 2));
-          this.filteredFragments = fragments.map(q => ({
-            id: q.id,
-            docId: q.docId,
-            date: q.date,
-            lineNumber: q.lineNumber,
-            headingLevel: q.headingLevel,
-            counters: q.counters,
-            type: q.type,
-            title: q.heading,
-            text: q.text,
-            score: q.score,
-            terms: q.terms,
-            queryTerms: q.queryTerms,
-            match: q.match
-          }));
+          // console.log(now() + " applyFilter - fragments: " + JSON.stringify(fragments.slice(0, 10), null, 2));
+          // this.filteredFragments = fragments.map(q => ({
+          //   id: q.id,
+          //   docId: q.docId,
+          //   date: q.date,
+          //   lineNumber: q.lineNumber,
+          //   headingLevel: q.headingLevel,
+          //   counters: q.counters,
+          //   type: q.type,
+          //   title: q.heading,
+          //   text: q.text,
+          //   score: q.score,
+          //   terms: q.terms,
+          //   queryTerms: q.queryTerms,
+          //   match: q.match
+          // }));
 
           // if (!this.settings.filter) return
           // const term = this.settings.filter.toLowerCase()
@@ -891,8 +965,9 @@
           //   ...docMatches.map(d => ({ type: 'document', date: d.date, title: d.title, id: d.id })),
           //   ...qaMatches.map(q => ({ type: 'qa', date: q.date, title: q.question, id: q.id }))
           // ]
+          this.documentsCurrentPage = 1
           this.fragmentsCurrentPage = 1
-          this.saveSettings();
+          this.saveSettings(); // TODO: May be run on startup
         },
 
         viewSearchItem(item) {
@@ -905,7 +980,7 @@
         },
 
         saveSettings() {
-          console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
+          // console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
           localStorage.searchQASettings = JSON.stringify(this.settings);
         },
       },
@@ -915,7 +990,7 @@
           const tempSettings = JSON.parse(localStorage.searchQASettings);
           if ('version' in tempSettings && tempSettings.version == this.settings.version) {
             this.settings = tempSettings;
-            console.log(now() + " mounted - this.settings: " + JSON.stringify(this.settings, null, 2));
+            // console.log(now() + " mounted - this.settings: " + JSON.stringify(this.settings, null, 2));
           }
         }
         await this.initDB()
