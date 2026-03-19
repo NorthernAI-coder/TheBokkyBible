@@ -850,7 +850,7 @@
 
         async performKeywordSearchDebounced() {
           console.log(now() + " performKeywordSearchDebounced - searchKeywords: " + this.searchKeywords);
-          let fragmentsResults = fragmentsMiniSearch.search(this.searchKeywords || MiniSearch.wildcard);
+          let fragmentsResults = fragmentsMiniSearch.search(this.searchKeywords || MiniSearch.wildcard, { fuzzy: 0.2 });
           // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
           //   filter: (result) => result.type === 'heading'
           // });
