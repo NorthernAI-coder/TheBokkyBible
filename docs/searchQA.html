@@ -54,18 +54,6 @@
           <v-tabs-window v-model="tab" class="ma-1 mt-3 pa-0">
             <!-- DOCUMENTS TAB -->
             <v-tabs-window-item value="documents" class="ma-1 pa-0">
-              <v-row justify="end" class="mb-4">
-                <v-col cols="auto">
-                  <v-btn-group>
-                    <v-btn @click="prevPage('docs')" :disabled="docsPage === 1" icon="mdi-chevron-left"></v-btn>
-                    <v-btn @click="nextPage('docs')" :disabled="docsPage >= docsTotalPages" icon="mdi-chevron-right"></v-btn>
-                  </v-btn-group>
-                </v-col>
-                <v-col cols="auto">
-                  <v-select v-model="docsPageSize" :items="pageSizes" label="Page size" density="compact" style="width:120px"></v-select>
-                </v-col>
-              </v-row>
-
               <v-data-table
                 :items="paginatedDocs"
                 :headers="docHeaders"
@@ -73,6 +61,59 @@
                 hide-default-footer
                 class="elevation-1"
               >
+                <template v-slot:top>
+                  <v-toolbar flat color="grey-lighten-4" density="compact">
+                    <v-text-field v-model="searchKeywords" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
+                    <v-spacer></v-spacer>
+                    <v-chip color="primary" variant="text">
+                      <!-- {{ searchResults.length }} / {{ documents.length }} -->
+                      {{ documents.length }}
+                    </v-chip>
+                    <v-spacer></v-spacer>
+                    <v-pagination
+                      v-model="docsPage"
+                      :length="Math.ceil((documents.length + 1) / docsPageSize)"
+                      total-visible="4"
+                      density="comfortable"
+                      show-first-last-page
+                      class="mr-8"
+                      color="primary"
+                    >
+                    </v-pagination>
+                    <v-select
+                      v-model="docsSortOption"
+                      :items="docsSortOptions"
+                      variant="plain"
+                      density="compact"
+                      class="mt-4 mr-2"
+                      style="max-width: 150px;"
+                    >
+                    </v-select>
+                  </v-toolbar>
+                </template>
+                <template v-slot:bottom>
+                  <v-toolbar flat color="grey-lighten-4" density="compact">
+                    <v-spacer></v-spacer>
+                    <v-pagination
+                      v-model="docsPage"
+                      :length="Math.ceil((documents.length + 1) / docsPageSize)"
+                      total-visible="4"
+                      density="comfortable"
+                      show-first-last-page
+                      class="mr-8"
+                      color="primary"
+                    >
+                    </v-pagination>
+                    <v-select
+                      v-model="docsPageSize"
+                      :items="pageSizes"
+                      variant="plain"
+                      density="compact"
+                      class="mt-4 mr-2"
+                      style="max-width: 70px;"
+                    ></v-select>
+                  </v-toolbar>
+                </template>
                 <template v-slot:item.title="{ item }">
                   <a href="#" @click.prevent="viewDocument(item)">{{ item.title }}</a>
                 </template>
@@ -99,81 +140,8 @@
               </v-data-table>
             </v-tabs-window-item>
 
-            <!-- QUESTIONS & ANSWERS TAB -->
-            <!-- <v-tabs-window-item value="qas" class="ma-1 pa-0">
-              <v-row justify="end" class="mb-4">
-                <v-col cols="auto">
-                  <v-btn-group>
-                    <v-btn @click="prevPage('qas')" :disabled="qasPage === 1" icon="mdi-chevron-left"></v-btn>
-                    <v-btn @click="nextPage('qas')" :disabled="qasPage >= qasTotalPages" icon="mdi-chevron-right"></v-btn>
-                  </v-btn-group>
-                </v-col>
-                <v-col cols="auto">
-                  <v-select v-model="qasPageSize" :items="pageSizes" label="Page size" density="compact" style="width:120px"></v-select>
-                </v-col>
-              </v-row>
-
-              <v-data-table
-                :items="paginatedQAs"
-                :headers="qaHeaders"
-                :items-per-page="-1"
-                hide-default-footer
-                class="elevation-1"
-              >
-                <template v-slot:item.question="{ item }">
-                  <a href="#" @click.prevent="viewQA(item)">{{ item.question.substring(0, 120) }}...</a>
-                </template>
-                <template v-slot:item.keywords="{ item }">
-                  <div class="d-flex flex-wrap">
-                    <v-chip
-                      v-for="(kw, i) in item.keywords.slice(0, 8)"
-                      :key="i"
-                      size="small"
-                      class="ma-1"
-                    >{{ kw }}</v-chip>
-                    <v-chip
-                      v-if="item.keywords.length > 8"
-                      size="small"
-                      class="ma-1"
-                      color="grey"
-                      @click="showAllKeywords(item)"
-                    >
-                      +{{ item.keywords.length - 8 }} more
-                    </v-chip>
-                  </div>
-                </template>
-              </v-data-table>
-            </v-tabs-window-item> -->
-
             <!-- KEYWORD SEARCH TAB -->
             <v-tabs-window-item value="keyword" class="ma-1 pa-0">
-              <!-- <v-toolbar flat color="transparent" density="compact">
-                <v-text-field v-model="searchKeywords" hide-details label="🔍" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
-                <v-spacer></v-spacer>
-                <v-chip color="primary" variant="text">
-                  {{ searchResults.length }} / {{ fragments.length }}
-                </v-chip>
-                <v-spacer></v-spacer>
-                <v-pagination
-                  v-model="searchPage"
-                  :length="Math.ceil((searchResults.length + 1) / searchPageSize)"
-                  total-visible="5"
-                  density="comfortable"
-                  show-first-last-page
-                  class="mr-4"
-                  color="primary"
-                >
-                </v-pagination>
-                <v-select
-                  v-model="searchPageSize"
-                  :items="pageSizes"
-                  variant="plain"
-                  density="compact"
-                  class="mt-4"
-                  style="max-width: 70px;"
-                ></v-select>
-              </v-toolbar> -->
-
               <v-data-table
                 :items="sortedPaginatedSearchResults"
                 :headers="searchHeaders"
@@ -184,7 +152,6 @@
               >
                 <template v-slot:top>
                   <v-toolbar flat color="grey-lighten-4" density="compact">
-                    <!-- <v-text-field v-model="searchKeywords" hide-details label="🔍" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field> -->
                     <v-text-field v-model="searchKeywords" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
                     <v-spacer></v-spacer>
                     <v-chip color="primary" variant="text">
@@ -252,6 +219,53 @@
                 </template>
               </v-data-table>
             </v-tabs-window-item>
+
+            <!-- QUESTIONS & ANSWERS TAB -->
+            <!-- <v-tabs-window-item value="qas" class="ma-1 pa-0">
+              <v-row justify="end" class="mb-4">
+                <v-col cols="auto">
+                  <v-btn-group>
+                    <v-btn @click="prevPage('qas')" :disabled="qasPage === 1" icon="mdi-chevron-left"></v-btn>
+                    <v-btn @click="nextPage('qas')" :disabled="qasPage >= qasTotalPages" icon="mdi-chevron-right"></v-btn>
+                  </v-btn-group>
+                </v-col>
+                <v-col cols="auto">
+                  <v-select v-model="qasPageSize" :items="pageSizes" label="Page size" density="compact" style="width:120px"></v-select>
+                </v-col>
+              </v-row>
+
+              <v-data-table
+                :items="paginatedQAs"
+                :headers="qaHeaders"
+                :items-per-page="-1"
+                hide-default-footer
+                class="elevation-1"
+              >
+                <template v-slot:item.question="{ item }">
+                  <a href="#" @click.prevent="viewQA(item)">{{ item.question.substring(0, 120) }}...</a>
+                </template>
+                <template v-slot:item.keywords="{ item }">
+                  <div class="d-flex flex-wrap">
+                    <v-chip
+                      v-for="(kw, i) in item.keywords.slice(0, 8)"
+                      :key="i"
+                      size="small"
+                      class="ma-1"
+                    >{{ kw }}</v-chip>
+                    <v-chip
+                      v-if="item.keywords.length > 8"
+                      size="small"
+                      class="ma-1"
+                      color="grey"
+                      @click="showAllKeywords(item)"
+                    >
+                      +{{ item.keywords.length - 8 }} more
+                    </v-chip>
+                  </div>
+                </template>
+              </v-data-table>
+            </v-tabs-window-item> -->
+
           </v-tabs-window>
         </v-container>
       </v-main>
@@ -353,16 +367,15 @@
     const app = createApp({
       data() {
         return {
-          tab: "keyword", // 'documents'
+          tab: "documents", // "keyword"
           db: null,
           documents: [],
           fragments: [],
           qas: [],
-          // documentsMiniSearch: null,
-          // fragmentsMiniSearch: null,
           searchResults: [],
+          docsSortOption: "datedsc",
           docsPage: 1,
-          docsPageSize: 25,
+          docsPageSize: 10,
           qasPage: 1,
           qasPageSize: 25,
           searchSortOption: "datedsc",
@@ -380,6 +393,12 @@
             { value: 100, title: "100" },
             { value: 500, title: "500" },
           ],
+          docsSortOptions: [
+            { value: "datedsc", title: "▼ Date" },
+            { value: "dateasc", title: "▲ Date" },
+            { value: "scoredsc", title: "▼ Score" },
+            { value: "scoreasc", title: "▲ Score" },
+          ],
           searchSortOptions: [
             { value: "datedsc", title: "▼ Date" },
             { value: "dateasc", title: "▲ Date" },
@@ -387,20 +406,20 @@
             { value: "scoreasc", title: "▲ Score" },
           ],
           docHeaders: [
-            { title: 'Date', key: 'date' },
-            { title: 'Title', key: 'title' },
-            { title: 'Keywords', key: 'keywords' }
-          ],
-          qaHeaders: [
-            { title: 'Date', key: 'date' },
-            { title: 'Question', key: 'question' },
-            { title: 'Keywords', key: 'keywords' }
+            { title: "Date", key: "date", sortable: false },
+            { title: "Title", key: "title", sortable: false },
+            { title: "Keywords", key: "keywords", sortable: false }
           ],
           searchHeaders: [
-            { title: 'Type', key: 'type', sortable: false },
-            { title: 'Date', key: 'date', sortable: false },
-            { title: 'Title', key: 'title', sortable: false }
+            { title: "Type", key: "type", sortable: false },
+            { title: "Date", key: "date", sortable: false },
+            { title: "Title", key: "title", sortable: false }
           ],
+          // qaHeaders: [
+          //   { title: "Date", key: "date" },
+          //   { title: "Question", key: "question" },
+          //   { title: "Keywords", key: "keywords" }
+          // ],
           sync: {
             info: null,
             completed: null,
@@ -694,19 +713,20 @@
             // storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading'] // fields to return with search results
           });
 
-          // Index all documents
+          // Index all fragments
           console.log(now() + " refreshData - index start: " + this.fragments.length);
           fragmentsMiniSearch.addAll(this.fragments);
           console.log(now() + " refreshData - index end: " + this.fragments.length);
 
-          console.log(now() + " refreshData - documents start: " + this.documents.length);
-          documentsMiniSearch = new MiniSearch({
-            fields: ['title', 'content'], // fields to index for full-text search
-            storeFields: ['filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
-            // storeFields: ['filename', 'date', 'title'] // fields to return with search results
-          });
-          documentsMiniSearch.addAll(this.documents);
-          console.log(now() + " refreshData - documents end: " + this.documents.length);
+          // Index all documents
+          // console.log(now() + " refreshData - documents start: " + this.documents.length);
+          // documentsMiniSearch = new MiniSearch({
+          //   fields: ['title', 'content'], // fields to index for full-text search
+          //   storeFields: ['filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
+          //   // storeFields: ['filename', 'date', 'title'] // fields to return with search results
+          // });
+          // documentsMiniSearch.addAll(this.documents);
+          // console.log(now() + " refreshData - documents end: " + this.documents.length);
 
           await this.performKeywordSearchDebounced();
 
@@ -830,16 +850,27 @@
 
         async performKeywordSearchDebounced() {
           console.log(now() + " performKeywordSearchDebounced - searchKeywords: " + this.searchKeywords);
-
-          // Search with default options
-          let results = fragmentsMiniSearch.search(this.searchKeywords || MiniSearch.wildcard);
-          // let results = fragmentsMiniSearch.search(MiniSearch.wildcard);
+          let fragmentsResults = fragmentsMiniSearch.search(this.searchKeywords || MiniSearch.wildcard);
           // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
           //   filter: (result) => result.type === 'heading'
           // });
-          // Does not work let results = fragmentsMiniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
-          console.log(now() + " performKeywordSearchDebounced - results: " + JSON.stringify(results.slice(0, 10), null, 2));
-          this.searchResults = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id, score: q.score, docId: q.docId, lineNumber: q.lineNumber, headingLevel: q.headingLevel, counters: q.counters, terms: q.terms, queryTerms: q.queryTerms, match: q.match }));
+          console.log(now() + " performKeywordSearchDebounced - fragmentsResults: " + JSON.stringify(fragmentsResults.slice(0, 10), null, 2));
+          this.searchResults = fragmentsResults.map(q => ({
+            id: q.id,
+            docId: q.docId,
+            date: q.date,
+            lineNumber: q.lineNumber,
+            headingLevel: q.headingLevel,
+            counters: q.counters,
+            type: q.type,
+            title: q.heading,
+            text: q.text,
+            score: q.score,
+            terms: q.terms,
+            queryTerms: q.queryTerms,
+            match: q.match
+          }));
+
           // if (!this.searchKeywords) return
           // const term = this.searchKeywords.toLowerCase()
           // const docMatches = await this.db.documents
@@ -864,16 +895,16 @@
           }
         },
 
-        prevPage(tab) {
-          if (tab === 'docs') this.docsPage = Math.max(1, this.docsPage - 1)
-          else if (tab === 'qas') this.qasPage = Math.max(1, this.qasPage - 1)
-          else this.searchPage = Math.max(1, this.searchPage - 1)
-        },
-        nextPage(tab) {
-          if (tab === 'docs') this.docsPage = Math.min(this.docsTotalPages, this.docsPage + 1)
-          else if (tab === 'qas') this.qasPage = Math.min(this.qasTotalPages, this.qasPage + 1)
-          else this.searchPage = Math.min(this.searchTotalPages, this.searchPage + 1)
-        }
+        // prevPage(tab) {
+        //   if (tab === 'docs') this.docsPage = Math.max(1, this.docsPage - 1)
+        //   else if (tab === 'qas') this.qasPage = Math.max(1, this.qasPage - 1)
+        //   else this.searchPage = Math.max(1, this.searchPage - 1)
+        // },
+        // nextPage(tab) {
+        //   if (tab === 'docs') this.docsPage = Math.min(this.docsTotalPages, this.docsPage + 1)
+        //   else if (tab === 'qas') this.qasPage = Math.min(this.qasTotalPages, this.qasPage + 1)
+        //   else this.searchPage = Math.min(this.searchTotalPages, this.searchPage + 1)
+        // }
       },
       async mounted() {
         await this.initDB()
