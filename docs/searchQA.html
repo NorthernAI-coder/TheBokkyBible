@@ -50,8 +50,19 @@
       <v-main>
         <v-container fluid class="ma-0 pa-0">
 
+          <v-alert
+            v-if="Object.keys(documents).length == 0"
+            closable
+            title="Info"
+            text="Click on the Refresh button above to retrieve the text files for search / display in this app"
+            type="info"
+            color="info"
+            class="mx-0 my-1"
+          >
+          </v-alert>
+
           <!-- <v-tabs-window v-model="tab" class="mt-2"> -->
-          <v-tabs-window v-model="settings.tab" class="ma-1 mt-3 pa-0">
+          <v-tabs-window v-if="Object.keys(documents).length > 0" v-model="settings.tab" class="ma-1 mt-3 pa-0">
             <!-- DOCUMENTS TAB -->
             <v-tabs-window-item value="documents" class="ma-1 pa-0">
               <v-data-table
@@ -317,12 +328,12 @@
       </v-dialog>
 
       <v-footer app border dark class="pa-0">
-        <v-btn href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" color="primary" variant="plain" class="text-none">The Bokky Bible v0.95</v-btn>
+        <v-btn href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" color="primary" variant="plain" class="text-none" density="compact">The Bokky Bible v0.95</v-btn>
         <v-spacer></v-spacer>
         <span class="mt-0">Co-created by</span>
-        <v-btn href="https://x.com/BokkyPooBah" target="_blank" color="primary" variant="plain" class="text-none">BokkyPooBah</v-btn>
+        <v-btn href="https://x.com/BokkyPooBah" target="_blank" color="primary" variant="plain" class="text-none pa-1" density="compact">BokkyPooBah</v-btn>
         <span class="mt-0">and</span>
-        <v-btn href="https://x.com/grok/" target="_blank" color="primary" variant="plain" class="text-none">Grok AI</v-btn>
+        <v-btn href="https://x.com/grok/" target="_blank" color="primary" variant="plain" class="text-none pa-1 pr-3" density="compact">Grok AI</v-btn>
         <!-- <v-spacer></v-spacer> -->
         <!-- <span>Powered by Vuetify • Index updated: {{ lastUpdated }}</span> -->
       </v-footer>
