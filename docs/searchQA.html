@@ -71,7 +71,7 @@
                     </v-chip>
                     <v-spacer></v-spacer>
                     <v-pagination
-                      v-model="settings.documents.currentPage"
+                      v-model="documentsCurrentPage"
                       @update:model-value="saveSettings();"
                       :length="Math.ceil((documents.length + 1) / settings.documents.pageSize)"
                       total-visible="4"
@@ -97,7 +97,7 @@
                   <v-toolbar flat color="grey-lighten-4" density="compact">
                     <v-spacer></v-spacer>
                     <v-pagination
-                      v-model="settings.documents.currentPage"
+                      v-model="documentsCurrentPage"
                       @update:model-value="saveSettings();"
                       :length="Math.ceil((documents.length + 1) / settings.documents.pageSize)"
                       total-visible="4"
@@ -163,7 +163,7 @@
                     </v-chip>
                     <v-spacer></v-spacer>
                     <v-pagination
-                      v-model="settings.fragments.currentPage"
+                      v-model="fragmentsCurrentPage"
                       @update:model-value="saveSettings();"
                       :length="Math.ceil((searchResults.length + 1) / settings.fragments.pageSize)"
                       total-visible="4"
@@ -189,7 +189,7 @@
                   <v-toolbar flat color="grey-lighten-4" density="compact">
                     <v-spacer></v-spacer>
                     <v-pagination
-                      v-model="settings.fragments.currentPage"
+                      v-model="fragmentsCurrentPage"
                       @update:model-value="saveSettings();"
                       :length="Math.ceil((searchResults.length + 1) / settings.fragments.pageSize)"
                       total-visible="4"
@@ -212,7 +212,7 @@
                 </template>
                 <template v-slot:item.type="{ index, item }">
                   <v-chip color="primary" variant="plain" size="small">
-                    {{ (settings.fragments.currentPage - 1) * settings.fragments.pageSize + index + 1 }}
+                    {{ (fragmentsCurrentPage - 1) * settings.fragments.pageSize + index + 1 }}
                   </v-chip>
                   <br />
                   <v-chip :color="item.type === 'document' ? 'blue' : 'green'" size="small" class="mt-3">{{ item.type }}</v-chip>
@@ -384,17 +384,17 @@
             tab: "documents", // "keyword"
             filter: null,
             documents: {
-              currentPage: 1,
               pageSize: 10,
               sortOption: "datedsc",
             },
             fragments: {
-              currentPage: 1,
               pageSize: 25,
               sortOption: "datedsc",
             },
-            version: 1,
+            version: 2,
           },
+          documentsCurrentPage: 1,
+          fragmentsCurrentPage: 1,
           searchResults: [],
           filterTimerId: null,
           viewerDialog: false,
@@ -444,7 +444,7 @@
       },
       computed: {
         paginatedDocs() {
-          const start = (this.settings.documents.currentPage - 1) * this.settings.documents.pageSize;
+          const start = (this.documentsCurrentPage - 1) * this.settings.documents.pageSize;
           return this.documents.slice(start, start + this.settings.documents.pageSize);
         },
         docsTotalPages() {
@@ -479,7 +479,7 @@
           return this.searchResults;
         },
         sortedPaginatedSearchResults() {
-          const start = (this.settings.fragments.currentPage - 1) * this.settings.fragments.pageSize;
+          const start = (this.fragmentsCurrentPage - 1) * this.settings.fragments.pageSize;
           const results = this.sortedSearchResults.slice(start, start + this.settings.fragments.pageSize);
           // console.log(now() + " sortedPaginatedSearchResults - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
@@ -890,7 +890,7 @@
           //   ...docMatches.map(d => ({ type: 'document', date: d.date, title: d.title, id: d.id })),
           //   ...qaMatches.map(q => ({ type: 'qa', date: q.date, title: q.question, id: q.id }))
           // ]
-          this.settings.fragments.currentPage = 1
+          this.fragmentsCurrentPage = 1
           this.saveSettings();
         },
 
@@ -914,8 +914,6 @@
           const tempSettings = JSON.parse(localStorage.searchQASettings);
           if ('version' in tempSettings && tempSettings.version == this.settings.version) {
             this.settings = tempSettings;
-            this.settings.documents.currentPage = 1;
-            this.settings.fragments.currentPage = 1;
             console.log(now() + " mounted - this.settings: " + JSON.stringify(this.settings, null, 2));
           }
         }
