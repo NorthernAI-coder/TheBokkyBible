@@ -154,15 +154,15 @@ Ready to commit whenever — what's resonating? 😺🔥🚀
 
 ### My favourite is Cat #473, for it's rare Rainbow Fart attribute (only 1 in the collection). I created these pieces in early 2018: 1. Princess Leia Peach's Rainbow Atmospheric Escape; 2. Princess Leia Peach's Lunar Landing; 3. Princess Leia Peach's Mars Rainbow Slingshot; 4. Princess Leia Peach Expels A Rainbow Big Bang (more pics coming)
 
-<kbd><img src="images/PrincessLeiaPeach'sRainbowAtmosphericEscape.png" width="400" /></kbd>  
+<kbd><img src="images/PrincessLeiaPeachsRainbowAtmosphericEscape.png" width="400" /></kbd>  
 
 > Princess Leia Peach's Rainbow Atmospheric Escape, Jan 2018
 
-<kbd><img src="images/PrincessLeiaPeach'sRainbowLunaLanding.png" width="400" /></kbd>  
+<kbd><img src="images/PrincessLeiaPeachsRainbowLunaLanding.png" width="400" /></kbd>  
 
 > Princess Leia Peach's Lunar Landing, Jan 2018
 
-<kbd><img src="images/PrincessLeiaPeach'sMarsRainbowSlingshot.png" width="400" /></kbd>  
+<kbd><img src="images/PrincessLeiaPeachsMarsRainbowSlingshot.png" width="400" /></kbd>  
 
 > Princess Leia Peach's Mars Rainbow Slingshot, Feb 2018
 
