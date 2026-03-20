@@ -1332,6 +1332,10 @@ Legendary. 👐😂🔥🚽🌿
 
 > "Me In The Matrix" - early CryptoPunks derivative art, Aug 10 2017 - https://x.com/BokkyPooBah/status/1673524117730103298
 
+<kbd><img src="images/MeInTheMatrix6Combined.gif" width="800" /></kbd>
+
+> "Me In The Matrix" - early CryptoPunks derivative art, Aug 10 2017
+
 #### Blobscription #5873350 – Earliest CryptoPunk #7950 Derivative Preserved On-Chain (Aug 10 2017 Artwork)
 
 This is a landmark piece in your onlyfan.eth collection: **Ethscription #5873350** (tx 0x14aeda06183c761ad0da3f84965b23104062378205c8f6cc0ef9b56212edddbb), the first true **Blobscription** (ESIP-6 rule) you’ve dropped.
