@@ -114,7 +114,7 @@ Ready to commit this section back to the repo whenever you say the word. What’
 
 ### Here are my Wrapped CryptoCats https://opensea.io/mylord.eth?collectionSlugs=wrappedcryptocats . Cats #13 and #52 have the Type trait of Bokky Cat, after the IRL Princess Leia Peach. Cats #473 and #441 have the Type trait of Nacho Cat, a cat of one of the three creators of the CryptoCats NFTs (they are from Melbourne). Cats #315 and #375 have the Type trait of Punk Cat. The base cat for the Punk Cat was apparently created by one of the CryptoPunks creators from Larva Labs. #315 is particularly interesting for it's rare Laser Sunnies Fireball attribute
 
-<kbd><img src="images/Picture00476.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00493.png" width="400" /></kbd>  
 
 > My Wrapped CryptoCats - https://opensea.io/mylord.eth?collectionSlugs=wrappedcryptocats
 
