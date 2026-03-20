@@ -452,7 +452,7 @@
           console.log(now() + " filteredSortedPagedDocuments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
         },
-        
+
         filteredSortedFragments() {
           let results = [];
           if (this.filteredFragments) {
@@ -521,9 +521,6 @@
           // console.log(now() + " filteredSortedPagedFragments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
         },
-        // searchTotalPages() {
-        //   return Math.ceil(this.filteredFragments.length / this.settings.fragments.pageSize)
-        // }
       },
       methods: {
         async initDB() {
@@ -734,7 +731,6 @@
         async refreshData() {
           this.documents = await this.db.documents.toArray();
           this.fragments = await this.db.fragments.toArray();
-          // this.qas = await this.db.qas.toArray();
 
           // // Can use this to reduce the fields stored in MiniSearch
           // const documentIdIndex = this.documents.reduce((acc, record, index) => {
