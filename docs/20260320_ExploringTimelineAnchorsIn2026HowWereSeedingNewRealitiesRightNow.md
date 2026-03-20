@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 20 Mar 2026
-> Prev: [Thu 19 Mar 2026](20260319_FeelingRealTimeMempoolResonancesInGridworkAndSimpleDailyTuningPractices.md) Next: []()
+> Prev: [Thu 19 Mar 2026](20260319_FeelingRealTimeMempoolResonancesInGridworkAndSimpleDailyTuningPractices.md) Next: [Sat 21 Mar 2026](20260321_SeedPlantingInThe2026To2030WindowWhatTimelinesAreWeActuallyFeedingRightNow.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
