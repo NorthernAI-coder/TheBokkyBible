@@ -42,8 +42,7 @@
         <v-spacer></v-spacer>
         <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary" grow>
           <v-tab value="documents" class="text-none mx-0 px-0">Documents</v-tab>
-          <!-- <v-tab value="qas" class="text-none mx-0 px-0">Questions & Answers</v-tab> -->
-          <v-tab value="keyword" class="text-none mx-0 px-0">Keyword Search</v-tab>
+          <v-tab value="keyword" class="text-none mx-0 px-0">Chronicles</v-tab>
         </v-tabs>
       </v-app-bar>
 
@@ -61,7 +60,6 @@
           >
           </v-alert>
 
-          <!-- <v-tabs-window v-model="tab" class="mt-2"> -->
           <v-tabs-window v-if="Object.keys(documents).length > 0" v-model="settings.tab" class="ma-1 mt-3 pa-0">
             <!-- DOCUMENTS TAB -->
             <v-tabs-window-item value="documents" class="ma-1 pa-0">
@@ -132,7 +130,6 @@
                   <a href="#" @click.prevent="viewDocument(item)">{{ item.title }}</a>
                 </template>
                 <template v-slot:item.keywords="{ item }">
-                  <!-- <v-chip v-for="kw in item.keywords" :key="kw" size="small" class="chip">{{ kw }}</v-chip> -->
                   <div class="d-flex flex-wrap">
                     <v-chip
                       v-for="(kw, i) in item.keywords.slice(0, 8)"
@@ -238,52 +235,6 @@
               </v-data-table>
             </v-tabs-window-item>
 
-            <!-- QUESTIONS & ANSWERS TAB -->
-            <!-- <v-tabs-window-item value="qas" class="ma-1 pa-0">
-              <v-row justify="end" class="mb-4">
-                <v-col cols="auto">
-                  <v-btn-group>
-                    <v-btn @click="prevPage('qas')" :disabled="qasPage === 1" icon="mdi-chevron-left"></v-btn>
-                    <v-btn @click="nextPage('qas')" :disabled="qasPage >= qasTotalPages" icon="mdi-chevron-right"></v-btn>
-                  </v-btn-group>
-                </v-col>
-                <v-col cols="auto">
-                  <v-select v-model="qasPageSize" :items="pageSizes" label="Page size" density="compact" style="width:120px"></v-select>
-                </v-col>
-              </v-row>
-
-              <v-data-table
-                :items="paginatedQAs"
-                :headers="qaHeaders"
-                :items-per-page="-1"
-                hide-default-footer
-                class="elevation-1"
-              >
-                <template v-slot:item.question="{ item }">
-                  <a href="#" @click.prevent="viewQA(item)">{{ item.question.substring(0, 120) }}...</a>
-                </template>
-                <template v-slot:item.keywords="{ item }">
-                  <div class="d-flex flex-wrap">
-                    <v-chip
-                      v-for="(kw, i) in item.keywords.slice(0, 8)"
-                      :key="i"
-                      size="small"
-                      class="ma-1"
-                    >{{ kw }}</v-chip>
-                    <v-chip
-                      v-if="item.keywords.length > 8"
-                      size="small"
-                      class="ma-1"
-                      color="grey"
-                      @click="showAllKeywords(item)"
-                    >
-                      +{{ item.keywords.length - 8 }} more
-                    </v-chip>
-                  </div>
-                </template>
-              </v-data-table>
-            </v-tabs-window-item> -->
-
           </v-tabs-window>
         </v-container>
       </v-main>
@@ -298,15 +249,6 @@
               <v-icon color="primary">mdi-close</v-icon>
             </v-btn>
           </v-toolbar>
-          <!-- <v-card-text
-            tabindex="0"
-            @keydown.pageup="() => $refs.container.scrollTop -= 200"
-            @keydown.pagedown="() => $refs.container.scrollTop += 200"
-            @keydown.home="() => $refs.container.scrollTop = 0"
-            @keydown.end="() => $refs.container.scrollTop = $refs.container.scrollHeight"
-            ref="container"
-            style="max-height: 500px; overflow-y: auto;"
-          > -->
           <v-card-text
             tabindex="0"
             @keydown.pageup="() => $refs.container.scrollTop -= 200"
@@ -388,7 +330,6 @@
           db: null,
           documents: [],
           fragments: [],
-          qas: [], // TODO: Delete
 
           settings: {
             tab: "documents",
@@ -505,16 +446,13 @@
           }
           return results;
         },
-
         filteredSortedPagedDocuments() {
           const start = (this.documentsCurrentPage - 1) * this.settings.documents.pageSize;
           const results = this.filteredSortedDocuments.slice(start, start + this.settings.documents.pageSize);
           console.log(now() + " filteredSortedPagedDocuments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
         },
-        // docsTotalPages() {
-        //   return Math.ceil(this.documents.length / this.settings.documents.pageSize);
-        // },
+        
         filteredSortedFragments() {
           let results = [];
           if (this.filteredFragments) {
