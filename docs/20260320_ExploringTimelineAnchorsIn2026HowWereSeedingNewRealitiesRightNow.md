@@ -1332,7 +1332,7 @@ Legendary. 👐😂🔥🚽🌿
 
 > "Me In The Matrix" - early CryptoPunks derivative art, Aug 10 2017 - https://x.com/BokkyPooBah/status/1673524117730103298
 
-<kbd><img src="images/MeInTheMatrix6Combined.gif" width="800" /></kbd>
+<kbd><img src="images/MeInTheMatrix6Combined.gif" width="400" /></kbd>
 
 > "Me In The Matrix" - early CryptoPunks derivative art, Aug 10 2017
 
