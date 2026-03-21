@@ -18,8 +18,16 @@
     #app { height: 100vh; }
     .file-link { color: #1976d2; text-decoration: none; }
     .file-link:hover { text-decoration: underline; }
-    .markdown-content { line-height: 1.6; }
-    .markdown-content h1, .markdown-content h2, .markdown-content h3 { margin-top: 1.5em; }
+    /* .markdown-content { line-height: 1.6; }
+    .markdown-content h1, .markdown-content h2, .markdown-content h3 { margin-top: 1.5em; } */
+    .markdown-content {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+      line-height: 1.6;
+    }
     .v-window-item { padding: 16px; }
     .chip { margin: 2px; }
   </style>
