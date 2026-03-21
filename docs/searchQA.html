@@ -449,7 +449,7 @@
         filteredSortedPagedDocuments() {
           const start = (this.documentsCurrentPage - 1) * this.settings.documents.pageSize;
           const results = this.filteredSortedDocuments.slice(start, start + this.settings.documents.pageSize);
-          console.log(now() + " filteredSortedPagedDocuments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
+          // console.log(now() + " filteredSortedPagedDocuments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
         },
 
@@ -832,6 +832,7 @@
           this.viewerHtml = marked.parse(safeContent);
           this.viewerDialog = true;
           await Vue.nextTick();
+          // await this.scrollToHash("#httpsyoutubeiq0xjcj1srw-nat-king-cole-nature-boy-am-i-a-nature-boy");
           // External links in new tab
           // document.querySelectorAll('#modal-body a[href^="http"]').forEach(a => {
           //   a.target = '_blank';
@@ -841,7 +842,7 @@
           // // Inside your Vue component (e.g., using <script setup>)
           document.querySelectorAll('#modal-body a').forEach(a => {
             const href = a.getAttribute('href');
-            console.log(now() + " viewDocument - a: " + JSON.stringify(a) + ", href: " + JSON.stringify(href));
+            // console.log(now() + " viewDocument - a: " + JSON.stringify(a) + ", href: " + JSON.stringify(href));
 
             if (href) {
               if (href.startsWith("http")) {
@@ -851,7 +852,7 @@
                 a.addEventListener('click', (event) => {
                   event.preventDefault();
                   // Execute your Vuetify/Vue function
-                  console.log(now() + " viewDocument - Custom Vuetify function triggered for:" + href);
+                  // console.log(now() + " viewDocument - Custom Vuetify function triggered for:" + href);
                   // Example: navigate or emit event
                   // router.push('/some-route') or emit('custom-event', href)
                 });
@@ -939,12 +940,25 @@
           this.saveSettings(); // TODO: May be run on startup
         },
 
-        viewSearchItem(item) {
+        async viewSearchItem(item) {
           if (item.type === 'document') {
             this.db.documents.get(item.id).then(doc => this.viewDocument(doc))
           } else {
             // this.db.qas.get(item.id).then(qa => this.viewQA(qa))
             this.db.fragments.get(item.id).then(fragment => this.viewQA(fragment))
+          }
+        },
+
+        async scrollToHash(hash) {
+          console.log(now() + " scrollToHash hash: " + hash);
+          await Vue.nextTick();
+
+          const el = document.querySelector(hash);
+          if (el) {
+            el.scrollIntoView({
+              behavior: 'smooth',
+              block:    'start'     // or 'center', 'nearest'
+            });
           }
         },
 
