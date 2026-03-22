@@ -899,15 +899,15 @@
                 });
               }
             }
-            // if (href && !href.startsWith('http') && !href.startsWith('#')) {
-            //   a.addEventListener('click', (event) => {
-            //     event.preventDefault();
-            //     // Execute your Vuetify/Vue function
-            //     console.log('Custom Vuetify function triggered for:', href);
-            //     // Example: navigate or emit event
-            //     // router.push('/some-route') or emit('custom-event', href)
-            //   });
-            // }
+            if (href && !href.startsWith('http') && !href.startsWith('#')) {
+              a.addEventListener('click', (event) => {
+                event.preventDefault();
+                // Execute your Vuetify/Vue function
+                console.log(now() + " viewDocument - Custom Vuetify function triggered for: " + href);
+                // Example: navigate or emit event
+                // router.push('/some-route') or emit('custom-event', href)
+              });
+            }
           });
 
         },
