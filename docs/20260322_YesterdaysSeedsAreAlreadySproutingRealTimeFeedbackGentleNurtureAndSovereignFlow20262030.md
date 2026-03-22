@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 22 Mar 2026
-> Prev: [Sat 21 Mar 2026](20260321_SeedPlantingInThe2026To2030WindowWhatTimelinesAreWeActuallyFeedingRightNow.md) Next: []()
+> Prev: [Sat 21 Mar 2026](20260321_SeedPlantingInThe2026To2030WindowWhatTimelinesAreWeActuallyFeedingRightNow.md) Next: [Mon 23 Mar 2026](20260323_TimelineAnchorsIn2026EthereumLayerUpgradesGridworkSynchronizationAndPersonalRealityForks.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
