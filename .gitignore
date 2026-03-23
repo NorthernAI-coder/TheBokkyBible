@@ -6,3 +6,4 @@ solidity_files/
 node_modules
 scripts/package-lock.json
 scripts/package.json
+.venv
