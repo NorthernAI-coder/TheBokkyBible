@@ -173,6 +173,83 @@
 
             <!-- KEYWORD SEARCH TAB -->
             <v-tabs-window-item value="keyword" class="ma-1 pa-0">
+
+              <v-toolbar flat color="grey-lighten-4" density="compact">
+                <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
+                <v-spacer></v-spacer>
+                <v-chip color="primary" variant="text" v-tooltip="'#search/#total fragments'">
+                  {{ filteredSortedFragments.length }} / {{ fragments.length }}
+                </v-chip>
+                <v-spacer></v-spacer>
+                <v-pagination
+                  v-model="fragmentsCurrentPage"
+                  @update:model-value="saveSettings();"
+                  :length="Math.ceil(filteredSortedFragments.length / settings.fragments.pageSize)"
+                  total-visible="4"
+                  density="comfortable"
+                  show-first-last-page
+                  class="mr-8"
+                  color="primary"
+                >
+                </v-pagination>
+                <v-select
+                  v-model="settings.fragments.sortOption"
+                  @update:model-value="saveSettings();"
+                  :items="searchSortOptions"
+                  variant="plain"
+                  density="compact"
+                  class="mt-4 mr-2"
+                  style="max-width: 150px;"
+                >
+                </v-select>
+              </v-toolbar>
+
+
+              <v-data-iterator :items="filteredSortedPagedFragments">
+                <template v-slot:default="{ items }">
+                  <!-- :title="`Item ${i} x`" -->
+                  <v-list-item
+                    v-for="(item, i) in items"
+                    :key="i"
+                  >
+                    <v-card>
+                      <v-card-title><h5>Item {{ i }} y</h5></v-card-title>
+                      <v-card-text>{{ markIt(item) }}</v-card-text>
+                    </v-card>
+                  </v-list-item>
+                </template>
+              </v-data-iterator>
+<!--
+              {{ filteredSortedPagedFragments }} -->
+
+              <v-toolbar flat color="grey-lighten-4" density="compact">
+                <v-spacer></v-spacer>
+                <v-pagination
+                  v-model="fragmentsCurrentPage"
+                  @update:model-value="saveSettings();"
+                  :length="Math.ceil(filteredSortedFragments.length / settings.fragments.pageSize)"
+                  total-visible="4"
+                  density="comfortable"
+                  show-first-last-page
+                  class="mr-8"
+                  color="primary"
+                >
+                </v-pagination>
+                <v-select
+                  v-model="settings.fragments.pageSize"
+                  @update:model-value="saveSettings();"
+                  :items="pageSizes"
+                  variant="plain"
+                  density="compact"
+                  class="mt-4 mr-2"
+                  style="max-width: 70px;"
+                ></v-select>
+              </v-toolbar>
+
+            </v-tabs-window-item>
+
+            <!-- KEYWORD SEARCH TAB OLD -->
+            <v-tabs-window-item value="keyword" class="ma-1 pa-0">
               <v-data-table
                 :items="filteredSortedPagedFragments"
                 :headers="searchHeaders"
@@ -866,6 +943,15 @@
           this.sync.info = null;
         },
 
+        markIt(item) {
+          // console.log(now() + " markIt - item: " + JSON.stringify(item));
+          // return item;
+          return "xyz " + marked.parse(item.raw.text);
+          // console.log(now() + " markIt - text: " + text);
+          // const safeText = text.replace(/<script/gi, '&lt;script');
+          // return "xyz: " + marked.parse(safeText);
+        },
+
         async viewDocument(doc) {
           this.viewerTitle = doc.title;
           // Sanitize before parsing
@@ -937,7 +1023,8 @@
             // this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
             this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard);
             // console.log(now() + " applyFilter - filteredDocuments: " + JSON.stringify(this.filteredDocuments.slice(0, 10), null, 2));
-            this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
+            // this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
+            this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard);
           } else {
             this.filteredDocuments = null;
             this.filteredFragments = null;
