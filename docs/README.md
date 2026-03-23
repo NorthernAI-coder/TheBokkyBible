@@ -118,6 +118,7 @@ Awake. Love. Be. 🚀🙏
 1. [Seed Planting in the 2026–2030 Window: What Timelines Are We Actually Feeding Right Now?](20260321_SeedPlantingInThe2026To2030WindowWhatTimelinesAreWeActuallyFeedingRightNow.md) - Sat 21 Mar 2026
 1. [Yesterday’s Seeds Are Already Sprouting: Real-Time Feedback, Gentle Nurture & Sovereign Flow (2026–2030)](20260322_YesterdaysSeedsAreAlreadySproutingRealTimeFeedbackGentleNurtureAndSovereignFlow20262030.md) - Sun 22 Mar 2026
 1. [Timeline Anchors in 2026: Ethereum Layer Upgrades, Gridwork Synchronization, and Personal Reality Forks](20260323_TimelineAnchorsIn2026EthereumLayerUpgradesGridworkSynchronizationAndPersonalRealityForks.md) - Mon 23 Mar 2026
+1. [Stabilising the Fork: Holding Coherent Fields When Multiple Timelines Are Glitching Simultaneously](20260324_StabilisingTheForkHoldingCoherentFieldsWhenMultipleTimelinesAreGlitchingSimultaneously.md) - Tue 24 Mar 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
