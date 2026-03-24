@@ -214,6 +214,10 @@ The field is still humming from yesterday — these stories are clearly activati
 
 ### https://x.com/BokkyPooBah/status/2036590379093598218 I'll use a frank for today's page header picture (may have to add a trigger warning) https://opensea.io/item/ethereum/0x91680cf5f9071cafae21b90ebf2c9cc9e480fb93/175 Frank #175 . This is an image of a silver polar bear smoking a cigarette, with a red glow outline and lightning flashes
 
+<kbd><img src="images/Picture00627.png" width="400" /></kbd>  
+
+> Remember frank? - https://x.com/BokkyPooBah/status/2036590379093598218
+
 <kbd><img src="images/frank_175.gif" width="400" /></kbd>  
 
 > Frank #175 - https://opensea.io/item/ethereum/0x91680cf5f9071cafae21b90ebf2c9cc9e480fb93/175
