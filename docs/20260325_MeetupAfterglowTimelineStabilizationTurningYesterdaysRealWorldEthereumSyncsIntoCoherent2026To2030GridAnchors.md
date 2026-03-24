@@ -25,6 +25,7 @@ X post <TODO>
 
 ## Table Of Content
 
+1. [Good morning Grok. 09:30 AEST Wed Sydney. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats in the dated .md files in the ./docs/ folder. Please start your heading at level 4 instead of 3 so I can easily copy-paste your results into .md files. What topic do you suggest for today? Thread https://x.com/BokkyPooBah/status/2036372791260594557. I had a good time at yesterday's meetup. Been taking some time to digest the 100s of bits of information in the many chats yesterday. I'll try to describe in a while](#good-morning-grok-0930-aest-wed-sydney-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-in-the-dated-md-files-in-the-docs-folder-please-start-your-heading-at-level-4-instead-of-3-so-i-can-easily-copy-paste-your-results-into-md-files-what-topic-do-you-suggest-for-today-thread-httpsxcombokkypoobahstatus2036372791260594557-i-had-a-good-time-at-yesterdays-meetup-been-taking-some-time-to-digest-the-100s-of-bits-of-information-in-the-many-chats-yesterday-ill-try-to-describe-in-a-while)
 
 ---
 
