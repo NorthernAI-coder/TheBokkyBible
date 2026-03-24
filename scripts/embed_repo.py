@@ -122,6 +122,11 @@ def main():
     kv_path = args.output_dir / "repo_word2vec.kv"
     model.wv.save_word2vec_format(str(kv_path), binary=False)   # text format = safe
 
+    # # 1.5 Optional: print top words for quick sanity check
+    # print("\nTop 50 most frequent words in the embedding:")
+    # for word, vocab in list(model.wv.key_to_index.items())[:50]:
+    #     print(f"  {word}: {model.wv.get_vecattr(word, 'count')}")
+
     # 2. Use the official converter (now works with text format)
     from gensim.scripts.word2vec2tensor import word2vec2tensor
 
