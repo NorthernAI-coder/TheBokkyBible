@@ -89,19 +89,37 @@ def main():
     # 3. Export in exact format your projector expects
     print("Exporting to repo_metadata.tsv + repo_tensor.tsv...")
 
-    # metadata.tsv: one label per line (readable in projector)
+    # # metadata.tsv: one label per line (readable in projector)
+    # with open(args.output_dir / "repo_metadata.tsv", "w", encoding="utf-8") as f:
+    #     for md_path, sent in sentence_pairs:
+    #         clean_sent = sent[:150].replace('\n', ' ')
+    #         label = f"{md_path.name}: {clean_sent}"
+    #         f.write(label + "\n")
+
+    # # metadata.tsv: content-first (cleaner for exploration)
+    # with open(args.output_dir / "repo_metadata.tsv", "w", encoding="utf-8") as f:
+    #     for md_path, sent in sentence_pairs:
+    #         clean_sent = sent[:140].replace('\n', ' ').strip()
+    #         label = clean_sent if len(clean_sent) > 20 else f"{md_path.name}: {clean_sent}"
+    #         f.write(label + "\n")
+
+    # metadata.tsv: clean and readable (best of both worlds)
     with open(args.output_dir / "repo_metadata.tsv", "w", encoding="utf-8") as f:
         for md_path, sent in sentence_pairs:
-            clean_sent = sent[:150].replace('\n', ' ')
-            label = f"{md_path.name}: {clean_sent}"
+            clean_sent = sent[:130].replace('\n', ' ').strip()
+            # Only show filename if the sentence is very short
+            if len(clean_sent) < 30:
+                label = f"{md_path.name}: {clean_sent}"
+            else:
+                label = clean_sent
             f.write(label + "\n")
-
+            
     # repo_tensor.tsv: one vector per line (384 floats, tab-separated)
     with open(args.output_dir / "repo_tensor.tsv", "w", encoding="utf-8") as f:
         for vec in embeddings:
             line = "\t".join(f"{x:.6f}" for x in vec)
             f.write(line + "\n")
-            
+
     print(f"Done! Files created in {args.output_dir}/")
     print("   repo_metadata.tsv")
     print("   repo_tensor.tsv")

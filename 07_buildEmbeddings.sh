@@ -2,33 +2,28 @@
 #
 # 07_buildEmbeddings.sh
 # Usage: ./07_buildEmbeddings.sh [options...]
-#        ./07_buildEmbeddings.sh --corpus-dir docs/ --output-dir projector_data/
-#
-# One-time setup (run once):
-#   python3 -m venv .venv
-#   source .venv/bin/activate
-#   pip install --upgrade pip
-#   pip install sentence-transformers nltk markdown beautifulsoup4
 
 set -euo pipefail
+
+# SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 
 REPO_ROOT="$(pwd)"
 echo "REPO_ROOT: $REPO_ROOT"
 
-# echo "$(dirname "${BASH_SOURCE[0]}")"
-#
 SCRIPT_DIR="$REPO_ROOT/scripts"
 echo "SCRIPT_DIR: $SCRIPT_DIR"
-
-# # REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-# echo "REPO_ROOT: $REPO_ROOT"
 
 VENV="$REPO_ROOT/.venv"
 if [[ -d "$VENV" ]]; then
     source "$VENV/bin/activate"
 else
     echo "Virtualenv not found at $VENV"
-    echo "Please run: python3 -m venv .venv && source .venv/bin/activate && pip install gensim nltk markdown beautifulsoup4"
+    echo "Please run:"
+    echo "  python3 -m venv .venv"
+    echo "  source .venv/bin/activate"
+    echo "  pip install --upgrade pip"
+    echo "  pip install sentence-transformers nltk markdown beautifulsoup4"
     exit 1
 fi
 
@@ -51,11 +46,12 @@ echo "  Output: $OUTPUT_DIR"
 
 python "$SCRIPT_DIR/embed_repo.py" \
     --corpus-dir "$CORPUS_DIR" \
-    --output-dir "$OUTPUT_DIR" \
-    --vector-size 200 \
-    --min-count 3 \
-    --epochs 15
+    --output-dir "$OUTPUT_DIR"
 
 echo ""
-echo "Build complete. Commit projector_data/ to repo if you want versioned snapshots."
-echo "Tip: add projector_data/ to .gitignore if you prefer regenerating fresh each time."
+echo "Build complete."
+echo "Files created in $OUTPUT_DIR:"
+echo "  - repo_metadata.tsv"
+echo "  - repo_tensor.tsv"
+echo ""
+echo "Load both into https://projector.tensorflow.org/"
