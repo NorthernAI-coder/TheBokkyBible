@@ -8,7 +8,7 @@
 #   python3 -m venv .venv
 #   source .venv/bin/activate
 #   pip install --upgrade pip
-#   pip install gensim nltk markdown beautifulsoup4
+#   pip install sentence-transformers nltk markdown beautifulsoup4
 
 set -euo pipefail
 

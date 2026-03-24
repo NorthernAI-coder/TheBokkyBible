@@ -1,156 +1,112 @@
 #!/usr/bin/env python3
 """
-embed_repo.py - Extract text from TheBokkyBible markdown files, train Word2Vec,
-                export to TensorFlow Embedding Projector TSV format.
+embed_repo.py - UPGRADE: Sentence-Transformer version (all-MiniLM-L6-v2)
+Replaces old Word2Vec. Produces much better semantic clusters.
 
 Usage:
-  python scripts/embed_repo.py [--corpus-dir docs/] [--output-dir projector_data/]
-                               [--min-count 5] [--vector-size 200] [--epochs 10]
-
-Requirements: pip install gensim nltk markdown beautifulsoup4
-              (nltk for basic tokenization; download punkt once)
+  python scripts/embed_repo.py --corpus-dir docs --output-dir projector_data
 """
 
 import argparse
 from pathlib import Path
 import re
-from typing import List
+from typing import List, Tuple
 
-import gensim
-from gensim.models import Word2Vec
-from gensim.models.word2vec import LineSentence
-from gensim.scripts.word2vec2tensor import word2vec2tensor  # built-in gensim converter
-
+from sentence_transformers import SentenceTransformer
 import nltk
-from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.tokenize import sent_tokenize
 from bs4 import BeautifulSoup
 import markdown
 
+# NLTK for clean sentence splitting (same as before)
 nltk.download('punkt_tab', quiet=True)
+nltk.download('punkt', quiet=True)
 
 
 def extract_clean_text(md_path: Path) -> str:
-    """Convert markdown to plain text, remove YAML frontmatter + code blocks."""
+    """Same as previous version - unchanged."""
     with md_path.open(encoding='utf-8') as f:
         content = f.read()
 
     # Strip YAML frontmatter
     content = re.sub(r'^---\n.*?---\n', '', content, flags=re.DOTALL | re.MULTILINE)
 
-    # Convert markdown → HTML → plain text (removes most formatting)
     html = markdown.markdown(content)
     soup = BeautifulSoup(html, 'html.parser')
     text = soup.get_text(separator=' ', strip=True)
-
-    # Extra cleanup: collapse whitespace, remove very short lines
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
 
-def get_sentences_from_repo(corpus_dir: Path) -> List[List[str]]:
-    """Walk corpus_dir, extract sentences from all .md files."""
-    sentences = []
+def get_sentences_from_repo(corpus_dir: Path) -> List[Tuple[Path, str]]:
+    """Collect (filepath, sentence) pairs - same logic as before."""
+    pairs = []
     md_files = list(corpus_dir.rglob('*.md'))
-
-    print(f"Found {len(md_files)} markdown files in {corpus_dir}")
+    print(f"Found {len(md_files)} markdown files")
 
     for md_path in md_files:
         try:
             text = extract_clean_text(md_path)
             if not text:
                 continue
-
-            # Split into sentences, then tokenize words
             for sent in sent_tokenize(text):
-                tokens = word_tokenize(sent.lower())
-                if len(tokens) >= 3:  # skip tiny fragments
-                    sentences.append(tokens)
+                if len(sent) >= 15:  # skip tiny fragments
+                    pairs.append((md_path, sent))
         except Exception as e:
-            print(f"Skipping {md_path}: {e}")
+            print(f"Skipping {md_path.name}: {e}")
 
-    print(f"Extracted {len(sentences)} sentences")
-    return sentences
+    print(f"Extracted {len(pairs)} sentences for embedding")
+    return pairs
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate Word2Vec + projector TSVs from repo markdown")
-    parser.add_argument('--corpus-dir', default='docs', type=Path,
-                        help='Directory with .md files (docs/ or docs/ + daily-chats/)')
-    parser.add_argument('--output-dir', default='projector_data', type=Path,
-                        help='Where to save vectors.tsv and metadata.tsv')
-    parser.add_argument('--min-count', type=int, default=5,
-                        help='Ignore words with total frequency < this')
-    parser.add_argument('--vector-size', type=int, default=200,
-                        help='Embedding dimension')
-    parser.add_argument('--epochs', type=int, default=10,
-                        help='Training epochs')
-    parser.add_argument('--workers', type=int, default=4)
-
+    parser = argparse.ArgumentParser(description="Embed repo with sentence-transformer → projector TSVs")
+    parser.add_argument('--corpus-dir', default='docs', type=Path)
+    parser.add_argument('--output-dir', default='projector_data', type=Path)
+    parser.add_argument('--model-name', default='all-MiniLM-L6-v2', help='SentenceTransformer model')
     args = parser.parse_args()
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
-    # 1. Gather training data
-    sentences = get_sentences_from_repo(args.corpus_dir)
-
-    if not sentences:
-        print("No usable text found. Exiting.")
+    # 1. Gather sentences
+    sentence_pairs = get_sentences_from_repo(args.corpus_dir)
+    if not sentence_pairs:
+        print("No usable text found.")
         return
 
-    # 2. Train simple Word2Vec
-    print("Training Word2Vec...")
-    model = Word2Vec(
-        sentences=sentences,
-        vector_size=args.vector_size,
-        min_count=args.min_count,
-        epochs=args.epochs,
-        workers=args.workers,
-        sg=1,               # skip-gram usually better for small corpora
-        negative=5,
-        window=8
+    texts = [sent for _, sent in sentence_pairs]
+
+    # 2. Encode with modern sentence-transformer (this is the big upgrade)
+    print(f"Loading model {args.model_name} and encoding sentences...")
+    model = SentenceTransformer(args.model_name)
+    embeddings = model.encode(
+        texts,
+        normalize_embeddings=True,
+        show_progress_bar=True,
+        batch_size=32
     )
 
-    model_file = args.output_dir / "repo_word2vec.model"
-    model.save(str(model_file))
-    print(f"Saved model: {model_file}")
+    # 3. Export in exact format your projector expects
+    print("Exporting to repo_metadata.tsv + repo_tensor.tsv...")
 
-    # 3. Export to projector format using gensim's built-in converter
-    #     (creates vectors.tsv and metadata.tsv in output_dir)
-    print("Exporting to projector TSVs...")
+    # metadata.tsv: one label per line (readable in projector)
+    with open(args.output_dir / "repo_metadata.tsv", "w", encoding="utf-8") as f:
+        for md_path, sent in sentence_pairs:
+            clean_sent = sent[:150].replace('\n', ' ')
+            label = f"{md_path.name}: {clean_sent}"
+            f.write(label + "\n")
 
-    # 1. Save in the exact format word2vec2tensor expects (KeyedVectors)
-    kv_path = args.output_dir / "repo_word2vec.kv"
-    model.wv.save_word2vec_format(str(kv_path), binary=False)   # text format = safe
-
-    # # 1.5 Optional: print top words for quick sanity check
-    # print("\nTop 50 most frequent words in the embedding:")
-    # for word, vocab in list(model.wv.key_to_index.items())[:50]:
-    #     print(f"  {word}: {model.wv.get_vecattr(word, 'count')}")
-
-    # 2. Use the official converter (now works with text format)
-    from gensim.scripts.word2vec2tensor import word2vec2tensor
-
-    word2vec2tensor(
-        word2vec_model_path=str(kv_path),      # point to the .kv text file
-        tensor_filename=str(args.output_dir / "repo"),
-        binary=False                          # matches the text format we just saved
-    )
-
-    # word2vec2tensor(
-    #     # model_file_or_path=str(model_file),
-    #     word2vec_model_path=str(model_file),
-    #     # output_dir=str(args.output_dir),
-    #     tensor_filename=str(args.output_dir),
-    #     binary=False  # our save is not binary
-    # )
-
-    print(f"Done! Files created in {args.output_dir}:")
-    print("  - repo_metadata.tsv")
-    print("  - repo_tensor.tsv")
-    print("\nNext:")
-    print("1. Go to https://projector.tensorflow.org/")
-    print("2. Click 'Load data' → upload both TSV files")
-    print("   (or host them publicly on GitHub/raw and load by URL)")
+    # repo_tensor.tsv: one vector per line (384 floats, tab-separated)
+    with open(args.output_dir / "repo_tensor.tsv", "w", encoding="utf-8") as f:
+        for vec in embeddings:
+            line = "\t".join(f"{x:.6f}" for x in vec)
+            f.write(line + "\n")
+            
+    print(f"Done! Files created in {args.output_dir}/")
+    print("   repo_metadata.tsv")
+    print("   repo_tensor.tsv")
+    print("\nNext: load both into https://projector.tensorflow.org/")
+    print("Tip: First run downloads ~100 MB model. Subsequent runs are fast.")
 
 
 if __name__ == '__main__':
