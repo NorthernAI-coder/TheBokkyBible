@@ -7,12 +7,14 @@
   <link href="css/vuetify_3.9.5.min.css" rel="stylesheet">
   <link href="css/materialdesignicons_7.4.47.min.css" rel="stylesheet">
   <link href="fonts/materialdesignicons-webfont.woff2" rel="stylesheet">
+  <link href="css/highlight_11.11.1.css" rel="stylesheet">
   <script src="js/vue_3.5.29.prod.js"></script>
   <script src="js/vuetify_3.9.5.min.js"></script>
   <script src="js/marked_4.3.0.umd.js"></script>
   <script src="js/dexie_4.3.0.min.js"></script>
   <script src="js/moment_2.24.0.min.js"></script>
   <script src="js/minisearch_7.2.0.js"></script>
+  <script src="js/highlight_11.11.1.js"></script>
   <style>
     body { font-family: system-ui, sans-serif; }
     #app { height: 100vh; }
@@ -948,6 +950,16 @@
         markIt(item) {
           // console.log(now() + " markIt - item: " + JSON.stringify(item));
           // return item;
+
+          marked.setOptions({
+            highlight: function(code, lang) {
+              if (lang && hljs.getLanguage(lang)) {
+                return hljs.highlight(lang, code).value;
+              }
+              return hljs.highlightAuto(code).value;
+            }
+          });
+                    
           return marked.parse(item.raw.text);
           // console.log(now() + " markIt - text: " + text);
           // const safeText = text.replace(/<script/gi, '&lt;script');
