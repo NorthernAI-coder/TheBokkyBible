@@ -94,6 +94,11 @@ SOURCE=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/highlig
 DEST=../docs/js/highlight_11.11.1.min.js
 wget $SOURCE -O $DEST
 
+# https://raw.githubusercontent.com/highlightjs/highlight.js/3e628edbe34d2ffb9166ff365f614f56621597be/src/styles/github.css
+# highlight.js github.css
+SOURCE=https://raw.githubusercontent.com/highlightjs/highlight.js/3e628edbe34d2ffb9166ff365f614f56621597be/src/styles/github.css
+DEST=../docs/css/github.css
+wget $SOURCE -O $DEST
 
 
 ######## UNUSED ########

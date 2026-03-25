@@ -109,7 +109,7 @@
                     <v-pagination
                       v-model="documentsCurrentPage"
                       @update:model-value="saveSettings();"
-                      :length="Math.ceil(documents.length / settings.documents.pageSize)"
+                      :length="Math.ceil(filteredSortedDocuments.length / settings.documents.pageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
@@ -135,7 +135,7 @@
                     <v-pagination
                       v-model="documentsCurrentPage"
                       @update:model-value="saveSettings();"
-                      :length="Math.ceil(documents.length / settings.documents.pageSize)"
+                      :length="Math.ceil(filteredSortedDocuments.length / settings.documents.pageSize)"
                       total-visible="4"
                       density="comfortable"
                       show-first-last-page
