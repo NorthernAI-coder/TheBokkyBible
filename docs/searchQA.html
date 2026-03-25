@@ -9,7 +9,7 @@
   <link href="fonts/materialdesignicons-webfont.woff2" rel="stylesheet">
   <script src="js/vue_3.5.29.prod.js"></script>
   <script src="js/vuetify_3.9.5.min.js"></script>
-  <script src="js/marked_4.3.0.min.js"></script>
+  <script src="js/marked_4.3.0.umd.js"></script>
   <script src="js/dexie_4.3.0.min.js"></script>
   <script src="js/moment_2.24.0.min.js"></script>
   <script src="js/minisearch_7.2.0.js"></script>
@@ -204,23 +204,25 @@
                 </v-select>
               </v-toolbar>
 
-
               <v-data-iterator :items="filteredSortedPagedFragments">
                 <template v-slot:default="{ items }">
-                  <!-- :title="`Item ${i} x`" -->
-                  <v-list-item
-                    v-for="(item, i) in items"
-                    :key="i"
-                  >
+                  <!-- :title="`Item ${index} x`" -->
+                  <v-list-item v-for="(item, index) in items" :key="i">
                     <v-card>
-                      <v-card-title><h5>Item {{ i }} y</h5></v-card-title>
-                      <v-card-text>{{ markIt(item) }}</v-card-text>
+                      <v-card-title><h5>{{ item.raw.title }}</h5></v-card-title>
+                      <v-card-text>
+                        <div v-html="markIt(item)" class="markdown-content ma-0 pa-0 px-3"></div>
+                        <!-- <a href="#" @click.prevent="viewSearchItem(item)">{{ item.raw.title }}</a> -->
+                        <font size="-2">
+                          <pre>
+{{ item }}
+                          </pre>
+                        </font>
+                      </v-card-text>
                     </v-card>
                   </v-list-item>
                 </template>
               </v-data-iterator>
-<!--
-              {{ filteredSortedPagedFragments }} -->
 
               <v-toolbar flat color="grey-lighten-4" density="compact">
                 <v-spacer></v-spacer>
@@ -946,7 +948,7 @@
         markIt(item) {
           // console.log(now() + " markIt - item: " + JSON.stringify(item));
           // return item;
-          return "xyz " + marked.parse(item.raw.text);
+          return marked.parse(item.raw.text);
           // console.log(now() + " markIt - text: " + text);
           // const safeText = text.replace(/<script/gi, '&lt;script');
           // return "xyz: " + marked.parse(safeText);

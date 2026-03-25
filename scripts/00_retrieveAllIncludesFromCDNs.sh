@@ -36,12 +36,10 @@ SOURCE=https://cdn.jsdelivr.net/npm/dexie@4.3.0/dist/dexie.min.js
 DEST=../docs/js/dexie_4.3.0.min.js
 wget $SOURCE -O $DEST
 
-# <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
-# Hyperlink from TOC does not work - <script src="https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.min.js"></script>
 # Get marked[.min].js 4.3.0
-# SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.js
-# DEST=../docs/js/marked_4.3.0.js
-# wget $SOURCE -O $DEST
+SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/lib/marked.umd.js
+DEST=../docs/js/marked_4.3.0.umd.js
+wget $SOURCE -O $DEST
 SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js
 DEST=../docs/js/marked_4.3.0.min.js
 wget $SOURCE -O $DEST
@@ -75,6 +73,10 @@ wget $SOURCE -O $DEST
 SOURCE=https://cdn.jsdelivr.net/npm/minisearch@7.2.0/dist/umd/index.min.js
 DEST=../docs/js/minisearch_7.2.0.min.js
 wget $SOURCE -O $DEST
+
+
+
+######## UNUSED ########
 
 #
 # # Get vuex[.min].js 4.1.0
