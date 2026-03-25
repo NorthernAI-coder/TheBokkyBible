@@ -74,6 +74,26 @@ SOURCE=https://cdn.jsdelivr.net/npm/minisearch@7.2.0/dist/umd/index.min.js
 DEST=../docs/js/minisearch_7.2.0.min.js
 wget $SOURCE -O $DEST
 
+# <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/styles/default.css">
+# <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/styles/default.min.css">
+# Get highlight[.min].css 11.11.1
+SOURCE=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/styles/default.css
+DEST=../docs/css/highlight_11.11.1.css
+wget $SOURCE -O $DEST
+SOURCE=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/styles/default.min.css
+DEST=../docs/css/highlight_11.11.1.min.css
+wget $SOURCE -O $DEST
+
+# <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/highlight.js"></script>
+# <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/highlight.min.js"></script>
+# Get highlight[.min].js 11.11.1
+SOURCE=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/highlight.js
+DEST=../docs/js/highlight_11.11.1.js
+wget $SOURCE -O $DEST
+SOURCE=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/highlight.min.js
+DEST=../docs/js/highlight_11.11.1.min.js
+wget $SOURCE -O $DEST
+
 
 
 ######## UNUSED ########
