@@ -8,6 +8,7 @@
   <link href="css/materialdesignicons_7.4.47.min.css" rel="stylesheet">
   <link href="fonts/materialdesignicons-webfont.woff2" rel="stylesheet">
   <link href="css/highlight_11.11.1.css" rel="stylesheet">
+  <link href="css/github.css" rel="stylesheet">
   <script src="js/vue_3.5.29.prod.js"></script>
   <script src="js/vuetify_3.9.5.min.js"></script>
   <script src="js/marked_4.3.0.umd.js"></script>
@@ -38,12 +39,24 @@
       padding: 0.25rem 1rem;
       /* border-left: 4px solid #2196F3; */
       border-left: 4px solid rgb(209, 217, 224);
-      /* background-color: #f5f5f5; */
+      background-color: #f5f5f5;
       color: #333;
       font-style: italic;
     }
     .v-window-item { padding: 16px; }
     .chip { margin: 2px; }
+    /* .hljs {
+      background: #999999 !important;
+    } */
+
+    /* pre code { */
+      /* background: #eeeeee !important; */
+      /* margin: 1rem 0; */
+      /* padding: 1rem 1rem; */
+    /* } */
+    /* .hljs {
+      background: #242424 !important;
+    } */
   </style>
 </head>
 <body>
@@ -211,10 +224,15 @@
                   <!-- :title="`Item ${index} x`" -->
                   <v-list-item v-for="(item, index) in items" :key="i">
                     <v-card>
-                      <v-card-title><h5>{{ item.raw.title }}</h5></v-card-title>
+                      <v-card-title class="text-wrap"><h5>{{ item.raw.title }}</h5></v-card-title>
                       <v-card-text>
                         <div v-html="markIt(item)" class="markdown-content ma-0 pa-0 px-3"></div>
                         <!-- <a href="#" @click.prevent="viewSearchItem(item)">{{ item.raw.title }}</a> -->
+                        <font size="-2">
+                          <pre>
+{{ markIt(item) }}
+                          </pre>
+                        </font>
                         <font size="-2">
                           <pre>
 {{ item }}
@@ -959,7 +977,7 @@
               return hljs.highlightAuto(code).value;
             }
           });
-                    
+
           return marked.parse(item.raw.text);
           // console.log(now() + " markIt - text: " + text);
           // const safeText = text.replace(/<script/gi, '&lt;script');
