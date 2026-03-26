@@ -50,6 +50,7 @@
       margin: 1rem 0;
       padding: 1rem 1rem;
     }
+    mark { background-color: #fff176; font-weight: bold; }
   </style>
 </head>
 <body>
@@ -217,15 +218,20 @@
                   <!-- :title="`Item ${index} x`" -->
                   <v-list-item v-for="(item, index) in items" :key="i">
                     <v-card>
-                      <v-card-title class="text-wrap"><h5>{{ item.raw.title }}</h5></v-card-title>
+                      <v-card-title class="text-wrap">
+                        <h5>
+                          <div v-html="markTitle(item)" class="markdown-content ma-0 pa-0 px-3"></div>
+                          <!-- {{ item.raw.title }} -->
+                        </h5>
+                      </v-card-title>
                       <v-card-text>
-                        <div v-html="markIt(item)" class="markdown-content ma-0 pa-0 px-3"></div>
+                        <div v-html="markText(item)" class="markdown-content ma-0 pa-0 px-3"></div>
                         <!-- <a href="#" @click.prevent="viewSearchItem(item)">{{ item.raw.title }}</a> -->
-                        <font size="-2">
+                        <!-- <font size="-2">
                           <pre>
-{{ markIt(item) }}
+{{ markText(item) }}
                           </pre>
-                        </font>
+                        </font> -->
                         <font size="-2">
                           <pre>
 {{ item }}
@@ -958,10 +964,28 @@
           this.sync.info = null;
         },
 
-        markIt(item) {
-          // console.log(now() + " markIt - item: " + JSON.stringify(item));
-          // return item;
+        markTitle(item) {
+          const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("heading"));
+          // marked.setOptions({
+          //   highlight: function(code, lang) {
+          //     if (lang && hljs.getLanguage(lang)) {
+          //       return hljs.highlight(lang, code).value;
+          //     }
+          //     return hljs.highlightAuto(code).value;
+          //   }
+          // });
+          const safeText = item.raw.title.replace(/<script/gi, '&lt;script');
+          const innerHTML = marked.parse(safeText);
+          if (matchingKeywords.length == 0) {
+            return innerHTML;
+          } else {
+            const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
+            return innerHTML.replace(regex, '<mark>$1</mark>');
+          }
+        },
 
+        markText(item) {
+          const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("text"));
           marked.setOptions({
             highlight: function(code, lang) {
               if (lang && hljs.getLanguage(lang)) {
@@ -970,11 +994,14 @@
               return hljs.highlightAuto(code).value;
             }
           });
-
-          return marked.parse(item.raw.text);
-          // console.log(now() + " markIt - text: " + text);
-          // const safeText = text.replace(/<script/gi, '&lt;script');
-          // return "xyz: " + marked.parse(safeText);
+          const safeText = item.raw.text.replace(/<script/gi, '&lt;script');
+          const innerHTML = marked.parse(safeText);
+          if (matchingKeywords.length == 0) {
+            return innerHTML;
+          } else {
+            const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
+            return innerHTML.replace(regex, '<mark>$1</mark>');
+          }
         },
 
         async viewDocument(doc) {
