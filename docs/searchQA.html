@@ -106,7 +106,10 @@
                       <v-icon>mdi-dots-vertical</v-icon>
                       <v-menu activator="parent">
                         <v-list density="compact">
-                          <v-list-subheader>Search Options</v-list-subheader>
+                          <v-list-item>
+                            <v-list-item-title>Select Options</v-list-item-title>
+                            <v-divider></v-divider>
+                          </v-list-item>
                           <v-list-item link>
                             <v-list-item-title>Fuzzy Search</v-list-item-title>
                             <template v-slot:append>
@@ -114,13 +117,33 @@
                             </template>
                             <v-menu :open-on-focus="false" activator="parent" open-on-hover submenu>
                               <v-list>
-                                <v-list-subheader>Fuzzy Search Options</v-list-subheader>
+                                <v-list-item>
+                                  <v-list-item-title>Fuzzy Search Options</v-list-item-title>
+                                  <v-divider></v-divider>
+                                </v-list-item>
                                 <v-radio-group v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" class="mt-2">
                                   <v-radio label="Off" value="0"></v-radio>
                                   <v-radio label="10%" value="0.1"></v-radio>
                                   <v-radio label="20%" value="0.2"></v-radio>
                                   <v-radio label="50%" value="0.5"></v-radio>
                                 </v-radio-group>
+                              </v-list>
+                            </v-menu>
+                          </v-list-item>
+                          <v-list-item link>
+                            <v-list-item-title>Search Documents</v-list-item-title>
+                            <template v-slot:append>
+                              <v-icon icon="mdi-menu-right" size="x-small"></v-icon>
+                            </template>
+                            <v-menu :open-on-focus="false" activator="parent" open-on-hover submenu>
+                              <v-list>
+                                <v-list-item>
+                                  <v-list-item-title>Search Document</v-list-item-title>
+                                  <v-divider></v-divider>
+                                </v-list-item>
+                                <v-checkbox-btn v-model="settings.search.readme" @update:model-value="applyFilter();" label="README.md" hide-details></v-checkbox-btn>
+                                <v-checkbox-btn v-model="settings.search.qandas" @update:model-value="applyFilter();" label="Daily Q&As" hide-details></v-checkbox-btn>
+                                <v-checkbox-btn v-model="settings.search.other" @update:model-value="applyFilter();" label="Other .md files" hide-details></v-checkbox-btn>
                               </v-list>
                             </v-menu>
                           </v-list-item>
@@ -214,7 +237,10 @@
                   <v-icon>mdi-dots-vertical</v-icon>
                   <v-menu activator="parent">
                     <v-list density="compact">
-                      <v-list-subheader>Search Options</v-list-subheader>
+                      <v-list-item>
+                        <v-list-item-title>Select Options</v-list-item-title>
+                        <v-divider></v-divider>
+                      </v-list-item>
                       <v-list-item link>
                         <v-list-item-title>Fuzzy Search</v-list-item-title>
                         <template v-slot:append>
@@ -222,13 +248,33 @@
                         </template>
                         <v-menu :open-on-focus="false" activator="parent" open-on-hover submenu>
                           <v-list>
-                            <v-list-subheader>Fuzzy Search Options</v-list-subheader>
+                            <v-list-item>
+                              <v-list-item-title>Fuzzy Search Options</v-list-item-title>
+                              <v-divider></v-divider>
+                            </v-list-item>
                             <v-radio-group v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" class="mt-2">
                               <v-radio label="Off" value="0"></v-radio>
                               <v-radio label="10%" value="0.1"></v-radio>
                               <v-radio label="20%" value="0.2"></v-radio>
                               <v-radio label="50%" value="0.5"></v-radio>
                             </v-radio-group>
+                          </v-list>
+                        </v-menu>
+                      </v-list-item>
+                      <v-list-item link>
+                        <v-list-item-title>Search Documents</v-list-item-title>
+                        <template v-slot:append>
+                          <v-icon icon="mdi-menu-right" size="x-small"></v-icon>
+                        </template>
+                        <v-menu :open-on-focus="false" activator="parent" open-on-hover submenu>
+                          <v-list>
+                            <v-list-item>
+                              <v-list-item-title>Search Document</v-list-item-title>
+                              <v-divider></v-divider>
+                            </v-list-item>
+                            <v-checkbox-btn v-model="settings.search.readme" @update:model-value="applyFilter();" label="README.md" hide-details></v-checkbox-btn>
+                            <v-checkbox-btn v-model="settings.search.qandas" @update:model-value="applyFilter();" label="Daily Q&As" hide-details></v-checkbox-btn>
+                            <v-checkbox-btn v-model="settings.search.other" @update:model-value="applyFilter();" label="Other .md files" hide-details></v-checkbox-btn>
                           </v-list>
                         </v-menu>
                       </v-list-item>
@@ -524,6 +570,11 @@
             tab: "documents",
             filter: null,
             fuzzyLevel: null,
+            search: {
+              readme: true,
+              qandas: true,
+              other: true,
+            },
             documents: {
               pageSize: 10,
               sortOption: "datedsc",
@@ -532,7 +583,7 @@
               pageSize: 25,
               sortOption: "datedsc",
             },
-            version: 3,
+            version: 4,
           },
           documentsCurrentPage: 1,
           fragmentsCurrentPage: 1,
