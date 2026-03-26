@@ -113,7 +113,7 @@ Drop the details (or paste the new sections), and we’ll co-create the next mar
 
 ### 13:41 https://x.com/BokkyPooBah/status/2036996679292104735 Do you like my new "adhd inside" sticker? I am starving - have not had anything but some nescafe instant and black tea. Had to commit my ideas into this repo, with the vector embeddings by words and sentences. The cat stickers on my laptop cover is Princess Leia Peach Rainbow Spray aka CryptoCat #473 as discussed in docs/20260320_ExploringTimelineAnchorsIn2026HowWereSeedingNewRealitiesRightNow.md . The plastic Chad was made by LozaxPixel and is featured with the La Rural background at DevConnect Argentina as the avatar for the wakethefuckup.eth and godmode.eth ENS, as discussed in 20260216_WhatDoYouThinkOfChungoIntelligenceAgency.md
 
-<kbd><img src="images/Picture00663.png" /></kbd>  
+<kbd><img src="images/Picture00663.png" width="400" /></kbd>  
 
 > adhd inside sticker from @gami_vc via @Pablos_innit. And Chad by @LozaxPixel - https://x.com/BokkyPooBah/status/2036996679292104735
 
