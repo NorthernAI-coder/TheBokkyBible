@@ -1068,14 +1068,6 @@
 
         markTitle(item) {
           const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("heading"));
-          // marked.setOptions({
-          //   highlight: function(code, lang) {
-          //     if (lang && hljs.getLanguage(lang)) {
-          //       return hljs.highlight(lang, code).value;
-          //     }
-          //     return hljs.highlightAuto(code).value;
-          //   }
-          // });
           const safeText = item.raw.title.replace(/<script/gi, '&lt;script');
           const innerHTML = marked.parse(safeText);
           if (matchingKeywords.length == 0) {
@@ -1174,10 +1166,7 @@
         async applyFilter() {
           console.log(now() + " applyFilter - settings.filter: '" + this.settings.filter + "', fuzzyLevel: " + this.settings.fuzzyLevel);
           if (this.settings.filter) {
-            // this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
             this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: this.settings.fuzzyLevel });
-            // console.log(now() + " applyFilter - filteredDocuments: " + JSON.stringify(this.filteredDocuments.slice(0, 10), null, 2));
-            // this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
             this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: this.settings.fuzzyLevel });
           } else {
             this.filteredDocuments = null;
