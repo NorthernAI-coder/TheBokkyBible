@@ -107,7 +107,7 @@
                       <v-menu activator="parent">
                         <v-list density="compact">
                           <v-list-item>
-                            <v-list-item-title>Select Options</v-list-item-title>
+                            <v-list-item-title>Search Options</v-list-item-title>
                             <v-divider></v-divider>
                           </v-list-item>
                           <v-list-item link>
@@ -118,7 +118,7 @@
                             <v-menu :open-on-focus="false" activator="parent" open-on-hover submenu>
                               <v-list>
                                 <v-list-item>
-                                  <v-list-item-title>Fuzzy Search Options</v-list-item-title>
+                                  <v-list-item-title>Fuzzy Search</v-list-item-title>
                                   <v-divider></v-divider>
                                 </v-list-item>
                                 <v-radio-group v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" class="mt-2">
@@ -230,7 +230,6 @@
 
             <!-- FRAGMENTS SEARCH TAB -->
             <v-tabs-window-item value="fragments" class="ma-1 pa-0">
-
               <v-toolbar flat color="grey-lighten-4" density="compact">
                 <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
                 <v-btn color="primary" icon density="compact">
@@ -238,7 +237,7 @@
                   <v-menu activator="parent">
                     <v-list density="compact">
                       <v-list-item>
-                        <v-list-item-title>Select Options</v-list-item-title>
+                        <v-list-item-title>Search Options</v-list-item-title>
                         <v-divider></v-divider>
                       </v-list-item>
                       <v-list-item link>
@@ -249,7 +248,7 @@
                         <v-menu :open-on-focus="false" activator="parent" open-on-hover submenu>
                           <v-list>
                             <v-list-item>
-                              <v-list-item-title>Fuzzy Search Options</v-list-item-title>
+                              <v-list-item-title>Fuzzy Search</v-list-item-title>
                               <v-divider></v-divider>
                             </v-list-item>
                             <v-radio-group v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" class="mt-2">
@@ -362,7 +361,6 @@
                   style="max-width: 70px;"
                 ></v-select>
               </v-toolbar>
-
             </v-tabs-window-item>
 
             <!-- KEYWORD SEARCH TAB OLD -->
