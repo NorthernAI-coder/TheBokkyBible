@@ -71,7 +71,7 @@
         <v-spacer></v-spacer>
         <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary" grow>
           <v-tab value="documents" class="text-none mx-0 px-0">Documents</v-tab>
-          <v-tab value="keyword" class="text-none mx-0 px-0">Chronicles</v-tab>
+          <v-tab value="fragments" class="text-none mx-0 px-0">Fragments</v-tab>
         </v-tabs>
       </v-app-bar>
 
@@ -142,7 +142,7 @@
                                   <v-divider></v-divider>
                                 </v-list-item>
                                 <v-checkbox-btn v-model="settings.search.readme" @update:model-value="applyFilter();" label="README.md" hide-details></v-checkbox-btn>
-                                <v-checkbox-btn v-model="settings.search.qandas" @update:model-value="applyFilter();" label="Daily Q&As" hide-details></v-checkbox-btn>
+                                <v-checkbox-btn v-model="settings.search.chronicles" @update:model-value="applyFilter();" label="Chronicles" hide-details></v-checkbox-btn>
                                 <v-checkbox-btn v-model="settings.search.other" @update:model-value="applyFilter();" label="Other .md files" hide-details></v-checkbox-btn>
                               </v-list>
                             </v-menu>
@@ -228,8 +228,8 @@
               </v-data-table>
             </v-tabs-window-item>
 
-            <!-- KEYWORD SEARCH TAB -->
-            <v-tabs-window-item value="keyword" class="ma-1 pa-0">
+            <!-- FRAGMENTS SEARCH TAB -->
+            <v-tabs-window-item value="fragments" class="ma-1 pa-0">
 
               <v-toolbar flat color="grey-lighten-4" density="compact">
                 <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
@@ -273,7 +273,7 @@
                               <v-divider></v-divider>
                             </v-list-item>
                             <v-checkbox-btn v-model="settings.search.readme" @update:model-value="applyFilter();" label="README.md" hide-details></v-checkbox-btn>
-                            <v-checkbox-btn v-model="settings.search.qandas" @update:model-value="applyFilter();" label="Daily Q&As" hide-details></v-checkbox-btn>
+                            <v-checkbox-btn v-model="settings.search.chronicles" @update:model-value="applyFilter();" label="Chronicles" hide-details></v-checkbox-btn>
                             <v-checkbox-btn v-model="settings.search.other" @update:model-value="applyFilter();" label="Other .md files" hide-details></v-checkbox-btn>
                           </v-list>
                         </v-menu>
@@ -366,7 +366,7 @@
             </v-tabs-window-item>
 
             <!-- KEYWORD SEARCH TAB OLD -->
-            <v-tabs-window-item value="keyword" class="ma-1 pa-0">
+            <v-tabs-window-item value="keyword_todelet" class="ma-1 pa-0">
               <v-data-table
                 :items="filteredSortedPagedFragments"
                 :headers="searchHeaders"
@@ -569,10 +569,10 @@
           settings: {
             tab: "documents",
             filter: null,
-            fuzzyLevel: null,
+            fuzzyLevel: "0",
             search: {
               readme: true,
-              qandas: true,
+              chronicles: true,
               other: true,
             },
             documents: {
@@ -583,7 +583,7 @@
               pageSize: 25,
               sortOption: "datedsc",
             },
-            version: 4,
+            version: 5,
           },
           documentsCurrentPage: 1,
           fragmentsCurrentPage: 1,
@@ -769,10 +769,14 @@
           this.db.version(4).stores({
             documents: '++id, filename, date, title, *keywords',
             fragments: '++id, docId, date, type, heading, text',
-            qas: '++id, docId, date, question', // TODO: Delete
             metadata: 'key'
-          })
-          await this.db.open()
+          }).upgrade(tx => {
+            console.log(now() + " initDB - Upgrading IndexedDB and clearing old tables");
+            for (const table of tx.storeNames) {
+              tx.table(table).clear();
+            }
+          });
+          await this.db.open();
           console.log(now() + " initDB - IndexedDB ready");
         },
 
@@ -827,8 +831,10 @@
               break;
             }
           }
+          const docType = isChronicle ? "chronicle" : (file.name == "README.md" ? "readme" : "other");
           const keywords = this.extractKeywords(text);
           const doc = {
+            docType,
             filename: file.name,
             date: date || file.name,
             title: title || file.name,
@@ -925,6 +931,7 @@
             );
             await this.db.fragments.add({
               docId,
+              docType,
               date: date || file.name,
               lineNumber: fragment.lineNumber,
               headingLevel: fragment.headingLevel,
@@ -990,19 +997,14 @@
           console.log(now() + " refreshData - documents start: " + this.documents.length);
           documentsMiniSearch = new MiniSearch({
             fields: ['title', 'content'], // fields to index for full-text search
-            storeFields: ['filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
-            // storeFields: ['filename', 'date', 'title'] // fields to return with search results
+            storeFields: ['docType', 'filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
           });
           documentsMiniSearch.addAll(this.documents);
           console.log(now() + " refreshData - documents end: " + this.documents.length);
 
-          // console.log(now() + " refreshData - qas: " + JSON.stringify(this.qas.slice(0, 5), null, 2));
-          // const item = this.qas[0];
-          // console.log(now() + " refreshData - item: " + JSON.stringify(item, null, 2));
           fragmentsMiniSearch = new MiniSearch({
             fields: ['heading', 'text'], // fields to index for full-text search
-            storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text'] // fields to return with search results
-            // storeFields: ['docId', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading'] // fields to return with search results
+            storeFields: ['docId', 'docType', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text'] // fields to return with search results
           });
 
           // Index all fragments
@@ -1083,7 +1085,7 @@
           marked.setOptions({
             highlight: function(code, lang) {
               if (lang && hljs.getLanguage(lang)) {
-                return hljs.highlight(lang, code).value;
+                return hljs.highlight(code, {language: lang, ignoreIllegals: true }).value;
               }
               return hljs.highlightAuto(code).value;
             }
@@ -1164,10 +1166,16 @@
         },
 
         async applyFilter() {
-          console.log(now() + " applyFilter - settings.filter: '" + this.settings.filter + "', fuzzyLevel: " + this.settings.fuzzyLevel);
+          // console.log(now() + " applyFilter - settings.filter: '" + this.settings.filter + "', fuzzyLevel: " + this.settings.fuzzyLevel);
           if (this.settings.filter) {
-            this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: this.settings.fuzzyLevel });
-            this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: this.settings.fuzzyLevel });
+            this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, {
+              fuzzy: this.settings.fuzzyLevel,
+              filter: (result) => { return (result.docType === "readme" && this.settings.search.readme == true) || (result.docType === "chronicle" && this.settings.search.chronicles == true) || (result.docType === "other" && this.settings.search.other == true); },
+            });
+            this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, {
+              fuzzy: this.settings.fuzzyLevel,
+              filter: (result) => { return (result.docType === "readme" && this.settings.search.readme == true) || (result.docType === "chronicle" && this.settings.search.chronicles == true) || (result.docType === "other" && this.settings.search.other == true); },
+            });
           } else {
             this.filteredDocuments = null;
             this.filteredFragments = null;
@@ -1234,7 +1242,7 @@
         },
 
         saveSettings() {
-          console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
+          // console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
           localStorage.searchQASettings = JSON.stringify(this.settings);
         },
       },
