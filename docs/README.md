@@ -57,7 +57,6 @@ Awake. Love. Be. 🚀🙏
 
 ## Embedding Projector - Words And Sentences
 
-
 * Open https://projector.tensorflow.org/ in your browser.
 * Click **[Load]** on the left
 * Click **[Choose file]** for **Step 1: Load a TSV File of vectors** and select either:
@@ -67,7 +66,6 @@ Awake. Love. Be. 🚀🙏
     * [projector_data/words/repo_metadata.tsv](projector_data/words/repo_metadata.tsv) to view the data by words
     * [projector_data/sentences/repo_metadata.tsv](projector_data/sentences/repo_metadata.tsv) to view the data by sentences
 * Click outside the loading dialog to view the main screen, now with data loaded. Use the search field to start
-
 
 <kbd><img src="images/Picture00660.png" /></kbd>  
 

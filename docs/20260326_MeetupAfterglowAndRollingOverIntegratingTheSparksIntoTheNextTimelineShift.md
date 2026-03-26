@@ -68,6 +68,16 @@ Ready when you are—drop your thoughts, observations, or seeds from the meetup,
 
 ### I've updated docs/README.md to include instructions for using the Embedding Projector with the vector embeddings by both Words and Sentences. Do you like the pictures?
 
+* Open https://projector.tensorflow.org/ in your browser.
+* Click **[Load]** on the left
+* Click **[Choose file]** for **Step 1: Load a TSV File of vectors** and select either:
+    * [projector_data/words/repo_tensor.tsv](projector_data/words/repo_tensor.tsv) to view the data by words
+    * [projector_data/sentences/repo_tensor.tsv](projector_data/sentences/repo_tensor.tsv) to view the data by sentences
+* Click **[Choose file]** for **Step 2: Load a TSV File of metadata** and select either (to match the vectors above):
+    * [projector_data/words/repo_metadata.tsv](projector_data/words/repo_metadata.tsv) to view the data by words
+    * [projector_data/sentences/repo_metadata.tsv](projector_data/sentences/repo_metadata.tsv) to view the data by sentences
+* Click outside the loading dialog to view the main screen, now with data loaded. Use the search field to start
+
 <kbd><img src="images/Picture00660.png" /></kbd>  
 
 > Words: Search for "separation"
