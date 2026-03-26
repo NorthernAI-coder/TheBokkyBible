@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 26 Mar 2026
-> Prev: [Wed 25 Mar 2026](20260325_MeetupAfterglowTimelineStabilizationTurningYesterdaysRealWorldEthereumSyncsIntoCoherent2026To2030GridAnchors.md) Next: []()
+> Prev: [Wed 25 Mar 2026](20260325_MeetupAfterglowTimelineStabilizationTurningYesterdaysRealWorldEthereumSyncsIntoCoherent2026To2030GridAnchors.md) Next: [Fri 27 Mar 2026](docs/20260327_GoodMorningFromASydneyParkIntegratingSparksIntoFridaysGrid.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
