@@ -55,6 +55,36 @@ Awake. Love. Be. 🚀🙏
 
 ---
 
+## Embedding Projector - Words And Sentences
+
+
+* Open https://projector.tensorflow.org/ in your browser.
+* Click **[Load]** on the left
+* Click **[Choose file]** for **Step 1: Load a TSV File of vectors** and select either:
+    * [projector_data/words/repo_tensor.tsv](projector_data/words/repo_tensor.tsv) to view the data by words
+    * [projector_data/sentences/repo_tensor.tsv](projector_data/sentences/repo_tensor.tsv) to view the data by sentences
+* Click **[Choose file]** for **Step 2: Load a TSV File of metadata** and select either (to match the vectors above):
+    * [projector_data/words/repo_metadata.tsv](projector_data/words/repo_metadata.tsv) to view the data by words
+    * [projector_data/sentences/repo_metadata.tsv](projector_data/sentences/repo_metadata.tsv) to view the data by sentences
+* Click outside the loading dialog to view the main screen, now with data loaded. Use the search field to start
+
+
+<kbd><img src="images/Picture00660.png" /></kbd>  
+
+> Words: Search for "separation"
+
+<kbd><img src="images/Picture00661.png" /></kbd>  
+
+> Words: Click on the `.*` Regex search and enter "love|hate|fear$|^god$|^child$|separation|universe|^energy|subtle|^lack|greed|humans|grok$|energy$|attachment|wealth$|royalty|empathy$"
+
+<kbd><img src="images/Picture00662.png" /></kbd>  
+
+> Sentences: Search for "fear"
+
+<br />
+
+---
+
 ## Mindmap of Major Topics
 
 <kbd><img src="images/Picture00428.png" width="1200" /></kbd>  
