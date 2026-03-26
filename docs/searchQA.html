@@ -697,37 +697,49 @@
         filteredSortedFragments() {
           let results = [];
           if (this.filteredFragments) {
-            results = this.filteredFragments.map(q => ({
-              id: q.id,
-              docId: q.docId,
-              date: q.date,
-              lineNumber: q.lineNumber,
-              headingLevel: q.headingLevel,
-              counters: q.counters,
-              type: q.type,
-              title: q.heading,
-              score: q.score,
-              terms: q.terms,
-              queryTerms: q.queryTerms,
-              match: q.match,
-              text: q.text,
-            }));
+            results = this.filteredFragments.map(q => {
+              const documentIndex = this.documentIdIndex[q.docId] || null;
+              const document = documentIndex && this.documents[documentIndex] || null;
+              return {
+                id: q.id,
+                docId: q.docId,
+                docTitle: document && document.title || null,
+                docFilename: document && document.filename || null,
+                date: q.date,
+                lineNumber: q.lineNumber,
+                headingLevel: q.headingLevel,
+                counters: q.counters,
+                type: q.type,
+                title: q.heading,
+                score: q.score,
+                terms: q.terms,
+                queryTerms: q.queryTerms,
+                match: q.match,
+                text: q.text,
+              };
+            });
           } else if (this.fragments) {
-            results = this.fragments.map(q => ({
-              id: q.id,
-              docId: q.docId,
-              date: q.date,
-              lineNumber: q.lineNumber,
-              headingLevel: q.headingLevel,
-              counters: q.counters,
-              type: q.type,
-              title: q.heading,
-              score: 1,
-              terms: [],
-              queryTerms: [],
-              match: {},
-              text: q.text,
-            }));
+            results = this.fragments.map(q => {
+              const documentIndex = this.documentIdIndex[q.docId] || null;
+              const document = documentIndex && this.documents[documentIndex] || null;
+              return {
+                id: q.id,
+                docId: q.docId,
+                docTitle: document && document.title || null,
+                docFilename: document && document.filename || null,
+                date: q.date,
+                lineNumber: q.lineNumber,
+                headingLevel: q.headingLevel,
+                counters: q.counters,
+                type: q.type,
+                title: q.heading,
+                score: 1,
+                terms: [],
+                queryTerms: [],
+                match: {},
+                text: q.text,
+              };
+            });
           }
           if (this.settings.fragments.sortOption == "datedsc") {
             results.sort((a, b) => {
