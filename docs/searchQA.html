@@ -102,6 +102,31 @@
                 <template v-slot:top>
                   <v-toolbar flat color="grey-lighten-4" density="compact">
                     <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
+                    <v-btn color="primary" icon density="compact">
+                      <v-icon>mdi-dots-vertical</v-icon>
+                      <v-menu activator="parent">
+                        <v-list density="compact">
+                          <v-list-subheader>Search Options</v-list-subheader>
+                          <v-list-item link>
+                            <v-list-item-title>Fuzzy Search</v-list-item-title>
+                            <template v-slot:append>
+                              <v-icon icon="mdi-menu-right" size="x-small"></v-icon>
+                            </template>
+                            <v-menu :open-on-focus="false" activator="parent" open-on-hover submenu>
+                              <v-list>
+                                <v-list-subheader>Fuzzy Search Options</v-list-subheader>
+                                <v-radio-group v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" class="mt-2">
+                                  <v-radio label="Off" value="0"></v-radio>
+                                  <v-radio label="10%" value="0.1"></v-radio>
+                                  <v-radio label="20%" value="0.2"></v-radio>
+                                  <v-radio label="50%" value="0.5"></v-radio>
+                                </v-radio-group>
+                              </v-list>
+                            </v-menu>
+                          </v-list-item>
+                        </v-list>
+                      </v-menu>
+                    </v-btn>
                     <v-spacer></v-spacer>
                     <v-chip color="primary" variant="text" v-tooltip="'#search/#total documents'">
                       {{ filteredSortedDocuments.length }} / {{ documents.length }}
@@ -185,6 +210,31 @@
 
               <v-toolbar flat color="grey-lighten-4" density="compact">
                 <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
+                <v-btn color="primary" icon density="compact">
+                  <v-icon>mdi-dots-vertical</v-icon>
+                  <v-menu activator="parent">
+                    <v-list density="compact">
+                      <v-list-subheader>Search Options</v-list-subheader>
+                      <v-list-item link>
+                        <v-list-item-title>Fuzzy Search</v-list-item-title>
+                        <template v-slot:append>
+                          <v-icon icon="mdi-menu-right" size="x-small"></v-icon>
+                        </template>
+                        <v-menu :open-on-focus="false" activator="parent" open-on-hover submenu>
+                          <v-list>
+                            <v-list-subheader>Fuzzy Search Options</v-list-subheader>
+                            <v-radio-group v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" class="mt-2">
+                              <v-radio label="Off" value="0"></v-radio>
+                              <v-radio label="10%" value="0.1"></v-radio>
+                              <v-radio label="20%" value="0.2"></v-radio>
+                              <v-radio label="50%" value="0.5"></v-radio>
+                            </v-radio-group>
+                          </v-list>
+                        </v-menu>
+                      </v-list-item>
+                    </v-list>
+                  </v-menu>
+                </v-btn>
                 <v-spacer></v-spacer>
                 <v-chip color="primary" variant="text" v-tooltip="'#search/#total fragments'">
                   {{ filteredSortedFragments.length }} / {{ fragments.length }}
@@ -473,6 +523,7 @@
           settings: {
             tab: "documents",
             filter: null,
+            fuzzyLevel: null,
             documents: {
               pageSize: 10,
               sortOption: "datedsc",
@@ -481,7 +532,7 @@
               pageSize: 25,
               sortOption: "datedsc",
             },
-            version: 2,
+            version: 3,
           },
           documentsCurrentPage: 1,
           fragmentsCurrentPage: 1,
@@ -1070,13 +1121,13 @@
         },
 
         async applyFilter() {
-          console.log(now() + " applyFilter - settings.filter: '" + this.settings.filter + "'");
+          console.log(now() + " applyFilter - settings.filter: '" + this.settings.filter + "', fuzzyLevel: " + this.settings.fuzzyLevel);
           if (this.settings.filter) {
             // this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
-            this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard);
+            this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: this.settings.fuzzyLevel });
             // console.log(now() + " applyFilter - filteredDocuments: " + JSON.stringify(this.filteredDocuments.slice(0, 10), null, 2));
             // this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
-            this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard);
+            this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: this.settings.fuzzyLevel });
           } else {
             this.filteredDocuments = null;
             this.filteredFragments = null;
@@ -1143,7 +1194,7 @@
         },
 
         saveSettings() {
-          // console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
+          console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
           localStorage.searchQASettings = JSON.stringify(this.settings);
         },
       },
