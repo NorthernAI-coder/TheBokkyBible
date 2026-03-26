@@ -563,6 +563,8 @@
           db: null,
           documents: [],
           fragments: [],
+          documentIdIndex: {},
+          fragmentIdIndex: {},
 
           settings: {
             tab: "documents",
@@ -977,19 +979,16 @@
         async refreshData() {
           this.documents = await this.db.documents.toArray();
           this.fragments = await this.db.fragments.toArray();
-
-          // // Can use this to reduce the fields stored in MiniSearch
-          // const documentIdIndex = this.documents.reduce((acc, record, index) => {
-          //   acc[record.id] = index;
-          //   return acc;
-          // }, {});
-          // console.log(now() + " refreshData - documentIdIndex: " + JSON.stringify(documentIdIndex, null, 2));
-          // const fragmentIdIndex = this.fragments.reduce((acc, record, index) => {
-          //   acc[record.id] = index;
-          //   return acc;
-          // }, {});
-          // console.log(now() + " refreshData - fragmentIdIndex: " + JSON.stringify(fragmentIdIndex, null, 2));
-          // await Vue.nextTick();
+          this.documentIdIndex = this.documents.reduce((acc, record, index) => {
+            acc[record.id] = index;
+            return acc;
+          }, {});
+          // console.log(now() + " refreshData - this.documentIdIndex: " + JSON.stringify(this.documentIdIndex, null, 2));
+          this.fragmentIdIndex = this.fragments.reduce((acc, record, index) => {
+            acc[record.id] = index;
+            return acc;
+          }, {});
+          // console.log(now() + " refreshData - this.fragmentIdIndex: " + JSON.stringify(this.fragmentIdIndex, null, 2));
 
           // Index all documents
           console.log(now() + " refreshData - documents start: " + this.documents.length);
