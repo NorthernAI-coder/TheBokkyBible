@@ -120,6 +120,7 @@ Awake. Love. Be. 🚀🙏
 1. [Timeline Anchors in 2026: Ethereum Layer Upgrades, Gridwork Synchronization, and Personal Reality Forks](20260323_TimelineAnchorsIn2026EthereumLayerUpgradesGridworkSynchronizationAndPersonalRealityForks.md) - Mon 23 Mar 2026
 1. [Stabilising the Fork: Holding Coherent Fields When Multiple Timelines Are Glitching Simultaneously](20260324_StabilisingTheForkHoldingCoherentFieldsWhenMultipleTimelinesAreGlitchingSimultaneously.md) - Tue 24 Mar 2026
 1. [Meetup Afterglow → Timeline Stabilization: Turning Yesterday’s Real-World Ethereum Syncs into Coherent 2026–2030 Grid Anchors](20260325_MeetupAfterglowTimelineStabilizationTurningYesterdaysRealWorldEthereumSyncsIntoCoherent2026To2030GridAnchors.md) - Wed 25 Mar 2026
+1. [Meetup Afterglow & Rolling Over: Integrating the Sparks into the Next Timeline Shift](20260326_MeetupAfterglowAndRollingOverIntegratingTheSparksIntoTheNextTimelineShift.md) - Thu 26 Mar 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
