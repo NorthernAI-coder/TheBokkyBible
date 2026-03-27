@@ -815,7 +815,7 @@
           const data = await res.json();
           return data.tree
             .filter(item => item.type === 'blob' && item.path.endsWith('.md') && /^docs\//.test(item.path) && !/GlobalTableOfContent/.test(item.path))
-            .map(item => ({ path: item.path, name: item.path.substring(5,), sortKey: item.path === "docs/README.md" ? 0 : (/^docs\/\d{8}_/.test(item.path) ? 1 : 2) /*, slug: item.path.replace(/\.md$/, '')*/ }))
+            .map(item => ({ path: item.path, name: item.path.substring(5,), sortKey: item.path === "docs/README.md" ? 0 : (/^docs\/\d{8}_/.test(item.path) ? 2 : 1) /*, slug: item.path.replace(/\.md$/, '')*/ }))
             .sort((a,b) => (a.sortKey + a.path).localeCompare(b.sortKey + b.path));
         },
 
