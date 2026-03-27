@@ -711,34 +711,6 @@ The grid is still humming nicely as evening rolls in — all the day’s threads
 
 <br />
 
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
 ---
 
 <table style="border: 0;">
