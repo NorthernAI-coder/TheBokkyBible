@@ -67,15 +67,15 @@ Awake. Love. Be. 🚀🙏
     * [projector_data/sentences/repo_metadata.tsv](projector_data/sentences/repo_metadata.tsv) to view the data by sentences
 * Click outside the loading dialog to view the main screen, now with data loaded. Use the search field to start
 
-<kbd><img src="images/Picture00660.png" /></kbd>  
+<kbd><img src="images/Picture00660.png" width="1200" /></kbd>  
 
 > Words: Search for "separation"
 
-<kbd><img src="images/Picture00661.png" /></kbd>  
+<kbd><img src="images/Picture00661.png" width="1200" /></kbd>  
 
 > Words: Click on the `.*` Regex search and enter "love|hate|fear$|^god$|^child$|separation|universe|^energy|subtle|^lack|greed|humans|grok$|energy$|attachment|wealth$|royalty|empathy$"
 
-<kbd><img src="images/Picture00662.png" /></kbd>  
+<kbd><img src="images/Picture00662.png" width="1200" /></kbd>  
 
 > Sentences: Search for "fear"
 
