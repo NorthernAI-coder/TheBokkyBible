@@ -79,7 +79,7 @@
         <v-container fluid class="ma-0 pa-0">
 
           <v-alert
-            v-if="Object.keys(documents).length == 0"
+            v-if="initialised && Object.keys(documents).length == 0"
             closable
             title="Info"
             text="Click on the Refresh button above to retrieve the text files for search / display in this app"
@@ -90,6 +90,14 @@
           </v-alert>
 
           <v-tabs-window v-if="Object.keys(documents).length > 0" v-model="settings.tab" class="ma-1 mt-3 pa-0">
+
+            <!-- <div>
+              <h3 class="text-h3 font-weight-bold mb-2">Main Section Title</h3>
+              <div class="text-caption text--disabled">
+                This is a subtle subtitle or explanatory text shown in a muted style.
+              </div>
+            </div> -->
+
             <!-- DOCUMENTS TAB -->
             <v-tabs-window-item value="documents" class="ma-1 pa-0">
               <v-data-table
@@ -585,6 +593,7 @@
             },
             version: 5,
           },
+          initialised: false,
           documentsCurrentPage: 1,
           fragmentsCurrentPage: 1,
           filteredDocuments: null,
@@ -1271,7 +1280,8 @@
         // const meta = await this.db.metadata.get('lastUpdated')
         // if (!meta) await this.db.metadata.put({ key: 'lastUpdated', value: Date.now() })
         // await this.loadAllFiles()
-        this.refreshData();
+        await this.refreshData();
+        this.initialised = true;
       }
     })
 
