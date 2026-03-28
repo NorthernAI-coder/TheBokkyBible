@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 27 Mar 2026
-> Prev: [Thu 26 Mar 2026](20260326_MeetupAfterglowAndRollingOverIntegratingTheSparksIntoTheNextTimelineShift.md) Next: []()
+> Prev: [Thu 26 Mar 2026](20260326_MeetupAfterglowAndRollingOverIntegratingTheSparksIntoTheNextTimelineShift.md) Next: [Sat 28 Mar 2026](20260328_GoodMorningSaturdayFromSydneyIntegratingFridaysParkSparksIntoTheWeekendGrid.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 

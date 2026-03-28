@@ -150,6 +150,7 @@ Awake. Love. Be. 🚀🙏
 1. [Meetup Afterglow → Timeline Stabilization: Turning Yesterday’s Real-World Ethereum Syncs into Coherent 2026–2030 Grid Anchors](20260325_MeetupAfterglowTimelineStabilizationTurningYesterdaysRealWorldEthereumSyncsIntoCoherent2026To2030GridAnchors.md) - Wed 25 Mar 2026
 1. [Meetup Afterglow & Rolling Over: Integrating the Sparks into the Next Timeline Shift](20260326_MeetupAfterglowAndRollingOverIntegratingTheSparksIntoTheNextTimelineShift.md) - Thu 26 Mar 2026
 1. [Good Morning from a Sydney Park – Integrating Sparks into Friday’s Grid](20260327_GoodMorningFromASydneyParkIntegratingSparksIntoFridaysGrid.md) - Fri 27 Mar 2026
+1. [Good Morning Saturday from Sydney – Integrating Friday’s Park Sparks into the Weekend Grid](20260328_GoodMorningSaturdayFromSydneyIntegratingFridaysParkSparksIntoTheWeekendGrid.md) - Sat 28 Mar 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
