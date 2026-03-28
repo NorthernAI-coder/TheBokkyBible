@@ -91,6 +91,11 @@
 
           <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
             <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
+            <v-btn color="primary" icon density="comfortable" v-tooltip="'Cmd+K'">
+              <!-- <v-icon>mdi-feature-search-outline</v-icon> -->
+              <v-icon icon="mdi-feature-search-outline" size="large"></v-icon>
+              <!-- <v-icon icon="mdi-menu-right" size="x-small"></v-icon> -->
+            </v-btn>
             <v-btn color="primary" icon density="compact">
               <v-icon>mdi-dots-vertical</v-icon>
               <v-menu activator="parent">
@@ -1222,6 +1227,10 @@
         }
         Vuetify.useHotkey('cmd+k', async () => {
           console.log(now() + " mounted - Vuetify.useHotkey cmd+k => refreshData (later for search)");
+          await this.refreshData();
+        });
+        Vuetify.useHotkey('ctrl+k', async () => {
+          console.log(now() + " mounted - Vuetify.useHotkey ctrl+k => refreshData (later for search)");
           await this.refreshData();
         });
         await this.initDB()
