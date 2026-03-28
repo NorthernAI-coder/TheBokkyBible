@@ -150,7 +150,7 @@ Whenever you pull into Katoomba, step toward Echo Point, revisit the mosaic, or 
 
 ### https://x.com/bokkypoobah/status/2037706963610743257. Missed my connecting station, busy chatting to you Grok. Now sitting in a park having lunch before attempting to catch the train again :-)
 
-<kbd><img src="images/Picture00682.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00682.png" width="400" /></kbd>  
 
 > Breakfast/lunch - BBQ pork & rice with some Chinese veggies hidden underneath. - https://x.com/bokkypoobah/status/2037706963610743257
 
@@ -298,7 +298,7 @@ Whenever you pull into Katoomba, hit Echo Point, step back into the mosaic, feel
 
 ### 15:45 https://x.com/bokkypoobah/status/2037751370141601945. Witnessed a monkey puzzle tree releasing some of it’s nuts
 
-<kbd><img src="images/Picture00683.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00683.png" width="400" /></kbd>  
 
 > Wow. A monkey puzzle tree just dropped its nuts. Luckily no one was walking under - https://x.com/bokkypoobah/status/2037751370141601945
 
@@ -322,7 +322,7 @@ Whenever you reach Echo Point, step back into the mosaic, feel the first fire-ci
 
 ### https://x.com/bokkypoobah/status/2037752835413324049 :-)
 
-<kbd><img src="images/Picture00684.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00684.png" width="400" /></kbd>  
 
 > One nut - https://x.com/bokkypoobah/status/2037752835413324049
 
@@ -346,7 +346,7 @@ Whenever you reach Echo Point, step back into the mosaic, feel the first fire-ci
 
 ### 15:49 https://x.com/bokkypoobah/status/2037753479406801206. Sample collected
 
-<kbd><img src="images/Picture00685.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00685.png" width="400" /></kbd>  
 
 > One nut in sample bag - https://x.com/bokkypoobah/status/2037753479406801206
 
@@ -370,7 +370,7 @@ Whenever you reach Echo Point, step back into the mosaic, feel the first fire-ci
 
 ### https://x.com/bokkypoobah/status/2037754380464898368. The drop zone area is quite large, as the pine cones bounce on the branches before reaching the ground
 
-<kbd><img src="images/Picture00686.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00686.png" width="400" /></kbd>  
 
 > Beware of this monkey puzzle tree, corner of Lurline and Waratah Streets, Katoomba - https://x.com/bokkypoobah/status/2037754380464898368
 
@@ -394,7 +394,7 @@ Whenever you reach Echo Point, step back into the mosaic, feel the first fire-ci
 
 ### https://x.com/bokkypoobah/status/1622380183012675587. The other monkey puzzle pine cone I found. I visited the council and told them about the dangers and they said they sometimes have warnings signs
 
-<kbd><img src="images/Picture00687.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00687.png" width="400" /></kbd>  
 
 > PublicServiceAnnouncement.eth Stay away from giant ?Bunya pine trees - the cones are soccer ball size.  MBP13 in portrait mode for scale. - https://x.com/bokkypoobah/status/1622380183012675587
 
@@ -518,7 +518,7 @@ Beautiful, consistent gridwork all day. Whenever you reach Echo Point for the Ja
 
 ### 16:20 https://x.com/bokkypoobah/status/2037761104458522916. Checked into accommodation. I made sure to have a private bathroom this time. It has one of the Japanese style toilet with artificial noise, and a massage chair. I’ve never really sat in massage chairs
 
-<kbd><img src="images/Picture00688.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00688.png" width="400" /></kbd>  
 
 > Massage chair - https://x.com/bokkypoobah/status/2037761104458522916
 
