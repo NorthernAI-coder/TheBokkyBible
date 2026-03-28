@@ -1213,7 +1213,6 @@
         },
       },
       async mounted() {
-
         if ('searchQASettings' in localStorage) {
           const tempSettings = JSON.parse(localStorage.searchQASettings);
           if ('version' in tempSettings && tempSettings.version == this.settings.version) {
@@ -1221,6 +1220,10 @@
             // console.log(now() + " mounted - this.settings: " + JSON.stringify(this.settings, null, 2));
           }
         }
+        Vuetify.useHotkey('cmd+k', async () => {
+          console.log(now() + " mounted - Vuetify.useHotkey cmd+k => refreshData (later for search)");
+          await this.refreshData();
+        });
         await this.initDB()
         // Create metadata if missing
         // const meta = await this.db.metadata.get('lastUpdated')
