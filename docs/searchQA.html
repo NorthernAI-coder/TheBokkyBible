@@ -91,11 +91,6 @@
 
           <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
             <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
-            <v-btn color="primary" icon density="comfortable" v-tooltip="'Cmd+K'">
-              <!-- <v-icon>mdi-feature-search-outline</v-icon> -->
-              <v-icon icon="mdi-feature-search-outline" size="large"></v-icon>
-              <!-- <v-icon icon="mdi-menu-right" size="x-small"></v-icon> -->
-            </v-btn>
             <v-btn color="primary" icon density="compact">
               <v-icon>mdi-dots-vertical</v-icon>
               <v-menu activator="parent">
@@ -143,6 +138,9 @@
                   </v-list-item>
                 </v-list>
               </v-menu>
+            </v-btn>
+            <v-btn color="primary" icon density="comfortable" @click="settings.searchDialog = !settings.searchDialog; saveSettings();" v-tooltip="'Cmd+K - Search dialog'">
+              <v-icon :icon="settings.searchDialog ? 'mdi-feature-search' : 'mdi-feature-search-outline'" size="large"></v-icon>
             </v-btn>
             <v-spacer></v-spacer>
             <v-chip v-if="settings.tab == 'documents'" color="primary" variant="text" v-tooltip="'#search/#total documents'">
@@ -410,6 +408,69 @@
         </v-container>
       </v-main>
 
+      <!-- Search Dialog -->
+      <!-- <v-dialog v-model="settings.searchDialog" @update:model-value="saveSettings();"> -->
+      <v-dialog v-model="settings.searchDialog" @update:model-value="saveSettings();" max-width="600">
+        <v-card width="500" class="mx-auto">
+        <!-- <v-card class="mx-auto"> -->
+          <v-toolbar flat density="compact" class="text-h6">
+            <v-toolbar-title>Search</v-toolbar-title>
+            <v-spacer></v-spacer>
+            <v-btn icon text @click="settings.searchDialog = false; saveSettings();">
+              <v-icon color="primary">mdi-close</v-icon>
+            </v-btn>
+          </v-toolbar>
+          <v-card-text>
+            <v-container fluid>
+              <v-row align="start" class="ma-0 pa-0">
+                <v-col cols="4" class="d-flex justify-end">
+                  <label for="filter">Search:</label>
+                </v-col>
+                <v-col cols="8">
+                  <v-text-field id="filter" v-model="settings.filter" variant="outlined" density="compact"></v-text-field>
+                </v-col>
+              </v-row>
+              <!-- <v-row align="start" class="ma-0 pa-0"> -->
+                <!-- <v-col cols="4" class="d-flex justify-end"> -->
+                  <!-- <label for="filter">Type:</label> -->
+                <!-- </v-col> -->
+                <!-- <v-col cols="8"> -->
+                  <!-- TODO: Radio button: Search type: MiniSearch, string, regex -->
+                  <!-- <v-text-field id="filter" v-model="settings.filter" variant="outlined" density="compact"></v-text-field> -->
+                <!-- </v-col> -->
+              <!-- </v-row> -->
+              <v-row align="start" class="ma-0 pa-0">
+                <v-col cols="4" class="d-flex justify-end">
+                  <label for="filter">Fuzzy Level:</label>
+                </v-col>
+                <v-col cols="8">
+                  <!-- TODO: Radio button: Fuzzy Level: Off, 10%, 20%, 50% -->
+                  <!-- <v-text-field id="filter" v-model="settings.filter" variant="outlined" density="compact"></v-text-field> -->
+                </v-col>
+              </v-row>
+              <v-row align="start" class="ma-0 pa-0">
+                <v-col cols="4" class="d-flex justify-end">
+                  <label for="filter">Documents:</label>
+                </v-col>
+                <v-col cols="8">
+                  <!-- TODO: Check boxes: Documents: README.md, {other}.mds, yyyymmdd_{chronicles}.md -->
+                  <!-- <v-text-field id="filter" v-model="settings.filter" variant="outlined" density="compact"></v-text-field> -->
+                </v-col>
+              </v-row>
+            </v-container>
+
+
+
+            <!-- <v-text-field v-model.trim="settings.filter" label="Label" density="comfortable" clearable></v-text-field> -->
+            <!-- <v-text-field v-model.trim="settings.filter"  label="Search: " hide-details append-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field> -->
+            <!-- <v-card-actions>
+              <v-spacer></v-spacer>
+              <v-btn @click="settings.searchDialog = false; saveSettings();">Close</v-btn>
+            </v-card-actions> -->
+          </v-card-text>
+        </v-card>
+      </v-dialog>
+
       <!-- Document / QA Viewer Dialog -->
       <v-dialog v-model="viewerDialog" scrollable height="90vh">
         <v-card>
@@ -527,8 +588,10 @@
 
           settings: {
             tab: "documents",
+            searchString: null,
+            searchType: null, // MiniSearch, string, regex
             filter: null,
-            fuzzyLevel: "0",
+            fuzzyLevel: "0", // MiniSearch fuzzy level
             search: {
               readme: true,
               chronicles: true,
@@ -542,7 +605,8 @@
               pageSize: 25,
               sortOption: "scoredsc",
             },
-            version: 5,
+            searchDialog: false,
+            version: 6,
           },
           initialised: false,
           documentsCurrentPage: 1,
@@ -1213,7 +1277,7 @@
         },
 
         saveSettings() {
-          // console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
+          console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
           localStorage.searchQASettings = JSON.stringify(this.settings);
         },
       },
