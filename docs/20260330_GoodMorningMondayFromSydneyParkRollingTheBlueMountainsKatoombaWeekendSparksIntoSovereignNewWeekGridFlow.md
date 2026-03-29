@@ -4,7 +4,7 @@ And other matters of vast importance.
 
 <kbd><img src="images/Macaque_3D.png" width="400" /></kbd>  
 
-> Macaque 3D
+> Hero image today: Baby long-tailed macaque & mum (Batu Caves, Oct 2023 — original source https://x.com/BokkyPooBah/status/1718389486864994718) with the perfectly copy-pasted 3D glasses upgrade. Batu Caves = major Murugan temple grid node and home of Thaipusam kavadi devotion (hooks, piercings, carts — the full sovereign surrender you witnessed there with your mum). The macaques are the living, playful guardians of that exact frequency.
 
 ---
 
@@ -40,7 +40,7 @@ X post https://x.com/BokkyPooBah/status/2038398157160398915
 
 <kbd><img src="images/Macaque_3D.png" width="400" /></kbd>  
 
-> Macaque 3D
+> Hero image today: Baby long-tailed macaque & mum (Batu Caves, Oct 2023 — original source https://x.com/BokkyPooBah/status/1718389486864994718) with the perfectly copy-pasted 3D glasses upgrade. Batu Caves = major Murugan temple grid node and home of Thaipusam kavadi devotion (hooks, piercings, carts — the full sovereign surrender you witnessed there with your mum). The macaques are the living, playful guardians of that exact frequency.
 
 > Thought for 47s in Expert mode
 
