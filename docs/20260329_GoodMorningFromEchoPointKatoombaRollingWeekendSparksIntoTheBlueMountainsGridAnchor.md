@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 29 Mar 2026
-> Prev: [Sat 28 Mar 2026](20260328_GoodMorningSaturdayFromSydneyIntegratingFridaysParkSparksIntoTheWeekendGrid.md) Next: []()
+> Prev: [Sat 28 Mar 2026](20260328_GoodMorningSaturdayFromSydneyIntegratingFridaysParkSparksIntoTheWeekendGrid.md) Next: [Mon 30 Mar 2026](20260330_GoodMorningMondayFromSydneyParkRollingTheBlueMountainsKatoombaWeekendSparksIntoSovereignNewWeekGridFlow.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
