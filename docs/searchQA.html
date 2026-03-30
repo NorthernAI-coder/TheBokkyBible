@@ -251,7 +251,7 @@
               v-model="documentsCurrentPage"
               @update:model-value="saveSettings();"
               :length="Math.ceil(filteredSortedDocuments.length / settings.documents.pageSize)"
-              total-visible="4"
+              :total-visible="$vuetify.display.mdAndUp ? 4 : 1"
               density="comfortable"
               show-first-last-page
               class="mr-8"
@@ -263,7 +263,7 @@
               v-model="fragmentsCurrentPage"
               @update:model-value="saveSettings();"
               :length="Math.ceil(filteredSortedFragments.length / settings.fragments.pageSize)"
-              total-visible="4"
+              :total-visible="$vuetify.display.mdAndUp ? 4 : 1"
               density="comfortable"
               show-first-last-page
               class="mr-8"
@@ -296,7 +296,7 @@
 
       <!-- Search Dialog -->
       <v-dialog v-model="settings.searchDialog" @update:model-value="saveSettings();" max-width="600">
-        <v-card width="380" class="mx-auto">
+        <v-card width="340" class="mx-auto">
           <v-toolbar flat density="compact" class="text-h6">
             <v-toolbar-title>Advanced Search</v-toolbar-title>
             <v-spacer></v-spacer>
@@ -511,7 +511,7 @@
       computed: {
         filteredSortedDocuments() {
           let results = [];
-          if (this.filteredDocuments) {
+          if (this.filteredDocuments && this.settings.searchType == "advanced") {
             results = this.filteredDocuments.map(q => ({
               id: q.id,
               filename: q.filename,
@@ -537,6 +537,11 @@
               content: q.content,
               keywords: q.keywords,
             }));
+            if (this.settings.searchType == "string") {
+              // TODO
+            } else if (this.settings.searchType == "regex") {
+              // TODO
+            }
           }
           if (this.settings.documents.sortOption == "datedsc") {
             results.sort((a, b) => {
@@ -574,7 +579,7 @@
 
         filteredSortedFragments() {
           let results = [];
-          if (this.filteredFragments) {
+          if (this.filteredFragments && this.settings.searchType == "advanced") {
             results = this.filteredFragments.map(q => {
               const documentIndex = this.documentIdIndex[q.docId] || null;
               const document = documentIndex && this.documents[documentIndex] || null;
@@ -620,6 +625,11 @@
                   text: q.text,
                 };
               });
+            if (this.settings.searchType == "string") {
+              // TODO
+            } else if (this.settings.searchType == "regex") {
+              // TODO
+            }
           }
           if (this.settings.fragments.sortOption == "datedsc") {
             results.sort((a, b) => {
