@@ -109,7 +109,7 @@
 
           <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
             <v-text-field v-if="$vuetify.display.mdAndUp" v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
-            <v-btn color="primary" icon density="comfortable" @click="settings.searchDialog = !settings.searchDialog; saveSettings();" v-tooltip="'Cmd+K or Ctrl-K Advanced Search'">
+            <v-btn color="primary" icon density="comfortable" @click="settings.searchDialog = !settings.searchDialog; saveSettings();" v-tooltip="'Cmd+K or Ctrl-K - Search Dialog'">
               <v-icon :icon="settings.searchDialog ? 'mdi-feature-search' : 'mdi-feature-search-outline'" size="x-large"></v-icon>
             </v-btn>
             <v-spacer></v-spacer>
@@ -220,7 +220,6 @@
                       <v-card-title class="text-wrap">
                         <h5>
                           <div v-html="markTitle(item)" class="markdown-content ma-0 pa-0 px-3"></div>
-                          <!-- {{ item.raw.title }} -->
                         </h5>
                       </v-card-title>
                       <v-card-text>
@@ -296,19 +295,19 @@
 
       <!-- Search Dialog -->
       <v-dialog v-model="settings.searchDialog" @update:model-value="saveSettings();" max-width="600">
-        <v-card width="340" class="mx-auto">
+        <v-card width="380" class="mx-auto">
           <v-toolbar flat density="compact" class="text-h6">
-            <v-toolbar-title>Advanced Search</v-toolbar-title>
+            <v-toolbar-title>Search</v-toolbar-title>
             <v-spacer></v-spacer>
             <v-btn icon text @click="settings.searchDialog = false; saveSettings();" v-tooltip="'Or ESC'">
               <v-icon color="primary">mdi-close</v-icon>
             </v-btn>
           </v-toolbar>
           <v-card-text>
-            <v-text-field id="filter" v-model="settings.filter" @input="performKeywordSearch" @click:clear="performKeywordSearch" label="Search" variant="outlined" density="compact"></v-text-field>
+            <v-text-field id="filter" v-model="settings.filter" @input="performKeywordSearch" @click:clear="performKeywordSearch" density="compact" prepend-inner-icon="mdi-magnify" clearable></v-text-field>
             <v-radio-group v-model="settings.searchType" @update:model-value="applyFilter();" label="Type" inline class="ma-0">
               <v-radio label="Advanced" value="advanced" v-tooltip="'Search using the MiniSearch.js library'"></v-radio>
-              <v-radio label="String" value="string" v-tooltip="'Simple string search'"></v-radio>
+              <!-- <v-radio label="String" value="string" v-tooltip="'Simple string search'"></v-radio> -->
               <v-radio label="Regex" value="regex" v-tooltip="'Search using Regex patterns'"></v-radio>
             </v-radio-group>
             <v-radio-group :disabled="settings.searchType != 'advanced'" v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" label="Fuzzy Level" inline class="ma-0">
@@ -537,10 +536,10 @@
               content: q.content,
               keywords: q.keywords,
             }));
-            if (this.settings.searchType == "string") {
-              // TODO
-            } else if (this.settings.searchType == "regex") {
-              // TODO
+            if (this.settings.searchType == "regex" && this.settings.filter) {
+              const regex = new RegExp(this.settings.filter, 'i');
+              results = results
+                .filter((i) => { return regex.test(i.title) || regex.test(i.content); });
             }
           }
           if (this.settings.documents.sortOption == "datedsc") {
@@ -625,10 +624,10 @@
                   text: q.text,
                 };
               });
-            if (this.settings.searchType == "string") {
-              // TODO
-            } else if (this.settings.searchType == "regex") {
-              // TODO
+            if (this.settings.searchType == "regex" && this.settings.filter) {
+              const regex = new RegExp(this.settings.filter, 'i');
+              results = results
+                .filter((i) => { return regex.test(i.title) || regex.test(i.text); });
             }
           }
           if (this.settings.fragments.sortOption == "datedsc") {
@@ -971,16 +970,24 @@
           const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("heading"));
           const safeText = item.raw.title.replace(/<script/gi, '&lt;script');
           const innerHTML = marked.parse(safeText);
-          if (matchingKeywords.length == 0) {
-            return innerHTML;
+          if (this.settings.searchType == "advanced") {
+            if (matchingKeywords.length == 0) {
+              return innerHTML;
+            } else {
+              const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
+              return innerHTML.replace(regex, '<mark>$1</mark>');
+            }
           } else {
-            const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
-            return innerHTML.replace(regex, '<mark>$1</mark>');
+            if (!this.settings.filter) {
+              return innerHTML;
+            } else {
+              const regex = new RegExp(`(${this.settings.filter})`, 'gi');
+              return innerHTML.replace(regex, '<mark>$1</mark>');
+            }
           }
         },
 
         markText(item) {
-          const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("text"));
           marked.setOptions({
             highlight: function(code, lang) {
               if (lang && hljs.getLanguage(lang)) {
@@ -991,11 +998,21 @@
           });
           const safeText = item.raw.text.replace(/<script/gi, '&lt;script');
           const innerHTML = marked.parse(safeText);
-          if (matchingKeywords.length == 0) {
-            return innerHTML;
+          const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("text"));
+          if (this.settings.searchType == "advanced") {
+            if (matchingKeywords.length == 0) {
+              return innerHTML;
+            } else {
+              const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
+              return innerHTML.replace(regex, '<mark>$1</mark>');
+            }
           } else {
-            const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
-            return innerHTML.replace(regex, '<mark>$1</mark>');
+            if (!this.settings.filter) {
+              return innerHTML;
+            } else {
+              const regex = new RegExp(`(${this.settings.filter})`, 'gi');
+              return innerHTML.replace(regex, '<mark>$1</mark>');
+            }
           }
         },
 
