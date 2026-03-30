@@ -110,7 +110,7 @@
           <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
             <v-text-field v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
             <v-btn color="primary" icon density="comfortable" @click="settings.searchDialog = !settings.searchDialog; saveSettings();" v-tooltip="'Cmd+K or Ctrl-K Advanced Search'">
-              <v-icon :icon="settings.searchDialog ? 'mdi-feature-search' : 'mdi-feature-search-outline'" size="large"></v-icon>
+              <v-icon :icon="settings.searchDialog ? 'mdi-feature-search' : 'mdi-feature-search-outline'" size="x-large"></v-icon>
             </v-btn>
             <v-spacer></v-spacer>
             <v-chip v-if="settings.tab == 'documents'" color="primary" variant="text" v-tooltip="'#search/#total documents'">
