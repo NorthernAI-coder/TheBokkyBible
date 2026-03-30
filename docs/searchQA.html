@@ -296,7 +296,7 @@
 
       <!-- Search Dialog -->
       <v-dialog v-model="settings.searchDialog" @update:model-value="saveSettings();" max-width="600">
-        <v-card width="600" class="mx-auto">
+        <v-card width="400" class="mx-auto">
           <v-toolbar flat density="compact" class="text-h6">
             <v-toolbar-title>Advanced Search</v-toolbar-title>
             <v-spacer></v-spacer>
@@ -305,56 +305,22 @@
             </v-btn>
           </v-toolbar>
           <v-card-text>
-            <v-container fluid>
-              <v-row align="start" class="ma-0 pa-0">
-                <v-col cols="4" class="d-flex justify-end">
-                  <label for="filter">Search:</label>
-                </v-col>
-                <v-col cols="8">
-                  <v-text-field id="filter" v-model="settings.filter" @input="performKeywordSearch" @click:clear="performKeywordSearch" variant="outlined" density="compact"></v-text-field>
-                </v-col>
-              </v-row>
-              <!-- <v-row align="start" class="ma-0 pa-0"> -->
-                <!-- <v-col cols="4" class="d-flex justify-end"> -->
-                  <!-- <label for="filter">Type:</label> -->
-                <!-- </v-col> -->
-                <!-- <v-col cols="8"> -->
-                  <!-- TODO: Radio button: Search type: MiniSearch, string, regex -->
-                  <!-- <v-text-field id="filter" v-model="settings.filter" variant="outlined" density="compact"></v-text-field> -->
-                <!-- </v-col> -->
-              <!-- </v-row> -->
-              <v-row align="start" class="ma-0 pa-0">
-                <v-col cols="4" class="d-flex justify-end">
-                  <label for="filter">Fuzzy Level:</label>
-                </v-col>
-                <v-col cols="8">
-                  <v-radio-group v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" inline class="ma-0">
-                    <v-radio label="Off" value="0"></v-radio>
-                    <v-radio label="10%" value="0.1"></v-radio>
-                    <v-radio label="20%" value="0.2"></v-radio>
-                    <v-radio label="50%" value="0.5"></v-radio>
-                  </v-radio-group>
-                </v-col>
-              </v-row>
-              <v-row align="start" class="ma-0 pa-0">
-                <v-col cols="4" class="d-flex justify-end">
-                  <label for="filter">Documents:</label>
-                </v-col>
-                <v-col cols="8">
-                  <v-checkbox-btn v-model="settings.search.readme" @update:model-value="applyFilter();" label="README.md" hide-details></v-checkbox-btn>
-                  <v-checkbox-btn v-model="settings.search.chronicles" @update:model-value="applyFilter();" label="Chronicles" hide-details></v-checkbox-btn>
-                  <v-checkbox-btn v-model="settings.search.other" @update:model-value="applyFilter();" label="Other .md files" hide-details></v-checkbox-btn>
-                </v-col>
-              </v-row>
-            </v-container>
-
-
-            <!-- <v-text-field v-model.trim="settings.filter" label="Label" density="comfortable" clearable></v-text-field> -->
-            <!-- <v-text-field v-model.trim="settings.filter"  label="Search: " hide-details append-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field> -->
-            <!-- <v-card-actions>
-              <v-spacer></v-spacer>
-              <v-btn @click="settings.searchDialog = false; saveSettings();">Close</v-btn>
-            </v-card-actions> -->
+            <v-text-field id="filter" v-model="settings.filter" @input="performKeywordSearch" @click:clear="performKeywordSearch" label="Search" variant="outlined" density="compact"></v-text-field>
+            <v-radio-group v-model="settings.searchType" @update:model-value="applyFilter();" label="Type" inline class="ma-0">
+              <v-radio label="Advanced" value="advanced" v-tooltip="'Search using the MiniSearch.js library'"></v-radio>
+              <v-radio label="String" value="string" v-tooltip="'Simple string search'"></v-radio>
+              <v-radio label="Regex" value="regex" v-tooltip="'Search using Regex patterns'"></v-radio>
+            </v-radio-group>
+            <v-radio-group :disabled="settings.searchType != 'advanced'" v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" label="Fuzzy Level" inline class="ma-0">
+              <v-radio label="Off" value="0"></v-radio>
+              <v-radio label="10%" value="0.1"></v-radio>
+              <v-radio label="20%" value="0.2"></v-radio>
+              <v-radio label="50%" value="0.5"></v-radio>
+            </v-radio-group>
+            <v-label class="v-label theme--light ml-4">Documents</v-label>
+            <v-checkbox-btn v-model="settings.search.readme" @update:model-value="applyFilter();" label="README.md" hide-details v-tooltip="'docs/README.md'"></v-checkbox-btn>
+            <v-checkbox-btn v-model="settings.search.chronicles" @update:model-value="applyFilter();" label="Chronicles" hide-details v-tooltip="'docs/{yyyymmdd}_{topic}.md'"></v-checkbox-btn>
+            <v-checkbox-btn v-model="settings.search.other" @update:model-value="applyFilter();" label="Other .md files" hide-details v-tooltip="'docs/{other}.md'"></v-checkbox-btn>
           </v-card-text>
         </v-card>
       </v-dialog>
@@ -477,7 +443,7 @@
           settings: {
             tab: "documents",
             searchString: null,
-            searchType: null, // MiniSearch, string, regex
+            searchType: "advanced",
             filter: null,
             fuzzyLevel: "0", // MiniSearch fuzzy level
             search: {
@@ -494,7 +460,7 @@
               sortOption: "scoredsc",
             },
             searchDialog: false,
-            version: 6,
+            version: 7,
           },
           initialised: false,
           documentsCurrentPage: 1,
