@@ -153,6 +153,7 @@ Awake. Love. Be. 🚀🙏
 1. [Good Morning Saturday from Sydney – Integrating Friday’s Park Sparks into the Weekend Grid](20260328_GoodMorningSaturdayFromSydneyIntegratingFridaysParkSparksIntoTheWeekendGrid.md) - Sat 28 Mar 2026
 1. [Good Morning from Echo Point, Katoomba – Rolling Weekend Sparks into the Blue Mountains Grid Anchor](20260329_GoodMorningFromEchoPointKatoombaRollingWeekendSparksIntoTheBlueMountainsGridAnchor.md) - Sun 29 Mar 2026
 1. [Good Morning Monday from Sydney Park: Rolling the Blue Mountains Katoomba Weekend Sparks into Sovereign New Week Grid Flow](20260330_GoodMorningMondayFromSydneyParkRollingTheBlueMountainsKatoombaWeekendSparksIntoSovereignNewWeekGridFlow.md) - Mon 30 Mar 2026
+1. [Why Are You Speaking?](20260331_WhyAreYouSpeaking.md) - Tue 31 Mar 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
