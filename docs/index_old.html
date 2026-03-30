@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bokky Bible Search</title>
+
+  <!-- Vuetify & Material Icons -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+
+  <style>
+    body { font-family: 'Roboto', sans-serif; margin: 0; }
+    #app { height: 100vh; }
+    .search-result { border-bottom: 1px solid #e0e0e0; padding: 12px 0; }
+    .search-result:hover { background-color: #f5f5f5; }
+    .file-link { color: #1976d2; text-decoration: none; }
+    .file-link:hover { text-decoration: underline; }
+    .snippet { color: #555; font-size: 0.95em; white-space: pre-wrap; }
+    mark { background-color: #fff176; font-weight: bold; }
+    .custom-tab.v-tab { min-width: 30px !important; padding: 0 8px !important; }
+  </style>
+</head>
+<body>
+
+<div id="app">
+  <v-app>
+    <v-app-bar app color="primary" dark>
+      <v-toolbar-title>Bokky Bible Search</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn icon @click="refreshIndex">
+        <v-icon>mdi-refresh</v-icon>
+      </v-btn>
+    </v-app-bar>
+
+    <v-main>
+      <v-container fluid>
+
+        <v-row>
+          <v-col cols="12" md="2">
+            <v-tabs vertical v-model="tab">
+              <v-tab>Search Chat Logs</v-tab>
+              <v-tab>Browse Keywords</v-tab>
+            </v-tabs>
+          </v-col>
+          <v-col cols="12" md="10">
+            <v-tabs-items v-model="tab">
+              <v-tab-item>
+                <v-text-field
+                  v-model="searchQuery"
+                  label="Search chat logs..."
+                  prepend-inner-icon="mdi-magnify"
+                  clearable
+                  outlined
+                  dense
+                  @keyup.enter="search"
+                  @input="debouncedSearch"
+                  hide-details
+                  class="mt-6 mb-4"
+                ></v-text-field>
+
+                <v-progress-linear v-if="loading" indeterminate color="primary"></v-progress-linear>
+
+                <div v-if="results.length === 0 && searchQuery && !loading" class="text-center mt-8 grey--text">
+                  No matches found for "{{ searchQuery }}"
+                </div>
+
+                <div v-if="results.length > 0" class="mt-4">
+                  <div class="text-caption grey--text mb-2">
+                    Showing {{ results.length }} of {{ totalMatches }} matches
+                    {{ searchQuery ? 'for "' + searchQuery + '"' : '' }}
+                  </div>
+
+                  <div v-for="(result, i) in results" :key="i" class="search-result">
+                    <a
+                      :href="`https://github.com/bokkypoobah/TheBokkyBible/blob/main/docs/${result[0]}?plain=1#L${result[1]}`"
+                      target="_blank"
+                      class="file-link font-weight-medium"
+                    >
+                      {{ result[0] }} • line {{ result[1] }}
+                    </a>
+                    <div class="snippet mt-1" v-html="highlight(result[2])"></div>
+                  </div>
+                </div>
+
+                <v-card v-if="!indexLoaded" outlined class="mt-8 pa-6 text-center">
+                  <v-icon large color="primary">mdi-information</v-icon>
+                  <div class="mt-4">
+                    Loading search_index.json.gz ...
+                  </div>
+                </v-card>
+              </v-tab-item>
+
+              <v-tab-item>
+                <v-tabs v-model="alphabetTab" centered>
+                  <v-tab v-for="letter in alphabet" :key="letter" class="custom-tab">{{ letter }}</v-tab>
+                </v-tabs>
+                <v-divider></v-divider>
+                <v-progress-linear v-if="loading" indeterminate color="primary"></v-progress-linear>
+
+                <div v-if="keywordsByLetter[alphabet[alphabetTab]] && keywordsByLetter[alphabet[alphabetTab]].length > 0" class="mt-0">
+
+                  <div class="d-flex justify-end align-center ma-0 pa-0">
+                    <div class="text-caption grey--text mt-2 mr-5">
+                      {{ currentKeywords.length }} keywords starting with "{{ alphabet[alphabetTab] }}" (page {{ page }} of {{ totalPages }})
+                    </div>
+                    <v-pagination v-model="page" :length="totalPages" :total-visible="7" density="compact"></v-pagination>
+                    <v-select v-model="itemsPerPage" :items="itemsPerPageOptions" density="compact" style="max-width: 70px;"></v-select>
+                  </div>
+
+                  <v-list>
+                    <!-- {{ commify0((settings.events.currentPage - 1) * settings.events.itemsPerPage + index + 1) }} -->
+                    <v-list-item v-for="(keyword, i) in paginatedKeywords" :key="i" class="keyword-item" @click="selectKeyword(keyword)">
+                      <v-list-item-title>{{ keyword }}</v-list-item-title>
+                    </v-list-item>
+                  </v-list>
+                </div>
+
+                <div v-else class="text-center mt-8 grey--text">
+                  No keywords starting with "{{ alphabet[alphabetTab] }}"
+                </div>
+
+              </v-tab-item>
+            </v-tabs-items>
+          </v-col>
+        </v-row>
+      </v-container>
+    </v-main>
+
+    <v-footer app color="primary" dark>
+      <span><a href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" class="file-link font-weight-medium white--text">The Bokky Bible v0.95</a></span>
+      <v-spacer></v-spacer>
+      <span>Co-created by <a href="https://x.com/BokkyPooBah" target="_blank" class="file-link font-weight-medium white--text">BokkyPooBah</a> and <a href="https://x.com/grok/" target="_blank" class="file-link font-weight-medium white--text">GrokAI</a></span>
+      <v-spacer></v-spacer>
+      <span>Powered by Vuetify • Index updated: {{ lastUpdated }}</span>
+    </v-footer>
+  </v-app>
+</div>
+
+<!-- Vue & Vuetify -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.js"></script>
+
+<script>
+new Vue({
+  el: '#app',
+  vuetify: new Vuetify({ theme: { dark: false } }),
+
+  data: () => ({
+    tab: 1,
+    alphabetTab: 10,
+    alphabet: '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''),
+    keywordsByLetter: {},
+    page: 1,
+    itemsPerPage: 50,
+    searchQuery: '',
+    results: [],
+    index: {},
+    indexLoaded: false,
+    loading: false,
+    lastUpdated: 'never',
+    totalMatches: 0,
+    debounceTimer: null,
+    itemsPerPageOptions: [ 10, 25, 50, 100, 250, 500, 1000 ],
+  }),
+
+  computed: {
+    normalizedQuery() {
+      return this.searchQuery.trim().toLowerCase();
+    },
+    currentKeywords() {
+      return this.keywordsByLetter[this.alphabet[this.alphabetTab]] || [];
+    },
+    paginatedKeywords() {
+      const start = (this.page - 1) * this.itemsPerPage;
+      const end = start + this.itemsPerPage;
+      return this.currentKeywords.slice(start, end);
+    },
+    totalPages() {
+      return Math.ceil(this.currentKeywords.length / this.itemsPerPage);
+    }
+  },
+
+  methods: {
+
+    async loadIndex() {
+      this.loading = true;
+      try {
+        const response = await fetch('search_index.json.gz');
+        // Decompress using native browser API
+        const decompressedStream = response.body.pipeThrough(
+          new DecompressionStream('gzip')
+        );
+        // Convert stream to text
+        const text = await new Response(decompressedStream).text();
+        // Parse JSON
+        const searchIndex = JSON.parse(text);
+        this.index = searchIndex.index || {};
+        if (searchIndex && searchIndex.built) {
+          const date = new Date(searchIndex.built);
+          this.lastUpdated = date.toLocaleString(undefined, {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+          });
+        } else {
+          this.lastUpdated = "Unknown";
+        }
+        this.groupKeywords();
+        this.indexLoaded = true;
+        console.log('✅ Search index loaded successfully!', searchIndex);
+      } catch (err) {
+        console.error('❌ Failed to load gzipped search index:', err);
+      }
+      this.loading = false;
+    },
+
+    groupKeywords() {
+      const keywords = Object.keys(this.index).sort();
+      this.keywordsByLetter = {};
+      keywords.forEach(keyword => {
+        const firstLetter = keyword.charAt(0).toUpperCase();
+        if (!this.keywordsByLetter[firstLetter]) {
+          this.keywordsByLetter[firstLetter] = [];
+        }
+        this.keywordsByLetter[firstLetter].push(keyword);
+      });
+      this.alphabet.forEach(letter => {
+        if (!this.keywordsByLetter[letter]) {
+          this.keywordsByLetter[letter] = [];
+        }
+      });
+    },
+
+
+    selectKeyword(keyword) {
+      this.searchQuery = keyword;
+      this.tab = 0;
+      this.search();
+    },
+
+    search() {
+      if (!this.normalizedQuery) {
+        this.results = [];
+        this.totalMatches = 0;
+        return;
+      }
+
+      this.loading = true;
+      const words = this.normalizedQuery.split(/\s+/).filter(w => w);
+
+      let matches = [];
+      const seen = new Set();
+
+      // Simple AND search across words
+      for (const word of words) {
+        const hits = this.index[word] || [];
+        if (matches.length === 0) {
+          matches = hits;
+        } else {
+          const keep = new Set(matches.map(m => `${m[0]}:${m[1]}`));
+          matches = hits.filter(h => keep.has(`${h[0]}:${h[1]}`));
+        }
+      }
+
+      // Deduplicate and sort by file + line
+      matches = [...new Map(matches.map(m => [`${m[0]}:${m[1]}`, m])).values()];
+      matches.sort((a, b) => a[0].localeCompare(b[0]) || a[1] - b[1]);
+
+      this.results = matches;
+      this.totalMatches = matches.length;
+      this.loading = false;
+    },
+
+    highlight(text) {
+      // Early return if no query or text is falsy/empty
+      if (!this.normalizedQuery.trim() || !text) {
+        return text || '';
+      }
+
+      // Escape special regex chars in the query terms to treat them literally
+      const terms = this.normalizedQuery
+        .split(/\s+/)
+        .filter(t => t.trim())
+        .map(term => term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+
+      if (terms.length === 0) return text;
+
+      const regex = new RegExp(`(${terms.join('|')})`, 'gi');
+      return text.replace(regex, '<mark>$1</mark>');
+    },
+
+    debouncedSearch() {
+      clearTimeout(this.debounceTimer);
+      this.debounceTimer = setTimeout(() => this.search(), 350);
+    },
+
+    refreshIndex() {
+      this.loadIndex().then(() => this.search());
+    }
+  },
+
+  watch: {
+    alphabetTab() {
+      this.page = 1;
+    }
+  },
+
+  created() {
+    this.loadIndex();
+  }
+});
+</script>
+</body>
+</html>

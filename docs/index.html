@@ -3,317 +3,1189 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bokky Bible Search</title>
+  <title>searchQA - The Bokky Bible Chronicles</title>
+  <meta name="description" content="The Bokky Bible (c) BokkyPooBah / Consulting Pty Ltd and Grok AI 2026" />
+  <meta name="author" content="BokkyPooBah" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@BokkyPooBah" />
+  <meta name="twitter:creator" content="@BokkyPooBah" />
+  <meta property="og:url" content="https://github.com/bokkypoobah/TheBokkyBible/" />
+  <meta property="og:title" content="The Bokky Bible (c) BokkyPooBah / Consulting Pty Ltd and Grok AI 2026" />
+  <meta property="og:description" content="The Bokky Bible (c) BokkyPooBah / Consulting Pty Ltd and Grok AI 2026" />
+  <meta property="og:image" content="https://bokkypoobah.github.io/TheBokkyBible/images/fknchad_FkqVTzBaUAAiE8x_nobg.png" />
 
-  <!-- Vuetify & Material Icons -->
-  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
-  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css" rel="stylesheet">
-  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+  <link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
+  <link rel="shortcut icon" href="/images/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
+  <link rel="manifest" href="/images/site.webmanifest" />
+
+  <link href="css/vuetify_3.9.5.min.css" rel="stylesheet">
+  <link href="css/materialdesignicons_7.4.47.min.css" rel="stylesheet">
+  <link href="fonts/materialdesignicons-webfont.woff2" rel="stylesheet">
+  <link href="css/highlight_11.11.1.css" rel="stylesheet">
+  <link href="css/github.css" rel="stylesheet">
+  <script src="js/vue_3.5.29.prod.js"></script>
+  <script src="js/vuetify_3.9.5.min.js"></script>
+  <script src="js/marked_4.3.0.umd.js"></script>
+  <script src="js/dexie_4.3.0.min.js"></script>
+  <script src="js/moment_2.24.0.min.js"></script>
+  <script src="js/minisearch_7.2.0.js"></script>
+  <script src="js/highlight_11.11.1.js"></script>
 
   <style>
-    body { font-family: 'Roboto', sans-serif; margin: 0; }
+    body { font-family: system-ui, sans-serif; }
     #app { height: 100vh; }
-    .search-result { border-bottom: 1px solid #e0e0e0; padding: 12px 0; }
-    .search-result:hover { background-color: #f5f5f5; }
     .file-link { color: #1976d2; text-decoration: none; }
     .file-link:hover { text-decoration: underline; }
-    .snippet { color: #555; font-size: 0.95em; white-space: pre-wrap; }
+    .markdown-content {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 45px;
+      line-height: 1.6;
+      margin-top: 1.5em;
+      /* margin-bottom: 1.5em; */
+    }
+    .markdown-content h1, .markdown-content h2, .markdown-content h3, .markdown-content h4 { margin-top: 1.5em; }
+    .markdown-content ul { margin-left: 1.5em; }
+    .markdown-content ol { margin-left: 1.5em; }
+    .markdown-content blockquote {
+      margin: 1rem 0;
+      padding: 0.25rem 1rem;
+      /* border-left: 4px solid #2196F3; */
+      border-left: 4px solid rgb(209, 217, 224);
+      background-color: #f5f5f5;
+      color: #333;
+      font-style: italic;
+    }
+    .v-window-item { padding: 16px; }
+    .chip { margin: 2px; }
+    .markdown-content pre {
+      background: #eeeeee !important;
+      margin: 1rem 0;
+      padding: 1rem 1rem;
+    }
     mark { background-color: #fff176; font-weight: bold; }
-    .custom-tab.v-tab { min-width: 30px !important; padding: 0 8px !important; }
   </style>
 </head>
 <body>
+  <div id="app">
+    <v-app>
+      <v-app-bar color="primary-outline" density="compact">
+        <img src="images/fknchad_FkqVTzBaUAAiE8x_nobg.png" alt="Logo" height="40" width="40" class="ma-0 ml-2 pa-0"></img>
+        <v-app-bar-title class="ma-0 pa-0">The Bokky Bible Search</v-app-bar-title>
+        <v-spacer></v-spacer>
+        <v-btn :disabled="sync.info != null" @click="checkForUpdates" text size="large" color="primary" variant="text" class="text-none">
+          <v-icon>mdi-refresh</v-icon>
+          Sync
+        </v-btn>
+        <!-- <v-btn v-if="sync.info == null" :disabled="sync.info != null" @click="testIt" text size="large" color="secondary" variant="text" class="text-none">
+          <v-icon>mdi-emoticon-cool-outline</v-icon>
+          Test
+        </v-btn> -->
+        <v-progress-circular v-if="sync.info != null" color="primary" :model-value="sync.total ? (parseInt(sync.completed * 100 / sync.total)) : 0" :size="30" :width="6" v-tooltip="sync.completed + (sync.total ? ('/' + sync.total) : '') + ': ' + sync.info"></v-progress-circular>
+        <v-spacer></v-spacer>
+        <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary">
+          <v-tab value="documents" class="text-none"><v-icon icon="mdi-file-document-multiple-outline" class="mr-2"></v-icon>{{ $vuetify.display.mdAndUp ? "Documents" : "Docs" }}</v-tab>
+          <v-tab value="fragments" class="text-none"><v-icon icon="mdi-text-box-multiple-outline" class="mr-2"></v-icon>Fragments</v-tab>
+        </v-tabs>
+      </v-app-bar>
 
-<div id="app">
-  <v-app>
-    <v-app-bar app color="primary" dark>
-      <v-toolbar-title>Bokky Bible Search</v-toolbar-title>
-      <v-spacer></v-spacer>
-      <v-btn icon @click="refreshIndex">
-        <v-icon>mdi-refresh</v-icon>
-      </v-btn>
-    </v-app-bar>
+      <v-main>
+        <v-container fluid class="ma-0 pa-0">
 
-    <v-main>
-      <v-container fluid>
+          <v-alert
+            v-if="initialised && Object.keys(documents).length == 0"
+            closable
+            title="Info"
+            text="Click on the Sync button above to retrieve the text files for search / display in this app"
+            type="info"
+            color="info"
+            class="mx-0 my-1"
+          >
+          </v-alert>
 
-        <v-row>
-          <v-col cols="12" md="2">
-            <v-tabs vertical v-model="tab">
-              <v-tab>Search Chat Logs</v-tab>
-              <v-tab>Browse Keywords</v-tab>
-            </v-tabs>
-          </v-col>
-          <v-col cols="12" md="10">
-            <v-tabs-items v-model="tab">
-              <v-tab-item>
-                <v-text-field
-                  v-model="searchQuery"
-                  label="Search chat logs..."
-                  prepend-inner-icon="mdi-magnify"
-                  clearable
-                  outlined
-                  dense
-                  @keyup.enter="search"
-                  @input="debouncedSearch"
-                  hide-details
-                  class="mt-6 mb-4"
-                ></v-text-field>
+          <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
+            <v-text-field v-if="$vuetify.display.mdAndUp" v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
+            <v-btn color="primary" icon density="comfortable" @click="settings.searchDialog = !settings.searchDialog; saveSettings();" v-tooltip="'Cmd+K or Ctrl-K - Search Dialog'">
+              <v-icon :icon="settings.searchDialog ? 'mdi-feature-search' : 'mdi-feature-search-outline'" size="x-large"></v-icon>
+            </v-btn>
+            <v-spacer></v-spacer>
+            <v-chip v-if="settings.tab == 'documents'" color="primary" variant="text" v-tooltip="'#search/#total documents'">
+              {{ filteredSortedDocuments.length }} <span v-if="$vuetify.display.mdAndUp">/ {{ documents.length }}</span>
+            </v-chip>
+            <v-chip v-if="settings.tab == 'fragments'" color="primary" variant="text" v-tooltip="'#search/#total fragments'">
+              {{ filteredSortedFragments.length }} <span v-if="$vuetify.display.mdAndUp">/ {{ fragments.length }}</span>
+            </v-chip>
+            <v-spacer></v-spacer>
+            <v-pagination
+              v-if="settings.tab == 'documents'"
+              v-model="documentsCurrentPage"
+              @update:model-value="saveSettings();"
+              :length="Math.ceil(filteredSortedDocuments.length / settings.documents.pageSize)"
+              :total-visible="$vuetify.display.mdAndUp ? 4 : 1"
+              density="comfortable"
+              :show-first-last-page="$vuetify.display.mdAndUp"
+              class="mr-8"
+              color="primary"
+            >
+            </v-pagination>
+            <v-pagination
+              v-if="settings.tab == 'fragments'"
+              v-model="fragmentsCurrentPage"
+              @update:model-value="saveSettings();"
+              :length="Math.ceil(filteredSortedFragments.length / settings.fragments.pageSize)"
+              :total-visible="$vuetify.display.mdAndUp ? 4 : 1"
+              density="comfortable"
+              :show-first-last-page="$vuetify.display.mdAndUp"
+              class="mr-8"
+              color="primary"
+            >
+            </v-pagination>
+            <v-select
+              v-if="settings.tab == 'documents'"
+              v-model="settings.documents.sortOption"
+              @update:model-value="saveSettings();"
+              :items="docsSortOptions"
+              variant="plain"
+              density="compact"
+              class="mt-4 mr-2"
+              style="max-width: 150px;"
+            >
+            </v-select>
+            <v-select
+              v-if="settings.tab == 'fragments'"
+              v-model="settings.fragments.sortOption"
+              @update:model-value="saveSettings();"
+              :items="searchSortOptions"
+              variant="plain"
+              density="compact"
+              class="mt-4 mr-2"
+              style="max-width: 150px;"
+            >
+            </v-select>
+          </v-toolbar>
 
-                <v-progress-linear v-if="loading" indeterminate color="primary"></v-progress-linear>
+          <!-- <div>
+            <h3 class="text-h3 font-weight-bold mb-2">Main Section Title</h3>
+            <div class="text-caption text--disabled">
+              This is a subtle subtitle or explanatory text shown in a muted style.
+            </div>
+          </div> -->
 
-                <div v-if="results.length === 0 && searchQuery && !loading" class="text-center mt-8 grey--text">
-                  No matches found for "{{ searchQuery }}"
-                </div>
-
-                <div v-if="results.length > 0" class="mt-4">
-                  <div class="text-caption grey--text mb-2">
-                    Showing {{ results.length }} of {{ totalMatches }} matches
-                    {{ searchQuery ? 'for "' + searchQuery + '"' : '' }}
-                  </div>
-
-                  <div v-for="(result, i) in results" :key="i" class="search-result">
-                    <a
-                      :href="`https://github.com/bokkypoobah/TheBokkyBible/blob/main/docs/${result[0]}?plain=1#L${result[1]}`"
-                      target="_blank"
-                      class="file-link font-weight-medium"
+          <v-tabs-window v-if="Object.keys(documents).length > 0" v-model="settings.tab" class="ma-1 mt-3 pa-0">
+            <!-- DOCUMENTS TAB -->
+            <v-tabs-window-item value="documents" class="ma-1 pa-0">
+              <v-data-table
+                :items="filteredSortedPagedDocuments"
+                :headers="docHeaders"
+                :items-per-page="-1"
+                hide-default-footer
+                class="elevation-1"
+              >
+                <template v-slot:item.title="{ item }">
+                  <a href="#" @click.prevent="viewDocument(item)">{{ item.title }}</a>
+                </template>
+                <template v-slot:item.keywords="{ item }">
+                  <div class="d-flex flex-wrap">
+                    <v-chip
+                      v-for="(kw, i) in item.keywords.slice(0, 8)"
+                      :key="i"
+                      size="x-small"
+                      class="ma-1"
+                    >{{ kw }}</v-chip>
+                    <v-chip
+                      v-if="item.keywords.length > 8"
+                      size="x-small"
+                      class="ma-1"
+                      color="grey"
+                      @click="showAllKeywords(item)"
                     >
-                      {{ result[0] }} • line {{ result[1] }}
-                    </a>
-                    <div class="snippet mt-1" v-html="highlight(result[2])"></div>
+                      +{{ item.keywords.length - 8 }} more
+                    </v-chip>
                   </div>
-                </div>
+                </template>
+              </v-data-table>
+            </v-tabs-window-item>
 
-                <v-card v-if="!indexLoaded" outlined class="mt-8 pa-6 text-center">
-                  <v-icon large color="primary">mdi-information</v-icon>
-                  <div class="mt-4">
-                    Loading search_index.json.gz ...
-                  </div>
-                </v-card>
-              </v-tab-item>
+            <!-- FRAGMENTS SEARCH TAB -->
+            <v-tabs-window-item value="fragments" class="ma-1 pa-0">
+              <v-data-iterator :items="filteredSortedPagedFragments">
+                <template v-slot:default="{ items }">
+                  <!-- :title="`Item ${index} x`" -->
+                  <v-list-item v-for="(item, index) in items" :key="i">
+                    <v-card>
+                      <v-card-title class="text-wrap">
+                        <h5>
+                          <div v-html="markTitle(item)" class="markdown-content ma-0 pa-0 px-3"></div>
+                        </h5>
+                      </v-card-title>
+                      <v-card-text>
+                        <div v-html="markText(item)" class="markdown-content ma-0 pa-0 px-3"></div>
+                        <!-- <a href="#" @click.prevent="viewSearchItem(item)">{{ item.raw.title }}</a> -->
+                        <!-- <font size="-2">
+                          <pre>
+{{ markText(item) }}
+                          </pre>
+                        </font> -->
+                        <!-- <font size="-2">
+                          <pre>
+{{ item }}
+                          </pre>
+                        </font> -->
+                      </v-card-text>
+                    </v-card>
+                  </v-list-item>
+                </template>
+              </v-data-iterator>
+            </v-tabs-window-item>
+          </v-tabs-window>
 
-              <v-tab-item>
-                <v-tabs v-model="alphabetTab" centered>
-                  <v-tab v-for="letter in alphabet" :key="letter" class="custom-tab">{{ letter }}</v-tab>
-                </v-tabs>
-                <v-divider></v-divider>
-                <v-progress-linear v-if="loading" indeterminate color="primary"></v-progress-linear>
+          <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
+            <v-spacer></v-spacer>
+            <v-pagination
+              v-if="settings.tab == 'documents'"
+              v-model="documentsCurrentPage"
+              @update:model-value="saveSettings();"
+              :length="Math.ceil(filteredSortedDocuments.length / settings.documents.pageSize)"
+              :total-visible="$vuetify.display.mdAndUp ? 4 : 1"
+              density="comfortable"
+              show-first-last-page
+              class="mr-8"
+              color="primary"
+            >
+            </v-pagination>
+            <v-pagination
+              v-if="settings.tab == 'fragments'"
+              v-model="fragmentsCurrentPage"
+              @update:model-value="saveSettings();"
+              :length="Math.ceil(filteredSortedFragments.length / settings.fragments.pageSize)"
+              :total-visible="$vuetify.display.mdAndUp ? 4 : 1"
+              density="comfortable"
+              show-first-last-page
+              class="mr-8"
+              color="primary"
+            >
+            </v-pagination>
+            <v-select
+              v-if="settings.tab == 'documents'"
+              v-model="settings.documents.pageSize"
+              @update:model-value="saveSettings();"
+              :items="pageSizes"
+              variant="plain"
+              density="compact"
+              class="mt-4 mr-2"
+              style="max-width: 70px;"
+            ></v-select>
+            <v-select
+              v-if="settings.tab == 'fragments'"
+              v-model="settings.fragments.pageSize"
+              @update:model-value="saveSettings();"
+              :items="pageSizes"
+              variant="plain"
+              density="compact"
+              class="mt-4 mr-2"
+              style="max-width: 70px;"
+            ></v-select>
+          </v-toolbar>
+        </v-container>
+      </v-main>
 
-                <div v-if="keywordsByLetter[alphabet[alphabetTab]] && keywordsByLetter[alphabet[alphabetTab]].length > 0" class="mt-0">
+      <!-- Search Dialog -->
+      <v-dialog v-model="settings.searchDialog" @update:model-value="saveSettings();" max-width="600">
+        <v-card width="380" class="mx-auto">
+          <v-toolbar flat density="compact" class="text-h6">
+            <v-toolbar-title>Search</v-toolbar-title>
+            <v-spacer></v-spacer>
+            <v-btn icon text @click="settings.searchDialog = false; saveSettings();" v-tooltip="'Or ESC'">
+              <v-icon color="primary">mdi-close</v-icon>
+            </v-btn>
+          </v-toolbar>
+          <v-card-text>
+            <v-text-field id="filter" v-model="settings.filter" @input="performKeywordSearch" @click:clear="performKeywordSearch" density="compact" prepend-inner-icon="mdi-magnify" clearable></v-text-field>
+            <v-radio-group v-model="settings.searchType" @update:model-value="applyFilter();" label="Type" inline class="ma-0">
+              <v-radio label="Advanced" value="advanced" v-tooltip="'Search using the MiniSearch.js library'"></v-radio>
+              <!-- <v-radio label="String" value="string" v-tooltip="'Simple string search'"></v-radio> -->
+              <v-radio label="Regex" value="regex" v-tooltip="'Search using Regex patterns'"></v-radio>
+            </v-radio-group>
+            <v-radio-group :disabled="settings.searchType != 'advanced'" v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" label="Fuzzy Level" inline class="ma-0">
+              <v-radio label="Off" value="0"></v-radio>
+              <v-radio label="10%" value="0.1"></v-radio>
+              <v-radio label="20%" value="0.2"></v-radio>
+              <v-radio label="50%" value="0.5"></v-radio>
+            </v-radio-group>
+            <v-label class="v-label theme--light ml-4">Documents</v-label>
+            <v-checkbox-btn v-model="settings.search.readme" @update:model-value="applyFilter();" label="README.md" hide-details v-tooltip="'docs/README.md'"></v-checkbox-btn>
+            <v-checkbox-btn v-model="settings.search.chronicles" @update:model-value="applyFilter();" label="Chronicles" hide-details v-tooltip="'docs/{yyyymmdd}_{topic}.md'"></v-checkbox-btn>
+            <v-checkbox-btn v-model="settings.search.other" @update:model-value="applyFilter();" label="Other .md files" hide-details v-tooltip="'docs/{other}.md'"></v-checkbox-btn>
+          </v-card-text>
+        </v-card>
+      </v-dialog>
 
-                  <div class="d-flex justify-end align-center ma-0 pa-0">
-                    <div class="text-caption grey--text mt-2 mr-5">
-                      {{ currentKeywords.length }} keywords starting with "{{ alphabet[alphabetTab] }}" (page {{ page }} of {{ totalPages }})
-                    </div>
-                    <v-pagination v-model="page" :length="totalPages" :total-visible="7" density="compact"></v-pagination>
-                    <v-select v-model="itemsPerPage" :items="itemsPerPageOptions" density="compact" style="max-width: 70px;"></v-select>
-                  </div>
+      <!-- Document / QA Viewer Dialog -->
+      <v-dialog v-model="viewerDialog" scrollable height="90vh">
+        <v-card>
+          <v-toolbar flat density="compact" class="text-h6">
+            <v-toolbar-title>{{ viewerTitle }}</v-toolbar-title>
+            <v-spacer></v-spacer>
+            <v-btn icon text @click="viewerDialog = false">
+              <v-icon color="primary">mdi-close</v-icon>
+            </v-btn>
+          </v-toolbar>
+          <v-card-text
+            tabindex="0"
+            @keydown.pageup="() => $refs.container.scrollTop -= 200"
+            @keydown.pagedown="() => $refs.container.scrollTop += 200"
+            @keydown.home="() => $refs.container.scrollTop = 0"
+            @keydown.end="() => $refs.container.scrollTop = $refs.container.scrollHeight"
+            ref="container"
+            style="height: calc(90vh - 64px); overflow-y: auto;"
+            class="d-flex justify-center ma-0 pa-0"
+          >
+            <div id="modal-body" v-html="viewerHtml" class="markdown-content ma-0 pa-0 px-3"></div>
+          </v-card-text>
 
-                  <v-list>
-                    <!-- {{ commify0((settings.events.currentPage - 1) * settings.events.itemsPerPage + index + 1) }} -->
-                    <v-list-item v-for="(keyword, i) in paginatedKeywords" :key="i" class="keyword-item" @click="selectKeyword(keyword)">
-                      <v-list-item-title>{{ keyword }}</v-list-item-title>
-                    </v-list-item>
-                  </v-list>
-                </div>
+          <!-- <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn @click="viewerDialog = false">Close</v-btn>
+          </v-card-actions> -->
+        </v-card>
+      </v-dialog>
 
-                <div v-else class="text-center mt-8 grey--text">
-                  No keywords starting with "{{ alphabet[alphabetTab] }}"
-                </div>
+      <v-footer v-if="$vuetify.display.mdAndUp" app border dark class="pa-0">
+        <v-btn href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" color="primary" variant="plain" class="text-none" density="compact">The Bokky Bible v0.95</v-btn>
+        <v-spacer></v-spacer>
+        <span class="mt-0">Co-created by</span>
+        <v-btn href="https://x.com/BokkyPooBah" target="_blank" color="primary" variant="plain" class="text-none pa-1" density="compact">BokkyPooBah</v-btn>
+        <span class="mt-0">and</span>
+        <v-btn href="https://x.com/grok/" target="_blank" color="primary" variant="plain" class="text-none pa-1 pr-3" density="compact">Grok AI</v-btn>
+        <!-- <v-spacer></v-spacer> -->
+        <!-- <span>Powered by Vuetify • Index updated: {{ lastUpdated }}</span> -->
+      </v-footer>
 
-              </v-tab-item>
-            </v-tabs-items>
-          </v-col>
-        </v-row>
-      </v-container>
-    </v-main>
+    </v-app>
+  </div>
 
-    <v-footer app color="primary" dark>
-      <span><a href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" class="file-link font-weight-medium white--text">The Bokky Bible v0.95</a></span>
-      <v-spacer></v-spacer>
-      <span>Co-created by <a href="https://x.com/BokkyPooBah" target="_blank" class="file-link font-weight-medium white--text">BokkyPooBah</a> and <a href="https://x.com/grok/" target="_blank" class="file-link font-weight-medium white--text">GrokAI</a></span>
-      <v-spacer></v-spacer>
-      <span>Powered by Vuetify • Index updated: {{ lastUpdated }}</span>
-    </v-footer>
-  </v-app>
-</div>
+  <script>
+    const { createApp } = Vue
+    const { createVuetify } = Vuetify
+    const OWNER = 'bokkypoobah';
+    const REPO = 'TheBokkyBible';
+    const BRANCH = 'main';
+    let documentsMiniSearch = null;
+    let fragmentsMiniSearch = null;
 
-<!-- Vue & Vuetify -->
-<script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.js"></script>
-
-<script>
-new Vue({
-  el: '#app',
-  vuetify: new Vuetify({ theme: { dark: false } }),
-
-  data: () => ({
-    tab: 1,
-    alphabetTab: 10,
-    alphabet: '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''),
-    keywordsByLetter: {},
-    page: 1,
-    itemsPerPage: 50,
-    searchQuery: '',
-    results: [],
-    index: {},
-    indexLoaded: false,
-    loading: false,
-    lastUpdated: 'never',
-    totalMatches: 0,
-    debounceTimer: null,
-    itemsPerPageOptions: [ 10, 25, 50, 100, 250, 500, 1000 ],
-  }),
-
-  computed: {
-    normalizedQuery() {
-      return this.searchQuery.trim().toLowerCase();
-    },
-    currentKeywords() {
-      return this.keywordsByLetter[this.alphabet[this.alphabetTab]] || [];
-    },
-    paginatedKeywords() {
-      const start = (this.page - 1) * this.itemsPerPage;
-      const end = start + this.itemsPerPage;
-      return this.currentKeywords.slice(start, end);
-    },
-    totalPages() {
-      return Math.ceil(this.currentKeywords.length / this.itemsPerPage);
+    function now() {
+      return moment().format("HH:mm:ss");
     }
-  },
+    function formatLocalTime(t) {
+      return moment.unix(t).format("YYYY-MM-DD HH:mm:ss");
+    }
+    function countHashes(text) {
+      let i = 0;
+      if (text) {
+        while (text.substring(i, i + 1) == "#") {
+          i++;
+        }
+      }
+      return i;
+    }
+    function padLeft(s, l) {
+      while (s.length < l) {
+        s = " " + s;
+      }
+      return s;
+    }
+    function padRight(s, l) {
+      while (s.length < l) {
+        s = s + " ";
+      }
+      return s;
+    }
 
-  methods: {
+    const myCustomLightTheme = {
+      dark: false,
+      colors: {
+        background: '#ffffff',
+        surface: '#ffffff',
+        primary: '#0366d6',
+        'primary-darken-1': '#024ea3',
+        secondary: '#6f42c1',
+        'secondary-darken-1': '#5a349d',
+        error: '#d73a49',
+        info: '#005cc5',
+        success: '#28a745',
+        warning: '#dbab09',
+      },
+      // Apply system font stack globally
+      font: {
+        family: 'system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif'
+      }
+    };
 
-    async loadIndex() {
-      this.loading = true;
-      try {
-        const response = await fetch('search_index.json.gz');
-        // Decompress using native browser API
-        const decompressedStream = response.body.pipeThrough(
-          new DecompressionStream('gzip')
-        );
-        // Convert stream to text
-        const text = await new Response(decompressedStream).text();
-        // Parse JSON
-        const searchIndex = JSON.parse(text);
-        this.index = searchIndex.index || {};
-        if (searchIndex && searchIndex.built) {
-          const date = new Date(searchIndex.built);
-          this.lastUpdated = date.toLocaleString(undefined, {
-            year: 'numeric',
-            month: 'short',
-            day: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit',
-            hour12: false
+    const vuetify = createVuetify({
+      // theme: { defaultTheme: 'light' }
+      theme: { defaultTheme: 'myCustomLightTheme', themes: { myCustomLightTheme } }
+    })
+
+    const app = createApp({
+      data() {
+        return {
+          db: null,
+          documents: [],
+          fragments: [],
+          documentIdIndex: {},
+          fragmentIdIndex: {},
+
+          settings: {
+            tab: "documents",
+            searchString: null,
+            searchType: "advanced",
+            filter: null,
+            fuzzyLevel: "0", // MiniSearch fuzzy level
+            search: {
+              readme: true,
+              chronicles: true,
+              other: true,
+            },
+            documents: {
+              pageSize: 10,
+              sortOption: "scoredsc",
+            },
+            fragments: {
+              pageSize: 25,
+              sortOption: "scoredsc",
+            },
+            searchDialog: false,
+            version: 7,
+          },
+          initialised: false,
+          documentsCurrentPage: 1,
+          fragmentsCurrentPage: 1,
+          filteredDocuments: null,
+          filteredFragments: null,
+          filterTimerId: null,
+          viewerDialog: false,
+          viewerTitle: "",
+          viewerHtml: "",
+          pageSizes: [
+            { value: 10, title: "10" },
+            { value: 25, title: "25" },
+            { value: 50, title: "50" },
+            { value: 100, title: "100" },
+            { value: 500, title: "500" },
+          ],
+          docsSortOptions: [
+            { value: "datedsc", title: "▼ Date" },
+            { value: "dateasc", title: "▲ Date" },
+            { value: "scoredsc", title: "▼ Score" },
+            { value: "scoreasc", title: "▲ Score" },
+          ],
+          searchSortOptions: [
+            { value: "datedsc", title: "▼ Date" },
+            { value: "dateasc", title: "▲ Date" },
+            { value: "scoredsc", title: "▼ Score" },
+            { value: "scoreasc", title: "▲ Score" },
+          ],
+          docHeaders: [
+            { title: "Date", key: "date", sortable: false },
+            { title: "Title", key: "title", sortable: false },
+            { title: "Keywords", key: "keywords", sortable: false }
+          ],
+          searchHeaders: [
+            { title: "Type", key: "type", sortable: false },
+            { title: "Date", key: "date", sortable: false },
+            { title: "Title", key: "title", sortable: false }
+          ],
+          sync: {
+            info: null,
+            completed: null,
+            total: null,
+            halt: false,
+          },
+        }
+      },
+      computed: {
+        filteredSortedDocuments() {
+          let results = [];
+          if (this.filteredDocuments && this.settings.searchType == "advanced") {
+            results = this.filteredDocuments.map(q => ({
+              id: q.id,
+              filename: q.filename,
+              date: q.date,
+              title: q.title,
+              score: q.score,
+              terms: q.terms,
+              queryTerms: q.queryTerms,
+              match: q.match,
+              content: q.content,
+              keywords: q.keywords,
+            }));
+          } else {
+            results = this.documents.map(q => ({
+              id: q.id,
+              filename: q.filename,
+              date: q.date,
+              title: q.title,
+              score: 1,
+              terms: [],
+              queryTerms: [],
+              match: {},
+              content: q.content,
+              keywords: q.keywords,
+            }));
+            if (this.settings.searchType == "regex" && this.settings.filter) {
+              const regex = new RegExp(this.settings.filter, 'i');
+              results = results
+                .filter((i) => { return regex.test(i.title) || regex.test(i.content); });
+            }
+          }
+          if (this.settings.documents.sortOption == "datedsc") {
+            results.sort((a, b) => {
+              return b.id - a.id;
+            });
+          } else if (this.settings.documents.sortOption == "dateasc") {
+            results.sort((a, b) => {
+              return a.id - b.id;
+            });
+          } else if (this.settings.documents.sortOption == "scoredsc") {
+            results.sort((a, b) => {
+              if (a.score == b.score) {
+                return b.id - a.id;
+              } else {
+                return b.score - a.score;
+              }
+            });
+          } else if (this.settings.documents.sortOption == "scoreasc") {
+            results.sort((a, b) => {
+              if (a.score == b.score) {
+                return a.id - b.id;
+              } else {
+                return a.score - b.score;
+              }
+            });
+          }
+          return results;
+        },
+        filteredSortedPagedDocuments() {
+          const start = (this.documentsCurrentPage - 1) * this.settings.documents.pageSize;
+          const results = this.filteredSortedDocuments.slice(start, start + this.settings.documents.pageSize);
+          // console.log(now() + " filteredSortedPagedDocuments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
+          return results;
+        },
+
+        filteredSortedFragments() {
+          let results = [];
+          if (this.filteredFragments && this.settings.searchType == "advanced") {
+            results = this.filteredFragments.map(q => {
+              const documentIndex = this.documentIdIndex[q.docId] || null;
+              const document = documentIndex && this.documents[documentIndex] || null;
+              return {
+                id: q.id,
+                docId: q.docId,
+                docTitle: document && document.title || null,
+                docFilename: document && document.filename || null,
+                date: q.date,
+                lineNumber: q.lineNumber,
+                headingLevel: q.headingLevel,
+                counters: q.counters,
+                type: q.type,
+                title: q.heading,
+                score: q.score,
+                terms: q.terms,
+                queryTerms: q.queryTerms,
+                match: q.match,
+                text: q.text,
+              };
+            });
+          } else if (this.fragments) {
+            results = this.fragments
+              .filter((result) => { return (result.docType === "readme" && this.settings.search.readme) || (result.docType === "chronicle" && this.settings.search.chronicles) || (result.docType === "other" && this.settings.search.other); })
+              .map(q => {
+                const documentIndex = this.documentIdIndex[q.docId] || null;
+                const document = documentIndex && this.documents[documentIndex] || null;
+                return {
+                  id: q.id,
+                  docId: q.docId,
+                  docTitle: document && document.title || null,
+                  docFilename: document && document.filename || null,
+                  date: q.date,
+                  lineNumber: q.lineNumber,
+                  headingLevel: q.headingLevel,
+                  counters: q.counters,
+                  type: q.type,
+                  title: q.heading,
+                  score: 1,
+                  terms: [],
+                  queryTerms: [],
+                  match: {},
+                  text: q.text,
+                };
+              });
+            if (this.settings.searchType == "regex" && this.settings.filter) {
+              const regex = new RegExp(this.settings.filter, 'i');
+              results = results
+                .filter((i) => { return regex.test(i.title) || regex.test(i.text); });
+            }
+          }
+          if (this.settings.fragments.sortOption == "datedsc") {
+            results.sort((a, b) => {
+              return b.id - a.id;
+            });
+          } else if (this.settings.fragments.sortOption == "dateasc") {
+            results.sort((a, b) => {
+              return a.id - b.id;
+            });
+          } else if (this.settings.fragments.sortOption == "scoredsc") {
+            results.sort((a, b) => {
+              if (a.score == b.score) {
+                return b.id - a.id;
+              } else {
+                return b.score - a.score;
+              }
+            });
+          } else if (this.settings.fragments.sortOption == "scoreasc") {
+            results.sort((a, b) => {
+              if (a.score == b.score) {
+                return a.id - b.id;
+              } else {
+                return a.score - b.score;
+              }
+            });
+          }
+          return results;
+        },
+        filteredSortedPagedFragments() {
+          const start = (this.fragmentsCurrentPage - 1) * this.settings.fragments.pageSize;
+          const results = this.filteredSortedFragments.slice(start, start + this.settings.fragments.pageSize);
+          // console.log(now() + " filteredSortedPagedFragments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
+          return results;
+        },
+      },
+      methods: {
+        async initDB() {
+          this.db = new Dexie('BokkyBibleSearch')
+          this.db.version(4).stores({
+            documents: '++id, filename, date, title, *keywords',
+            fragments: '++id, docId, date, type, heading, text',
+            metadata: 'key'
+          }).upgrade(tx => {
+            console.log(now() + " initDB - Upgrading IndexedDB and clearing old tables");
+            for (const table of tx.storeNames) {
+              tx.table(table).clear();
+            }
           });
-        } else {
-          this.lastUpdated = "Unknown";
+          await this.db.open();
+          console.log(now() + " initDB - IndexedDB ready");
+        },
+
+        async getLatestCommit() {
+          const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits/${BRANCH}`);
+          const data = await res.json();
+          return { sha: data && data.sha || null, timestamp: data && data.commit && data.commit.author && data.commit.author.date && moment(data.commit.author.date).unix() || null };
+        },
+
+        async listMarkdownFiles() {
+          const url = `https://api.github.com/repos/${OWNER}/${REPO}/git/trees/${BRANCH}?recursive=1`;
+          const res = await fetch(url);
+          const data = await res.json();
+          return data.tree
+            .filter(item => item.type === 'blob' && item.path.endsWith('.md') && /^docs\//.test(item.path) && !/GlobalTableOfContent/.test(item.path))
+            .map(item => ({ path: item.path, name: item.path.substring(5,), sortKey: item.path === "docs/README.md" ? 0 : (/^docs\/\d{8}_/.test(item.path) ? 2 : 1) /*, slug: item.path.replace(/\.md$/, '')*/ }))
+            .sort((a,b) => (a.sortKey + a.path).localeCompare(b.sortKey + b.path));
+        },
+
+        async loadAllFiles() {
+          // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
+          const files = await this.listMarkdownFiles();
+
+          await this.db.documents.clear();
+          await this.db.fragments.clear();
+
+          this.sync.total = files.length;
+          this.sync.completed = 0;
+          for (const file of files) {
+            this.sync.info = "Processing " + file.path;
+            const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
+            const text = await (await fetch(rawUrl)).text()
+            await this.processFile(file, text);
+            this.sync.completed++;
+          }
+          this.refreshData();
+        },
+
+        async processFile(file, text) {
+          const isChronicle = /^\d{8}_/.test(file.name);
+          // const date = isChronicle ? moment(file.name.split('_')[0], "YYYYMMDD").unix() : null;
+          // console.log(now() + " processFile - isChronicle: " + isChronicle + ", file.path: " + file.path + ", date: " + (date && date.toString() || "") + " " + (date && formatLocalTime(date) || file.name));
+          const date = isChronicle ? file.name.split('_')[0] : null;
+          console.log(now() + " processFile - isChronicle: " + isChronicle + ", file.path: " + file.path + ", date: " + (date || file.name));
+
+          const lines = text.split("\n");
+
+          let title = null;
+          for (let line of lines) {
+            if (line.startsWith('## ')) {
+              title = line.replace('## ', '').trim();
+              break;
+            }
+          }
+          const docType = isChronicle ? "chronicle" : (file.name == "README.md" ? "readme" : "other");
+          const keywords = this.extractKeywords(text);
+          const doc = {
+            docType,
+            filename: file.name,
+            date: date || file.name,
+            title: title || file.name,
+            content: text,
+            keywords: [...new Set(keywords)],
+          };
+          const docId = await this.db.documents.add(doc);
+
+          let inCodeBlock = false;
+          let fragments = [];
+          let currentFragment = null;
+          let lineNumber = 0;
+          let counters = [ 0, 0, 0 ];
+          let previousHeading = null;
+          for (const [index, line] of lines.entries()) {
+            lineNumber = index + 1;
+            if (line.trim().startsWith('```')) {
+              inCodeBlock = !inCodeBlock;
+            }
+            if (inCodeBlock) {
+              currentFragment.text += line + "\n";
+              continue;
+            }
+            if (line.match(/^#{1,3}\s+(.+)$/)) {
+              if (currentFragment) {
+                currentFragment.text = currentFragment.text
+                  .replace(/<br\s*\/>\s*---\s*<table[^>]*>[\s\S]*?<\/table>\s*$/, "")
+                  .replace(/<br\s*\/>\s*---\s*$/, "")
+                  .replace(/<br\s*\/>\s*$/, "")
+                  .trim();
+                fragments.push(currentFragment);
+              }
+              const headingLevel = countHashes(line);
+              if (headingLevel > 0 && headingLevel <= 3) {
+                // TODO: Could add check that lower level is not being set for the first time if the higher levels have been used
+                counters[headingLevel - 1]++;
+                for (let i = headingLevel + 1; i <= 3; i++) {
+                  counters[i - 1] = 0;
+                }
+              }
+              const heading = line.replace(/^#{1,3}\s+/gm, "");
+              let type = "section";
+              if (previousHeading == null) {
+                // First heading
+                if (isChronicle) {
+                  type = "heading";
+                } else if (heading.match(/^\s*Global Table Of Content\s*$/i)) {
+                  type = "toc";
+                }
+                previousHeading = heading;
+              } else {
+                if (isChronicle) {
+                  if (heading.match(/^\s*Table Of Content\s*$/i)) {
+                    type = "toc";
+                  } else {
+                    type = "qa";
+                  }
+                }
+              }
+              currentFragment = {
+                lineNumber,
+                heading,
+                headingLevel,
+                counters: [ ...counters ],
+                type,
+                text: "",
+              };
+            } else {
+              if (currentFragment) {
+                currentFragment.text += line + "\n";
+              }
+            }
+          }
+          if (currentFragment) {
+            currentFragment.text = currentFragment.text
+              .replace(/<br\s*\/>\s*---\s*<table[^>]*>[\s\S]*?<\/table>\s*$/, "")
+              .replace(/<br\s*\/>\s*---\s*$/, "")
+              .replace(/<br\s*\/>\s*$/, "")
+              .trim();
+            fragments.push(currentFragment);
+          }
+          console.log(now() + " line# | level |  l1 |  l2 |  l3 | type    | heading                                            | text                                               | ");
+          console.log(now() + " ----- | ----- | --- | --- | --- | ------- | -------------------------------------------------- | -------------------------------------------------- | ");
+          for (let fragment of fragments) {
+            console.log(now() + " " +
+              padLeft("" + fragment.lineNumber, 5) + " | " +
+              padLeft("" + fragment.headingLevel, 5) + " | " +
+              padLeft("" + fragment.counters[0], 3) + " | " +
+              padLeft("" + fragment.counters[1], 3) + " | " +
+              padLeft("" + fragment.counters[2], 3) + " | " +
+              padRight(fragment.type, 7) + " | " +
+              padRight(fragment.heading.substring(0, 50), 50) + " | " +
+              padRight(fragment.text.replace(/\n/g, "↵").substring(0, 50), 50) + " | "
+            );
+            await this.db.fragments.add({
+              docId,
+              docType,
+              date: date || file.name,
+              lineNumber: fragment.lineNumber,
+              headingLevel: fragment.headingLevel,
+              counters: fragment.counters,
+              type: fragment.type,
+              heading: fragment.heading,
+              text: fragment.text,
+            });
+          }
+        },
+
+        // async testIt() {
+        //   console.log(now() + " testIt");
+        //   // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
+        //   const files = (await this.listMarkdownFiles());
+        //   await this.db.documents.clear();
+        //   await this.db.fragments.clear();
+        //   this.sync.total = files.length;
+        //   this.sync.completed = 0;
+        //   for (const file of files) {
+        //     this.sync.info = "Processing " + file.path;
+        //     const rawUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${file.path}`
+        //     const text = await (await fetch(rawUrl)).text()
+        //     await this.processFile(file, text);
+        //     this.sync.completed++;
+        //   }
+        //   this.sync.info = "Refreshing data";
+        //   this.refreshData();
+        //   this.sync.info = null;
+        // },
+
+        extractKeywords(text) {
+          return text.toLowerCase()
+            .replace(/[^\w\s]/g, ' ')
+            .split(/\s+/)
+            .filter(w => w.length > 3)
+        },
+
+        showAllKeywords(item) {
+          const all = item.keywords.join(' • ')
+          alert(`All keywords for this item:\n\n${all}`)
+          // Or upgrade to a nice v-dialog if you want fancier
+        },
+
+        async refreshData() {
+          this.documents = await this.db.documents.toArray();
+          this.fragments = await this.db.fragments.toArray();
+          this.documentIdIndex = this.documents.reduce((acc, record, index) => {
+            acc[record.id] = index;
+            return acc;
+          }, {});
+          // console.log(now() + " refreshData - this.documentIdIndex: " + JSON.stringify(this.documentIdIndex, null, 2));
+          this.fragmentIdIndex = this.fragments.reduce((acc, record, index) => {
+            acc[record.id] = index;
+            return acc;
+          }, {});
+          // console.log(now() + " refreshData - this.fragmentIdIndex: " + JSON.stringify(this.fragmentIdIndex, null, 2));
+
+          // Index all documents
+          console.log(now() + " refreshData - documents start: " + this.documents.length);
+          documentsMiniSearch = new MiniSearch({
+            fields: ['title', 'content'], // fields to index for full-text search
+            storeFields: ['docType', 'filename', 'date', 'title', 'content', 'keywords'] // fields to return with search results
+          });
+          documentsMiniSearch.addAll(this.documents);
+          console.log(now() + " refreshData - documents end: " + this.documents.length);
+
+          fragmentsMiniSearch = new MiniSearch({
+            fields: ['heading', 'text'], // fields to index for full-text search
+            storeFields: ['docId', 'docType', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text'] // fields to return with search results
+          });
+
+          // Index all fragments
+          console.log(now() + " refreshData - index start: " + this.fragments.length);
+          fragmentsMiniSearch.addAll(this.fragments);
+          console.log(now() + " refreshData - index end: " + this.fragments.length);
+
+          await this.applyFilter();
+
+          // Word frequency - from search.brave.com
+          // const importantWords = [];
+          // for (const [term, fieldMap] of fragmentsMiniSearch._index) {
+          //   let totalFreq = 0;
+          //   for (const [field, docMap] of fieldMap) {
+          //     for (const [docId, freq] of docMap) {
+          //       totalFreq += freq;
+          //     }
+          //   }
+          //   importantWords.push({ term, frequency: totalFreq });
+          // }
+          // // Sort by frequency
+          // importantWords.sort((a, b) => b.frequency - a.frequency);
+          // console.log(now() + " refreshData - importantWords: " + JSON.stringify(importantWords, null, 2));
+
+          // // // Search with default options
+          // // let results = fragmentsMiniSearch.search('youtube angels');
+          // let results = fragmentsMiniSearch.search(MiniSearch.wildcard);
+          // // // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
+          // // //   filter: (result) => result.type === 'heading'
+          // // // });
+          // // // Does not work let results = fragmentsMiniSearch.search(MiniSearch.wildcard).map(result => result.storeFields);
+          // this.filteredFragments = results.map(q => ({ type: 'qa', date: q.date, title: q.heading, text: q.text, id: q.id, score: q.score, docId: q.docId, lineNumber: q.lineNumber, headingLevel: q.headingLevel, counters: q.counters, terms: q.terms, queryTerms: q.queryTerms, match: q.match }));
+          // // console.log(now() + " refreshData - search results: " + JSON.stringify(results[0], null, 2));
+          //
+          // // Notes
+          // // miniSearch.search({ combineWith: 'OR', queries: ['apple', 'pear'] }) // Returns documents with "apple" OR "pear"
+          // // miniSearch.search({ combineWith: 'AND', queries: [ 'zen', { combineWith: 'OR', queries: ['motorcycle', 'archery'] } ] }) // Returns documents with "zen" AND ("motorcycle" OR "archery")
+          // // miniSearch.search('zen', { fields: ['title'] })    // Search specific field(s)
+          // // miniSearch.search('zen', { boost: { title: 2 } })  // Boost title field
+          // // miniSearch.search('moto', { prefix: true })        // Prefix search (so that 'moto' will match 'motorcycle')
+          // // miniSearch.search('ismael', { fuzzy: 0.2 })        // Fuzzy search, in this example, with a max edit distance of 0.2 * term length.
+
+        },
+
+        async checkForUpdates() {
+          const meta = await this.db.metadata.get('lastCommit');
+          console.log(now() + " checkForUpdates - previous sha: " + (meta && meta.sha || "(none)") + ", timestamp: " + (meta && meta.timestamp && (meta.timestamp + " " + formatLocalTime(meta.timestamp)) || "(none)"));
+          this.sync.info = "Getting latest information";
+          this.sync.total = null;
+          const latestCommit = await this.getLatestCommit();
+          this.sync.completed = 1;
+          console.log(now() + " checkForUpdates - latest   sha: " + (latestCommit && latestCommit.sha || "(none)") + ", timestamp: " + (latestCommit && latestCommit.timestamp && (latestCommit.timestamp + " " + formatLocalTime(latestCommit.timestamp)) || "(none)"));
+          const testing = true;
+          if (!meta || meta.sha !== latestCommit.sha || testing) {
+            console.log(now() + " checkForUpdates - New content detected – re-indexing...");
+            await this.loadAllFiles();
+            await this.db.metadata.put({ key: 'lastCommit', sha: latestCommit.sha, timestamp: latestCommit.timestamp });
+          } else {
+            console.log(now() + " checkForUpdates - Already up to date");
+          }
+          this.sync.info = null;
+        },
+
+        markTitle(item) {
+          const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("heading"));
+          const safeText = item.raw.title.replace(/<script/gi, '&lt;script');
+          const innerHTML = marked.parse(safeText);
+          if (this.settings.searchType == "advanced") {
+            if (matchingKeywords.length > 0) {
+              const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
+              return innerHTML.replace(regex, '<mark>$1</mark>');
+            }
+          } else {
+            if (this.settings.filter) {
+              const regex = new RegExp(`(${this.settings.filter})`, 'gi');
+              return innerHTML.replace(regex, '<mark>$1</mark>');
+            }
+          }
+          return innerHTML;
+        },
+
+        markText(item) {
+          marked.setOptions({
+            highlight: function(code, lang) {
+              if (lang && hljs.getLanguage(lang)) {
+                return hljs.highlight(code, {language: lang, ignoreIllegals: true }).value;
+              }
+              return hljs.highlightAuto(code).value;
+            }
+          });
+          const safeText = item.raw.text.replace(/<script/gi, '&lt;script');
+          const innerHTML = marked.parse(safeText);
+          const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("text"));
+          if (this.settings.searchType == "advanced") {
+            if (matchingKeywords.length > 0) {
+              const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
+              return innerHTML.replace(regex, '<mark>$1</mark>');
+            }
+          } else {
+            if (this.settings.filter) {
+              const regex = new RegExp(`(${this.settings.filter})`, 'gi');
+              return innerHTML.replace(regex, '<mark>$1</mark>');
+            }
+          }
+          return innerHTML;
+        },
+
+        async viewDocument(doc) {
+          this.viewerTitle = doc.title;
+          // Sanitize before parsing
+          const safeContent = doc.content.replace(/<script/gi, '&lt;script');
+          this.viewerHtml = marked.parse(safeContent);
+          this.viewerDialog = true;
+          await Vue.nextTick();
+          // await this.scrollToHash("#httpsyoutubeiq0xjcj1srw-nat-king-cole-nature-boy-am-i-a-nature-boy");
+          // External links in new tab
+          // document.querySelectorAll('#modal-body a[href^="http"]').forEach(a => {
+          //   a.target = '_blank';
+          //   a.rel = 'noopener noreferrer';
+          // });
+
+          // // Inside your Vue component (e.g., using <script setup>)
+          document.querySelectorAll('#modal-body a').forEach(a => {
+            const href = a.getAttribute('href');
+            // console.log(now() + " viewDocument - a: " + JSON.stringify(a) + ", href: " + JSON.stringify(href));
+
+            if (href) {
+              if (href.startsWith("http")) {
+                a.target = '_blank';
+                a.rel = 'noopener noreferrer';
+              } else if (!href.startsWith("#")) {
+                a.addEventListener('click', (event) => {
+                  event.preventDefault();
+                  // Execute your Vuetify/Vue function
+                  // console.log(now() + " viewDocument - Custom Vuetify function triggered for:" + href);
+                  // Example: navigate or emit event
+                  // router.push('/some-route') or emit('custom-event', href)
+                });
+              }
+            }
+            if (href && !href.startsWith('http') && !href.startsWith('#')) {
+              a.addEventListener('click', (event) => {
+                event.preventDefault();
+                // Execute your Vuetify/Vue function
+                console.log(now() + " viewDocument - Custom Vuetify function triggered for: " + href);
+                // Example: navigate or emit event
+                // router.push('/some-route') or emit('custom-event', href)
+              });
+            }
+          });
+
+        },
+
+        viewQA(qa) {
+          console.log(now() + " viewQA - qa: " + JSON.stringify(qa, null, 2));
+          this.viewerTitle = qa.heading;
+          const safeAnswer = qa.text.replace(/<script/gi, '&lt;script');
+          this.viewerHtml = `<h3>${qa.heading}</h3>\n\n${marked.parse(safeAnswer)}`;
+          this.viewerDialog = true;
+          // External links in new tab
+          // document.querySelectorAll('#modal-body a[href^="http"]').forEach(a => {
+          //   a.target = '_blank';
+          //   a.rel = 'noopener noreferrer';
+          // });
+        },
+        async performKeywordSearch() {
+          clearTimeout(this.filterTimerId);
+          this.filterTimerId = setTimeout(async () => {
+            await this.applyFilter();
+          }, 750);
+        },
+
+        async applyFilter() {
+          // console.log(now() + " applyFilter - settings.filter: '" + this.settings.filter + "', fuzzyLevel: " + this.settings.fuzzyLevel);
+          if (this.settings.filter) {
+            this.filteredDocuments = documentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, {
+              fuzzy: this.settings.fuzzyLevel,
+              filter: (result) => { return (result.docType === "readme" && this.settings.search.readme) || (result.docType === "chronicle" && this.settings.search.chronicles) || (result.docType === "other" && this.settings.search.other); },
+            });
+            this.filteredFragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, {
+              fuzzy: this.settings.fuzzyLevel,
+              filter: (result) => { return (result.docType === "readme" && this.settings.search.readme) || (result.docType === "chronicle" && this.settings.search.chronicles) || (result.docType === "other" && this.settings.search.other); },
+            });
+          } else {
+            this.filteredDocuments = null;
+            this.filteredFragments = null;
+          }
+
+          // let fragments = fragmentsMiniSearch.search(this.settings.filter || MiniSearch.wildcard, { fuzzy: 0.2 });
+          // let results = fragmentsMiniSearch.search(MiniSearch.wildcard, {
+          //   filter: (result) => result.type === 'heading'
+          // });
+          // console.log(now() + " applyFilter - fragments: " + JSON.stringify(fragments.slice(0, 10), null, 2));
+          // this.filteredFragments = fragments.map(q => ({
+          //   id: q.id,
+          //   docId: q.docId,
+          //   date: q.date,
+          //   lineNumber: q.lineNumber,
+          //   headingLevel: q.headingLevel,
+          //   counters: q.counters,
+          //   type: q.type,
+          //   title: q.heading,
+          //   text: q.text,
+          //   score: q.score,
+          //   terms: q.terms,
+          //   queryTerms: q.queryTerms,
+          //   match: q.match
+          // }));
+
+          // if (!this.settings.filter) return
+          // const term = this.settings.filter.toLowerCase()
+          // const docMatches = await this.db.documents
+          //   .filter(doc => doc.keywords.some(k => k.includes(term)) || doc.title.toLowerCase().includes(term))
+          //   .toArray()
+          // const qaMatches = await this.db.qas
+          //   .filter(qa => qa.keywords.some(k => k.includes(term)) || qa.question.toLowerCase().includes(term))
+          //   .toArray()
+          // this.filteredFragments = [
+          //   ...docMatches.map(d => ({ type: 'document', date: d.date, title: d.title, id: d.id })),
+          //   ...qaMatches.map(q => ({ type: 'qa', date: q.date, title: q.question, id: q.id }))
+          // ]
+          this.documentsCurrentPage = 1
+          this.fragmentsCurrentPage = 1
+          this.saveSettings(); // TODO: May be run on startup
+        },
+
+        async viewSearchItem(item) {
+          if (item.type === 'document') {
+            this.db.documents.get(item.id).then(doc => this.viewDocument(doc))
+          } else {
+            // this.db.qas.get(item.id).then(qa => this.viewQA(qa))
+            this.db.fragments.get(item.id).then(fragment => this.viewQA(fragment))
+          }
+        },
+
+        async scrollToHash(hash) {
+          console.log(now() + " scrollToHash hash: " + hash);
+          await Vue.nextTick();
+
+          const el = document.querySelector(hash);
+          if (el) {
+            el.scrollIntoView({
+              behavior: 'smooth',
+              block:    'start'     // or 'center', 'nearest'
+            });
+          }
+        },
+
+        saveSettings() {
+          console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
+          localStorage.searchQASettings = JSON.stringify(this.settings);
+        },
+      },
+      async mounted() {
+        if ('searchQASettings' in localStorage) {
+          const tempSettings = JSON.parse(localStorage.searchQASettings);
+          if ('version' in tempSettings && tempSettings.version == this.settings.version) {
+            this.settings = tempSettings;
+            // console.log(now() + " mounted - this.settings: " + JSON.stringify(this.settings, null, 2));
+          }
         }
-        this.groupKeywords();
-        this.indexLoaded = true;
-        console.log('✅ Search index loaded successfully!', searchIndex);
-      } catch (err) {
-        console.error('❌ Failed to load gzipped search index:', err);
+        Vuetify.useHotkey('cmd+k', async () => {
+          // console.log(now() + " mounted - Vuetify.useHotkey cmd+k => search dialog");
+          this.settings.searchDialog = !this.settings.searchDialog;
+          this.saveSettings();
+        });
+        Vuetify.useHotkey('ctrl+k', async () => {
+          // console.log(now() + " mounted - Vuetify.useHotkey ctrl+k => search dialog");
+          this.settings.searchDialog = !this.settings.searchDialog;
+          this.saveSettings();
+        });
+        await this.initDB()
+        // Create metadata if missing
+        // const meta = await this.db.metadata.get('lastUpdated')
+        // if (!meta) await this.db.metadata.put({ key: 'lastUpdated', value: Date.now() })
+        // await this.loadAllFiles()
+        await this.refreshData();
+        this.initialised = true;
       }
-      this.loading = false;
-    },
+    })
 
-    groupKeywords() {
-      const keywords = Object.keys(this.index).sort();
-      this.keywordsByLetter = {};
-      keywords.forEach(keyword => {
-        const firstLetter = keyword.charAt(0).toUpperCase();
-        if (!this.keywordsByLetter[firstLetter]) {
-          this.keywordsByLetter[firstLetter] = [];
-        }
-        this.keywordsByLetter[firstLetter].push(keyword);
-      });
-      this.alphabet.forEach(letter => {
-        if (!this.keywordsByLetter[letter]) {
-          this.keywordsByLetter[letter] = [];
-        }
-      });
-    },
-
-
-    selectKeyword(keyword) {
-      this.searchQuery = keyword;
-      this.tab = 0;
-      this.search();
-    },
-
-    search() {
-      if (!this.normalizedQuery) {
-        this.results = [];
-        this.totalMatches = 0;
-        return;
-      }
-
-      this.loading = true;
-      const words = this.normalizedQuery.split(/\s+/).filter(w => w);
-
-      let matches = [];
-      const seen = new Set();
-
-      // Simple AND search across words
-      for (const word of words) {
-        const hits = this.index[word] || [];
-        if (matches.length === 0) {
-          matches = hits;
-        } else {
-          const keep = new Set(matches.map(m => `${m[0]}:${m[1]}`));
-          matches = hits.filter(h => keep.has(`${h[0]}:${h[1]}`));
-        }
-      }
-
-      // Deduplicate and sort by file + line
-      matches = [...new Map(matches.map(m => [`${m[0]}:${m[1]}`, m])).values()];
-      matches.sort((a, b) => a[0].localeCompare(b[0]) || a[1] - b[1]);
-
-      this.results = matches;
-      this.totalMatches = matches.length;
-      this.loading = false;
-    },
-
-    highlight(text) {
-      // Early return if no query or text is falsy/empty
-      if (!this.normalizedQuery.trim() || !text) {
-        return text || '';
-      }
-
-      // Escape special regex chars in the query terms to treat them literally
-      const terms = this.normalizedQuery
-        .split(/\s+/)
-        .filter(t => t.trim())
-        .map(term => term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-
-      if (terms.length === 0) return text;
-
-      const regex = new RegExp(`(${terms.join('|')})`, 'gi');
-      return text.replace(regex, '<mark>$1</mark>');
-    },
-
-    debouncedSearch() {
-      clearTimeout(this.debounceTimer);
-      this.debounceTimer = setTimeout(() => this.search(), 350);
-    },
-
-    refreshIndex() {
-      this.loadIndex().then(() => this.search());
-    }
-  },
-
-  watch: {
-    alphabetTab() {
-      this.page = 1;
-    }
-  },
-
-  created() {
-    this.loadIndex();
-  }
-});
-</script>
+    app.use(vuetify)
+    app.mount('#app')
+  </script>
 </body>
 </html>
