@@ -74,7 +74,8 @@
   <div id="app">
     <v-app>
       <v-app-bar color="primary-outline" density="compact">
-        <v-app-bar-title>The Bokky Bible Search</v-app-bar-title>
+        <img src="images/fknchad_FkqVTzBaUAAiE8x_nobg.png" alt="Logo" height="40" width="40" class="ma-0 ml-2 pa-0"></img>
+        <v-app-bar-title class="ma-0 pa-0">The Bokky Bible Search</v-app-bar-title>
         <v-spacer></v-spacer>
         <v-btn :disabled="sync.info != null" @click="checkForUpdates" text size="large" color="primary" variant="text" class="text-none">
           <v-icon>mdi-refresh-circle</v-icon>
@@ -86,9 +87,9 @@
         </v-btn> -->
         <v-progress-circular v-if="sync.info != null" color="primary" :model-value="sync.total ? (parseInt(sync.completed * 100 / sync.total)) : 0" :size="30" :width="6" v-tooltip="sync.completed + (sync.total ? ('/' + sync.total) : '') + ': ' + sync.info"></v-progress-circular>
         <v-spacer></v-spacer>
-        <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary" grow>
-          <v-tab value="documents" class="text-none mx-0 px-0">Documents</v-tab>
-          <v-tab value="fragments" class="text-none mx-0 px-0">Fragments</v-tab>
+        <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary">
+          <v-tab value="documents" class="text-none"><v-icon icon="mdi-file-document-multiple-outline" class="mr-2"></v-icon>Documents</v-tab>
+          <v-tab value="fragments" class="text-none"><v-icon icon="mdi-text-box-multiple-outline" class="mr-2"></v-icon>Fragments</v-tab>
         </v-tabs>
       </v-app-bar>
 
