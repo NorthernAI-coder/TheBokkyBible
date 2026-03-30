@@ -345,7 +345,7 @@
       <!-- Search Dialog -->
       <!-- <v-dialog v-model="settings.searchDialog" @update:model-value="saveSettings();"> -->
       <v-dialog v-model="settings.searchDialog" @update:model-value="saveSettings();" max-width="600">
-        <v-card width="500" class="mx-auto">
+        <v-card width="600" class="mx-auto">
         <!-- <v-card class="mx-auto"> -->
           <v-toolbar flat density="compact" class="text-h6">
             <v-toolbar-title>Search</v-toolbar-title>
@@ -361,7 +361,7 @@
                   <label for="filter">Search:</label>
                 </v-col>
                 <v-col cols="8">
-                  <v-text-field id="filter" v-model="settings.filter" variant="outlined" density="compact"></v-text-field>
+                  <v-text-field id="filter" v-model="settings.filter" @input="performKeywordSearch" @click:clear="performKeywordSearch" variant="outlined" density="compact"></v-text-field>
                 </v-col>
               </v-row>
               <!-- <v-row align="start" class="ma-0 pa-0"> -->
@@ -378,8 +378,12 @@
                   <label for="filter">Fuzzy Level:</label>
                 </v-col>
                 <v-col cols="8">
-                  <!-- TODO: Radio button: Fuzzy Level: Off, 10%, 20%, 50% -->
-                  <!-- <v-text-field id="filter" v-model="settings.filter" variant="outlined" density="compact"></v-text-field> -->
+                  <v-radio-group v-model="settings.fuzzyLevel" @update:model-value="applyFilter();" inline class="ma-0">
+                    <v-radio label="Off" value="0"></v-radio>
+                    <v-radio label="10%" value="0.1"></v-radio>
+                    <v-radio label="20%" value="0.2"></v-radio>
+                    <v-radio label="50%" value="0.5"></v-radio>
+                  </v-radio-group>
                 </v-col>
               </v-row>
               <v-row align="start" class="ma-0 pa-0">
@@ -387,12 +391,12 @@
                   <label for="filter">Documents:</label>
                 </v-col>
                 <v-col cols="8">
-                  <!-- TODO: Check boxes: Documents: README.md, {other}.mds, yyyymmdd_{chronicles}.md -->
-                  <!-- <v-text-field id="filter" v-model="settings.filter" variant="outlined" density="compact"></v-text-field> -->
+                  <v-checkbox-btn v-model="settings.search.readme" @update:model-value="applyFilter();" label="README.md" hide-details></v-checkbox-btn>
+                  <v-checkbox-btn v-model="settings.search.chronicles" @update:model-value="applyFilter();" label="Chronicles" hide-details></v-checkbox-btn>
+                  <v-checkbox-btn v-model="settings.search.other" @update:model-value="applyFilter();" label="Other .md files" hide-details></v-checkbox-btn>
                 </v-col>
               </v-row>
             </v-container>
-
 
 
             <!-- <v-text-field v-model.trim="settings.filter" label="Label" density="comfortable" clearable></v-text-field> -->
