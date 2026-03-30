@@ -971,20 +971,17 @@
           const safeText = item.raw.title.replace(/<script/gi, '&lt;script');
           const innerHTML = marked.parse(safeText);
           if (this.settings.searchType == "advanced") {
-            if (matchingKeywords.length == 0) {
-              return innerHTML;
-            } else {
+            if (matchingKeywords.length > 0) {
               const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
               return innerHTML.replace(regex, '<mark>$1</mark>');
             }
           } else {
-            if (!this.settings.filter) {
-              return innerHTML;
-            } else {
+            if (this.settings.filter) {
               const regex = new RegExp(`(${this.settings.filter})`, 'gi');
               return innerHTML.replace(regex, '<mark>$1</mark>');
             }
           }
+          return innerHTML;
         },
 
         markText(item) {
@@ -1000,20 +997,17 @@
           const innerHTML = marked.parse(safeText);
           const matchingKeywords = Object.keys(item.raw.match).filter(key => item.raw.match[key].includes("text"));
           if (this.settings.searchType == "advanced") {
-            if (matchingKeywords.length == 0) {
-              return innerHTML;
-            } else {
+            if (matchingKeywords.length > 0) {
               const regex = new RegExp(`(${matchingKeywords.join('|')})`, 'gi');
               return innerHTML.replace(regex, '<mark>$1</mark>');
             }
           } else {
-            if (!this.settings.filter) {
-              return innerHTML;
-            } else {
+            if (this.settings.filter) {
               const regex = new RegExp(`(${this.settings.filter})`, 'gi');
               return innerHTML.replace(regex, '<mark>$1</mark>');
             }
           }
+          return innerHTML;
         },
 
         async viewDocument(doc) {
