@@ -78,8 +78,8 @@
         <v-app-bar-title class="ma-0 pa-0">The Bokky Bible Search</v-app-bar-title>
         <v-spacer></v-spacer>
         <v-btn :disabled="sync.info != null" @click="checkForUpdates" text size="large" color="primary" variant="text" class="text-none">
-          <v-icon>mdi-refresh-circle</v-icon>
-          Refresh
+          <v-icon>mdi-refresh</v-icon>
+          Sync
         </v-btn>
         <!-- <v-btn v-if="sync.info == null" :disabled="sync.info != null" @click="testIt" text size="large" color="secondary" variant="text" class="text-none">
           <v-icon>mdi-emoticon-cool-outline</v-icon>
@@ -88,7 +88,7 @@
         <v-progress-circular v-if="sync.info != null" color="primary" :model-value="sync.total ? (parseInt(sync.completed * 100 / sync.total)) : 0" :size="30" :width="6" v-tooltip="sync.completed + (sync.total ? ('/' + sync.total) : '') + ': ' + sync.info"></v-progress-circular>
         <v-spacer></v-spacer>
         <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary">
-          <v-tab value="documents" class="text-none"><v-icon icon="mdi-file-document-multiple-outline" class="mr-2"></v-icon>Documents</v-tab>
+          <v-tab value="documents" class="text-none"><v-icon icon="mdi-file-document-multiple-outline" class="mr-2"></v-icon>{{ $vuetify.display.mdAndUp ? "Documents" : "Docs" }}</v-tab>
           <v-tab value="fragments" class="text-none"><v-icon icon="mdi-text-box-multiple-outline" class="mr-2"></v-icon>Fragments</v-tab>
         </v-tabs>
       </v-app-bar>
@@ -355,7 +355,7 @@
         </v-card>
       </v-dialog>
 
-      <v-footer app border dark class="pa-0">
+      <v-footer v-if="$vuetify.display.mdAndUp" app border dark class="pa-0">
         <v-btn href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" color="primary" variant="plain" class="text-none" density="compact">The Bokky Bible v0.95</v-btn>
         <v-spacer></v-spacer>
         <span class="mt-0">Co-created by</span>
