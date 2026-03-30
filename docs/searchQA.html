@@ -1228,12 +1228,14 @@
           }
         }
         Vuetify.useHotkey('cmd+k', async () => {
-          console.log(now() + " mounted - Vuetify.useHotkey cmd+k => refreshData (later for search)");
-          await this.refreshData();
+          // console.log(now() + " mounted - Vuetify.useHotkey cmd+k => search dialog");
+          this.settings.searchDialog = !this.settings.searchDialog;
+          this.saveSettings();
         });
         Vuetify.useHotkey('ctrl+k', async () => {
-          console.log(now() + " mounted - Vuetify.useHotkey ctrl+k => refreshData (later for search)");
-          await this.refreshData();
+          // console.log(now() + " mounted - Vuetify.useHotkey ctrl+k => search dialog");
+          this.settings.searchDialog = !this.settings.searchDialog;
+          this.saveSettings();
         });
         await this.initDB()
         // Create metadata if missing
