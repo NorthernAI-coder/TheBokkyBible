@@ -78,7 +78,7 @@
         <img src="images/fknchad_FkqVTzBaUAAiE8x_nobg.png" alt="Logo" height="40" width="40" class="ma-0 ml-2 pa-0"></img>
         <v-app-bar-title class="ma-0 pa-0">The Bokky Bible Search</v-app-bar-title>
         <v-spacer></v-spacer>
-        <v-btn :disabled="sync.info != null" @click="checkForUpdates" text size="large" color="primary" variant="text" class="text-none">
+        <v-btn v-if="!sync.info" @click="checkForUpdates" text size="large" color="primary" variant="text" class="text-none">
           <v-icon>mdi-refresh</v-icon>
           Sync
         </v-btn>
@@ -191,6 +191,7 @@
                 </template>
                 <template v-slot:item.keywords="{ item }">
                   <div class="d-flex flex-wrap">
+                    <!-- {{ item.keywords }} -->
                     <v-chip
                       v-for="(kw, i) in item.keywords.slice(0, 8)"
                       :key="i"
@@ -224,6 +225,7 @@
                         </h5>
                       </v-card-title>
                       <v-card-text>
+                        <!-- {{ item.raw.keywords }} -->
                         <div v-html="markText(item)" class="markdown-content ma-0 pa-0 px-3"></div>
                         <!-- <a href="#" @click.prevent="viewSearchItem(item)">{{ item.raw.title }}</a> -->
                         <!-- <font size="-2">
@@ -405,6 +407,9 @@
       }
       return s;
     }
+    function getKeywordsAsSortedList(keywords) {
+      return Array.from(Object.entries(keywords)).sort((a, b) => { return a[1] == b[1] ? ("" + a).localeCompare(b) : b[1] - a[1]; });
+    }
 
     const myCustomLightTheme = {
       dark: false,
@@ -522,7 +527,7 @@
               queryTerms: q.queryTerms,
               match: q.match,
               content: q.content,
-              keywords: q.keywords,
+              keywords: getKeywordsAsSortedList(q.keywords),
             }));
           } else {
             results = this.documents.map(q => ({
@@ -535,7 +540,7 @@
               queryTerms: [],
               match: {},
               content: q.content,
-              keywords: q.keywords,
+              keywords: getKeywordsAsSortedList(q.keywords),
             }));
             if (this.settings.searchType == "regex" && this.settings.filter) {
               const regex = new RegExp(this.settings.filter, 'i');
@@ -599,6 +604,7 @@
                 queryTerms: q.queryTerms,
                 match: q.match,
                 text: q.text,
+                keywords: getKeywordsAsSortedList(q.keywords),
               };
             });
           } else if (this.fragments) {
@@ -623,6 +629,7 @@
                   queryTerms: [],
                   match: {},
                   text: q.text,
+                  keywords: getKeywordsAsSortedList(q.keywords),
                 };
               });
             if (this.settings.searchType == "regex" && this.settings.filter) {
@@ -664,11 +671,14 @@
           // console.log(now() + " filteredSortedPagedFragments - results: " + JSON.stringify(results.slice(0, 2), null, 2));
           return results;
         },
+        stopWords() {
+          return new Set(STOPWORDS);
+        },
       },
       methods: {
         async initDB() {
           this.db = new Dexie('BokkyBibleSearch')
-          this.db.version(4).stores({
+          this.db.version(5).stores({
             documents: '++id, filename, date, title, *keywords',
             fragments: '++id, docId, date, type, heading, text',
             metadata: 'key'
@@ -699,7 +709,7 @@
         },
 
         async loadAllFiles() {
-          // const files = (await this.listMarkdownFiles()).filter(item => /^20260222/.test(item.name));
+          // const files = (await this.listMarkdownFiles()).filter(item => /^20260331/.test(item.name));
           const files = await this.listMarkdownFiles();
 
           await this.db.documents.clear();
@@ -734,14 +744,14 @@
             }
           }
           const docType = isChronicle ? "chronicle" : (file.name == "README.md" ? "readme" : "other");
-          const keywords = this.extractKeywords(text);
+          const keywords = this.extractKeywordsWithCounts(text);
           const doc = {
             docType,
             filename: file.name,
             date: date || file.name,
             title: title || file.name,
             content: text,
-            keywords: [...new Set(keywords)],
+            keywords,
           };
           const docId = await this.db.documents.add(doc);
 
@@ -831,6 +841,7 @@
               padRight(fragment.heading.substring(0, 50), 50) + " | " +
               padRight(fragment.text.replace(/\n/g, "↵").substring(0, 50), 50) + " | "
             );
+            const keywords = this.extractKeywordsWithCounts(fragment.heading + " " + fragment.text);
             await this.db.fragments.add({
               docId,
               docType,
@@ -841,6 +852,7 @@
               type: fragment.type,
               heading: fragment.heading,
               text: fragment.text,
+              keywords,
             });
           }
         },
@@ -865,11 +877,17 @@
         //   this.sync.info = null;
         // },
 
-        extractKeywords(text) {
-          return text.toLowerCase()
+        extractKeywordsWithCounts(text) {
+          let results = text.toLowerCase()
             .replace(/[^\w\s]/g, ' ')
             .split(/\s+/)
-            .filter(w => w.length > 3)
+            .filter(w => (w.length > 1 && !this.stopWords.has(w)));
+          const keywordsWithCounts = {};
+          results.forEach(w => {
+            keywordsWithCounts[w] = keywordsWithCounts[w] && (keywordsWithCounts[w] + 1) || 1;
+          });
+          // console.log(now() + " extractKeywordsWithCounts - keywordsWithCounts[" + Object.keys(keywordsWithCounts).length + "]: " + JSON.stringify(keywordsWithCounts, null, 2));
+          return keywordsWithCounts;
         },
 
         showAllKeywords(item) {
@@ -903,7 +921,7 @@
 
           fragmentsMiniSearch = new MiniSearch({
             fields: ['heading', 'text'], // fields to index for full-text search
-            storeFields: ['docId', 'docType', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text'] // fields to return with search results
+            storeFields: ['docId', 'docType', 'date', 'lineNumber', 'headingLevel', 'counters', 'type', 'heading', 'text', 'keywords'] // fields to return with search results
           });
 
           // Index all fragments
@@ -1153,7 +1171,7 @@
         },
 
         saveSettings() {
-          console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
+          // console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
           localStorage.searchQASettings = JSON.stringify(this.settings);
         },
       },
