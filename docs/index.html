@@ -887,8 +887,8 @@
         },
 
         showAllKeywords(item) {
-          const all = item.keywords.join(' • ')
-          alert(`All keywords for this item:\n\n${all}`)
+          const all = item.keywords.map(e => e[0] + ' ' + e[1]).join(' • ');
+          alert(`All keywords for this item:\n\n${all}`);
           // Or upgrade to a nice v-dialog if you want fancier
         },
 
