@@ -1695,14 +1695,6 @@ The stopwords.js + keyword upgrade today was clean. The 79 MiB index can wait. F
 
 <br />
 
-###
-
-<br />
-
-###
-
-<br />
-
 ---
 
 <table style="border: 0;">
