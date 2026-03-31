@@ -91,6 +91,7 @@
         <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary">
           <v-tab value="documents" class="text-none"><v-icon icon="mdi-file-document-multiple-outline" class="mr-2"></v-icon>{{ $vuetify.display.mdAndUp ? "Documents" : "Docs" }}</v-tab>
           <v-tab value="fragments" class="text-none"><v-icon icon="mdi-text-box-multiple-outline" class="mr-2"></v-icon>Fragments</v-tab>
+          <!-- <v-tab value="document" class="text-none"><v-icon icon="mdi-file-document-outline" class="mr-2"></v-icon>{{ $vuetify.display.mdAndUp ? "Document" : "Doc" }}</v-tab> -->
         </v-tabs>
       </v-app-bar>
 
@@ -108,7 +109,7 @@
           >
           </v-alert>
 
-          <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
+          <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1" style="position: sticky; top: 50px; z-index: 10; width: 100%;">
             <v-text-field v-if="$vuetify.display.mdAndUp" v-model.trim="settings.filter" hide-details prepend-inner-icon="mdi-magnify" flat density="compact" variant="solo" color="white" clearable @input="performKeywordSearch" @click:clear="performKeywordSearch" class="ma-1" style="max-width: 300px" placeholder="search terms"></v-text-field>
             <v-btn color="primary" icon density="comfortable" @click="settings.searchDialog = !settings.searchDialog; saveSettings();" v-tooltip="'Cmd+K or Ctrl-K - Search Dialog'">
               <v-icon :icon="settings.searchDialog ? 'mdi-feature-search' : 'mdi-feature-search-outline'" size="x-large"></v-icon>
@@ -250,9 +251,13 @@
                 </template>
               </v-data-iterator>
             </v-tabs-window-item>
+
+            <v-tabs-window-item value="document" class="ma-1 pa-0">
+              TODO
+            </v-tabs-window-item>
           </v-tabs-window>
 
-          <v-toolbar flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
+          <v-toolbar v-if="settings.tab != 'document'" flat color="grey-lighten-4" density="compact" class="ma-0 mt-1">
             <v-spacer></v-spacer>
             <v-pagination
               v-if="settings.tab == 'documents'"
