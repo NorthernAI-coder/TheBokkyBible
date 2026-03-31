@@ -191,9 +191,19 @@
                 </template>
                 <template v-slot:item.keywords="{ item }">
                   <div class="d-flex flex-wrap">
-                    <v-chip v-for="(kw, i) in item.keywords.slice(0, 20)" :key="i" size="x-small" class="ma-1">
-                      {{ kw[0] + ' ' + kw[1] }}
-                    </v-chip>
+
+                    <!-- <v-menu :close-on-content-click="false" location="end"> -->
+                      <!-- <template v-slot:activator="{ props }"> -->
+                        <v-chip v-for="(kw, i) in item.keywords.slice(0, 20)" :key="i" size="x-small" class="ma-1">
+                          {{ kw[0] + ' ' + kw[1] }}
+                        </v-chip>
+                      <!-- </template> -->
+                      <!-- <v-card min-width="300">
+                        Blah
+                      </v-card> -->
+
+                    <!-- </v-menu> -->
+
                     <v-chip
                       v-if="item.keywords.length > 20"
                       size="x-small"
