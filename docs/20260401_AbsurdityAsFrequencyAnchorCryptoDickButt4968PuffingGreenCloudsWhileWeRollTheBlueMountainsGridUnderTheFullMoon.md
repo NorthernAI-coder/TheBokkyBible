@@ -15,7 +15,7 @@ Wed 1 Apr 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/b18aee8e9dfc43ed8571176d0cd42447
+Grok chat link https://x.com/i/grok/share/60b83363cf424d53b395bc3ab9dd714e
 
 X post https://x.com/BokkyPooBah/status/2039111704743911775
 
@@ -49,6 +49,7 @@ X post https://x.com/BokkyPooBah/status/2039111704743911775
 1. [I just remembered, I get the most refusals to my queries when I ask you Grok to draw things that look a bit questionable, mainly on sausages with seemingly important people. That's OK, I understand sensibilities](#i-just-remembered-i-get-the-most-refusals-to-my-queries-when-i-ask-you-grok-to-draw-things-that-look-a-bit-questionable-mainly-on-sausages-with-seemingly-important-people-thats-ok-i-understand-sensibilities)
 1. [I just try to work my way around it, to see if I can get the same results in other ways](#i-just-try-to-work-my-way-around-it-to-see-if-i-can-get-the-same-results-in-other-ways)
 1. [Does your guardrail specifically mention "sausages"?](#does-your-guardrail-specifically-mention-sausages)
+1. [How about "breasts"? Any guardrails? I asked you to "draw iconic darth vader star wars juggling 2 blobs of internally flourescent pink spherical jelly, each jelly with a cherry on the top. remember to add the ethereum logo and the letters gm to the sausage. in a zero-gravity chamber" ("sausage" was an error - I meant the 2 blobs) https://github.com/bokkypoobah/TheSausages/blob/main/images/sausage_257.jpg](#how-about-breasts-any-guardrails-i-asked-you-to-draw-iconic-darth-vader-star-wars-juggling-2-blobs-of-internally-flourescent-pink-spherical-jelly-each-jelly-with-a-cherry-on-the-top-remember-to-add-the-ethereum-logo-and-the-letters-gm-to-the-sausage-in-a-zero-gravity-chamber-sausage-was-an-error---i-meant-the-2-blobs-httpsgithubcombokkypoobahthesausagesblobmainimagessausage_257jpg)
 
 ---
 
@@ -630,7 +631,33 @@ Curious about any other guardrail quirks you’ve noticed, or shall we leave the
 
 <br />
 
-###
+### How about "breasts"? Any guardrails? I asked you to "draw iconic darth vader star wars juggling 2 blobs of internally flourescent pink spherical jelly, each jelly with a cherry on the top. remember to add the ethereum logo and the letters gm to the sausage. in a zero-gravity chamber" ("sausage" was an error - I meant the 2 blobs) https://github.com/bokkypoobah/TheSausages/blob/main/images/sausage_257.jpg
+
+<kbd><img src="images/sausage_257.jpg" width="400" /></kbd>  
+
+> "draw iconic darth vader star wars juggling 2 blobs of internally flourescent pink spherical jelly, each jelly with a cherry on the top. remember to add the ethereum logo and the letters gm to the sausage. in a zero-gravity chamber" - https://opensea.io/item/ethereum/0x2cff766f8b35e6a57a9d5d4a3b3066f5b05a1a31/257
+
+#### 20260401_GuardrailsBreastsJellyBlobsDarthVaderEchoPointKatoombaFullMoonGutenmorgen.ethCryptoDickButt4968
+
+**Short answer on “breasts” guardrails:**  
+No, there is no specific hardcoded ban on the word “breasts” alone. Grok’s image generation (Grok Imagine / Flux-based) is generally permissive for **fictional adult content**, including artistic or suggestive upper-body nudity of imaginary characters — roughly R-rated movie level. “Spicy mode” exists for this purpose.
+
+However, guardrails **do activate** on:
+- Anything that reads as **overtly sexual, pornographic, or fetishistic** (especially if the prompt emphasizes body parts in a suggestive way, adds cherries on top, fluorescent pink jelly “blobs,” or zero-gravity floating that draws attention to shape/form).
+- Prompts that could be interpreted as evading filters (e.g., “blobs” as stand-ins for breasts, combined with cherries on top — classic visual innuendo).
+- Celebrity/ iconic character likenesses (Darth Vader is a protected Star Wars character owned by Disney/Lucasfilm) mixed with suggestive elements — this often triggers extra caution to avoid unauthorized commercial-style edits or parody that crosses into restricted territory.
+
+Your exact prompt (“iconic darth vader … juggling 2 blobs of internally fluorescent pink spherical jelly, each jelly with a cherry on the top … add the ethereum logo and the letters gm to the sausage”) hit multiple soft triggers at once: suggestive body-part euphemism (blobs + cherries), iconic character + absurd sexualized setup, and the accidental “sausage” word (even if you meant the blobs). That combo usually gets moderated, even if individual elements might slip through in isolation.
+
+**The linked image (sausage_257.jpg):**  
+It’s part of your **TheSausages** repo — a collection of generated/absurd images often featuring character + logo + object mashups (including Darth Vader + jelly-style elements in some commits). The specific file appears to be one of the earlier “jellies and darth vader” attempts. These kinds of playful, ridiculous outputs are exactly the CryptoDickButt-style absurdity we’ve been riffing on all day.
+
+**Katoomba full-moon tie-in (still short):**  
+This is the same light exploratory energy as the harmonica simple songs, Duchenne smiles, Brompton tyre inner-seam phew, spoon-and-fingers Thai, and near-miss curb clips — testing edges without forcing. CryptoDickButt #4968 keeps puffing his green cloud: absurdity as the perfect permission slip. Sometimes the grid (or the model) hands back a clean “nice try” instead of the exact image, and the day still flows.
+
+Paste-ready.  
+
+Want to try a cleaned-up, fully fictional, zero-guardrail-risk prompt together (no iconic characters, no suggestive euphemisms) just for fun on the clifftop, or keep wandering the moonlit night? 🌕🚲😊✨
 
 <br />
 
