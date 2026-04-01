@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 1 Apr 2026
-> Prev: [Tue 31 Mar 2026](20260331_WhyAreYouSpeaking.md) Next: []()
+> Prev: [Tue 31 Mar 2026](20260331_WhyAreYouSpeaking.md) Next: [Thu 2 Apr 2026](20260402_ThePrimordialOMOnTheGlowingSausageIdolCalmBeforeTheEthereumBoulderChase.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
