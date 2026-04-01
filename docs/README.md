@@ -60,11 +60,11 @@ Awake. Love. Be. 🚀🙏
 * Open https://projector.tensorflow.org/ in your browser.
 * Click **[Load]** on the left
 * Click **[Choose file]** for **Step 1: Load a TSV File of vectors** and select either:
-    * [projector_data/words/repo_tensor.tsv](projector_data/words/repo_tensor.tsv) to view the data by words
-    * [projector_data/sentences/repo_tensor.tsv](projector_data/sentences/repo_tensor.tsv) to view the data by sentences
+    * [/projector_data/words/repo_tensor.tsv](/projector_data/words/repo_tensor.tsv) to view the data by words
+    * [/projector_data/sentences/repo_tensor.tsv](/projector_data/sentences/repo_tensor.tsv) to view the data by sentences
 * Click **[Choose file]** for **Step 2: Load a TSV File of metadata** and select either (to match the vectors above):
-    * [projector_data/words/repo_metadata.tsv](projector_data/words/repo_metadata.tsv) to view the data by words
-    * [projector_data/sentences/repo_metadata.tsv](projector_data/sentences/repo_metadata.tsv) to view the data by sentences
+    * [/projector_data/words/repo_metadata.tsv](/projector_data/words/repo_metadata.tsv) to view the data by words
+    * [/projector_data/sentences/repo_metadata.tsv](/projector_data/sentences/repo_metadata.tsv) to view the data by sentences
 * Click outside the loading dialog to view the main screen, now with data loaded. Use the search field to start
 
 <kbd><img src="images/Picture00660.png" width="1200" /></kbd>  
