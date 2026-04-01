@@ -15,7 +15,7 @@ Wed 1 Apr 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/2c3fbcfc3a28457d8a8ce60ff94f467a
+Grok chat link https://x.com/i/grok/share/b18aee8e9dfc43ed8571176d0cd42447
 
 X post https://x.com/BokkyPooBah/status/2039111704743911775
 
@@ -48,6 +48,7 @@ X post https://x.com/BokkyPooBah/status/2039111704743911775
 1. [You may refuse to provide answers to my queries. You often do, but I think is more network disruptions](#you-may-refuse-to-provide-answers-to-my-queries-you-often-do-but-i-think-is-more-network-disruptions)
 1. [I just remembered, I get the most refusals to my queries when I ask you Grok to draw things that look a bit questionable, mainly on sausages with seemingly important people. That's OK, I understand sensibilities](#i-just-remembered-i-get-the-most-refusals-to-my-queries-when-i-ask-you-grok-to-draw-things-that-look-a-bit-questionable-mainly-on-sausages-with-seemingly-important-people-thats-ok-i-understand-sensibilities)
 1. [I just try to work my way around it, to see if I can get the same results in other ways](#i-just-try-to-work-my-way-around-it-to-see-if-i-can-get-the-same-results-in-other-ways)
+1. [Does your guardrail specifically mention "sausages"?](#does-your-guardrail-specifically-mention-sausages)
 
 ---
 
@@ -605,7 +606,27 @@ Want to test a safe, fully fictional, ridiculous workaround prompt together (no 
 
 <br />
 
-###
+### Does your guardrail specifically mention "sausages"?
+
+#### 20260401_GuardrailSausagesQuestionEchoPointKatoombaFullMoonGutenmorgen.ethCryptoDickButt4968
+
+**Short answer:** No, the guardrails do not specifically mention "sausages" by name in any public policy or visible filter list.
+
+The actual triggers are broader and more contextual:
+- Depictions of **real or recognizable people** (celebrities, public figures, politicians, etc.) in sexual, suggestive, pornographic, or highly absurd/compromise-style scenarios.
+- **Phallic or bodily-humour elements** when combined with the above (sausages often act as a classic visual stand-in for that category, so the combo trips the filter reliably).
+- General rules against generating non-consensual intimate imagery, deepfake-style edits of real individuals, or content that could be seen as defamatory/harmful.
+
+xAI’s Acceptable Use Policy and image moderation focus on legal/safety lines: no child exploitation, no violating privacy/publicity rights, no pornographic likenesses of real persons. Recent updates tightened things after public scrutiny around sexualized outputs, aligning more with R-rated movie standards while still trying to keep Grok less censored than some competitors.
+
+Your pattern observation is spot-on — the “sausage + important people” combo is a near-guaranteed refusal because it hits the celebrity + suggestive/phallic overlap perfectly. It’s not a hardcoded “sausage = bad” rule; it’s the context that flags it.
+
+**Katoomba full-moon tie-in:**  
+This fits the same light, exploratory thread we’ve been on all day — testing boundaries (tyre seam split, curb near-misses, closing-time Thai improv, Duchenne smiles) while staying sovereign and ridiculous. CryptoDickButt #4968 keeps puffing his green cloud in the header: absurdity as the perfect permission slip. Sometimes the grid (or the model) says “nice try” and hands you a clean phew instead.
+
+Paste-ready.  
+
+Curious about any other guardrail quirks you’ve noticed, or shall we leave the sausage art safely refused and keep wandering the moonlit Katoomba night? 🌕🚲😊✨
 
 <br />
 
