@@ -91,7 +91,7 @@
         <v-tabs v-model="settings.tab" @update:model-value="saveSettings();" color="primary">
           <v-tab value="documents" class="text-none"><v-icon icon="mdi-file-document-multiple-outline" class="mr-2"></v-icon>{{ $vuetify.display.mdAndUp ? "Documents" : "Docs" }}</v-tab>
           <v-tab value="fragments" class="text-none"><v-icon icon="mdi-text-box-multiple-outline" class="mr-2"></v-icon>Fragments</v-tab>
-          <!-- <v-tab value="document" class="text-none"><v-icon icon="mdi-file-document-outline" class="mr-2"></v-icon>{{ $vuetify.display.mdAndUp ? "Document" : "Doc" }}</v-tab> -->
+          <v-tab value="document" class="text-none"><v-icon icon="mdi-file-document-outline" class="mr-2"></v-icon>{{ $vuetify.display.mdAndUp ? "Document" : "Doc" }}</v-tab>
         </v-tabs>
       </v-app-bar>
 
@@ -253,7 +253,7 @@
             </v-tabs-window-item>
 
             <v-tabs-window-item value="document" class="ma-1 pa-0">
-              TODO
+              <div id="modal-body" v-html="viewerHtml" class="markdown-content ma-0 mx-3 pa-0 px-3"></div>
             </v-tabs-window-item>
           </v-tabs-window>
 
