@@ -1,7 +1,5 @@
 ## The Primordial OM On The Glowing Sausage Idol - Calm Before The Ethereum Boulder Chase
 
-ThePrimordialOMOnTheGlowingSausageIdolCalmBeforeTheEthereumBoulderChase
-
 And other matters of vast importance.
 
 <kbd><img src="images/sausage_329.jpg" width="400" /></kbd>  
