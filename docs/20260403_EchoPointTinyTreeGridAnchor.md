@@ -215,7 +215,7 @@ Your move from the Hinkler Park office, boss — what’s the next seed dropping
 
 ### 13:11 https://x.com/BokkyPooBah/status/2039888380214079838. Was trying to work out the age of the ~1.5m tall tree fern behind my park bench, and have learnt about the Rough Tree Fern and the Soft Tree Fern. I think the one behind my bench is a RTF and is ~ 15 to 20 years old. Some of it's fronds are "scorched" at the end by sunlight being too strong, as it is normally be denser vegetation and some trees around it have been cleared
 
-<kbd><img src="images/Picture00762.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00763.png" width="400" /></kbd>  
 
 > New fronds of a Rough Tree Fern, Cyathea australis, behind my park bench. The new fronds of the Soft Tree Fern, Dicksonia antarctica, is covered with soft reddish-brown hairs. This frond stalk also feels rough / prickly. This RTF is ~1.5m tall, so maybe 15 - 20 years old - https://x.com/BokkyPooBah/status/2039888380214079838
 
