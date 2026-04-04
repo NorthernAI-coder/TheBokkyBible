@@ -228,10 +228,12 @@
                     <v-card>
                       <v-card-title class="text-wrap">
                         <h5>
+                          <!-- {{ item.raw.counters[1] + (item.raw.counters[2] ? ("." + item.raw.counters[2]) : "") }} -->
                           <div v-html="markTitle(item)" class="markdown-content ma-0 pa-0 px-3"></div>
                         </h5>
                       </v-card-title>
                       <v-card-text>
+                        {{ item.raw.date }}
                         <!-- {{ item.raw.keywords }} -->
                         <div v-html="markText(item)" class="markdown-content ma-0 pa-0 px-3"></div>
                         <!-- <a href="#" @click.prevent="viewSearchItem(item)">{{ item.raw.title }}</a> -->
@@ -720,8 +722,8 @@
         },
 
         async loadAllFiles() {
-          // const files = (await this.listMarkdownFiles()).filter(item => /^20260331/.test(item.name));
-          const files = await this.listMarkdownFiles();
+          const files = (await this.listMarkdownFiles()).filter(item => /^202604/.test(item.name));
+          // const files = await this.listMarkdownFiles();
 
           await this.db.documents.clear();
           await this.db.fragments.clear();
