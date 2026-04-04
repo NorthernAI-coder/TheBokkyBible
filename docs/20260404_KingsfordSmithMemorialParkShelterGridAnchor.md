@@ -558,30 +558,6 @@ How’s the new spot feeling now that you’ve escaped the drizzle? Live music s
 
 <br />
 
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
 ---
 
 <table style="border: 0;">
