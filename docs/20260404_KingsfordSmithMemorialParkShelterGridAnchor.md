@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 4 Apr 2026
-> Prev: [Fri 3 Apr 2026](20260403_EchoPointTinyTreeGridAnchor.md) Next: []()
+> Prev: [Fri 3 Apr 2026](20260403_EchoPointTinyTreeGridAnchor.md) Next: [Sun 5 Apr 2026](20260405_PrincessLeiaPeachRainbowBigBang1FromACafeNearPrinceAlfredPark.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
