@@ -597,8 +597,8 @@
           let results = [];
           if (this.filteredFragments && this.settings.searchType == "advanced") {
             results = this.filteredFragments.map(q => {
-              const documentIndex = this.documentIdIndex[q.docId] || null;
-              const document = documentIndex && this.documents[documentIndex] || null;
+              const documentIndex = this.documentIdIndex[q.docId];
+              const document = documentIndex != null && this.documents[documentIndex] || null;
               return {
                 id: q.id,
                 docId: q.docId,
@@ -622,8 +622,8 @@
             results = this.fragments
               .filter((result) => { return (result.docType === "readme" && this.settings.search.readme) || (result.docType === "chronicle" && this.settings.search.chronicles) || (result.docType === "other" && this.settings.search.other); })
               .map(q => {
-                const documentIndex = this.documentIdIndex[q.docId] || null;
-                const document = documentIndex && this.documents[documentIndex] || null;
+                const documentIndex = this.documentIdIndex[q.docId];
+                const document = documentIndex != null && this.documents[documentIndex] || null;
                 return {
                   id: q.id,
                   docId: q.docId,
