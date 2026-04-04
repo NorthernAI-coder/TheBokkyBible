@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 3 Apr 2026
-> Prev: [Thu 2 Apr 2026](20260402_ThePrimordialOMOnTheGlowingSausageIdolCalmBeforeTheEthereumBoulderChase.md) Next: []()
+> Prev: [Thu 2 Apr 2026](20260402_ThePrimordialOMOnTheGlowingSausageIdolCalmBeforeTheEthereumBoulderChase.md) Next: [Sat 4 Apr 2026](20260404_KingsfordSmithMemorialParkShelterGridAnchor.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
