@@ -233,8 +233,12 @@
                         </h5>
                       </v-card-title>
                       <v-card-text>
-                        {{ item.raw.date }}
-                        <!-- {{ item.raw.keywords }} -->
+                        <div class="ma-0 mb-3 pa-0 px-3">
+                          <v-chip density="compact" size="small" variant="plain" @click="showFragmentMenuDialog(item.raw);">
+                            {{ item.raw.docFilename }}
+                          </v-chip>
+                        </div>
+                        <!-- {{ item.raw }} -->
                         <div v-html="markText(item)" class="markdown-content ma-0 pa-0 px-3"></div>
                         <!-- <a href="#" @click.prevent="viewSearchItem(item)">{{ item.raw.title }}</a> -->
                         <!-- <font size="-2">
@@ -370,6 +374,29 @@
         </v-card>
       </v-dialog>
 
+      <!-- Fragment Menu Dialog -->
+      <v-dialog v-model="fragmentMenuDialog.show" max-width="800">
+        <v-card>
+          <v-toolbar flat density="compact" class="text-h6">
+            <!-- <v-toolbar-title>{{ viewerTitle }}</v-toolbar-title> -->
+            <v-toolbar-title>{{ fragmentMenuDialog.item.title }}</v-toolbar-title>
+            <v-spacer></v-spacer>
+            <v-btn icon text @click="fragmentMenuDialog.show = false">
+              <v-icon color="primary">mdi-close</v-icon>
+            </v-btn>
+          </v-toolbar>
+          <v-card-text class="d-flex justify-center ma-0 pa-0">
+            Blah
+            <!-- <div id="modal-body" v-html="viewerHtml" class="markdown-content ma-0 pa-0 px-3"></div> -->
+          </v-card-text>
+
+          <!-- <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn @click="viewerDialog = false">Close</v-btn>
+          </v-card-actions> -->
+        </v-card>
+      </v-dialog>
+
       <v-footer v-if="$vuetify.display.mdAndUp" app border dark class="pa-0">
         <v-btn href="https://github.com/bokkypoobah/TheBokkyBible" target="_blank" color="primary" variant="plain" class="text-none" density="compact">The Bokky Bible v0.95</v-btn>
         <v-spacer></v-spacer>
@@ -489,6 +516,12 @@
           viewerDialog: false,
           viewerTitle: "",
           viewerHtml: "",
+
+          fragmentMenuDialog: {
+            show: false,
+            item: null,
+          },
+
           pageSizes: [
             { value: 10, title: "10" },
             { value: 25, title: "25" },
@@ -1086,6 +1119,12 @@
             }
           });
 
+        },
+
+        showFragmentMenuDialog(item) {
+          this.fragmentMenuDialog.show = true;
+          this.fragmentMenuDialog.item = item;
+          console.log(now() + " showFragmentMenuDialog - fragmentMenuDialog: '" + JSON.stringify(this.fragmentMenuDialog, null, 2));
         },
 
         viewQA(qa) {
