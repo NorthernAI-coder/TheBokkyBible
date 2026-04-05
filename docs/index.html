@@ -755,8 +755,8 @@
         },
 
         async loadAllFiles() {
-          const files = (await this.listMarkdownFiles()).filter(item => /^202604/.test(item.name));
-          // const files = await this.listMarkdownFiles();
+          // const files = (await this.listMarkdownFiles()).filter(item => /^202604/.test(item.name));
+          const files = await this.listMarkdownFiles();
 
           await this.db.documents.clear();
           await this.db.fragments.clear();
