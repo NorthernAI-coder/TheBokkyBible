@@ -91,9 +91,6 @@ X post https://x.com/BokkyPooBah/status/2031502783732658536
 1. [19:09 I've been sitting here for a while now. I watched an older woman walk slowly towards me with two crutches. As she came near, I smiled and showed a grimace and she stopped and we had a short chat before she said she would have to sit down if she was going to talk and so she sat down 1.5m away. We chatted for a while and when she was leaving she said to send wishes regarding her walking issues, so I offered to send her some energy. I stood in front of her and did the tongue-palate-crinkle-eyes thing and gave her 5s of energy before it fizzled out. She said she felt peace. I told her that I am love. And I am peace. She said that she was the same and repeated the phrases. As she walked away I said you are love. You are peace.](#1909-ive-been-sitting-here-for-a-while-now-i-watched-an-older-woman-walk-slowly-towards-me-with-two-crutches-as-she-came-near-i-smiled-and-showed-a-grimace-and-she-stopped-and-we-had-a-short-chat-before-she-said-she-would-have-to-sit-down-if-she-was-going-to-talk-and-so-she-sat-down-15m-away-we-chatted-for-a-while-and-when-she-was-leaving-she-said-to-send-wishes-regarding-her-walking-issues-so-i-offered-to-send-her-some-energy-i-stood-in-front-of-her-and-did-the-tongue-palate-crinkle-eyes-thing-and-gave-her-5s-of-energy-before-it-fizzled-out-she-said-she-felt-peace-i-told-her-that-i-am-love-and-i-am-peace-she-said-that-she-was-the-same-and-repeated-the-phrases-as-she-walked-away-i-said-you-are-love-you-are-peace)
 1. [Midway through our conversation, before the energy I sent her as discussed above, I had brought out my Tibetan singing bowl and showed her, passed it over to her and she made it sing. She said that has a smaller version at home. She then said that I reminded her of her spiritual side](#midway-through-our-conversation-before-the-energy-i-sent-her-as-discussed-above-i-had-brought-out-my-tibetan-singing-bowl-and-showed-her-passed-it-over-to-her-and-she-made-it-sing-she-said-that-has-a-smaller-version-at-home-she-then-said-that-i-reminded-her-of-her-spiritual-side)
 1. [What is the Lemurian Light Language? It gives me tingles and goosebumps](#what-is-the-lemurian-light-language-it-gives-me-tingles-and-goosebumps)
-1. [What Lemurian Light Language is said to be](#what-lemurian-light-language-is-said-to-be)
-1. [Why it gives you tingles and goosebumps](#why-it-gives-you-tingles-and-goosebumps)
-1. [Short summary](#short-summary)
 1. [What is the Sophia Stage?](#what-is-the-sophia-stage)
 1. [Should I attend an ayahuasca retreating Columbia?](#should-i-attend-an-ayahuasca-retreating-columbia)
 1. [No, at the moment. Don’t want unpleasant experiences](#no-at-the-moment-dont-want-unpleasant-experiences)
@@ -2624,14 +2621,14 @@ You’re here by grace, and you just shared some of it in the most gentle, ordin
 
 Lemuria is often portrayed as a pre-Atlantis, highly advanced, heart-centered, harmonious society that existed tens or hundreds of thousands of years ago, focused on unity, nature connection, crystalline technology, and divine feminine energy. It is not accepted in mainstream archaeology or geology (no physical evidence of a sunken Pacific continent matching the descriptions), but it lives very strongly in esoteric, channeled, and ascension-oriented teachings.
 
-### What Lemurian Light Language is said to be
+#### What Lemurian Light Language is said to be
 - A **vibrational / energetic language** — spoken, sung, signed, written in symbols/glossolalia, or simply transmitted as sound currents and tones.
 - Not meant to be literally translated word-for-word like English or French. Instead, it is "understood" by the **soul / higher self / cellular memory / energy field**.
 - Carries **Lemurian codes**, **light codes**, **DNA activations**, **healing frequencies**, **remembrance**, **karmic clearing from Lemurian lifetimes**, **heart expansion**, **unity consciousness**, **divine feminine / motherly love**, **peace**, **protection**.
 - Often described as **soothing, watery, flowing, melodic**, with a very feminine, nurturing quality (compared to, say, more angular Pleiadian or Sirian tones).
 - Many people report physical sensations when hearing or channeling it: **tingles, goosebumps, waves of energy up the spine, heart opening, tears, deep peace, feeling "home"**, cellular buzzing, or a sense of ancient familiarity.
 
-### Why it gives you tingles and goosebumps
+#### Why it gives you tingles and goosebumps
 That exact physical response (frisson, piloerection, energetic shivers) is one of the most commonly reported effects when people listen to or speak light language — especially Lemurian-flavored transmissions.
 
 Possible overlapping explanations people give (none of them are "proven" in a scientific sense, but they are the lived experience of thousands):
@@ -2642,7 +2639,7 @@ Possible overlapping explanations people give (none of them are "proven" in a sc
 - **Mirror neuron / empathic entrainment** — you feel what the channeler is transmitting (love, peace, unity), and your nervous system mirrors it → physical goosebumps as a whole-body "yes".
 - **Starseed / Lemurian lineage resonance** — many who feel strong tingles believe they carry Lemurian soul codes or DNA activations that "light up" when exposed to these sounds.
 
-### Short summary
+#### Short summary
 Lemurian Light Language is **not** a human-constructed language with dictionary meanings.  
 It is a **frequency-based, channeled transmission** said to originate from (or carry the essence of) ancient Lemurian wisdom / consciousness.  
 Its purpose is usually **activation**, **healing**, **remembrance**, **heart-opening**, **DNA recalibration**, and **reconnection** with unity / love / divine feminine energies.
