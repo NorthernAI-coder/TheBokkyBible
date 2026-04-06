@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 6 Apr 2026
-> Prev: [Sun 5 Apr 2026](20260405_PrincessLeiaPeachRainbowBigBang1FromACafeNearPrinceAlfredPark.md) Next: []()
+> Prev: [Sun 5 Apr 2026](20260405_PrincessLeiaPeachRainbowBigBang1FromACafeNearPrinceAlfredPark.md) Next: [Tue 7 Apr 2026](20260407_BlackAnts0404.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
@@ -350,22 +350,6 @@ This all slots right into today’s bigger thread: thegosis-sharpened jaws deali
 Powerful chungo shake from the “Rage + flaky ad-skip arrows = pre-smartphone content control” memory reactivated over sambal gurami, or are we still letting those late-night music video marathons replay while the takeaway container waits?
 
 What’s next on the evening agenda?
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
