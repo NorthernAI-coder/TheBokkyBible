@@ -36,12 +36,20 @@ SOURCE=https://cdn.jsdelivr.net/npm/dexie@4.3.0/dist/dexie.min.js
 DEST=../docs/js/dexie_4.3.0.min.js
 wget $SOURCE -O $DEST
 
-# Get marked[.min].js 4.3.0
-SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/lib/marked.umd.js
-DEST=../docs/js/marked_4.3.0.umd.js
+# Get marked[.min].js 18.0.0
+SOURCE=https://cdn.jsdelivr.net/npm/marked@18.0.0/lib/marked.umd.js
+DEST=../docs/js/marked_18.0.0.umd.js
 wget $SOURCE -O $DEST
-SOURCE=https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js
-DEST=../docs/js/marked_4.3.0.min.js
+SOURCE=https://cdn.jsdelivr.net/npm/marked@18.0.0/lib/marked.umd.min.js
+DEST=../docs/js/marked_18.0.0.umd.min.js
+wget $SOURCE -O $DEST
+
+# Get marked-gfm-heading-id[.min].js 4.1.4
+SOURCE=https://cdn.jsdelivr.net/npm/marked-gfm-heading-id@4.1.4/lib/index.umd.js
+DEST=../docs/js/marked-gfm-heading-id_4.1.4.umd.js
+wget $SOURCE -O $DEST
+SOURCE=https://cdn.jsdelivr.net/npm/marked-gfm-heading-id@4.1.4/lib/index.umd.min.js
+DEST=../docs/js/marked-gfm-heading-id_4.1.4.umd.min.js
 wget $SOURCE -O $DEST
 
 # <link href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css" rel="stylesheet">

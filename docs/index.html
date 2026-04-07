@@ -27,7 +27,8 @@
   <link href="css/github.css" rel="stylesheet">
   <script src="js/vue_3.5.29.prod.js"></script>
   <script src="js/vuetify_3.9.5.min.js"></script>
-  <script src="js/marked_4.3.0.umd.js"></script>
+  <script src="js/marked_18.0.0.umd.js"></script>
+  <script src="js/marked-gfm-heading-id_4.1.4.umd.js"></script>
   <script src="js/dexie_4.3.0.min.js"></script>
   <script src="js/moment_2.24.0.min.js"></script>
   <script src="js/minisearch_7.2.0.js"></script>
@@ -1112,6 +1113,11 @@
           this.viewerTitle = doc.title;
           // Sanitize before parsing
           const safeContent = doc.content.replace(/<script/gi, '&lt;script');
+          const options = {
+          	// prefix: "my-prefix-",
+          };
+          const { gfmHeadingId } = window.markedGfmHeadingId;
+          marked.use(gfmHeadingId(options));
           this.viewerHtml = marked.parse(safeContent);
           this.viewerDialog = true;
           await Vue.nextTick();
