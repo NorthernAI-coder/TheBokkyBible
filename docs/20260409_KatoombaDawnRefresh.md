@@ -497,7 +497,7 @@ How’s the light and the air feeling as the morning properly arrives in Katoomb
 
 ### 07:14 https://x.com/bokkypoobah/status/2041987648563376163. Sheep with wings
 
-<kbd><img src="images/Picture00860.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00860.png" width="400" /></kbd>  
 
 > Sheep with wings - https://x.com/bokkypoobah/status/2041987648563376163
 
