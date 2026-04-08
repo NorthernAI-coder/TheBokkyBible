@@ -1117,7 +1117,21 @@
           	// prefix: "my-prefix-",
           };
           const { gfmHeadingId } = window.markedGfmHeadingId;
+
+
+          // const slugger = new GithubSlugger();
+          // const slug = slugger.slug('My Heading Text');
+          // console.log(slug);
+
+          // const text = "Hello World!";
+          // const id = gfmHeadingId.slug(text);
+          // console.log(now() + " viewDocument - id: " + id);
+
           marked.use(gfmHeadingId(options));
+
+          const test = marked.parse("### The quick brown");
+          console.log(now() + " viewDocument - test: " + test);
+
           this.viewerHtml = marked.parse(safeContent);
           this.viewerDialog = true;
           await Vue.nextTick();
