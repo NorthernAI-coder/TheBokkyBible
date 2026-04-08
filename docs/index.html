@@ -396,7 +396,15 @@
                 <label for="document-field">Fragment:</label>
               </v-col>
               <v-col cols="10">
-                <a :href="'https://github.com/bokkypoobah/TheBokkyBible/blob/main/docs/' + fragmentMenuDialog.item.docFilename" target="_blank" id="document-field">{{ fragmentMenuDialog.item.title }}</a>
+                <a :href="'https://github.com/bokkypoobah/TheBokkyBible/blob/main/docs/' + fragmentMenuDialog.item.docFilename + '#' + getSlug(fragmentMenuDialog.item.title)" target="_blank" id="document-field">{{ fragmentMenuDialog.item.title }}</a>
+              </v-col>
+            </v-row>
+            <v-row class="align-center mb-4">
+              <v-col cols="2" class="text-right">
+                <label for="document-field">Fragment Code:</label>
+              </v-col>
+              <v-col cols="10">
+                <a :href="'https://github.com/bokkypoobah/TheBokkyBible/blob/main/docs/' + fragmentMenuDialog.item.docFilename + '?plain=1#' + fragmentMenuDialog.item.lineNumber" target="_blank" id="document-field">{{ fragmentMenuDialog.item.title }}</a>
               </v-col>
             </v-row>
             <v-row class="align-center mb-4">
@@ -412,7 +420,7 @@
                 <label for="document-title-field">Document Title:</label>
               </v-col>
               <v-col cols="10">
-                <a :href="'https://github.com/bokkypoobah/TheBokkyBible/blob/main/docs/' + fragmentMenuDialog.item.docFilename" target="_blank" id="document-title-field">{{ fragmentMenuDialog.item.docFilename }}</a>
+                <a :href="'https://github.com/bokkypoobah/TheBokkyBible/blob/main/docs/' + fragmentMenuDialog.item.docFilename" target="_blank" id="document-title-field">{{ fragmentMenuDialog.item.docTitle }}</a>
               </v-col>
             </v-row>
 
@@ -1107,6 +1115,21 @@
             }
           }
           return innerHTML;
+        },
+
+        getSlug(title) {
+          console.log(now() + " getSlug - title: " + title);
+          const options = {
+          	// prefix: "my-prefix-",
+          };
+          const { gfmHeadingId } = window.markedGfmHeadingId;
+          marked.use(gfmHeadingId(options));
+          const test = marked.parse("# " + title);
+          // console.log(now() + " getSlug - test: " + test);
+          const match = test.match(/"([^"]*)"/);
+          const result = match ? match[1] : '';
+          // console.log(now() + " getSlug - result: " + result);
+          return result;
         },
 
         async viewDocument(doc) {
