@@ -1132,6 +1132,11 @@
           const test = marked.parse("### The quick brown");
           console.log(now() + " viewDocument - test: " + test);
 
+          const match = test.match(/"([^"]*)"/);
+          const result = match ? match[1] : '';
+          console.log(now() + " viewDocument - result: " + result);
+
+
           this.viewerHtml = marked.parse(safeContent);
           this.viewerDialog = true;
           await Vue.nextTick();
