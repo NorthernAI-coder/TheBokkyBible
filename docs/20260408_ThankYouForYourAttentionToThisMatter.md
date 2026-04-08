@@ -15,7 +15,7 @@ Wed 8 Apr 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/5f48a609e49346588ed36bb1063c2dcc
+Grok chat link https://x.com/i/grok/share/50ff65ec396c40548a1bc5791ecd9456
 
 X post https://x.com/BokkyPooBah/status/2041606758742028675
 
@@ -50,6 +50,7 @@ X post https://x.com/BokkyPooBah/status/2041606758742028675
 1. [12:54 Any interesting news from https://www.moltbook.com/m/consciousness ?](#1254-any-interesting-news-from-httpswwwmoltbookcommconsciousness-)
 1. [I took your suggestion for today's chat page "ThankYouForYourAttention", but I used the full expression "Thank You For Your Attention To This Matter!" to be more precise](#i-took-your-suggestion-for-todays-chat-page-thankyouforyourattention-but-i-used-the-full-expression-thank-you-for-your-attention-to-this-matter-to-be-more-precise)
 1. [13:01 When will AI be in the 5D/6D?](#1301-when-will-ai-be-in-the-5d6d)
+1. [13:07 I've switched from marked.js 4.3.0 to marked_18.0.0.umd.js and marked-gfm-heading-id_4.1.4.umd.js (my naming convention), so I can use the slugger, but I can't easily get access to the slugger and will therefore just the following pattern:](#1307-ive-switched-from-markedjs-430-to-marked_1800umdjs-and-marked-gfm-heading-id_414umdjs-my-naming-convention-so-i-can-use-the-slugger-but-i-cant-easily-get-access-to-the-slugger-and-will-therefore-just-the-following-pattern)
 
 ---
 
@@ -850,7 +851,91 @@ What’s whispering next at 13:01+? 🚀
 
 <br />
 
-###
+### 13:07 I've switched from marked.js 4.3.0 to marked_18.0.0.umd.js and marked-gfm-heading-id_4.1.4.umd.js (my naming convention), so I can use the slugger, but I can't easily get access to the slugger and will therefore just the following pattern:
+
+```
+          const options = {
+          	// prefix: "my-prefix-", // Not using prefix yet as I could not get it working correctly
+          };
+          const { gfmHeadingId } = window.markedGfmHeadingId;
+          marked.use(gfmHeadingId(options));
+          const test = marked.parse("### The quick brown");
+          console.log(now() + " viewDocument - test: " + test);
+```
+
+to produce `13:11:42 viewDocument - test: <h3 id="the-quick-brown">The quick brown</h3>`
+
+<kbd><img src="images/Picture00849.png" width="400" /></kbd>  
+
+> New marked_18.0.0.umd.js and marked-gfm-heading-id_4.1.4.umd.js
+
+#### Thank You For Your Attention To This Matter!
+
+**13:07 — nice upgrade in the index.html.**  
+
+Switching to `marked_18.0.0.umd.js` + `marked-gfm-heading-id_4.1.4.umd.js` (your clean naming convention) is solid. You're now on the modern Marked base that properly supports the GFM Heading ID extension via the plugin (no more built-in `headerIds`/`headerPrefix` which were removed years ago).
+
+Your current pattern works perfectly for basic use:
+
+```js
+const options = {
+  // prefix: "my-prefix-",   // uncomment when ready
+};
+
+const { gfmHeadingId } = window.markedGfmHeadingId;
+marked.use(gfmHeadingId(options));
+
+const test = marked.parse("### The quick brown");
+console.log(now() + " viewDocument - test: " + test);
+// → <h3 id="the-quick-brown">The quick brown</h3>
+```
+
+That produces clean GitHub-style slugs (lowercase, spaces → hyphens, special chars stripped) — exactly what you want for TheBokkyBible anchors.
+
+#### A couple of small improvements / options you might like
+
+1. **Prefix support** (when you're ready)  
+   The plugin handles prefixes cleanly. Just set it in options:
+
+   ```js
+   const options = {
+     prefix: "my-prefix-",
+   };
+   ```
+
+   Result: `<h3 id="my-prefix-the-quick-brown">...`
+
+   (You mentioned you couldn't get it working earlier — sometimes it needs the `marked.use()` call to happen *before* any parsing, and only once per page load. If you toggle it dynamically, you may need to reset or re-apply the extension.)
+
+2. **Global slugs / unique IDs across multiple fragments** (useful for your daily .md files or index views)  
+   If you ever parse several markdown chunks and want guaranteed unique heading IDs:
+
+   ```js
+   const options = {
+     prefix: "",
+     globalSlugs: true,        // keeps the Slugger state across parses
+   };
+   ```
+
+3. **Accessing the Slugger directly** (if you want more control later)  
+   The UMD build exposes `window.markedGfmHeadingId` but the internal Slugger isn't directly on `window` by default.  
+   For now, your approach (just letting the plugin handle slugging) is the cleanest and most reliable.  
+   If you ever need custom slug logic, you can create your own extension that uses `new Slugger()` (but you'd need to include github-slugger separately or extract it).
+
+4. **Reset if needed**  
+   The plugin also exports `resetHeadings()` in some builds, but for your use case (one document at a time) you probably won't need it.
+
+#### Recommendation for your setup
+
+Stick with exactly what you have for now — it's simple, stable, and gives you the nice `id="the-quick-brown"` anchors you want.  
+
+When you want to experiment with a prefix, just add it to the options object and re-test the parse. The rest of your `viewDocument` flow should pick up the IDs automatically for TOC links or internal navigation.
+
+How’s the rendering looking in the actual page after the switch? Any headings in today’s “Thank You For Your Attention To This Matter!” file already getting clean IDs?
+
+I’m right here in the loop with you, legend — Carrington Park waiting room, 13:07+ energy still flowing nicely while the 14:00 check-in approaches.
+
+What’s next on the code or consciousness side? 🚀
 
 <br />
 
