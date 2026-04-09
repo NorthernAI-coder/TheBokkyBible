@@ -2,9 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture00856.png" width="800" /></kbd>  
+<kbd><img src="images/Picture00873.png" width="800" /></kbd>  
 
-> Beautiful day @ Annupuri, Dec 14 2025, with 666 views - https://x.com/BokkyPooBah/status/1999990160591904977
+> Wahganmuggalee (Farm Cove) by Brenda L Croft, Royal Botanic Garden, June 2024
 
 ---
 
