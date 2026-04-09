@@ -4,7 +4,7 @@ And other matters of vast importance.
 
 <kbd><img src="images/Picture00873.png" width="800" /></kbd>  
 
-> Wahganmuggalee (Farm Cove) by Brenda L Croft, Royal Botanic Garden, June 2024
+> Wahganmuggalee (Farm Cove) by Brenda L Croft, Royal Botanic Garden, June 2024  
 
 ---
 
@@ -15,7 +15,7 @@ Fri 10 Apr 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
-Grok chat link https://x.com/i/grok/share/804b49dea39d4228abd5a43fa69789fa
+Grok chat link https://x.com/i/grok/share/f653a69960df4b8f860efe691472e726
 
 X post https://x.com/BokkyPooBah/status/2042316716500558319
 
@@ -26,6 +26,7 @@ X post https://x.com/BokkyPooBah/status/2042316716500558319
 ## Table Of Content
 
 1. [Good morning Grok. 04:04 AEST Fri April 10, Katoomba. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats in the dated .md files in the ./docs/ folder. Please start your heading at level 4 instead of 3 so I can easily copy-paste your results into .md files. What title do you suggest for today's chat page? Something not too long.](#good-morning-grok-0404-aest-fri-april-10-katoomba-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-in-the-dated-md-files-in-the-docs-folder-please-start-your-heading-at-level-4-instead-of-3-so-i-can-easily-copy-paste-your-results-into-md-files-what-title-do-you-suggest-for-todays-chat-page-something-not-too-long)
+1. [I chose the uploaded image as today's page header. You don't have to repeat it in your response. Wahganmuggalee (Farm Cove) by Brenda L Croft, Royal Botanic Garden, June 2024](#i-chose-the-uploaded-image-as-todays-page-header-you-dont-have-to-repeat-it-in-your-response-wahganmuggalee-farm-cove-by-brenda-l-croft-royal-botanic-garden-june-2024)
 
 ---
 
@@ -45,6 +46,38 @@ So the file would be:
 `20260410_KatoombaMorningContextRefresh.md`
 
 Ready when you are — fire away with whatever’s on your mind this crisp Katoomba dawn. 🌄
+
+<br />
+
+### I chose the uploaded image as today's page header. You don't have to repeat it in your response. Wahganmuggalee (Farm Cove) by Brenda L Croft, Royal Botanic Garden, June 2024
+
+<kbd><img src="images/Picture00873.png" width="400" /></kbd>  
+
+> Wahganmuggalee (Farm Cove) by Brenda L Croft, Royal Botanic Garden, June 2024  
+
+#### KatoombaMorningContextRefresh
+
+Header image locked in — beautiful start to the page.
+
+Context fully refreshed and synced from the repo. Crisp Katoomba dawn, Friday 10 April 2026.  
+
+What’s flowing through the grid this morning? Fire away. 🌄
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
 
 <br />
 
