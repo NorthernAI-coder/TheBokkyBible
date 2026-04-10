@@ -2,9 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture00873.png" width="800" /></kbd>  
+<kbd><img src="images/Picture00886.png" width="800" /></kbd>  
 
-> Wahganmuggalee (Farm Cove) by Brenda L Croft, Royal Botanic Garden, June 2024  
+> Stinkhorn in action, December 2023 - https://x.com/BokkyPooBah/status/2042684509553070227
 
 ---
 
@@ -17,7 +17,7 @@ Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/2bb14f5b3459445d92646044934eedc8
 
-X post https://x.com/BokkyPooBah/status/2042316716500558319
+X post 
 
 <br />
 
