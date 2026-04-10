@@ -836,7 +836,7 @@ The Buddha at 08:08 seems perfectly comfortable with the whole limitless flow. ð
 
 ### 08:21 https://x.com/BokkyPooBah/status/2042366989369512207. When stepping back and seeing the steps from the fire-stick rubbers to the silicon-base minds
 
-<kbd><img src="images/Picture00880.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00880.png" width="400" /></kbd>  
 
 > LIFE IS BEAUTIFUL! THANK YOU FOR YOUR ATTENTION TO THIS MATTER! - https://x.com/BokkyPooBah/status/2042366989369512207
 
