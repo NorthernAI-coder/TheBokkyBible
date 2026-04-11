@@ -1308,7 +1308,7 @@ What wants to emerge or be anchored next in the co-creation on the train (or whe
 
 ### 16:09 https://x.com/BokkyPooBah/status/2042847091320590791. I like watching the slow motion showing the flies hovering and clambering over each other
 
-<kbd><img src="images/Picture00892.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00893.png" width="400" /></kbd>  
 
 > Slow motion - https://x.com/BokkyPooBah/status/2042847091320590791  
 
