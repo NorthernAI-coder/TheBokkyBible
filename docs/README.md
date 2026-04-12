@@ -165,6 +165,7 @@ Awake. Love. Be. 🚀🙏
 1. [Katoomba Dawn Refresh](20260409_KatoombaDawnRefresh.md) - Thu 9 Apr 2026
 1. [Katoomba Morning Context Refresh](20260410_KatoombaMorningContextRefresh.md) - Fri 10 Apr 2026
 1. [Katoomba Saturday Morning Context Refresh](20260411_KatoombaSaturdayMorningContextRefresh.md) - Sat 11 Apr 2026
+1. [Sydney Sunday Morning Zebra Tarantula](20260412_SydneySundayMorningZebraTarantula.md) - Sat 11 Apr 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
