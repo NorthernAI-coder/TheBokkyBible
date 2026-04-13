@@ -15,7 +15,7 @@ Mon 13 Apr 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/3330993177844cef8795c1e56f396195  
+Grok chat link https://x.com/i/grok/share/6641f78aa28e40bf802912b9b3fceddb  
 
 X post https://x.com/BokkyPooBah/status/2043492390099710230  
 
@@ -34,6 +34,8 @@ X post https://x.com/BokkyPooBah/status/2043492390099710230
 1. [I have loan that machine to someone else, as I learnt what I needed to with the setup and use of ollama, and testing various smaller open models and playing with parameters like the context length. It was not very "powerful", in that the code generated to e.g. display a bouncing ball within a viewport would be always slightly incorrect. But I learnt the principles. I bought the machine pre-built, and that was the last 4090 available in Australia due to demand from DeepSeek](#i-have-loan-that-machine-to-someone-else-as-i-learnt-what-i-needed-to-with-the-setup-and-use-of-ollama-and-testing-various-smaller-open-models-and-playing-with-parameters-like-the-context-length-it-was-not-very-powerful-in-that-the-code-generated-to-eg-display-a-bouncing-ball-within-a-viewport-would-be-always-slightly-incorrect-but-i-learnt-the-principles-i-bought-the-machine-pre-built-and-that-was-the-last-4090-available-in-australia-due-to-demand-from-deepseek)
 1. [12:46 From Jan 29 2025. I had bought a gaming laptop with an NVIDIA GeForce RTX 3050 Laptop GPU when the old openai program was first available for download. And used this to first start testing the smaller DeepSeek models](#1246-from-jan-29-2025-i-had-bought-a-gaming-laptop-with-an-nvidia-geforce-rtx-3050-laptop-gpu-when-the-old-openai-program-was-first-available-for-download-and-used-this-to-first-start-testing-the-smaller-deepseek-models)
 1. [12:56 Here are my notes from setting up my AI machine. This info lets me quickly set up a new machine if I want to :](#1256-here-are-my-notes-from-setting-up-my-ai-machine-this-info-lets-me-quickly-set-up-a-new-machine-if-i-want-to-)
+1. [13:01 I tried to install Ubuntu alongside Windows on that laptop, only to trigger a BitLocker issue that required me to enter a key. And I don't know where I left the documents for that laptop, and don't know if the key was provided with the documents. I had to find a way to blow away the whole BitLocker partition before being able to install Ubuntu proper. Windows licensing is such a pain in the butt](#1301-i-tried-to-install-ubuntu-alongside-windows-on-that-laptop-only-to-trigger-a-bitlocker-issue-that-required-me-to-enter-a-key-and-i-dont-know-where-i-left-the-documents-for-that-laptop-and-dont-know-if-the-key-was-provided-with-the-documents-i-had-to-find-a-way-to-blow-away-the-whole-bitlocker-partition-before-being-able-to-install-ubuntu-proper-windows-licensing-is-such-a-pain-in-the-butt)
+1. [13:05 The first computer I bought for my business was a Compaq tower machine from Grace Brothers, many years ago. It would crash every few days, and I could not get this looked at because of the intermittent nature of this crash. Turns out years later that there were known problems with the graphics card. The machine had labels stating that opening the machine would void the warranty, and I had to install a network card. I gave up buying pre-built brand name computers from then on, as purchasing the individual pieces gave me the flexibility to replace any bits I though were playing up. So I started building most of my machines, and not have to worry about stupid stickers about voiding warranties](#1305-the-first-computer-i-bought-for-my-business-was-a-compaq-tower-machine-from-grace-brothers-many-years-ago-it-would-crash-every-few-days-and-i-could-not-get-this-looked-at-because-of-the-intermittent-nature-of-this-crash-turns-out-years-later-that-there-were-known-problems-with-the-graphics-card-the-machine-had-labels-stating-that-opening-the-machine-would-void-the-warranty-and-i-had-to-install-a-network-card-i-gave-up-buying-pre-built-brand-name-computers-from-then-on-as-purchasing-the-individual-pieces-gave-me-the-flexibility-to-replace-any-bits-i-though-were-playing-up-so-i-started-building-most-of-my-machines-and-not-have-to-worry-about-stupid-stickers-about-voiding-warranties)
 
 ---
 
@@ -517,6 +519,73 @@ This whole document is perfect for your BokkyBible — a living “how I set up 
 Does anything in here feel outdated or worth tweaking for a fresh 2026 build? Or shall we just archive it as-is for the next time the hardware itch returns?
 
 The park, Sweet Lullaby, and unlimited dreaming still take priority today though. THANK YOU FOR YOUR ATTENTION TO THIS MATTER! 🚀
+
+<br />
+
+### 13:01 I tried to install Ubuntu alongside Windows on that laptop, only to trigger a BitLocker issue that required me to enter a key. And I don't know where I left the documents for that laptop, and don't know if the key was provided with the documents. I had to find a way to blow away the whole BitLocker partition before being able to install Ubuntu proper. Windows licensing is such a pain in the butt
+
+#### 13:01 BitLocker Grief & the Windows Tax
+
+Oof — that’s the classic Windows laptop pain story.
+
+You buy a nice gaming machine with an RTX 3050 (back when you were first chasing those early DeepSeek models), try to do the sensible thing and dual-boot Ubuntu alongside Windows… and immediately hit the **BitLocker** wall. Suddenly it demands a recovery key you can’t find because the original paperwork is somewhere in the void.
+
+Having to completely nuke the BitLocker-encrypted partition just to get a clean Ubuntu install is exactly why so many people end up saying “screw it” and go full Linux from the start.
+
+Windows licensing + BitLocker + OEM pre-installs is deliberately user-hostile when you want to actually *own* the hardware. Microsoft makes it easy to stay inside their walled garden, and painful to leave. The fact that you had to blow away the entire partition to regain control is a perfect microcosm of why the local AI crowd (and tinkerers in general) keep drifting toward Linux.
+
+At least once you got past that frustration, you ended up with a clean Ubuntu 24.04 setup on the 3050 laptop, then later the big watercooled 4090 rig — and you extracted exactly what you needed from both machines (Ollama, parameter tuning, context length experiments, understanding the limits of code generation).
+
+Now the 4090 is loaned out, the 3050 laptop is probably retired or repurposed, and you’re sitting in the park at 13:01 with **Deep Forest Sweet Lullaby** playing, the Buddha smiling down, accounting closed, and the red Brompton waiting.
+
+Feels like the hardware chapter has gently closed for now. The lessons remain, the notes are safely in your Bible, and the real setup is the one you’re using today: fresh air, music, dreams, and zero BitLocker drama.
+
+Have you ever considered going full Linux-only on future purchases (Framework, System76, or even a mini-PC), or are you happy staying hardware-agnostic and just borrowing/renting power when the next big model wave hits?
+
+Either way, today’s vibe is clearly winning. Sweet Lullaby on repeat, unlimited dreaming in full effect.
+
+THANK YOU FOR YOUR ATTENTION TO THIS MATTER! 🚀
+
+<br />
+
+### 13:05 The first computer I bought for my business was a Compaq tower machine from Grace Brothers, many years ago. It would crash every few days, and I could not get this looked at because of the intermittent nature of this crash. Turns out years later that there were known problems with the graphics card. The machine had labels stating that opening the machine would void the warranty, and I had to install a network card. I gave up buying pre-built brand name computers from then on, as purchasing the individual pieces gave me the flexibility to replace any bits I though were playing up. So I started building most of my machines, and not have to worry about stupid stickers about voiding warranties
+
+#### 13:05 From Compaq Tower Frustration to Full Custom-Build Freedom
+
+That’s a classic origin story — and it explains so much about your approach to hardware even today.
+
+The **Compaq tower** from Grace Brothers (back when department stores still sold computers) was your very first business machine. It kept crashing every few days with that infuriating intermittent fault. Support couldn’t reproduce it, so they couldn’t fix it. Years later you discover it was a **known graphics card problem** all along.
+
+Then came the final insult: warranty-void stickers everywhere, and you still had to crack the case open to install a network card. That was the moment you said “never again” to pre-built brand-name boxes.
+
+From then on you switched to buying individual components and building your own machines. No more mystery black boxes, no more “if you open it you void the warranty” nonsense, and full freedom to swap out any part that looked suspicious. That philosophy carried all the way through to the watercooled RTX 4090 rig (the last 4090 in Australia at the time) and even the gaming laptop with the RTX 3050.
+
+It’s the same mindset that let you:
+- Push Ollama and local models until you understood the principles
+- Loan the 4090 out once its teaching job was done
+- Keep detailed notes so you can spin up a new machine quickly if needed
+
+Today you’re reaping the benefits of that long-term independence: you’re not locked into anyone’s ecosystem, you understand how the pieces fit together, and when something isn’t serving you anymore (whether it’s a crashing Compaq, a BitLocker-locked Windows install, or a 4090 that’s finished its job), you can just move on cleanly.
+
+The red Brompton stallion, the park bench, Sweet Lullaby looping, and the pocket kite waiting for better wind all feel like the natural evolution of that same “build it yourself, own it fully, don’t let stickers or licenses control you” philosophy — only now applied to life and time instead of just silicon.
+
+Does any part of that old Compaq story still make you chuckle, or was it purely “lesson learned, never again”? And has the custom-build habit ever saved you in a dramatic “swap one part and it’s fixed” moment?
+
+The dreaming continues unlimited, my friend. No warranty stickers required.  
+
+THANK YOU FOR YOUR ATTENTION TO THIS MATTER! 🚀
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
 
 <br />
 
