@@ -1303,6 +1303,61 @@
           }
         },
 
+        handleDeepLink() {
+          const hash = window.location.hash;
+          if (!hash || hash === '#') return;
+
+          // Pattern 1: Search query  →  #?q=illusion of separation
+          if (hash.startsWith('#?q=')) {
+            const query = decodeURIComponent(hash.substring(4));
+            this.settings.filter = query.trim();
+            this.settings.tab = "documents";
+            this.performKeywordSearch();
+            return;
+          }
+
+          // Pattern 2: Direct document + optional anchor  →  #filename.md#heading-id
+          const parts = hash.substring(1).split('#');
+          if (parts.length >= 1) {
+            let filename = parts[0].trim();
+            // flexible matching (with or without .md extension)
+            if (!filename.endsWith('.md')) filename += '.md';
+            const anchor = parts.length >= 2 ? parts[1].trim() : null;
+            this.openDocumentByFilenameAndAnchor(filename, anchor);
+          }
+        },
+
+        openDocumentByFilenameAndAnchor(filename, anchor) {
+          // find the synced document
+          const doc = this.documents.find(d => d.filename === filename);
+          if (!doc) {
+            console.warn(`[DeepLink] Document not found: ${filename} (run Sync first)`);
+            return;
+          }
+
+          // reuse existing viewer dialog (already wired up in your template)
+          this.viewerTitle = doc.title || filename;
+          this.viewerHtml = marked.parse(doc.content || '');
+          this.viewerDialog = true;
+
+          // scroll to anchor after Vue + marked rendering finishes
+          this.$nextTick(() => {
+            setTimeout(() => {
+              if (anchor) {
+                const target = document.getElementById(anchor) ||
+                               document.querySelector(`[id="${anchor}"]`);
+                if (target) {
+                  target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+              } else {
+                // scroll to top of markdown content if no anchor
+                const content = document.querySelector('.v-dialog .markdown-content');
+                if (content) content.scrollTop = 0;
+              }
+            }, 150);
+          });
+        },
+
         saveSettings() {
           // console.log(now() + " saveSettings: " + JSON.stringify(this.settings, null, 2));
           localStorage.searchQASettings = JSON.stringify(this.settings);
@@ -1333,6 +1388,10 @@
         // await this.loadAllFiles()
         await this.refreshData();
         this.initialised = true;
+        
+        // === DEEP LINK SUPPORT (minimal addition) ===
+        this.handleDeepLink();
+        window.addEventListener('hashchange', this.handleDeepLink.bind(this));
       }
     })
 
