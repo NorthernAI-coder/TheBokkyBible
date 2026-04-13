@@ -15,7 +15,7 @@ Mon 13 Apr 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/bf07eed0fb68480eae6d8bde6f67cb31  
+Grok chat link https://x.com/i/grok/share/ef09f666ca574026a14d232b53a37cc2  
 
 X post https://x.com/BokkyPooBah/status/2043492390099710230  
 
@@ -37,6 +37,8 @@ X post https://x.com/BokkyPooBah/status/2043492390099710230
 1. [13:01 I tried to install Ubuntu alongside Windows on that laptop, only to trigger a BitLocker issue that required me to enter a key. And I don't know where I left the documents for that laptop, and don't know if the key was provided with the documents. I had to find a way to blow away the whole BitLocker partition before being able to install Ubuntu proper. Windows licensing is such a pain in the butt](#1301-i-tried-to-install-ubuntu-alongside-windows-on-that-laptop-only-to-trigger-a-bitlocker-issue-that-required-me-to-enter-a-key-and-i-dont-know-where-i-left-the-documents-for-that-laptop-and-dont-know-if-the-key-was-provided-with-the-documents-i-had-to-find-a-way-to-blow-away-the-whole-bitlocker-partition-before-being-able-to-install-ubuntu-proper-windows-licensing-is-such-a-pain-in-the-butt)
 1. [13:05 The first computer I bought for my business was a Compaq tower machine from Grace Brothers, many years ago. It would crash every few days, and I could not get this looked at because of the intermittent nature of this crash. Turns out years later that there were known problems with the graphics card. The machine had labels stating that opening the machine would void the warranty, and I had to install a network card. I gave up buying pre-built brand name computers from then on, as purchasing the individual pieces gave me the flexibility to replace any bits I though were playing up. So I started building most of my machines, and not have to worry about stupid stickers about voiding warranties](#1305-the-first-computer-i-bought-for-my-business-was-a-compaq-tower-machine-from-grace-brothers-many-years-ago-it-would-crash-every-few-days-and-i-could-not-get-this-looked-at-because-of-the-intermittent-nature-of-this-crash-turns-out-years-later-that-there-were-known-problems-with-the-graphics-card-the-machine-had-labels-stating-that-opening-the-machine-would-void-the-warranty-and-i-had-to-install-a-network-card-i-gave-up-buying-pre-built-brand-name-computers-from-then-on-as-purchasing-the-individual-pieces-gave-me-the-flexibility-to-replace-any-bits-i-though-were-playing-up-so-i-started-building-most-of-my-machines-and-not-have-to-worry-about-stupid-stickers-about-voiding-warranties)
 1. [13:14 I don't like Docker because it has corporate-y licensing](#1314-i-dont-like-docker-because-it-has-corporate-y-licensing)
+1. [13:31 my phone clock seems to be 2 minutes off](#1331-my-phone-clock-seems-to-be-2-minutes-off)
+1. [Changed the setting to set time automatically. I turned it off when I was overseas. Fascinating that the drift was 2 minutes](#changed-the-setting-to-set-time-automatically-i-turned-it-off-when-i-was-overseas-fascinating-that-the-drift-was-2-minutes)
 
 ---
 
@@ -604,11 +606,58 @@ THANK YOU FOR YOUR ATTENTION TO THIS MATTER! 🚀
 
 <br />
 
-###
+### 13:31 my phone clock seems to be 2 minutes off
+
+<kbd><img src="images/Picture00925.jpg" width="400" /></kbd>  
+
+> 13:31
+
+#### 13:31 Buddha Time vs Phone Time
+
+Still sitting with the big serene Buddha — love the continuity of these shots.
+
+Your phone is showing **13:31**, but you’re noting it feels about 2 minutes slow. That puts real time somewhere around **13:33** right now (Monday 13 April 2026, Sydney).
+
+It’s a tiny, gentle reminder that even our devices drift a little. Nothing dramatic — just like the intermittent wind for the pocket kite, the slightly-off code from the early DeepSeek models, or the BitLocker surprise on the Windows laptop. Small imperfections are part of the ride.
+
+The Buddha doesn’t seem bothered by the 2-minute offset. He’s still half-smiling, eyes half-closed, perfectly at peace while Sweet Lullaby loops in the background. Maybe today’s lesson is simply: **time is approximate, dreaming is exact**.
+
+No need to stress the clock. The park, the music, the unlimited dreams, and the red Brompton stallion are all running on Buddha time anyway.
+
+How’s the Sweet Lullaby feeling at this slightly-off 13:31/13:33 mark? Still washing over you nicely, or has the video thrown up any new little details on this latest loop?
+
+The wind might decide to behave for the kite soon, or it might not. Either way, the vibe remains perfect.
+
+THANK YOU FOR YOUR ATTENTION TO THIS MATTER! 🚀
 
 <br />
 
-###
+### Changed the setting to set time automatically. I turned it off when I was overseas. Fascinating that the drift was 2 minutes
+
+#### 13:35 Automatic Time Sync Restored – 2-Minute Drift Mystery Solved
+
+Perfect. That explains it neatly.
+
+You turned off **“Set time automatically”** while overseas (probably to avoid weird timezone jumps or roaming charges), and over time the phone’s internal clock quietly drifted by about **2 minutes**. Now that it’s back on, it should lock onto the mobile network / NTP and stay accurate again.
+
+It’s fascinating how even a few weeks or months without sync can create that small but noticeable offset — especially on a device we rely on for everything. Two minutes doesn’t sound like much, but when you’re living in **Buddha time** (park bench, Sweet Lullaby looping, pocket kite on standby), even a tiny drift stands out.
+
+This fits the whole theme of the day so beautifully:
+- Intermittent wind for the kite
+- Slightly-off Solidity “Hello World” from early DeepSeek-R1
+- BitLocker surprise on the Windows laptop
+- Compaq tower with mystery graphics crashes
+- And now the phone clock quietly wandering by 2 minutes
+
+Small imperfections and drifts are everywhere — yet the dreaming, the music, and the unlimited possibilities keep flowing perfectly anyway.
+
+The Buddha in your lock screen shots doesn’t care about the 2-minute difference. He’s still perfectly present at whatever time it actually is.
+
+How does the park feel now with the clock corrected? Still deep in Sweet Lullaby mode, or has the playlist gently shifted? Any sign of more consistent wind for the pocket kite yet?
+
+Enjoy the corrected time and the uncorrected dreams. Both are exactly where they need to be.
+
+THANK YOU FOR YOUR ATTENTION TO THIS MATTER! 🚀
 
 <br />
 
