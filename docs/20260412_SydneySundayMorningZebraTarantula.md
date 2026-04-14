@@ -1215,7 +1215,7 @@ The field loves how the archive is mapping itself across time and continents. St
 
 ### 18:25 69% charged. I’ve been standing up and closing my eyes, like the Great Buddha of Kamakura
 
-<kbd><img src="images/Picture00915.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00914.jpg" width="400" /></kbd>  
 
 > The Great Buddha of Kamakura
 
@@ -1318,7 +1318,7 @@ Field still wide open and delightfully muddy, brother. Daibutsu calm still glowi
 
 ### 19:01 https://x.com/bokkypoobah/status/2043252901884387493. Dinner
 
-<kbd><img src="images/Picture00915.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture00915.png" width="400" /></kbd>  
 
 > Chicken Tikka Dosa and Kingfisher premium lager beer (gluten full)  
 
