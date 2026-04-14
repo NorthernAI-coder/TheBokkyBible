@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 13 Apr 2026
-> Prev: [Sun 12 Apr 2026](20260412_SydneySundayMorningZebraTarantula.md) Next: []()
+> Prev: [Sun 12 Apr 2026](20260412_SydneySundayMorningZebraTarantula.md) Next: [Tue 14 Apr 2026](20260414_69PercentBatteryOnMyPhone.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
