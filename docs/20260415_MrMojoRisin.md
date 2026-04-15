@@ -2,7 +2,7 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/LurveCoachBeanbag-butwhy.jpg" width="800" /></kbd>  
+<kbd><img src="images/LurveCoachBeanbag-butwhy.jpg" width="400" /></kbd>  
 
 > But why? - LurveCaptain.eth  
 
