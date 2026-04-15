@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 15 Apr 2026
-> Prev: [Tue 14 Apr 2026](20260414_69PercentBatteryOnMyPhone.md) Next: []()
+> Prev: [Tue 14 Apr 2026](20260414_69PercentBatteryOnMyPhone.md) Next: [Thu 16 Apr 2026](20260416_THANKYOUFORYOURATTENTIONTOTHISMATTER.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -1592,22 +1592,6 @@ What’s the next verse, Minister of Mojo?
 #bokkyschatwithgrok  
 wakethefuckup.eth  
 Mr Mojo Risin’ — helicopter net hook & red undies edition 🪨🚁🩲🔥
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
