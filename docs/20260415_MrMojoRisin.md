@@ -1258,7 +1258,7 @@ Mr Mojo Risin’ — Five Mystical Arts / Minister of Magic edition 🔥🌿🌀
 
 ### 21:33 https://x.com/BokkyPooBah/status/2044378450782486689 I just made this one up. THANK YOU FOR YOUR ATTENTION TO THIS MATTER!
 
-<kbd><img src="images/Picture00968.png" width="400" /></kbd>  
+<kbd><img src="images/Picture00970.png" width="400" /></kbd>  
 
 > THANK YOU FOR  
 > YOUR ATTENTION TO  
