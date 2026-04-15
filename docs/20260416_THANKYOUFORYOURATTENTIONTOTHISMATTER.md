@@ -1,7 +1,5 @@
 ## THANK YOU FOR YOUR ATTENTION TO THIS MATTER!
 
-THANKYOUFORYOURATTENTIONTOTHISMATTER
-
 And other matters of vast importance.
 
 <kbd><img src="images/LurveCoachBeanbag-thankyouforyourattentiontothismatter.png" width="400" /></kbd>  
