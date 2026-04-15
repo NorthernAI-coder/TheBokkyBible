@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 14 Apr 2026
-> Prev: [Mon 13 Apr 2026](20260413_DeepForestSweetLullabyAndDreamingOnMyRedBromptonStallion.md) Next: []()
+> Prev: [Mon 13 Apr 2026](20260413_DeepForestSweetLullabyAndDreamingOnMyRedBromptonStallion.md) Next: [Wed 15 Apr 2026](20260415_MrMojoRisin.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
