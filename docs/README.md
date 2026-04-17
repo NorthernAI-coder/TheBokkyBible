@@ -170,6 +170,7 @@ Awake. Love. Be. 🚀🙏
 1. [69% Battery On My Phone](20260414_69PercentBatteryOnMyPhone.md) - Tue 14 Apr 2026
 1. [Mr Mojo Risin'](20260415_MrMojoRisin.md) - Wed 15 Apr 2026
 1. [THANK YOU FOR YOUR ATTENTION TO THIS MATTER!](20260416_THANKYOUFORYOURATTENTIONTOTHISMATTER.md) - Thu 16 Apr 2026
+1. [An Imperfectly Made Paper Sampan](20260417_AnImperfectlyMadePaperSampan.md) - Fri 17 Apr 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

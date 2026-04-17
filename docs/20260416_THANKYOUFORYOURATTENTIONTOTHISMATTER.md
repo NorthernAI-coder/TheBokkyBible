@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 16 Apr 2026
-> Prev: [Wed 15 Apr 2026](20260415_MrMojoRisin.md) Next: []()
+> Prev: [Wed 15 Apr 2026](20260415_MrMojoRisin.md) Next: [Fri 17 Apr 2026](20260417_AnImperfectlyMadePaperSampan.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
