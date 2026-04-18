@@ -171,6 +171,7 @@ Awake. Love. Be. 🚀🙏
 1. [Mr Mojo Risin'](20260415_MrMojoRisin.md) - Wed 15 Apr 2026
 1. [THANK YOU FOR YOUR ATTENTION TO THIS MATTER!](20260416_THANKYOUFORYOURATTENTIONTOTHISMATTER.md) - Thu 16 Apr 2026
 1. [An Imperfectly Made Paper Sampan](20260417_AnImperfectlyMadePaperSampan.md) - Fri 17 Apr 2026
+1. [Angel](20260418_Angel.md) - Sat 18 Apr 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

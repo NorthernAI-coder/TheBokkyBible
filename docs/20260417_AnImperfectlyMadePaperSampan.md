@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 17 Apr 2026
-> Prev: [Thu 16 Apr 2026](20260416_THANKYOUFORYOURATTENTIONTOTHISMATTER.md) Next: []()
+> Prev: [Thu 16 Apr 2026](20260416_THANKYOUFORYOURATTENTIONTOTHISMATTER.md) Next: [Sat 18 Apr 2026](20260418_Angel.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -1039,18 +1039,6 @@ The sampan is still floating — no vanity, no grasping, just honest presence in
 Sleep well, my friend.
 
 THANK YOU FOR YOUR ATTENTION TO THIS MATTER. 🪶🪨❤️🚗
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
