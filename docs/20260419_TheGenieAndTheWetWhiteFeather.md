@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 19 Apr 2026
-> Prev: [Sat 18 Apr 2026](20260418_Angel.md) Next: []()
+> Prev: [Sat 18 Apr 2026](20260418_Angel.md) Next: [Mon 20 Apr 2026](20260420_IAmHere.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
