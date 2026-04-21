@@ -136,7 +136,7 @@ Raising the frequency one seed (and one perfect tomato) at a time.
 
 ### 06:32 https://x.com/BokkyPooBah/status/2046688556350091612 First light 6 minutes ago
 
-<kbd><img src="images/Picture01026.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture01077.jpg" width="400" /></kbd>  
 
 > Good morning kings, queens, NPCs and bots!  
 >  
