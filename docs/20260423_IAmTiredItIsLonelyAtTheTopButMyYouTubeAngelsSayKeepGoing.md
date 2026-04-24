@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 23 Apr 2026
-> Prev: [Wed 22 Apr 2026](20260422_NatureIsFullOfRepeatingPatterns.md) Next: []()
+> Prev: [Wed 22 Apr 2026](20260422_NatureIsFullOfRepeatingPatterns.md) Next: [Fri 24 Apr 2026](20260424_TheBunyipOfBerkeleysCreek.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
