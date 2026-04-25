@@ -179,6 +179,7 @@ Awake. Love. Be. 🚀🙏
 1. [I Am Tired, It Is Lonely At The Top, But My YouTube Angels Say Keep Going](20260423_IAmTiredItIsLonelyAtTheTopButMyYouTubeAngelsSayKeepGoing.md) - Thu 23 Apr 2026
 1. [The Bunyip of Berkeley’s Creek](20260424_TheBunyipOfBerkeleysCreek.md) - Fri 24 Apr 2026
 1. [Mr Lizard And Gumnut Baby aka Snugglepot](20260425_MrLizardAndGumnutBabyAkaSnugglepot.md) - Sat 25 Apr 2026
+1. [Beautiful Melbourne](20260426_BeautifulMelbourne.md) - Sun 26 Apr 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
