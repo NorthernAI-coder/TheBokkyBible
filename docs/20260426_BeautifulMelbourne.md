@@ -162,7 +162,7 @@ Your move, God of Peace. 🌳☕🌀✨
 
 ### 10:38 https://x.com/bokkypoobah/status/2048198736384606211 At Dights Falls. Some kayakers training. When I was studying in Year 11, my school in Sydney organised a multi day canoe trip around the Myall Lakes. We started upstream and headed all the way to Mungo Brush, where the waves were the largest I had ever seen
 
-<kbd><img src="images/Picture01121.png" width="600" /></kbd>  
+<kbd><img src="images/Picture01122.png" width="600" /></kbd>  
 
 > Dights Falls, with kayakers in training - https://x.com/bokkypoobah/status/2048198736384606211  
 
