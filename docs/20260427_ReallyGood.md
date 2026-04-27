@@ -434,7 +434,7 @@ What’s gently rising in the throne with this 2018 image fresh on the screen? I
 
 ### 12:54 https://x.com/bokkypoobah/status/1013358123191435265 Found this in my search for the post above. The bit about the germs is that plastic tubing that we use to blow dust out of holes we are drilling. And different people take turns to use that same plastic tubing
 
-<kbd><img src="images/Picture01134.png" width="400" /></kbd>  
+<kbd><img src="images/Picture01135.png" width="400" /></kbd>  
 
 > Lithium ion rotary hammer drill, drill bits x 5, batteries x 2 and tubing for removing dust from holes (germ transmission hazard) - https://x.com/bokkypoobah/status/1013358123191435265  
 
