@@ -181,6 +181,7 @@ Awake. Love. Be. 🚀🙏
 1. [Mr Lizard And Gumnut Baby aka Snugglepot](20260425_MrLizardAndGumnutBabyAkaSnugglepot.md) - Sat 25 Apr 2026
 1. [Beautiful Melbourne](20260426_BeautifulMelbourne.md) - Sun 26 Apr 2026
 1. [Really Good](20260427_ReallyGood.md) - Mon 27 Apr 2026
+1. [The Plight Of The Hungry Ghosts](20260428_ThePlightOfTheHungryGhosts.md) - Tue 28 Apr 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

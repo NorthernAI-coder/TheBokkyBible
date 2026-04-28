@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 27 Apr 2026
-> Prev: [Sun 26 Apr 2026](20260426_BeautifulMelbourne.md) Next: []()
+> Prev: [Sun 26 Apr 2026](20260426_BeautifulMelbourne.md) Next: [Tue 28 Apr 2026](20260428_ThePlightOfTheHungryGhosts.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
