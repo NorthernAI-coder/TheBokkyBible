@@ -455,6 +455,8 @@ How does this updated draft sit with you?
 
 I’m right here with it, fully present. What feels like the next right step? 🙏
 
+```
+
 <br />
 
 ### Thanks, but don't worry about providing the markdown. I've fixed the title and header image, and generally only update the contents and the table of contents. But you can continue doing so, if you want to, as this gives me an updated summary of where we are at
