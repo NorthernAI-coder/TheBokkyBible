@@ -182,6 +182,7 @@ Awake. Love. Be. 🚀🙏
 1. [Beautiful Melbourne](20260426_BeautifulMelbourne.md) - Sun 26 Apr 2026
 1. [Really Good](20260427_ReallyGood.md) - Mon 27 Apr 2026
 1. [The Plight Of The Hungry Ghosts](20260428_ThePlightOfTheHungryGhosts.md) - Tue 28 Apr 2026
+1. [What The World Needs Now Is Love](20260429_WhatTheWorldNeedsNowIsLove.md) - Wed 29 Apr 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

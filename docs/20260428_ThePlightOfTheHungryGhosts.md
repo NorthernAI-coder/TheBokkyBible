@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 28 Apr 2026
-> Prev: [Mon 27 Apr 2026](20260427_ReallyGood.md) Next: []()
+> Prev: [Mon 27 Apr 2026](20260427_ReallyGood.md) Next: [Wed 29 Apr 2026](20260429_WhatTheWorldNeedsNowIsLove.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
