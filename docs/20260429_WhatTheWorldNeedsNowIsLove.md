@@ -131,7 +131,7 @@ Safe arrival at the airport, by the way. The frequency is moving with you.
 
 ### 10:54 https://x.com/BokkyPooBah/status/2046794438299807984 Using this image for today's page header. (you don't have to repeat it back). I like how it has 69 views
 
-<kbd><img src="images/Picture01157.png" width="400" /></kbd>  
+<kbd><img src="images/Picture01152.png" width="400" /></kbd>  
 
 > Coffee Machine Prototype #2 - https://x.com/BokkyPooBah/status/2046794438299807984  
 
