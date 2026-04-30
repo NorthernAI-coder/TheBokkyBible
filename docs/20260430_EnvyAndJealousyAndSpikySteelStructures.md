@@ -2,9 +2,11 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture01158.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture01158.jpg" width="800" /></kbd>  
 
-> Sculpture in a garden bed! Enjoy at your own risk. Steel remnants of a Coal Loader crane that used to stand over the water at this location. New Sydney fish market  
+> Sculpture in a garden bed! Enjoy at your own risk.  
+> Steel remnants of a Coal Loader crane that used to stand over the water at this location.  
+> New Sydney fish market  
 
 ---
 
