@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 29 Apr 2026
-> Prev: [Tue 28 Apr 2026](20260428_ThePlightOfTheHungryGhosts.md) Next: []()
+> Prev: [Tue 28 Apr 2026](20260428_ThePlightOfTheHungryGhosts.md) Next: [Thu 30 Apr 2026](20260430_EnvyAndJealousyAndSpikySteelStructures.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
