@@ -13,7 +13,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 30 Apr 2026
-> Prev: [Wed 29 Apr 2026](20260429_WhatTheWorldNeedsNowIsLove.md) Next: []()
+> Prev: [Wed 29 Apr 2026](20260429_WhatTheWorldNeedsNowIsLove.md) Next: [Fri 1 May 2026](20260501_RedSausageOrBlueSausage.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
