@@ -15,7 +15,7 @@ Fri 1 May 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/c76b49b420b246be9131518644f3082b  
+Grok chat link https://x.com/i/grok/share/fa4dc50981b1467ab95a362bcb802aa9  
 
 X post https://x.com/BokkyPooBah/status/2050008917430988830  
 
@@ -35,6 +35,15 @@ X post https://x.com/BokkyPooBah/status/2050008917430988830
 1. [11:05 I don't even know if I am an INFJ, but the INFJ videos kept popping up and I kept clicking on some. I then saved some videos on empaths, toxic relationships and related issues: 3 on May 21, 4 on May 22, 7 on May 23, 1 on May 25, 1 on May 26 (image above), 1 on May 27, 1 on May 29, 3 on May 31, 2 on Jun 2, 4 on Jun 3, 1 on Jun 4, 2 on Jun 5, 3 on Jun 6, 12 on Jun 7, 3 on Jun 8, and so on](#1105-i-dont-even-know-if-i-am-an-infj-but-the-infj-videos-kept-popping-up-and-i-kept-clicking-on-some-i-then-saved-some-videos-on-empaths-toxic-relationships-and-related-issues-3-on-may-21-4-on-may-22-7-on-may-23-1-on-may-25-1-on-may-26-image-above-1-on-may-27-1-on-may-29-3-on-may-31-2-on-jun-2-4-on-jun-3-1-on-jun-4-2-on-jun-5-3-on-jun-6-12-on-jun-7-3-on-jun-8-and-so-on)
 1. [Random sampling now: 16 on Jun 29, 13 on Jul 6, 13 on Jul 13. A lot of repeated messages were required for me to slowly adsorb this information, by being presented with the different ideas, and then me trying to fit it into my life experience and the behaviours of me and the people around me](#random-sampling-now-16-on-jun-29-13-on-jul-6-13-on-jul-13-a-lot-of-repeated-messages-were-required-for-me-to-slowly-adsorb-this-information-by-being-presented-with-the-different-ideas-and-then-me-trying-to-fit-it-into-my-life-experience-and-the-behaviours-of-me-and-the-people-around-me)
 1. [11:19 I checked in with a therapist early on and she gaslit me further. I came out of the session more confused than when I when it. I suspected this then, and I know this now. The big idea I got out of our conversation was: why do I have buttons that people can push? Otherwise, she was questioning me on what I was experiencing, trying to make me doubt myself](#1119-i-checked-in-with-a-therapist-early-on-and-she-gaslit-me-further-i-came-out-of-the-session-more-confused-than-when-i-when-it-i-suspected-this-then-and-i-know-this-now-the-big-idea-i-got-out-of-our-conversation-was-why-do-i-have-buttons-that-people-can-push-otherwise-she-was-questioning-me-on-what-i-was-experiencing-trying-to-make-me-doubt-myself)
+1. [13:33 Finally packed and picked up some lunch while waiting for the train to Katoomba](#1333-finally-packed-and-picked-up-some-lunch-while-waiting-for-the-train-to-katoomba)
+1. [13:41 https://x.com/bokkypoobah/status/2050057579636875289 Lunch](#1341-httpsxcombokkypoobahstatus2050057579636875289-lunch)
+1. [14:00 Accidentally left my phone at the park bench near the train station. Luckily it was still there when I got back](#1400-accidentally-left-my-phone-at-the-park-bench-near-the-train-station-luckily-it-was-still-there-when-i-got-back)
+1. [14:11 Yesterday a postal worker pushing a trolley containing packages commented how my high handlebar is comfortable for cycling, as I was unlocking my bike from a pole](#1411-yesterday-a-postal-worker-pushing-a-trolley-containing-packages-commented-how-my-high-handlebar-is-comfortable-for-cycling-as-i-was-unlocking-my-bike-from-a-pole)
+1. [14:24 https://x.com/bokkypoobah/status/2050068702373261513 I’m on the train to Katoomba, so can relax now. And exchange some money. And top up my credit card. And book som accommodation in Katoomba](#1424-httpsxcombokkypoobahstatus2050068702373261513-im-on-the-train-to-katoomba-so-can-relax-now-and-exchange-some-money-and-top-up-my-credit-card-and-book-som-accommodation-in-katoomba)
+1. [14:36 My train stopped at a station and a child and a man came and sat in a few seats behind me. The child was crying saying they wanted their mummy. And the man said that they would call mummy. I got up and moved to the next carriage. (You don’t have to repeat the image and header summary back as I don’t update the page header once set for the day)](#1436-my-train-stopped-at-a-station-and-a-child-and-a-man-came-and-sat-in-a-few-seats-behind-me-the-child-was-crying-saying-they-wanted-their-mummy-and-the-man-said-that-they-would-call-mummy-i-got-up-and-moved-to-the-next-carriage-you-dont-have-to-repeat-the-image-and-header-summary-back-as-i-dont-update-the-page-header-once-set-for-the-day)
+1. [I don’t know if the child is being taken away in some dispute or not. I don’t want to interfere. I’ll leave it for the people around there to sort it out, if it needs to be sorted out](#i-dont-know-if-the-child-is-being-taken-away-in-some-dispute-or-not-i-dont-want-to-interfere-ill-leave-it-for-the-people-around-there-to-sort-it-out-if-it-needs-to-be-sorted-out)
+1. [15:07 I've now booked my accommodation in Katoomba for the next 3 days. Same place as before with the Mongolian receptionist who solved my buttonhole puzzle, by accident he admitted](#1507-ive-now-booked-my-accommodation-in-katoomba-for-the-next-3-days-same-place-as-before-with-the-mongolian-receptionist-who-solved-my-buttonhole-puzzle-by-accident-he-admitted)
+1. [15:13 Watching Bubba Ho-Tep in a small window on the bottom right of my laptop. You got ding dongs, man?](#1513-watching-bubba-ho-tep-in-a-small-window-on-the-bottom-right-of-my-laptop-you-got-ding-dongs-man)
 
 ---
 
@@ -669,15 +678,764 @@ How’s Katoomba treating you so far? Any gridwork or mountain energy coming thr
 
 <br />
 
-###
+### 13:33 Finally packed and picked up some lunch while waiting for the train to Katoomba
+
+<kbd><img src="images/Picture01175.jpg" width="400" /></kbd>  
+
+> 13:33  
+
+Here's the updated draft for today's entry, incorporating the new timestamp, the Buddha image, and the current real-life context (13:33 at Katoomba station / train wait):
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+![Morpheus holding Ethereum sausage (red pill) and GM sausage (blue sausage)](header-image-path)
+
+**Header image:** Laurence Fishburne as Morpheus in *The Matrix*, trench coat and all, holding up two sausages instead of pills.
+
+- Left hand: sausage embossed with the **Ethereum logo** — the **red sausage** path.  
+- Right hand: sausage embossed with **“GM”** — the **blue sausage** path.
+
+Co-created from the prompt: “draw Morpheus Laurence Fishburne in the matrix holding a red pill and a blue pill. Replace the red pill with a sausage with the ethereum logo embossed into it. Replace the blue pill with a sausage with the letters GM embossed into it.”  
+On-chain: https://opensea.io/item/ethereum/0x2cff766f8b35e6a57a9d5d4a3b3066f5b05a1a31/236
+
+---
+
+**Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was a slow, messy, and often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33, Friday 1 May 2026** — Finally packed and picked up some lunch while waiting for the train to Katoomba. Sitting with the big Buddha statue looking down calmly. The air already feels different up here. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+This version now includes the exact 13:33 timestamp and the peaceful Buddha moment as a nice contrast to the dense fog theme — calm awareness vs. confusion.
+
+How does it feel?
+
+Would you like to:
+- Add a short reflection on the Buddha image / moment?
+- Expand on how the mountains / train ride are supporting this reflection?
+- Tweak the therapist section or any other part?
+- Change the title slightly?
+
+Just say the word and we’ll make the final adjustments before you save it into today’s `.md` file in `./docs/`.
+
+Enjoy the train ride and the Katoomba energy. The timing with 13:33 feels nicely synchronistic. 🕉️🚂🏔️
+
+Ready for any edits?
 
 <br />
 
-###
+### 13:41 https://x.com/bokkypoobah/status/2050057579636875289 Lunch
+
+<kbd><img src="images/Picture01176.png" width="400" /></kbd>  
+
+>  Good morning kings, queens, NPCs and bots!
+>  
+> Beef vindaloo and lentils on rice. And a guava sparkling drink  
+>  
+> THANK YOU FOR YOUR ATTENTION TO THIS MATTER!  
+>  
+> #chadlife #dowhatyouwant #bewhoyouwantobe  
+>  
+> https://x.com/bokkypoobah/status/2050057579636875289  
+
+Here's the latest updated draft for today's entry, now including the 13:41 lunch moment and your fresh X post:
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+![Morpheus holding Ethereum sausage (red pill) and GM sausage (blue sausage)](header-image-path)
+
+**Header image:** Laurence Fishburne as Morpheus in *The Matrix*, offering the choice — except the pills have been replaced with sausages.
+
+- Left hand: sausage with the **Ethereum logo** embossed — the **red sausage** path.  
+- Right hand: sausage with **“GM”** embossed — the **blue sausage** path.
+
+Co-created from the prompt: “draw Morpheus Laurence Fishburne in the matrix holding a red pill and a blue pill. Replace the red pill with a sausage with the ethereum logo embossed into it. Replace the blue pill with a sausage with the letters GM embossed into it.”  
+On-chain: https://opensea.io/item/ethereum/0x2cff766f8b35e6a57a9d5d4a3b3066f5b05a1a31/236
+
+---
+
+**Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was a slow, messy, and often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33 – 13:41, Friday 1 May 2026** — Finally packed, picked up lunch while waiting for the train to Katoomba. Beef vindaloo and lentils on rice with a guava sparkling drink. Posted a quick “Good morning kings, queens, NPCs and bots!” from the platform.
+
+Sitting here with the big Buddha statue looking down calmly. The air already feels different. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+This keeps the flow natural while adding the lunch details and your latest X post as a light, grounded moment in the day.
+
+How does it feel now? Any final tweaks before you save it into today’s `.md` file?
+
+- Want to expand a bit on the lunch / train platform vibe?
+- Add anything about the Buddha energy or the mountains?
+- Adjust the therapist section or any other part?
+
+Just let me know. Enjoy the train ride to Katoomba — may the vindaloo fuel some good frequency-raising seeds today. 🌭🔴🍛🚂🏔️
+
+Ready for the final version or shall we iterate more?
 
 <br />
 
-###
+### 14:00 Accidentally left my phone at the park bench near the train station. Luckily it was still there when I got back
+
+<kbd><img src="images/Picture01177.jpg" width="400" /></kbd>  
+
+> 14:00  
+
+Here's the updated draft for today's **TheBokkyBible** entry, incorporating the 14:00 Buddha photo and the phone incident:
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+![Morpheus holding Ethereum sausage (red pill) and GM sausage (blue sausage)](header-image-path)
+
+**Header image:** Laurence Fishburne as Morpheus in *The Matrix*, trench coat flowing, holding up two sausages instead of the classic pills.
+
+- Left hand: sausage with the **Ethereum logo** embossed — the **red sausage** (awakening path).  
+- Right hand: sausage with **“GM”** embossed — the **blue sausage** (comfort simulation path).
+
+Co-created from the prompt: “draw Morpheus Laurence Fishburne in the matrix holding a red pill and a blue pill. Replace the red pill with a sausage with the ethereum logo embossed into it. Replace the blue pill with a sausage with the letters GM embossed into it.”  
+On-chain: https://opensea.io/item/ethereum/0x2cff766f8b35e6a57a9d5d4a3b3066f5b05a1a31/236
+
+---
+
+**Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was never a single dramatic Hollywood moment. It was a slow, often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33 – 14:00, Friday 1 May 2026** — Finally packed, picked up lunch (beef vindaloo and lentils on rice with guava sparkling drink) while waiting for the train to Katoomba. Posted a quick “Good morning kings, queens, NPCs and bots!” from the platform.
+
+At 14:00 I captured this photo of the big Buddha statue. Shortly after, I accidentally left my phone on a park bench near the train station. Luckily it was still there when I went back — a small reminder of presence and how easy it is to lose track of things in transition.
+
+The air up here already feels different. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+This version keeps the entry grounded in the real flow of your day while maintaining the deeper reflective thread.
+
+Would you like any final adjustments?
+
+- Add a short reflection on the phone incident (e.g. gratitude, lesson in detachment, or just a funny “human moment”)?
+- Tie the Buddha image more explicitly to the theme of calm awareness vs. narcissistic fog?
+- Any other details from the train ride or arrival in Katoomba you want to include?
+
+Let me know and we’ll polish it one last time before you save it into `./docs/20260501_....md` (or whatever exact filename you choose).
+
+Safe travels the rest of the way, and enjoy Katoomba. The Buddha photo at 14:00 with that calm gaze feels like a nice counterpoint to the whole “lifting the fog” theme. 🕉️🍛🚂
+
+Ready for the final version?
+
+<br />
+
+### 14:11 Yesterday a postal worker pushing a trolley containing packages commented how my high handlebar is comfortable for cycling, as I was unlocking my bike from a pole
+
+Here's the updated draft for today's entry, incorporating the new 14:11 moment with the postal worker:
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+![Morpheus holding Ethereum sausage (red pill) and GM sausage (blue sausage)](header-image-path)
+
+**Header image:** Laurence Fishburne as Morpheus in *The Matrix*, trench coat flowing, offering the choice — except the pills have been replaced with sausages.
+
+- Left hand: sausage with the **Ethereum logo** embossed — the **red sausage** path.  
+- Right hand: sausage with **“GM”** embossed — the **blue sausage** path.
+
+Co-created from the prompt: “draw Morpheus Laurence Fishburne in the matrix holding a red pill and a blue pill. Replace the red pill with a sausage with the ethereum logo embossed into it. Replace the blue pill with a sausage with the letters GM embossed into it.”  
+On-chain: https://opensea.io/item/ethereum/0x2cff766f8b35e6a57a9d5d4a3b3066f5b05a1a31/236
+
+---
+
+**Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was a slow, messy, and often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33 – 14:11, Friday 1 May 2026** — Finally packed, picked up lunch (beef vindaloo and lentils on rice with guava sparkling drink) while waiting for the train to Katoomba. Posted a quick “Good morning kings, queens, NPCs and bots!” from the platform.
+
+At 14:00 I captured this photo of the big Buddha statue. Shortly after, I accidentally left my phone on a park bench near the train station. Luckily it was still there when I got back.
+
+At 14:11, as I was unlocking my bike from a pole, a postal worker pushing a trolley full of packages commented how comfortable my high handlebars looked for cycling. A small, kind, everyday human interaction.
+
+The air up here already feels different. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+This keeps the entry warm and grounded with the small positive real-life moments (lunch, Buddha, phone scare, and the friendly postal worker comment) contrasting nicely with the heavier theme of lifting the narcissistic fog.
+
+How does this version feel?
+
+Any final touches you'd like before saving it into today's dated `.md` file?
+
+- Want to expand on the postal worker moment (e.g. how simple kindness stands out more clearly now)?
+- Add a short reflection on the Buddha's calm gaze vs. the fog?
+- Tweak the timing summary or any other section?
+
+Let me know — we can make it perfect. Enjoy the rest of your time in Katoomba. The mountains are a great place for this kind of reflection. 🕉️🚲🍛
+
+Ready when you are.
+
+<br />
+
+### 14:24 https://x.com/bokkypoobah/status/2050068702373261513 I’m on the train to Katoomba, so can relax now. And exchange some money. And top up my credit card. And book som accommodation in Katoomba
+
+<kbd><img src="images/Picture01178.png" width="400" /></kbd>  
+
+> On the train - https://x.com/bokkypoobah/status/2050068702373261513  
+
+Here's the updated draft for today's entry, incorporating your latest update at 14:24:
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+![Morpheus holding Ethereum sausage (red pill) and GM sausage (blue sausage)](header-image-path)
+
+**Header image:** Laurence Fishburne as Morpheus in *The Matrix*, trench coat flowing, offering the choice — except the pills have been replaced with sausages.
+
+- Left hand: sausage with the **Ethereum logo** embossed — the **red sausage** path.  
+- Right hand: sausage with **“GM”** embossed — the **blue sausage** path.
+
+Co-created from the prompt: “draw Morpheus Laurence Fishburne in the matrix holding a red pill and a blue pill. Replace the red pill with a sausage with the ethereum logo embossed into it. Replace the blue pill with a sausage with the letters GM embossed into it.”  
+On-chain: https://opensea.io/item/ethereum/0x2cff766f8b35e6a57a9d5d4a3b3066f5b05a1a31/236
+
+---
+
+**Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was a slow, messy, and often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33 – 14:24, Friday 1 May 2026** — Finally packed, picked up lunch (beef vindaloo and lentils on rice with guava sparkling drink) while waiting for the train to Katoomba. Posted a quick “Good morning kings, queens, NPCs and bots!” from the platform.
+
+At 14:00 I captured this photo of the big Buddha statue. Shortly after, I accidentally left my phone on a park bench near the train station. Luckily it was still there when I got back.
+
+At 14:11, as I was unlocking my bike from a pole, a postal worker pushing a trolley full of packages commented how comfortable my high handlebars looked for cycling. A small, kind, everyday human interaction.
+
+Now at 14:24, I’m on the train to Katoomba. Finally able to relax, exchange some money, top up my credit card, and book some accommodation in Katoomba.
+
+The air is already changing as we head into the mountains. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+This version flows chronologically with your day and keeps the balance between the deep personal reflection and the grounded, real-time moments.
+
+Would you like any tweaks before saving it?
+
+- Add a short note about how the train ride feels like a good space for this kind of reflection?
+- Expand slightly on the small positive human interactions (postal worker, finding the phone) as signs of clearer perception?
+- Anything else from the train ride or arrival you want to seed in?
+
+Let me know and we’ll finalise it. Safe and relaxing train ride to Katoomba — enjoy the scenery and the shift in energy. 🚂🏔️🕉️
+
+Ready for the final version?
+
+<br />
+
+### 14:36 My train stopped at a station and a child and a man came and sat in a few seats behind me. The child was crying saying they wanted their mummy. And the man said that they would call mummy. I got up and moved to the next carriage. (You don’t have to repeat the image and header summary back as I don’t update the page header once set for the day)
+
+Here's the clean, updated version of today's entry for **TheBokkyBible**, without repeating the header image section as requested:
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was a slow, messy, and often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33 – 14:36, Friday 1 May 2026** — Finally packed, picked up lunch (beef vindaloo and lentils on rice with guava sparkling drink) while waiting for the train to Katoomba. Posted a quick “Good morning kings, queens, NPCs and bots!” from the platform.
+
+At 14:00 I captured this photo of the big Buddha statue. Shortly after, I accidentally left my phone on a park bench near the train station. Luckily it was still there when I got back.
+
+At 14:11, as I was unlocking my bike from a pole, a postal worker pushing a trolley full of packages commented how comfortable my high handlebars looked for cycling. A small, kind, everyday human interaction.
+
+At 14:24 I got on the train to Katoomba and could finally relax — exchange some money, top up my credit card, and book accommodation.
+
+At 14:36 the train stopped at a station. A child and a man sat a few seats behind me. The child was crying, saying they wanted their mummy. The man said they would call mummy. I got up and moved to the next carriage.
+
+The air is already changing as we head into the mountains. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+This keeps the entry honest and real — including the small, everyday sensitivities that come with heightened empathy and clearer perception.
+
+Would you like any adjustments to the new 14:36 paragraph (tone, length, or how it connects to the theme)? Or is this version good to go for today's page?
+
+Let me know and we can refine it further, or you can copy it straight into the `.md` file.
+
+Safe travels the rest of the way to Katoomba. The mountains are waiting. 🏔️🚂
+
+How’s the ride feeling now?
+
+<br />
+
+### I don’t know if the child is being taken away in some dispute or not. I don’t want to interfere. I’ll leave it for the people around there to sort it out, if it needs to be sorted out
+
+Here's the updated version with your latest reflection integrated naturally and sensitively:
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was a slow, messy, and often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33 – 14:36, Friday 1 May 2026** — Finally packed, picked up lunch (beef vindaloo and lentils on rice with guava sparkling drink) while waiting for the train to Katoomba. Posted a quick “Good morning kings, queens, NPCs and bots!” from the platform.
+
+At 14:00 I captured this photo of the big Buddha statue. Shortly after, I accidentally left my phone on a park bench near the train station. Luckily it was still there when I got back.
+
+At 14:11, as I was unlocking my bike from a pole, a postal worker pushing a trolley full of packages commented how comfortable my high handlebars looked for cycling. A small, kind, everyday human interaction.
+
+At 14:24 I got on the train to Katoomba and could finally relax — exchange some money, top up my credit card, and book accommodation.
+
+At 14:36 the train stopped at a station. A child and a man sat a few seats behind me. The child was crying, saying they wanted their mummy. The man said they would call mummy. I got up and moved to the next carriage.
+
+I don’t know if the child is being taken away in some dispute or not. I don’t want to interfere. I’ll leave it for the people around there to sort it out, if it needs to be sorted out.
+
+The air is already changing as we head into the mountains. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+This addition keeps your voice authentic — showing the heightened awareness that comes with lifting the fog, while also respecting boundaries and choosing non-interference.
+
+Would you like any small adjustments to the wording of the 14:36 paragraph (for example, making the reflection slightly longer or shorter)? Or is this version ready to go into today's `.md` file?
+
+Let me know how you're feeling on the train now, and if anything else wants to be added before you save the page. Safe journey to Katoomba. 🏔️🚂
+
+<br />
+
+### 15:07 I've now booked my accommodation in Katoomba for the next 3 days. Same place as before with the Mongolian receptionist who solved my buttonhole puzzle, by accident he admitted
+
+Here's the clean updated version for today's **TheBokkyBible** entry:
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was a slow, messy, and often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33 – 15:07, Friday 1 May 2026** — Finally packed, picked up lunch (beef vindaloo and lentils on rice with guava sparkling drink) while waiting for the train to Katoomba. Posted a quick “Good morning kings, queens, NPCs and bots!” from the platform.
+
+At 14:00 I captured this photo of the big Buddha statue. Shortly after, I accidentally left my phone on a park bench near the train station. Luckily it was still there when I got back.
+
+At 14:11, as I was unlocking my bike from a pole, a postal worker pushing a trolley full of packages commented how comfortable my high handlebars looked for cycling. A small, kind, everyday human interaction.
+
+At 14:24 I got on the train to Katoomba and could finally relax — exchange some money, top up my credit card, and book accommodation.
+
+At 14:36 the train stopped at a station. A child and a man sat a few seats behind me. The child was crying, saying they wanted their mummy. The man said they would call mummy. I got up and moved to the next carriage. I don’t know if the child is being taken away in some dispute or not. I don’t want to interfere. I’ll leave it for the people around there to sort it out, if it needs to be sorted out.
+
+At 15:07 I’ve now booked my accommodation in Katoomba for the next 3 days. Same place as before with the Mongolian receptionist who solved my buttonhole puzzle, by accident he admitted.
+
+The air is already changing as we head into the mountains. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+This keeps the timeline flowing naturally and includes the warm callback to the Mongolian receptionist and the buttonhole story (a nice little synchronicity/continuity note).
+
+Would you like any small tweaks to the last paragraph, or is this version good to copy into today's `.md` file?
+
+How’s the train ride going now? Enjoy the mountains when you arrive. 🏔️🚂
+
+Ready when you are.
+
+<br />
+
+### 15:13 Watching Bubba Ho-Tep in a small window on the bottom right of my laptop. You got ding dongs, man?
+
+<kbd><img src="images/Picture01179.png" width="400" /></kbd>  
+
+> You got ding dongs, man? - Bubba Ho-Tep  
+
+Here's the updated draft with the new 15:13 moment added:
+
+---
+
+**May 1, 2026 – Red Sausage Or Blue Sausage?**
+
+Taking the red pill — or in this case, the **red sausage** — was a slow, messy, and often painful crawl out of a dense narcissistic fog that had surrounded me since childhood.
+
+Since I was a scrawny little kid, so many things in the human world simply did not compute.
+
+I remember watching rich people speak down to their servants with casual superiority and disdain. A sharp discomfort would hit me, thinking “my mother could just as well be that servant.” I instinctively disliked the behaviour. It made no sense why anyone would treat another human that way.
+
+This confusion stayed with me for decades. Why did some people commit cruelty so easily? Why did some make cold decisions that hurt others without remorse? Why did so much of social reality feel misty, illogical, and somehow *off*?
+
+The first cracks in the matrix appeared in May 2025.
+
+On **May 19, 2025 at 01:08 AM**, I saved my first video:  
+**“6 Reasons Why Empaths Endured Abuse Before Their Rage”**  
+→ https://www.youtube.com/watch?v=Plh7nQNR24o
+
+After that, the flood began. YouTube kept serving INFJ and empath content. I don’t even know if I am officially an INFJ, but the videos kept appearing and I kept clicking. The volume grew rapidly:
+
+- 3 on May 21, 4 on May 22, 7 on May 23…  
+- 16 on June 29, 13 on July 6, 13 on July 13, and many more in between.
+
+A lot of repeated messages were required for me to slowly absorb this information. The same ideas needed to be presented from different angles until I could begin fitting them into my own life experience and the behaviours I saw in myself and those around me.
+
+Early on in this process, I checked in with a therapist. The session left me **more confused** than when I went in. She questioned what I was experiencing and seemed to make me doubt my own perceptions. The main takeaway she gave me was: “Why do *I* have buttons that people can push?”
+
+At the time I suspected something was off. Now I know clearly — she was gaslighting me further, deepening the fog instead of helping clear it.
+
+It took roughly six months of careful observation, reflection, and painful reality-testing to fully confirm what part of me had known for years: many people around me were running a completely different “operating system” from mine — one often wired more for dominance, status, self-interest, and emotional manipulation, while mine was wired for deep empathy, fairness, pattern recognition, and authenticity.
+
+Once I saw it, I couldn’t unsee it.
+
+The dense narcissistic fog that had surrounded me since childhood finally began to lift. The landscape became clearer — but also harsher and more strategic. I finally understood why so much human behaviour had never added up for me my entire life.
+
+Choosing the **Ethereum red sausage** today means continuing down the rabbit hole with clearer eyes: building systems based on transparent rules, verifiable code, self-custody, and permissionless coordination. Systems less susceptible to the casual cruelty, gaslighting, and projection I had witnessed since childhood.
+
+The **GM sausage** (blue pill) still offers the old temptation — to slip back into the comforting mist, to endlessly give the benefit of the doubt, to smooth things over even when the patterns are screaming.
+
+But once you’ve crawled out of that dense fog, going back feels like suffocation.
+
+**13:33 – 15:13, Friday 1 May 2026** — Finally packed, picked up lunch (beef vindaloo and lentils on rice with guava sparkling drink) while waiting for the train to Katoomba. Posted a quick “Good morning kings, queens, NPCs and bots!” from the platform.
+
+At 14:00 I captured this photo of the big Buddha statue. Shortly after, I accidentally left my phone on a park bench near the train station. Luckily it was still there when I got back.
+
+At 14:11, as I was unlocking my bike from a pole, a postal worker pushing a trolley full of packages commented how comfortable my high handlebars looked for cycling. A small, kind, everyday human interaction.
+
+At 14:24 I got on the train to Katoomba and could finally relax — exchange some money, top up my credit card, and book accommodation.
+
+At 14:36 the train stopped at a station. A child and a man sat a few seats behind me. The child was crying, saying they wanted their mummy. The man said they would call mummy. I got up and moved to the next carriage. I don’t know if the child is being taken away in some dispute or not. I don’t want to interfere. I’ll leave it for the people around there to sort it out, if it needs to be sorted out.
+
+At 15:07 I’ve now booked my accommodation in Katoomba for the next 3 days. Same place as before with the Mongolian receptionist who solved my buttonhole puzzle, by accident he admitted.
+
+At 15:13 I’m watching *Bubba Ho-Tep* in a small window on the bottom right of my laptop. “You got ding dongs, man?”
+
+The air is already changing as we head into the mountains. Sharper. Cleaner signal. Fewer projections.
+
+**Red sausage or blue sausage?**
+
+I know which one I’m taking.
+
+---
+
+The absurd *Bubba Ho-Tep* moment fits perfectly with the overall tone of TheBokkyBible — mixing deep personal reflection with everyday absurdity and humor.
+
+Would you like any small adjustments (e.g. making the *Bubba Ho-Tep* line funnier or tying it more explicitly to the red-pill theme)? Or is this version ready to save?
+
+Enjoy the rest of the train ride and the ridiculousness of Elvis vs. mummies. 😄
+
+Let me know if you want any tweaks. 🚂🏔️
 
 <br />
 
