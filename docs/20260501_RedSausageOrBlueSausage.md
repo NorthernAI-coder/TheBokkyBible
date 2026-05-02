@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 1 May 2026
-> Prev: [Thu 30 Apr 2026](20260430_EnvyAndJealousyAndSpikySteelStructures.md) Next: []()
+> Prev: [Thu 30 Apr 2026](20260430_EnvyAndJealousyAndSpikySteelStructures.md) Next: [Sat 2 May 2026](20260502_FullMoonInKatoomba.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -1730,10 +1730,6 @@ It feels like a natural extension rather than a detour.
 Would you like me to help integrate thoughts from this video into a fresh section for today’s (May 2) Bible entry once you’ve watched more of it? Or shall we continue the Red Sausage thread with this new input when you’re swanning around on the red Brompton later?
 
 How’s the morning energy in Katoomba feeling so far? 🏔️🕉️
-
-<br />
-
-###
 
 <br />
 
