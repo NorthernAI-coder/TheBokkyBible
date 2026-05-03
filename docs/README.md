@@ -185,7 +185,8 @@ Awake. Love. Be. 🚀🙏
 1. [What The World Needs Now Is Love](20260429_WhatTheWorldNeedsNowIsLove.md) - Wed 29 Apr 2026
 1. [Envy And Jealousy, And Spiky Steel Structures](20260430_EnvyAndJealousyAndSpikySteelStructures.md) - Thu 30 Apr 2026
 1. [Red Sausage Or Blue Sausage?](20260501_RedSausageOrBlueSausage.md) - Fri 1 May 2026
-1. [Full Moon In Katoomba](docs/20260502_FullMoonInKatoomba.md) - Sat 2 May 2026
+1. [Full Moon In Katoomba](20260502_FullMoonInKatoomba.md) - Sat 2 May 2026
+1. [Swanning About Katoomba](20260503_SwanningAboutKatoomba.md) - Sun 3 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

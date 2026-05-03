@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 2 May 2026
-> Prev: [Fri 1 May 2026](docs/20260501_RedSausageOrBlueSausage.md) Next: []()
+> Prev: [Fri 1 May 2026](20260501_RedSausageOrBlueSausage.md) Next: [Sun 3 May 2026](20260503_SwanningAboutKatoomba.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
