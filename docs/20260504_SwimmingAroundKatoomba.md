@@ -2,7 +2,7 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture01211.jpg" width="600" /></kbd>  
+<kbd><img src="images/Picture01211.jpg" width="400" /></kbd>  
 
 > Red Crowned Toadlet - Tables along the Katoomba main street - https://x.com/BokkyPooBah/status/2050788473939067093  
 
