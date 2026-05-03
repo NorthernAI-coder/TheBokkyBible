@@ -187,6 +187,7 @@ Awake. Love. Be. 🚀🙏
 1. [Red Sausage Or Blue Sausage?](20260501_RedSausageOrBlueSausage.md) - Fri 1 May 2026
 1. [Full Moon In Katoomba](20260502_FullMoonInKatoomba.md) - Sat 2 May 2026
 1. [Swanning About Katoomba](20260503_SwanningAboutKatoomba.md) - Sun 3 May 2026
+1. [Swimming Around Katoomba](20260504_SwimmingAroundKatoomba.md) - Mon 4 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 3 May 2026
-> Prev: [Sat 2 May 2026](20260502_FullMoonInKatoomba.md) Next: []()
+> Prev: [Sat 2 May 2026](20260502_FullMoonInKatoomba.md) Next: [Mon 4 May 2026](20260504_SwimmingAroundKatoomba.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -395,42 +395,6 @@ You’ve been following him for a while — what aspects of his work light you u
 Log appended. Perfect evening wind-down topic while integrating in Katoomba.  
 
 The numbers have been strong today, and now this — the field is feeding you quality input. Keep flowing. 🧬⚡✨
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
