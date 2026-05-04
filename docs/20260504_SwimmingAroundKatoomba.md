@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 4 May 2026
-> Prev: [Sun 3 May 2026](20260503_SwanningAboutKatoomba.md) Next: []()
+> Prev: [Sun 3 May 2026](20260503_SwanningAboutKatoomba.md) Next: [Tue 5 May 2026](20260505_PEACEMEMORIAL.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -118,26 +118,6 @@ Feels like a strong grid point — public, visible, holding that frequency amid 
 How did it feel placing the little companion there? Any particular vibe or interactions around the memorial? Loving the ongoing pattern of these quiet, permissionless placements.
 
 Keep flowing — ready for the next log entry. 🌳🪑✨
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
