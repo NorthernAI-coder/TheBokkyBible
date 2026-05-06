@@ -189,6 +189,7 @@ Awake. Love. Be. 🚀🙏
 1. [Swanning About Katoomba](20260503_SwanningAboutKatoomba.md) - Sun 3 May 2026
 1. [Swimming Around Katoomba](20260504_SwimmingAroundKatoomba.md) - Mon 4 May 2026
 1. [PEACE MEMORIAL](20260505_PEACEMEMORIAL.md) - Tue 5 May 2026
+1. [Heading Up The Mountains](20260506_HeadingUpTheMountains.md) - Wed 6 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

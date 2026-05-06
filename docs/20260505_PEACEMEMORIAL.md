@@ -17,7 +17,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 5 May 2026
-> Prev: [Mon 4 May 2026](20260504_SwimmingAroundKatoomba.md) Next: []()
+> Prev: [Mon 4 May 2026](20260504_SwimmingAroundKatoomba.md) Next: [Wed 6 May 2026](20260506_HeadingUpTheMountains.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
