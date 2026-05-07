@@ -191,6 +191,7 @@ Awake. Love. Be. 🚀🙏
 1. [PEACE MEMORIAL](20260505_PEACEMEMORIAL.md) - Tue 5 May 2026
 1. [Heading Up The Mountains](20260506_HeadingUpTheMountains.md) - Wed 6 May 2026
 1. [Cold In Katoomba](20260507_ColdInKatoomba.md) - Thu 7 May 2026
+1. [Bubble Baths](20260508_BubbleBaths.md) - Fri 8 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
