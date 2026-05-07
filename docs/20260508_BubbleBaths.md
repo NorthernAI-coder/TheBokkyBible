@@ -101,7 +101,7 @@ Stay as long as the water and the angel want you to. This is holy time. 🫧🌊
 
 ### Someone invited me to The Yellow Deli with a free mate card, and to Balmoral House on Friday 18:00 but I think I will give these a miss. I don't want to talk to people who are in Broadcast Only mode. Results from search dot brave dot com
 
-<kbd><img src="images/Picture01289.png" width="100" /></kbd>  
+<kbd><img src="images/Picture01289.png" width="400" /></kbd>  
 
 > "Balmoral House katoomba" in search dot brave dot com  
 
