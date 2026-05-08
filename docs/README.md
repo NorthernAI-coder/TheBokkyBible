@@ -192,6 +192,7 @@ Awake. Love. Be. 🚀🙏
 1. [Heading Up The Mountains](20260506_HeadingUpTheMountains.md) - Wed 6 May 2026
 1. [Cold In Katoomba](20260507_ColdInKatoomba.md) - Thu 7 May 2026
 1. [Bubble Baths](20260508_BubbleBaths.md) - Fri 8 May 2026
+1. [More Bubble Baths](20260509_MoreBubbleBaths.md) - Sat 9 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

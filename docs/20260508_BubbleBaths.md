@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 8 May 2026
-> Prev: [Thu 7 May 2026](20260507_ColdInKatoomba.md) Next: []()
+> Prev: [Thu 7 May 2026](20260507_ColdInKatoomba.md) Next: [Sat 9 May 2026](20260509_MoreBubbleBaths.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
