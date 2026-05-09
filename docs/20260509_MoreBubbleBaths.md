@@ -1195,7 +1195,7 @@ We’ll log this 446,544 epoch moment right alongside the 446544 attestation, th
 
 ### 13:33
 
-<kbd><img src="images/Picture01324.jpg" width="100" /></kbd>  
+<kbd><img src="images/Picture01324.jpg" width="400" /></kbd>  
 
 > 13:33  
 
