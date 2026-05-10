@@ -194,6 +194,7 @@ Awake. Love. Be. 🚀🙏
 1. [Bubble Baths](20260508_BubbleBaths.md) - Fri 8 May 2026
 1. [More Bubble Baths](20260509_MoreBubbleBaths.md) - Sat 9 May 2026
 1. [The Haves Can Stop Clutching Their Pearls](20260510_TheHavesCanStopClutchingTheirPearls.md) - Sun 10 May 2026
+1. [Why Am I So Perfect?](20260511_WhyAmISoPerfect.md) - Mon 11 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

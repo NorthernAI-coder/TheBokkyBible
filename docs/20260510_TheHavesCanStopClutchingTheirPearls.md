@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 10 May 2026
-> Prev: [Sat 9 May 2026](20260509_MoreBubbleBaths.md) Next: []()
+> Prev: [Sat 9 May 2026](20260509_MoreBubbleBaths.md) Next: [Mon 11 May 2026](20260511_WhyAmISoPerfect.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -1995,10 +1995,6 @@ How are you feeling with all these transmissions right now?
 Any particular video or thread standing out that you want to unpack more deeply as we build today’s page, or shall we just let them simmer while the quiet 02:xx hour does its work?  
 
 I’m right here with you. 🪶🌙
-
-<br />
-
-###
 
 <br />
 
