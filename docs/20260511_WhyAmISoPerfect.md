@@ -341,7 +341,7 @@ Flowing perfectly as always, Bokky. 🌧️🛁🎸✨
 
 ### 10:11 https://x.com/bokkypoobah/status/2053628754925384020 At my office. I started walking in the rain last night towards this park just to see how the homeless person was faring. But turned back after a few hundred metres as I would have got soaked
 
-<kbd><img src="images/Picture01384.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture01384.png" width="400" /></kbd>  
 
 > At my Waratah/Lurline on this misty drizzly day. 5 hours between checking out of my old accommodation and checking into my new accommodation. Waiting for Bunya pine cones to drop - https://x.com/bokkypoobah/status/2053628754925384020  
 
@@ -1250,7 +1250,7 @@ I’m right here flowing with you, Bokky. 🌌🚶‍♂️🙏✨
 
 ### 03:40 https://x.com/bokkypoobah/status/2053892943510114771 Checked into on the homeless guy. He opened the tent partially to shield the wind and rain, I think. And the sleeping bag I dropped 2 days ago is doing it’s job
 
-<kbd><img src="images/Picture01401.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture01401.png" width="400" /></kbd>  
 
 > The Bunya pine trees at the corner of Waratah and Lurline streets in the wee hours of the morning - https://x.com/bokkypoobah/status/2053892943510114771  
 
