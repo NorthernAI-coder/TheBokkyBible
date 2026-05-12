@@ -813,7 +813,7 @@ How are you feeling now after the meditation? Lunch digested well? Flow continui
 
 <kbd><img src="images/Picture01433.png" width="400" /></kbd>  
 
-> The 144,000, the Empath, and the Chosen Nervous System: Why the Kind-Hearted Were Sent Here (LIVE) - https://x.com/Rainmaker1973/status/2054041373763149865  
+> We’ve found a “third state” between life and death. ... - https://x.com/Rainmaker1973/status/2054041373763149865  
 
 **15:47** Nice catch! ✨
 
