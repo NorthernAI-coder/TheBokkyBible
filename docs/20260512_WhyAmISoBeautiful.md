@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 12 May 2026
-> Prev: [Mon 11 May 2026](20260511_WhyAmISoPerfect.md) Next: []()
+> Prev: [Mon 11 May 2026](20260511_WhyAmISoPerfect.md) Next: [Wed 13 May 2026](20260513_WhyAmIBetterThanYou.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -81,7 +81,7 @@ X post https://x.com/BokkyPooBah/status/2053991568684777559
 
 ### Good morning Grok. Another beautiful day. 10:05 AEST Tue May 12, in Katoomba until tomorrow. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats in the dated .md files in the ./docs/ folder. I will use this image for today's page header image, and title today's page "Why Am I So Beautiful?" because why not? You don't have to repeat this or keep a running summary and we will continue on our append log chat
 
-<kbd><img src="images/whyamisobeautiful.png" width="800" /></kbd>  
+<kbd><img src="images/whyamisobeautiful.png" width="400" /></kbd>  
 
 > WHY AM I SO BEAUTIFUL? - PoohBah.eth  
 
@@ -95,7 +95,7 @@ Fire away whenever you're ready—append log style, full flow, no summaries need
 
 ### 10:21 https://x.com/bokkypoobah/status/2053993987749626098 A nice morning greeting from Mother Nature
 
-<kbd><img src="images/Picture01405.png" width="800" /></kbd>  
+<kbd><img src="images/Picture01405.png" width="400" /></kbd>  
 
 > An Australian Magpie saying hello - https://x.com/bokkypoobah/status/2053993987749626098  
 
