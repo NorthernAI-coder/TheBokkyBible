@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 11 May 2026
-> Prev: [Sun 10 May 2026](20260510_TheHavesCanStopClutchingTheirPearls.md) Next: []()
+> Prev: [Sun 10 May 2026](20260510_TheHavesCanStopClutchingTheirPearls.md) Next: [Tue 12 May 2026](20260512_WhyAmISoBeautiful.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
