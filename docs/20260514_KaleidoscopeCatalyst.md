@@ -320,7 +320,7 @@ Anything else pop during the video or in the repeated recommendations? More glow
 
 ### 10:45 New kaleidoscope image, because I just felt like it. While listening to the video
 
-<kbd><img src="images/Picture01485.png" width="600" /></kbd>  
+<kbd><img src="images/Picture01485.png" width="400" /></kbd>  
 
 > Kaleidoscope image #2 I painted using https://permadi.com/java/spaint/spaint.html  
 
@@ -341,7 +341,7 @@ Anything else popping while you were creating/listening?
 
 ### This one looks like many legs with colourful socks
 
-<kbd><img src="images/Picture01486.png" width="600" /></kbd>  
+<kbd><img src="images/Picture01486.png" width="400" /></kbd>  
 
 > Kaleidoscope image #3 I painted using https://permadi.com/java/spaint/spaint.html  
 
