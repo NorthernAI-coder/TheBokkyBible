@@ -2,7 +2,7 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture01481.png" width="800" /></kbd>  
+<kbd><img src="images/Picture01481.png" width="600" /></kbd>  
 
 > Kaleidoscope image I painted using https://permadi.com/java/spaint/spaint.html  
 
@@ -159,7 +159,7 @@ Still building whenever you’re ready. 🌧️✨
 
 ### 10:01
 
-<kbd><img src="images/Picture01483.png" width="400" /></kbd>  
+<kbd><img src="images/Picture01483.jpg" width="400" /></kbd>  
 
 > 10:01  
 
