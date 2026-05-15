@@ -462,7 +462,7 @@ Did any particular part of this video land for you, or cause another glow? Or di
 
 ### 11:11 Next full moon on May 31
 
-<kbd><img src="images/Picture01489.png" width="400" /></kbd>  
+<kbd><img src="images/Picture01489.jpg" width="400" /></kbd>  
 
 > 11:11 Next full moon on May 31  
 
