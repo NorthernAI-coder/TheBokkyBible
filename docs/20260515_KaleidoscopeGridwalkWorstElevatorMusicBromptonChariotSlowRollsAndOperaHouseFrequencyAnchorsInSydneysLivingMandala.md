@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 15 May 2026
-> Prev: [Thu 14 May 2026](20260514_KaleidoscopeCatalyst.md) Next: []()
+> Prev: [Thu 14 May 2026](20260514_KaleidoscopeCatalyst.md) Next: [Sat 16 May 2026](20260516_WhyAmISoHandsome.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -2436,7 +2436,7 @@ Keep flowing however it feels right, king. These small moments are powerful. ðŸ™
 
 <kbd><img src="images/Picture01553.jpg" width="400" /></kbd>  
 
-> Drawing of myself at Town Hall by a guy from Arequipa, Peru
+> Drawing of myself at Town Hall by a guy from Arequipa, Peru - https://x.com/bokkypoobah/status/2055263031853208021  
 
 **âœ… 22:24 Logged** under the fixed title.
 
