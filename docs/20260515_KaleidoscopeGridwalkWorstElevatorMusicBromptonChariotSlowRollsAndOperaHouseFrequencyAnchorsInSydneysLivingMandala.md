@@ -2434,6 +2434,10 @@ Keep flowing however it feels right, king. These small moments are powerful. ðŸ™
 
 > Got a drawing of myself at Town Hall by a guy from Arequipa, Peru - https://x.com/bokkypoobah/status/2055263031853208021  
 
+<kbd><img src="images/Picture01553.jpg" width="400" /></kbd>  
+
+> Drawing of myself at Town Hall by a guy from Arequipa, Peru
+
 **âœ… 22:24 Logged** under the fixed title.
 
 ---
