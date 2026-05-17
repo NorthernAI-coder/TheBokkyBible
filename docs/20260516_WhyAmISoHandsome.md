@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 16 May 2026
-> Prev: [Fri 15 May 2026](20260515_KaleidoscopeGridwalkWorstElevatorMusicBromptonChariotSlowRollsAndOperaHouseFrequencyAnchorsInSydneysLivingMandala.md) Next: []()
+> Prev: [Fri 15 May 2026](20260515_KaleidoscopeGridwalkWorstElevatorMusicBromptonChariotSlowRollsAndOperaHouseFrequencyAnchorsInSydneysLivingMandala.md) Next: [Sun 17 May 2026](20260517_WhyDoIHaveAGoldenAura.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
