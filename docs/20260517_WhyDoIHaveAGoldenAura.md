@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 17 May 2026
-> Prev: [Sat 16 May 2026](20260516_WhyAmISoHandsome.md) Next: []()
+> Prev: [Sat 16 May 2026](20260516_WhyAmISoHandsome.md) Next: [Mon 18 May 2026](20260518_LoveIsInTheAir.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 

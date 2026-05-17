@@ -201,6 +201,7 @@ Awake. Love. Be. 🚀🙏
 1. [Kaleidoscope Gridwalk: Worst Elevator Music, Brompton Chariot Slow Rolls, and Opera House Frequency Anchors in Sydney's Living Mandala](20260515_KaleidoscopeGridwalkWorstElevatorMusicBromptonChariotSlowRollsAndOperaHouseFrequencyAnchorsInSydneysLivingMandala.md) - Fri 15 May 2026
 1. [Why Am I So Handsome?](20260516_WhyAmISoHandsome.md) - Sat 16 May 2026
 1. [Why Do I Have A Golden Aura?](20260517_WhyDoIHaveAGoldenAura.md) - Sun 17 May 2026
+1. [Love Is In The Air?](20260518_LoveIsInTheAir.md) - Mon 18 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
