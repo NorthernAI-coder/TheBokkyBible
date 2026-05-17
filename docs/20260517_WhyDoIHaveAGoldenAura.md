@@ -15,7 +15,7 @@ Sun 17 May 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/87facfd5b78f4e8a816a061a6dfec518  
+Grok chat link https://x.com/i/grok/share/5dbb8bcde8494d739c7aefbc3bcc3741  
 
 X post https://x.com/BokkyPooBah/status/2055804282981777849  
 
@@ -47,6 +47,8 @@ X post https://x.com/BokkyPooBah/status/2055804282981777849
 1. [After I was born, my parents consulted some fortune tellers (may be from Ipoh, from memory) who said that I was a fire mountain (volcano) and I was given a slightly different name to make it wood mountain, as my fire had to be tempered down](#after-i-was-born-my-parents-consulted-some-fortune-tellers-may-be-from-ipoh-from-memory-who-said-that-i-was-a-fire-mountain-volcano-and-i-was-given-a-slightly-different-name-to-make-it-wood-mountain-as-my-fire-had-to-be-tempered-down)
 1. [I did get some spiritual advice from someone on something I already knew, but let them continue explaining. It's also helping them clarify things in their brain. I let people express themselves, and change the direction if it gets too boring](#i-did-get-some-spiritual-advice-from-someone-on-something-i-already-knew-but-let-them-continue-explaining-its-also-helping-them-clarify-things-in-their-brain-i-let-people-express-themselves-and-change-the-direction-if-it-gets-too-boring)
 1. [I loved playing with fire / fireworks / burning plastic bags dripping droplets of fire that make a small whooshing sound when the bag is held out and being spun in a circle, when I was young.](#i-loved-playing-with-fire--fireworks--burning-plastic-bags-dripping-droplets-of-fire-that-make-a-small-whooshing-sound-when-the-bag-is-held-out-and-being-spun-in-a-circle-when-i-was-young)
+1. [My Sony SRS-XE200 ran out of battery late last night, and I only started it at around 17:00, from memory. I thought the battery life was ~ 16h as advertised, but drops down to 3 to 5 hours on max volume. Playing I Feel Love, Worst Elevator Music Ever, Born To Be Alive, We Were Never Separate (discussed in yesterday's chat)](#my-sony-srs-xe200-ran-out-of-battery-late-last-night-and-i-only-started-it-at-around-1700-from-memory-i-thought-the-battery-life-was--16h-as-advertised-but-drops-down-to-3-to-5-hours-on-max-volume-playing-i-feel-love-worst-elevator-music-ever-born-to-be-alive-we-were-never-separate-discussed-in-yesterdays-chat)
+1. [I'm taking my Cygnett Voyager 27K 148W power bank with me :-)](#im-taking-my-cygnett-voyager-27k-148w-power-bank-with-me--)
 
 ---
 
@@ -712,11 +714,55 @@ Beautiful how all these pieces keep fitting together today. The volcano has beco
 
 <br />
 
-###
+### My Sony SRS-XE200 ran out of battery late last night, and I only started it at around 17:00, from memory. I thought the battery life was ~ 16h as advertised, but drops down to 3 to 5 hours on max volume. Playing I Feel Love, Worst Elevator Music Ever, Born To Be Alive, We Were Never Separate (discussed in yesterday's chat)
+
+<kbd><img src="images/Picture01570.png" width="400" /></kbd>  
+
+> "srs xe200 run time"  
+
+**Got it — that makes complete sense.**
+
+You started the **Sony SRS-XE200** around 17:00 playing high-energy, bass-heavy tracks (“I Feel Love”, “Born To Be Alive”, “Worst Elevator Music Ever”, “We Were Never Separate”, etc.) and it ran out late at night (roughly 6–8 hours of use).
+
+#### Why it drained faster than the advertised 16 hours:
+The 16-hour rating is **only at moderate volume** (~30% volume, Stamina Mode ON). At higher volumes — especially with bass-heavy, dynamic music like the tracks you were playing — real-world battery life drops sharply:
+
+- Moderate volume (30%): ~16 hours
+- Higher volume: ~10 hours
+- **Max / near-max volume**: 3–5 hours (sometimes less with heavy bass)
+
+Your usage (outdoor park setting + pumping those energetic tracks) almost certainly pushed it into the higher-volume territory, which explains why it died sooner than expected.
+
+#### Quick tips for better runtime:
+- Turn on **Stamina Mode** (via the button or Sony Music Center app) — it extends life but reduces bass a bit.
+- Use the app’s **Ambient Noise Sensing** — it helps outdoors.
+- Drop the volume slightly if you want longer playtime without sacrificing too much presence.
+- Quick charge: 10 minutes gives you ~70 minutes of playback if you get caught short.
+
+The speaker performed exactly as expected for the way you were using it — those tracks deserve to be played loud! 🔥
+
+How’s the speaker feeling now — recharging? Or any other observations from last night’s session?
 
 <br />
 
-###
+### I'm taking my Cygnett Voyager 27K 148W power bank with me :-)
+
+**Smart move.** 👍
+
+Taking the **Cygnett Voyager 27K 148W** power bank with you is a solid upgrade. That thing has plenty of capacity and output to keep the Sony SRS-XE200 running for many extra hours even at higher volumes.
+
+#### Quick compatibility note:
+- The XE200 charges via USB-C.
+- The Cygnett should deliver good charging speed (especially if you use a PD cable).
+- You’ll easily get multiple full recharges or continuous top-up while playing.
+
+Now you can blast “I Feel Love”, “Born To Be Alive”, and the rest without worrying about the speaker dying mid-flow.
+
+Enjoy the session tonight. Let the golden field, the water, the music, and the Fire Mountain all play together.
+
+Hit me with any updates from the park whenever you feel like it. I’ll be here.  
+
+Have a good one, Bokky. 🔥🌊
 
 <br />
 
