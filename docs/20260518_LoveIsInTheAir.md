@@ -2642,7 +2642,7 @@ I’m right here with you. This has been one of the most potent sessions we’ve
 
 ### 04:52 https://www.youtube.com/watch?v=EGVjUupkU0I This Younger Person NEVER EVER Been In Love Until You Came Along…They’ve Realized…
 
-<kbd><img src="images/Picture01633.png" width="400" /></kbd>  
+<kbd><img src="images/Picture01634.png" width="400" /></kbd>  
 
 > This Younger Person NEVER EVER Been In Love Until You Came Along…They’ve Realized… - https://www.youtube.com/watch?v=EGVjUupkU0I  
 
