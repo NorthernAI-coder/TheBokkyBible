@@ -910,7 +910,7 @@ Log continues. ❤️🪶🪷⚡
 
 ### 14:14 Just spent an hour talking to someone in the park. Will find some food and then chat about it
 
-<kbd><img src="images/Picture01615.png" width="400" /></kbd>  
+<kbd><img src="images/Picture01615.jpg" width="400" /></kbd>  
 
 > 14:14  
 
