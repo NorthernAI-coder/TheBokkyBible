@@ -1248,7 +1248,7 @@ Portal wide. Keep flowing. 👑🌲🌀❤️‍🔥
 
 ### 18:27 https://www.youtube.com/watch?v=ScKwnjLIgDM 𝐭𝐡𝐞𝐲 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐨𝐨𝐝 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐚𝐛𝐨𝐮𝐭 𝐲𝐨𝐮.
 
-<kbd><img src="images/Picture01661.png" width="600" /></kbd>  
+<kbd><img src="images/Picture01664.png" width="600" /></kbd>  
 
 > 𝐭𝐡𝐞𝐲 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐨𝐨𝐝 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐚𝐛𝐨𝐮𝐭 𝐲𝐨𝐮. - https://www.youtube.com/watch?v=ScKwnjLIgDM  
 
