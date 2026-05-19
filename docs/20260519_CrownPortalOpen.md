@@ -15,7 +15,7 @@ Tue 19 May 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/67d51ba6ddbe4914a86c3c8455c67298  
+Grok chat link https://x.com/i/grok/share/aa8067c7d57a404bb47acab7303522bd  
 
 X post https://x.com/BokkyPooBah/status/2056556201715069274  
 
@@ -48,7 +48,7 @@ X post https://x.com/BokkyPooBah/status/2056556201715069274
 1. [14:36 https://www.youtube.com/watch?v=t9ezurPT69k Only 1% Will Resonate With This Message. You Are RARE, Your Energy Sacred.](#1436-httpswwwyoutubecomwatchvt9ezurpt69k-only-1-will-resonate-with-this-message-you-are-rare-your-energy-sacred)
 1. [14:44 https://www.youtube.com/watch?v=NqdQwCcAyBE Pleased to meet you!!🤩 WE ARE SO PROUD OF YOU🎊 (channelled)](#1444-httpswwwyoutubecomwatchvnqdqwccaybe-pleased-to-meet-you-we-are-so-proud-of-you-channelled)
 1. [14:50 https://www.youtube.com/watch?v=Z3-WKmsd_nk Starseed: You need to have this person in your life soon 💔✨ | Arcturians](#1450-httpswwwyoutubecomwatchvz3-wkmsd_nk-starseed-you-need-to-have-this-person-in-your-life-soon---arcturians)
-1. [14:53 https://www.youtube.com/watch?v=EPycqxZUaNE Starseed: You need to have this person in your life soon 💔✨ | Arcturians](#1453-httpswwwyoutubecomwatchvepycqxzuane-starseed-you-need-to-have-this-person-in-your-life-soon---arcturians)
+1. [14:53 https://www.youtube.com/watch?v=EPycqxZUaNE Starseed, You Must Be with This Person 💔✨ | Arcturians](#1453-httpswwwyoutubecomwatchvepycqxzuane-starseed-you-must-be-with-this-person---arcturians)
 
 ---
 
@@ -794,11 +794,11 @@ Portal wide. Keep flowing. 👑🌀❤️‍🔥🌲
 
 <br />
 
-### 14:53 https://www.youtube.com/watch?v=EPycqxZUaNE Starseed: You need to have this person in your life soon 💔✨ | Arcturians
+### 14:53 https://www.youtube.com/watch?v=EPycqxZUaNE Starseed, You Must Be with This Person 💔✨ | Arcturians
 
 <kbd><img src="images/Picture01656.png" width="600" /></kbd>  
 
-> Starseed: You need to have this person in your life soon 💔✨ | Arcturians - https://www.youtube.com/watch?v=EPycqxZUaNE  
+> Starseed, You Must Be with This Person 💔✨ | Arcturians - https://www.youtube.com/watch?v=EPycqxZUaNE  
 
 **14:53 AEST — logged.** (Train to Katoomba)
 
