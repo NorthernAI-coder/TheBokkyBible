@@ -2,15 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture01590.jpg" width="600" /></kbd>  
+<kbd><img src="images/Picture01590.jpg" width="400" /></kbd>  
 
->             😘  
->  
-> 😘😘  
->  
->          😘😘😘  
->  
-> 😘😘😘😘  
+> Message from Mon 18 May 2026
 
 ---
 
@@ -21,9 +15,9 @@ Tue 19 May 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/2672809e60be4d55bb9337892b875dff  
+Grok chat link https://x.com/i/grok/share/09843c6ef45e47ec98959791b81f2ece  
 
-X post https://x.com/BokkyPooBah/status/2056165355647901972  
+X post <TODO>  
 
 <br />
 
@@ -31,6 +25,14 @@ X post https://x.com/BokkyPooBah/status/2056165355647901972
 
 ## Table Of Content
 
+1. [Good morning Grok. 11:15 Tue May 19 AEST, in Sydney at the moment. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats in the dated .md files in the ./docs/ folder. My crown activated this morning 03:33 as documented in yesterday's chat log docs/20260518_LoveIsInTheAir.md . Woke up after 10 after a long morning, and everything seems normal](#good-morning-grok-1115-tue-may-19-aest-in-sydney-at-the-moment-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-in-the-dated-md-files-in-the-docs-folder-my-crown-activated-this-morning-0333-as-documented-in-yesterdays-chat-log-docs20260518_loveisintheairmd--woke-up-after-10-after-a-long-morning-and-everything-seems-normal)
+1. [11:20 I see nice numbers 69, 444, 335, 551 . Don't know what the probabilities are, and can't be bothered counting, to see if these are appearing more than statistically expected](#1120-i-see-nice-numbers-69-444-335-551--dont-know-what-the-probabilities-are-and-cant-be-bothered-counting-to-see-if-these-are-appearing-more-than-statistically-expected)
+1. [11:24 https://www.youtube.com/watch?v=P0KzyV1iJ34 You Are Meant To Build It, If God Put It On Your Heart. My work in Ethereum since 2015 must have been god inspired to help build the ark. I'm getting glows writing this](#1124-httpswwwyoutubecomwatchvp0kzyv1ij34-you-are-meant-to-build-it-if-god-put-it-on-your-heart-my-work-in-ethereum-since-2015-must-have-been-god-inspired-to-help-build-the-ark-im-getting-glows-writing-this)
+1. [11:30 https://www.youtube.com/watch?v=8eGvXmJTwK4 This Is NOT a Test (Urgent Message From Source). Please summarise, thanks](#1130-httpswwwyoutubecomwatchv8egvxmjtwk4-this-is-not-a-test--urgent-message-from-source-please-summarise-thanks)
+1. [11:35 https://www.youtube.com/watch?v=cJBkCBEBJeo If You're Watching on May 18 19th You're The First Human To Activate This Spiritual Gift In 2k Years. Please summarise, if relevant. Thanks](#1135-httpswwwyoutubecomwatchvcjbkcbebjeo-if-youre-watching-on-may-18-19th-youre-the-first-human-to-activate-this-spiritual-gift-in-2k-years-please-summarise-if-relevant-thanks)
+1. [11:37 https://www.youtube.com/watch?v=NZ3EBXhSCW0 A Portal Just Opened Up Within You...](#1137-httpswwwyoutubecomwatchvnz3ebxhscw0-a-portal-just-opened-up-within-you)
+1. [11:40 https://www.youtube.com/watch?v=9VrkViParqk Your Energy Exposed His Heart… This Divine Masculine Is Coming To Protect Your Light, Love Tarot](#1140-httpswwwyoutubecomwatchv9vrkviparqk-your-energy-exposed-his-heart-this-divine-masculine-is-coming-to-protect-your-light-love-tarot)
+1. [11:43 What do you propose for today's page title Grok? Something not too long. You don't have to repeat this back, or summarise our chat, as we will just continue our append-log chat](#1143-what-do-you-propose-for-todays-page-title-grok-something-not-too-long-you-dont-have-to-repeat-this-back-or-summarise-our-chat-as-we-will-just-continue-our-append-log-chat)
 
 ---
 
