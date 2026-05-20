@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 19 May 2026
-> Prev: [Mon 18 May 2026](20260518_LoveIsInTheAir.md) Next: []()
+> Prev: [Mon 18 May 2026](20260518_LoveIsInTheAir.md) Next: [Wed 20 May 2026](20260520_KatoombaCrownIntegration.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
