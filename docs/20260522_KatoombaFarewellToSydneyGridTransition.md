@@ -2,9 +2,9 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/Picture01819.png" width="400" /></kbd>  
+<kbd><img src="images/Picture01890.png" width="400" /></kbd>  
 
-> Kaleidoscope image #8 I painted using https://permadi.com/java/spaint/spaint.html  
+> Kaleidoscope image #9 I painted using https://permadi.com/java/spaint/spaint.html  
 
 ---
 
@@ -37,6 +37,30 @@ X post <TODO>
 **Katoomba Farewell to Sydney Grid Transition**
 
 It keeps the flowing, location-to-location energetic style without getting too long, while nodding to the move and the ongoing anchoring work. Ready for whatever unfolds—append away! 🚲🌉🙏
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
+
+<br />
+
+###
 
 <br />
 
