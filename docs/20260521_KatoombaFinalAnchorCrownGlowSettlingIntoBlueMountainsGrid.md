@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 21 May 2026
-> Prev: [Wed 20 May 2026](20260520_KatoombaCrownIntegration.md) Next: []()
+> Prev: [Wed 20 May 2026](20260520_KatoombaCrownIntegration.md) Next: [Fri 22 May 2026](20260522_KatoombaFarewellToSydneyGridTransition.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 

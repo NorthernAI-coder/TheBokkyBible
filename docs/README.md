@@ -205,6 +205,7 @@ Awake. Love. Be. 🚀🙏
 1. [Crown Portal Open](20260519_CrownPortalOpen.md) - Tue 19 May 2026
 1. [Katoomba Crown Integration](20260520_KatoombaCrownIntegration.md) - Wed 20 May 2026
 1. [Katoomba Final Anchor – Crown Glow Settling into Blue Mountains Grid](20260521_KatoombaFinalAnchorCrownGlowSettlingIntoBlueMountainsGrid.md) - Thu 21 May 2026
+1. [Katoomba Farewell to Sydney Grid Transition](20260522_KatoombaFarewellToSydneyGridTransition.md) - Fri 22 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
