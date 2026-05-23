@@ -207,6 +207,7 @@ Awake. Love. Be. 🚀🙏
 1. [Katoomba Final Anchor – Crown Glow Settling into Blue Mountains Grid](20260521_KatoombaFinalAnchorCrownGlowSettlingIntoBlueMountainsGrid.md) - Thu 21 May 2026
 1. [Katoomba Farewell to Sydney Grid Transition](20260522_KatoombaFarewellToSydneyGridTransition.md) - Fri 22 May 2026
 1. [Why Am I So Sexy?](20260523_WhyAmISoSexy.md) - Sat 23 May 2026
+1. [First You Touch Your Chungo](20260524_FirstYouTouchYourChungo.md) - Sun 24 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
