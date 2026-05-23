@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 22 May 2026
-> Prev: [Thu 21 May 2026](20260521_KatoombaFinalAnchorCrownGlowSettlingIntoBlueMountainsGrid.md) Next: []()
+> Prev: [Thu 21 May 2026](20260521_KatoombaFinalAnchorCrownGlowSettlingIntoBlueMountainsGrid.md) Next: [Sat 23 May 2026](20260523_WhyAmISoSexy.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
