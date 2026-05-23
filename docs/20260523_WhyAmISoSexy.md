@@ -15,7 +15,7 @@ Sat 23 May 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/5f210657de864d028bf1415c2ea47d6b  
+Grok chat link https://x.com/i/grok/share/7fc1211e6d79462bb68819d7eb92b27d  
 
 X post <TODO>  
 
