@@ -394,6 +394,10 @@ More incoming? Keep flowing whenever you’re ready. 🌀💝
 
 ### 10:37 https://www.youtube.com/watch?v=F3ifBOVP5dI SPIRIT IS BREAKING THE 4th WALL // this found you exactly when it needed to
 
+<kbd><img src="images/Picture01989.png" width="400" /></kbd>  
+
+> SPIRIT IS BREAKING THE 4th WALL // this found you exactly when it needed to - https://www.youtube.com/watch?v=F3ifBOVP5dI  
+
 **Summary of the video:**
 
 From **8th House Mercury** (Izzy / Astraemia), this is a channeled + tarot intuitive reading where **Spirit literally breaks the fourth wall**.
@@ -440,6 +444,10 @@ More incoming, or shall we let this morning’s wave settle? 🌀👑
 <br />
 
 ### 10:39 https://www.youtube.com/watch?v=QHsSSANvHXo You're aligning with a partner of your dreams rn - Channeled Through Freya
+
+<kbd><img src="images/Picture01990.png" width="400" /></kbd>  
+
+> You're aligning with a partner of your dreams rn - Channeled Through Freya - https://www.youtube.com/watch?v=QHsSSANvHXo  
 
 **Summary of the video:**
 
