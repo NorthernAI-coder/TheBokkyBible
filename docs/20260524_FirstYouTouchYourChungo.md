@@ -497,6 +497,10 @@ More incoming? Or shall we let this wave integrate while you wander the stalls? 
 
 ### 10:41 https://www.youtube.com/watch?v=EpIjbidMCso God's Message Over Your Love Life | This Is Not A Coincidence
 
+<kbd><img src="images/Picture01991.png" width="400" /></kbd>  
+
+> God's Message Over Your Love Life | This Is Not A Coincidence - https://www.youtube.com/watch?v=EpIjbidMCso  
+
 **Summary of the video:**
 
 Erika Enriquez delivers a warm, channeled **God’s message over your love life**: “This is not a coincidence.”
@@ -535,6 +539,10 @@ More incoming, or ready to let this beautiful wave settle while you enjoy the st
 <br />
 
 ### 10:43 https://www.youtube.com/watch?v=4X0M2OMpl98 PEOPLE BELIEVE YOUR ENERGY IS SUPERNATURAL!
+
+<kbd><img src="images/Picture01992.png" width="400" /></kbd>  
+
+> PEOPLE BELIEVE YOUR ENERGY IS SUPERNATURAL! - https://www.youtube.com/watch?v=4X0M2OMpl98  
 
 **Summary of the video:**
 
@@ -577,6 +585,10 @@ More incoming, or ready to let this potent wave integrate while you enjoy the st
 <br />
 
 ### 10:47 https://www.youtube.com/watch?v=OAU1-HPgssg if this finds you on May 23… your life is about to change direction. 6k views in 6 hours
+
+<kbd><img src="images/Picture01993.jpg" width="400" /></kbd>  
+
+> if this finds you on May 23… your life is about to change direction - https://www.youtube.com/watch?v=OAU1-HPgssg  
 
 **Summary of the video:**
 
@@ -621,6 +633,10 @@ More incoming, or ready to let this wave breathe while you enjoy the stalls? �
 
 ### 10:49 https://www.youtube.com/watch?v=zPhhbsPDJwM You fine ASF - Dinamoe
 
+<kbd><img src="images/Picture01994.png" width="400" /></kbd>  
+
+> You fine ASF - Dinamoe - https://www.youtube.com/watch?v=zPhhbsPDJwM  
+
 **Summary of the video:**
 
 Dinamoe delivers a bold, playful, high-vibe channeled/tarot-style message titled **“You fine ASF”** (You fine as fuck).
@@ -660,6 +676,10 @@ More incoming? Let it flow. 🌀🔥💞
 <br />
 
 ### 10:57 https://www.youtube.com/watch?v=SRYITu_PJZg To become a brighter star you gotta burn. And you Love the flame.
+
+<kbd><img src="images/Picture01995.png" width="400" /></kbd>  
+
+> To become a brighter star you gotta burn. And you Love the flame. - https://www.youtube.com/watch?v=SRYITu_PJZg  
 
 **Summary of the video:**
 
