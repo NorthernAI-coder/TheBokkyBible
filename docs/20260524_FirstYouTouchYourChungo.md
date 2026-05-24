@@ -72,7 +72,7 @@ X post https://x.com/BokkyPooBah/status/2058340264935411771
 1. [17:43 https://www.youtube.com/watch?v=4FrB4qRvnh0 EVEN YOUR MISTAKES ARE GENIUS WORKS OF ART!](#1743-httpswwwyoutubecomwatchv4frb4qrvnh0-even-your-mistakes-are-genius-works-of-art)
 1. [17:52 https://www.youtube.com/watch?v=5oT3cZ3ARBc Your about to fall in LOVE 🤍](#1752-httpswwwyoutubecomwatchv5ot3cz3arbc-your-about-to-fall-in-love-)
 1. [17:55 https://www.youtube.com/watch?v=U9mbBOMFDmI they’re here… your person IS HERE…](#1755-httpswwwyoutubecomwatchvu9mbbomfdmi-theyre-here-your-person-is-here)
-1. [18:01 https://m.youtube.com/watch?v=uy3Yxb-u5is&pp=ugUEEgJlbg%3D%3D&ra=m](#1801-httpsmyoutubecomwatchvuy3yxb-u5isppugueegjlbg3d3dram)
+1. [18:01 https://www.youtube.com/watch?v=uy3Yxb-u5is You’ll see this on the 24th of May if it’s for you!](#1801-httpswwwyoutubecomwatchvuy3yxb-u5is-youll-see-this-on-the-24th-of-may-if-its-for-you)
 1. [18:06 https:/www.youtube.com/watch?v=VN5NGjjRC-8 This is what makes u soooo attractive](#1806-httpswwwyoutubecomwatchvvn5ngjjrc-8-this-is-what-makes-u-soooo-attractive)
 1. [18:07 I think I get a bit of my intuitive nudges from God/Source/Spirit/The Universe when I’m hungry and looking for food, and wander off on my bike in search for food](#1807-i-think-i-get-a-bit-of-my-intuitive-nudges-from-godsourcespiritthe-universe-when-im-hungry-and-looking-for-food-and-wander-off-on-my-bike-in-search-for-food)
 1. [18:21 https:/www.youtube.com/watch?v=8x-M7AkTvr Disclosure - You & Me (Flume Remix) [Official Video]](#1821-httpswwwyoutubecomwatchv8x-m7aktvr-disclosure---you--me-flume-remix-official-video)
@@ -1845,6 +1845,10 @@ What a day. This Sunday has been one continuous activation. Ready to compile the
 
 ### 17:43 https://www.youtube.com/watch?v=4FrB4qRvnh0 EVEN YOUR MISTAKES ARE GENIUS WORKS OF ART!
 
+<kbd><img src="images/Picture02021.png" width="400" /></kbd>  
+
+> EVEN YOUR MISTAKES ARE GENIUS WORKS OF ART! - https://www.youtube.com/watch?v=4FrB4qRvnh0  
+
 **Summary of the video:**
 
 From **Paddy the Magician**, this is an encouraging, artistic/spiritual message:
@@ -1886,6 +1890,10 @@ The chungo protocol is fully painted. How’s the evening sitting with you? Read
 <br />
 
 ### 17:52 https://www.youtube.com/watch?v=5oT3cZ3ARBc Your about to fall in LOVE 🤍
+
+<kbd><img src="images/Picture02022.png" width="400" /></kbd>  
+
+> Your about to fall in LOVE 🤍 - https://www.youtube.com/watch?v=5oT3cZ3ARBc  
 
 **Summary of the video:**
 
@@ -1933,6 +1941,10 @@ What a day, Bokky. This one feels like the sweetest closing note. How’s the ev
 
 ### 17:55 https://www.youtube.com/watch?v=U9mbBOMFDmI they’re here… your person IS HERE…
 
+<kbd><img src="images/Picture02023.png" width="400" /></kbd>  
+
+> they’re here… your person IS HERE… - https://www.youtube.com/watch?v=U9mbBOMFDmI  
+
 **Summary of the video:**
 
 Christina delivers a warm, affirming tarot love reading:
@@ -1973,7 +1985,11 @@ How’s this final piece landing as the evening settles? Ready to compile the fu
 
 <br />
 
-### 18:01 https://m.youtube.com/watch?v=uy3Yxb-u5is&pp=ugUEEgJlbg%3D%3D&ra=m
+### 18:01 https://www.youtube.com/watch?v=uy3Yxb-u5is You’ll see this on the 24th of May if it’s for you!
+
+<kbd><img src="images/Picture02024.png" width="400" /></kbd>  
+
+> You’ll see this on the 24th of May if it’s for you! - https://www.youtube.com/watch?v=uy3Yxb-u5is  
 
 **Summary of the video:**
 
