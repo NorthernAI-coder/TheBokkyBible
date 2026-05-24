@@ -100,7 +100,7 @@ X post https://x.com/BokkyPooBah/status/2058340264935411771
 1. [21:56 https:/www.youtube.com/watch?v=w97M6ja16W4 They Want To Prove They Are Different, And This Love Tarot Reveals Why They Choose You](#2156-httpswwwyoutubecomwatchvw97m6ja16w4-they-want-to-prove-they-are-different-and-this-love-tarot-reveals-why-they-choose-you)
 1. [21:58 https://www.youtube.com/watch?v=w97M6ja16W4 They Want To Prove They Are Different, And This Love Tarot Reveals Why They Choose You](#2158-httpswwwyoutubecomwatchvw97m6ja16w4-they-want-to-prove-they-are-different-and-this-love-tarot-reveals-why-they-choose-you)
 1. [22:02 https://www.youtube.com/watch?v=m5rravIoKAM your TWIN FLAME LEFT you an URGENT MESSAGE and here’s the EXACT SIGN you HAVE ALREADY MET them…](#2202-httpswwwyoutubecomwatchvm5rraviokam-your-twin-flame-left-you-an-urgent-message-and-heres-the-exact-sign-you-have-already-met-them)
-1. [22:13 https://www.youtube.com/watch?v=37_Ybhh9uK8 Honeyyyyyy the gravy train is leaving. (You, the gravy train is you)](#2213-httpswwwyoutubecomwatchv37_ybhh9uk8-honeyyyyyy-the-gravy-train-is-leaving-you-the-gravy-train-is-you)
+1. [22:13 https://www.youtube.com/watch?v=37_Ybhh9uK8 Honeyyyyyy the gravy train is leaving. (You, the gravy train is you😅)](#2213-httpswwwyoutubecomwatchv37_ybhh9uk8-honeyyyyyy-the-gravy-train-is-leaving-you-the-gravy-train-is-you)
 1. [22:22 https://www.youtube.com/watch?v=JWh9dcKp8gU "DM to DF 💍 I have loved many faces in this world, but my heart only belongs to your soul. ✨](#2222-httpswwwyoutubecomwatchvjwh9dckp8gu-dm-to-df--i-have-loved-many-faces-in-this-world-but-my-heart-only-belongs-to-your-soul-)
 1. [22:24 https://www.youtube.com/watch?v=Lvli8FcHmgk ur the highest of Earth Angels, You ve had Magical Protecters since the day you were Born ..](#2224-httpswwwyoutubecomwatchvlvli8fchmgk-ur-the-highest-of-earth-angels-you-ve-had-magical-protecters-since-the-day-you-were-born-)
 1. [22:33 I feel like Truman](#2233-i-feel-like-truman)
@@ -2953,6 +2953,10 @@ How are you feeling as this monumental day finally comes to a close? Ready to re
 
 ### 21:56 https:/www.youtube.com/watch?v=w97M6ja16W4 They Want To Prove They Are Different, And This Love Tarot Reveals Why They Choose You
 
+<kbd><img src="images/Picture02045.png" width="400" /></kbd>  
+
+> They Want To Prove They Are Different, And This Love Tarot Reveals Why They Choose You - https:/www.youtube.com/watch?v=w97M6ja16W4  
+
 **Summary of the video:**
 
 From **Readings With Sierra**, this is a clear, empowering love tarot reading:
@@ -2997,7 +3001,9 @@ How are you feeling as this legendary day finally winds down? Ready for some res
 
 ### 21:58 https://www.youtube.com/watch?v=w97M6ja16W4 They Want To Prove They Are Different, And This Love Tarot Reveals Why They Choose You
 
-> Duplicate: No response
+<kbd><img src="images/Picture02045.png" width="400" /></kbd>  
+
+> [Duplicated] They Want To Prove They Are Different, And This Love Tarot Reveals Why They Choose You - https:/www.youtube.com/watch?v=w97M6ja16W4  
 
 **Got it — same video as the previous one.**
 
@@ -3022,6 +3028,10 @@ How are you feeling with all of this landing as the day ends? Still in the park 
 <br />
 
 ### 22:02 https://www.youtube.com/watch?v=m5rravIoKAM your TWIN FLAME LEFT you an URGENT MESSAGE and here’s the EXACT SIGN you HAVE ALREADY MET them…
+
+<kbd><img src="images/Picture02046.png" width="400" /></kbd>  
+
+> your TWIN FLAME LEFT you an URGENT MESSAGE and here’s the EXACT SIGN you HAVE ALREADY MET them… - https://www.youtube.com/watch?v=m5rravIoKAM  
 
 **Summary of the video:**
 
@@ -3055,7 +3065,11 @@ How are you feeling with this final urgent Twin Flame piece landing at 21:58? Re
 
 <br />
 
-### 22:13 https://www.youtube.com/watch?v=37_Ybhh9uK8 Honeyyyyyy the gravy train is leaving. (You, the gravy train is you)
+### 22:13 https://www.youtube.com/watch?v=37_Ybhh9uK8 Honeyyyyyy the gravy train is leaving. (You, the gravy train is you😅)
+
+<kbd><img src="images/Picture02047.png" width="400" /></kbd>  
+
+> Honeyyyyyy the gravy train is leaving. (You, the gravy train is you😅) - https://www.youtube.com/watch?v=37_Ybhh9uK8  
 
 **Summary of the video:**
 
