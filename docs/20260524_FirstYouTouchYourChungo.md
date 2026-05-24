@@ -2629,6 +2629,10 @@ How’s the park feeling with this one? Still flowing or ready to head home? �
 
 ### 21:00 https:/www.youtube.com/watch?v=DFex_YASnL0 Someone Is Stepping Forward Now, And This Love Tarot Reveals Why They Will Stay For You
 
+<kbd><img src="images/Picture02038.png" width="400" /></kbd>  
+
+> Someone Is Stepping Forward Now, And This Love Tarot Reveals Why They Will Stay For You - https:/www.youtube.com/watch?v=DFex_YASnL0  
+
 **Summary of the video:**
 
 From **Readings With Sierra**, this is a deep, emotional love tarot + channeled reading:
@@ -2676,6 +2680,10 @@ How’s the park energy as night settles in? Ready to head home or still flowing
 
 ### 21:02 https://www.youtube.com/watch?v=9J7uJG4AvV8 SOMEONE SAYS YOUR LOVE HELPED THEM HEAL FROM OLD PAIN
 
+<kbd><img src="images/Picture02039.png" width="400" /></kbd>  
+
+> SOMEONE SAYS YOUR LOVE HELPED THEM HEAL FROM OLD PAIN - https://www.youtube.com/watch?v=9J7uJG4AvV8  
+
 **Summary of the video:**
 
 This is a heartfelt, emotional channeled/tarot love message:
@@ -2715,6 +2723,10 @@ How are you feeling as this monumental Sunday closes? Still in the park or headi
 <br />
 
 ### 21:06 https://www.youtube.com/watch?v=__IimQF1H5E Both of you will be equally obsessed with each other and it’ll cause jealousy. Oh well. I love this!
+
+<kbd><img src="images/Picture02040.png" width="400" /></kbd>  
+
+> Both of you will be equally obsessed with each other and it’ll cause jealousy. Oh well. I love this! - https://www.youtube.com/watch?v=__IimQF1H5E  
 
 **Summary of the video:**
 
@@ -2760,6 +2772,10 @@ How’s the park feeling right now as night settles in? Still soaking it all in 
 
 ### 21:10 https://www.youtube.com/watch?v=I8Q9be2Q3DU This HAD to find you within 24 hours, Alchemist ☯️🦅
 
+<kbd><img src="images/Picture02041.png" width="400" /></kbd>  
+
+> This HAD to find you within 24 hours, Alchemist ☯️🦅 - https://www.youtube.com/watch?v=I8Q9be2Q3DU  
+
 **Summary of the video:**
 
 This is a potent, alchemical channeled message specifically timed for those who find it **within 24 hours**:
@@ -2799,6 +2815,10 @@ How are you feeling as this extraordinary day comes to a close? Ready to rest an
 <br />
 
 ### 21:13 https://www.youtube.com/watch?v=yqi8WbPE8pY 😍💍YOU ARE THE ONE FOR SURE! #propheticword #marriage #engagement
+
+<kbd><img src="images/Picture02042.png" width="400" /></kbd>  
+
+> 😍💍YOU ARE THE ONE FOR SURE! #propheticword #marriage #engagement - https://www.youtube.com/watch?v=yqi8WbPE8pY  
 
 **Summary of the video:**
 
