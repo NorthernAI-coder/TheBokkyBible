@@ -84,7 +84,7 @@ X post https://x.com/BokkyPooBah/status/2058340264935411771
 1. [19:59 https://x.com/BokkyPooBah/status/2058438852843569636 Regarding mainnetwork.eth, I just checked my post to thank the seller, I just noticed that I posted my reply at 4:44 pm](#1959-httpsxcombokkypoobahstatus2058438852843569636-regarding-mainnetworketh-i-just-checked-my-post-to-thank-the-seller-i-just-noticed-that-i-posted-my-reply-at-444-pm)
 1. [https://x.com/KissMyArtDotEth/status/2058443562866671643 The seller is thankful for the sale. They registered this name for the registration cost a few weeks ago, so they get a win. And I get a name I like. Win Win](#httpsxcomkissmyartdotethstatus2058443562866671643-the-seller-is-thankful-for-the-sale-they-registered-this-name-for-the-registration-cost-a-few-weeks-ago-so-they-get-a-win-and-i-get-a-name-i-like-win-win)
 1. [20:03 I'm back at one of my favourite parks. I walked a km or two playing the sensual french music, the last event was me tailing two women talking, and towards the end, a guy rocked up, smiled, I asked him and he said he knew the song of course and started singing it. And the two women started lighting up, after being harassed by my sonic aura for a few 100 metres](#2003-im-back-at-one-of-my-favourite-parks-i-walked-a-km-or-two-playing-the-sensual-french-music-the-last-event-was-me-tailing-two-women-talking-and-towards-the-end-a-guy-rocked-up-smiled-i-asked-him-and-he-said-he-knew-the-song-of-course-and-started-singing-it-and-the-two-women-started-lighting-up-after-being-harassed-by-my-sonic-aura-for-a-few-100-metres)
-1. [20:26 https://www.youtube.com/watch?v=BnKReVJOkf ♫ Gainsbourg - JE T'AIME... MOI NON PLUS - English subtitles (pour territoires francophones). So rude. Please extract the English translation of the lyrics, thanks](#2026-httpswwwyoutubecomwatchvbnkrevjokf--gainsbourg---je-taime-moi-non-plus---english-subtitles-pour-territoires-francophones-so-rude-please-extract-the-english-translation-of-the-lyrics-thanks)
+1. [20:26 https://www.youtube.com/watch?v=BnKReVJOkf0 ♫ Gainsbourg - JE T'AIME... MOI NON PLUS - English subtitles (pour territoires francophones). So rude. Please extract the English translation of the lyrics, thanks](#2026-httpswwwyoutubecomwatchvbnkrevjokf0--gainsbourg---je-taime-moi-non-plus---english-subtitles-pour-territoires-francophones-so-rude-please-extract-the-english-translation-of-the-lyrics-thanks)
 1. [20:30 https:/www.youtube.com/watch?v=tTnoIFumHGA this person has more than just a crush..they fell in love with your soul💌 🥹](#2030-httpswwwyoutubecomwatchvttnoifumhga-this-person-has-more-than-just-a-crushthey-fell-in-love-with-your-soul-)
 1. [20:34 https:/www.youtube.com/watch?v=mDyjYnW7jhw This MUST Find You On May 24th | They’re About to Choose You](#2034-httpswwwyoutubecomwatchvmdyjynw7jhw-this-must-find-you-on-may-24th--theyre-about-to-choose-you)
 1. [20:36 https://www.youtube.com/watch?v=BbllBGAZb9I Plot Twist! Their Soul Feels Safest With You And This Love Tarot Reading Reveals Why](#2036-httpswwwyoutubecomwatchvbbllbgazb9i-plot-twist-their-soul-feels-safest-with-you-and-this-love-tarot-reading-reveals-why)
@@ -2316,7 +2316,11 @@ How’s the park energy feeling now? Still flowing or winding down for the night
 
 <br />
 
-### 20:26 https://www.youtube.com/watch?v=BnKReVJOkf ♫ Gainsbourg - JE T'AIME... MOI NON PLUS - English subtitles (pour territoires francophones). So rude. Please extract the English translation of the lyrics, thanks
+### 20:26 https://www.youtube.com/watch?v=BnKReVJOkf0 ♫ Gainsbourg - JE T'AIME... MOI NON PLUS - English subtitles (pour territoires francophones). So rude. Please extract the English translation of the lyrics, thanks
+
+<kbd><img src="images/Picture02032.png" width="400" /></kbd>  
+
+> ♫ Gainsbourg - JE T'AIME... MOI NON PLUS - English subtitles (pour territoires francophones) - https://www.youtube.com/watch?v=BnKReVJOkf0  
 
 **Here’s the English translation of the lyrics** for **“Je T’Aime... Moi Non Plus”** (Serge Gainsbourg & Jane Birkin):
 
