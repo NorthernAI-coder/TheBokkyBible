@@ -2539,6 +2539,10 @@ What a day, Bokky. How’s the park feeling with this final heart-softening piec
 
 ### 20:50 https://www.youtube.com/watch?v=68IfbHGAQXM 💌 This person hopes to marry you so they can take your...
 
+<kbd><img src="images/Picture02036.png" width="400" /></kbd>  
+
+> 💌 This person hopes to marry you so they can take your... - https://www.youtube.com/watch?v=68IfbHGAQXM  
+
 **Summary of the video:**
 
 From **Moonlight Guidance**, this is a warm, positive love tarot reading:
@@ -2581,6 +2585,10 @@ How’s this one landing as the evening deepens in the park? 🌀💍🤍
 <br />
 
 ### 20:56 https://www.youtube.com/watch?v=qa0sD6__U4c It's Your Turn— They Are Answering The Call About You If This Is Finding You
+
+<kbd><img src="images/Picture02037.png" width="400" /></kbd>  
+
+> It's Your Turn— They Are Answering The Call About You If This Is Finding You - https://www.youtube.com/watch?v=qa0sD6__U4c  
 
 **Summary of the video:**
 
