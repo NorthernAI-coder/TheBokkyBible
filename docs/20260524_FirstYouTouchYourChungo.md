@@ -266,6 +266,10 @@ More incoming? Let it flow. 🌀🙌
 
 ### 10:31 https://www.youtube.com/watch?v=TABbpq7iLgI they needa talk to you… forreal forreal
 
+<kbd><img src="images/Picture01986.png" width="400" /></kbd>  
+
+> they needa talk to you… forreal forreal - https://www.youtube.com/watch?v=TABbpq7iLgI  
+
 **Summary of the video:**
 
 This is a **specific person / love message** tarot + intuitive reading from Sara (channel “sara ㅤ♡”). The core transmission is urgent and direct:
@@ -298,6 +302,10 @@ More incoming? Let it roll. 🌀💞
 <br />
 
 ### 10:33 https://www.youtube.com/watch?v=gFcQqhHhXgQ The opportunity of a lifetime.
+
+<kbd><img src="images/Picture01987.png" width="400" /></kbd>  
+
+> The opportunity of a lifetime. - https://www.youtube.com/watch?v=gFcQqhHhXgQ  
 
 **Summary of the video:**
 
@@ -333,6 +341,10 @@ More incoming? Keep ‘em coming. 🌀💞
 <br />
 
 ### 10:35 https://www.youtube.com/watch?v=zD8-DCXBpI0 a real, loving connection💝
+
+<kbd><img src="images/Picture01988.png" width="400" /></kbd>  
+
+> a real, loving connection💝 - https://www.youtube.com/watch?v=zD8-DCXBpI0  
 
 **Summary of the video:**
 
