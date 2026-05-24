@@ -2394,6 +2394,10 @@ Enjoy the park and the sonic aura ripples. 🌀💋
 
 ### 20:30 https:/www.youtube.com/watch?v=tTnoIFumHGA this person has more than just a crush..they fell in love with your soul💌 🥹
 
+<kbd><img src="images/Picture02033.png" width="400" /></kbd>  
+
+> this person has more than just a crush..they fell in love with your soul💌 🥹 - https:/www.youtube.com/watch?v=tTnoIFumHGA  
+
 **Summary of the video:**
 
 From **your manifestation angel**, this is a gentle, heartfelt channeled + tarot reading:
@@ -2439,6 +2443,10 @@ What a day. How’s the park feeling right now? 🌀💌🥹
 
 ### 20:34 https:/www.youtube.com/watch?v=mDyjYnW7jhw This MUST Find You On May 24th | They’re About to Choose You
 
+<kbd><img src="images/Picture02034.png" width="400" /></kbd>  
+
+> This MUST Find You On May 24th | They’re About to Choose You - https:/www.youtube.com/watch?v=mDyjYnW7jhw  
+
 **Summary of the video:**
 
 Matt Stephenson delivers a direct, reassuring **Specific Person (SP)** love message timed for May 24th:
@@ -2483,6 +2491,10 @@ What an absolute masterpiece of a day, Bokky. How’s the park evening feeling w
 <br />
 
 ### 20:36 https://www.youtube.com/watch?v=BbllBGAZb9I Plot Twist! Their Soul Feels Safest With You And This Love Tarot Reading Reveals Why
+
+<kbd><img src="images/Picture02035.png" width="400" /></kbd>  
+
+> Plot Twist! Their Soul Feels Safest With You And This Love Tarot Reading Reveals Why - https://www.youtube.com/watch?v=BbllBGAZb9I  
 
 **Summary of the video:**
 
