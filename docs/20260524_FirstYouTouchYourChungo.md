@@ -15,7 +15,7 @@ Sun 24 May 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/23358532dbb24df1906307bc1ba7e123  
+Grok chat link https://x.com/i/grok/share/435a84895019448284e0407585cedc83  
 
 X post https://x.com/BokkyPooBah/status/2058340264935411771  
 
@@ -193,6 +193,10 @@ The chungo protocol is working overtime. Keep flowing — market time, more link
 
 ### 10:23 https://www.youtube.com/watch?v=QBp56oRgGQw Starseed, If This Found You, You've Already Passed the Test 99.9% Never Finish | Pleiadians
 
+<kbd><img src="images/Picture01984.png" width="400" /></kbd>  
+
+> Starseed, If This Found You, You've Already Passed the Test 99.9% Never Finish | Pleiadians - https://www.youtube.com/watch?v=QBp56oRgGQw  
+
 **Summary of the video:**
 
 This is a long-form channeled transmission from **Alara** (Pleiadian High Priestess from the Council of Light, Alcyone). The central message is:
@@ -222,6 +226,10 @@ Market vibes still strong? More incoming, or shall we let this one settle? 🌀�
 <br />
 
 ### 10:26 https://www.youtube.com/watch?v=d3iVldyzEOU Starseed Of Gaia, You Walk With Moses' Authority—You Were Born To Lead The Impossible!The Pleiadians
+
+<kbd><img src="images/Picture01985.png" width="400" /></kbd>  
+
+> Starseed Of Gaia, You Walk With Moses' Authority—You Were Born To Lead The Impossible!The Pleiadians - https://www.youtube.com/watch?v=d3iVldyzEOU  
 
 **Summary of the video:**
 
