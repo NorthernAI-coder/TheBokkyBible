@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 25 May 2026
-> Prev: [Sun 24 May 2026](20260524_FirstYouTouchYourChungo.md) Next: []()
+> Prev: [Sun 24 May 2026](20260524_FirstYouTouchYourChungo.md) Next: [Tue 26 May 2026](20260526_WhyAmISoPowerful.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
