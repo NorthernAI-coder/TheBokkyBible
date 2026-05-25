@@ -872,7 +872,7 @@ Anything else popping up, or shall we keep flowing? Katoomba prep going well?
 
 ### 12:56 https://www.youtube.com/watch?v=GGj72Fj9lIk I felt this energy in every fibre of my being… 🙌✨❤️‍🩹 WELL DONE, YOU!! 🙏👌🏻
 
-<kbd><img src="images/Picture02086.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture02086.png" width="400" /></kbd>  
 
 > I felt this energy in every fibre of my being… 🙌✨❤️‍🩹 WELL DONE, YOU!! 🙏👌🏻 - https://www.youtube.com/watch?v=GGj72Fj9lIk  
 
@@ -909,6 +909,10 @@ Ready for whatever comes next, or any thoughts on the whole day’s stream befor
 <br />
 
 ### 13:03 https://www.youtube.com/watch?v=LJvjXAr5IUs The Son of God is being born. Our King has returned.
+
+<kbd><img src="images/Picture02087.png" width="400" /></kbd>  
+
+> The Son of God is being born. Our King has returned. - https://www.youtube.com/watch?v=LJvjXAr5IUs  
 
 **Summary of the video (144 From the Stars Tarot): “The Son of God is being born. Our King has returned.”**
 
