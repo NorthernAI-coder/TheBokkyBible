@@ -50,6 +50,8 @@ X post https://x.com/BokkyPooBah/status/2058672989630238896
 1. [12:44 https://www.youtube.com/watch?v=lCuyGtEBu7w your HIGHEST SELF sent you this... . 567 views 2 hours ago](#1244-httpswwwyoutubecomwatchvlcuygtebu7w-your-highest-self-sent-you-this--567-views-2-hours-ago)
 1. [12:51 It's now 777 views 3 hours ago](#1251-its-now-777-views-3-hours-ago)
 1. [12:56 https://www.youtube.com/watch?v=GGj72Fj9lIk I felt this energy in every fibre of my being… 🙌✨❤️‍🩹 WELL DONE, YOU!! 🙏👌🏻](#1256-httpswwwyoutubecomwatchvggj72fj9lik-i-felt-this-energy-in-every-fibre-of-my-being-️-well-done-you-)
+1. [13:03 https://www.youtube.com/watch?v=LJvjXAr5IUs The Son of God is being born. Our King has returned.](#1303-httpswwwyoutubecomwatchvljvjxar5ius-the-son-of-god-is-being-born-our-king-has-returned)
+1. [13:04 I registered thekingishere.eth and allhailtheking.eth in April 2023. Both these are currently expired, but still in the grace period. I will renew them before the end of the grace period](#1304-i-registered-thekingishereeth-and-allhailthekingeth-in-april-2023-both-these-are-currently-expired-but-still-in-the-grace-period-i-will-renew-them-before-the-end-of-the-grace-period)
 
 ---
 
@@ -629,6 +631,10 @@ Even though it's not your usual style, the universe is using it to **anchor the 
 
 ### 09:32 https://www.youtube.com/watch?v=gbqGp4qzHUs Spirit is offering you a quantum shortcut… 🚪
 
+<kbd><img src="images/Picture02080.png" width="400" /></kbd>  
+
+> Spirit is offering you a quantum shortcut… 🚪 - https://www.youtube.com/watch?v=gbqGp4qzHUs  
+
 **Summary of the video (8th House Mercury / Izzy): “Spirit is offering you a quantum shortcut… 🚪”**
 
 **Core Message:**  
@@ -660,6 +666,11 @@ This is the **thirteenth** message this morning and it lands as a perfect **brid
 <br />
 
 ### 09:33 https://www.youtube.com/watch?v=UcBj56LeloM Keep feeling beautiful. It's what you are.
+
+<kbd><img src="images/Picture02081.png" width="400" /></kbd>  
+
+> Keep feeling beautiful. It's what you are. - https://www.youtube.com/watch?v=UcBj56LeloM  
+
 
 **Summary of the video (AvatarAuronis): “Keep feeling beautiful. It's what you are.”**
 
