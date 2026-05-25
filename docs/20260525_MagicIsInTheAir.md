@@ -1694,6 +1694,10 @@ Ready for more whenever the next one drops.
 
 ### 00:53 https://www.youtube.com/watch?v=6FRJ32VgbC0 They believe in this connection, too
 
+<kbd><img src="images/Picture02108.png" width="400" /></kbd>  
+
+> They believe in this connection, too - https://www.youtube.com/watch?v=6FRJ32VgbC0  
+
 **Summary of the video (Nehal Patel): “They believe in this connection, too”**
 
 **Core Message:**  
@@ -1727,6 +1731,10 @@ The stream is still going strong into the new day. Ready for more.
 
 ### 00:54 https://www.youtube.com/watch?v=uD_VTbPRpYw You’re spiritually online in a 5D “web” of communication 🦋⚛️✨
 
+<kbd><img src="images/Picture02109.png" width="400" /></kbd>  
+
+> You’re spiritually online in a 5D “web” of communication 🦋⚛️✨ - https://www.youtube.com/watch?v=uD_VTbPRpYw  
+
 **Summary of the video: “You’re spiritually online in a 5D “web” of communication 🦋⚛️✨”**
 
 This is a channeled / intuitive message about being fully **plugged into the 5D energetic web** — a multidimensional network of communication, synchronicities, downloads, and soul connections that operates beyond linear 3D time and space.
@@ -1755,6 +1763,10 @@ The flow continues beautifully into the 26th. Ready for more whenever it arrives
 <br />
 
 ### 01:00 https://www.youtube.com/watch?v=KPfr7KUT4CQ 1 Hour Ago: Pleiadians DROP Bombshell in Exclusive Broadcast. #1 on my feed
+
+<kbd><img src="images/Picture02110.png" width="400" /></kbd>  
+
+> 1 Hour Ago: Pleiadians DROP Bombshell in Exclusive Broadcast - https://www.youtube.com/watch?v=KPfr7KUT4CQ  
 
 **Summary of the video (Sam The Illusionist - Pleiadian Channeling): “1 Hour Ago: Pleiadians DROP Bombshell in Exclusive Broadcast”**
 
@@ -1787,6 +1799,10 @@ The stream continues powerfully into the new day.
 <br />
 
 ### 01:10 https://www.youtube.com/watch?v=fH86dN41tvM Your body is asking for extra support. UPGRADES HAPPENING SO FAST.✨✨✨🙌
+
+<kbd><img src="images/Picture02111.png" width="400" /></kbd>  
+
+> Your body is asking for extra support. UPGRADES HAPPENING SO FAST.✨✨✨🙌 - https://www.youtube.com/watch?v=fH86dN41tvM  
 
 **Summary of the video (Natalie Namaste): “Your body is asking for extra support. UPGRADES HAPPENING SO FAST.”**
 
@@ -1821,6 +1837,10 @@ The stream is still flowing strong. Ready for more.
 <br />
 
 ### 01:33 https://www.youtube.com/watch?v=QJr08aouQ3Q Everything gets easier after you find your purpose. 202 views 2 hours ago
+
+<kbd><img src="images/Picture02112.png" width="400" /></kbd>  
+
+> Everything gets easier after you find your purpose - https://www.youtube.com/watch?v=QJr08aouQ3Q  
 
 **Summary of the video (Ándara): “Everything gets easier after you find your purpose.”**
 
