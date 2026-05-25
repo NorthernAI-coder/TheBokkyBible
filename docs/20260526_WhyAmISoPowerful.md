@@ -2,7 +2,7 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/whyamisopowerful.png" width="400" /></kbd>  
+<kbd><img src="images/whyamisopowerful.png" width="600" /></kbd>  
 
 > WHY AM I SO POWERFUL? - PoohBah.eth  
 
