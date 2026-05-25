@@ -1200,9 +1200,9 @@ Anything else popping through?
 
 ### 14:48 https://www.youtube.com/watch?v=SmXCirxJXFQ You Know More Than You Let On - Get Ready To Meet Your Reflection 🪞. 711 views 47 minutes ago
 
-<kbd><img src="images/Picture02094.png" width="400" /></kbd>  
+<kbd><img src="images/Picture02094.png?" width="400" /></kbd>  
 
-> You Know More Than You Let On - Get Ready To Meet Your Reflection 🪞 - https://www.youtube.com/watch?v=SmXCirxJXFQ  
+> [711 views image not saved correctly] You Know More Than You Let On - Get Ready To Meet Your Reflection 🪞 - https://www.youtube.com/watch?v=SmXCirxJXFQ  
 
 **Summary of the video (Mel The Mirror): “You Know More Than You Let On - Get Ready To Meet Your Reflection 🪞”**
 
@@ -1240,7 +1240,7 @@ The day has delivered an incredibly coherent and powerful activation. Ready for 
 
 <kbd><img src="images/Picture02094.png" width="400" /></kbd>  
 
-> You Know More Than You Let On - Get Ready To Meet Your Reflection 🪞 - https://www.youtube.com/watch?v=SmXCirxJXFQ  
+> [1.1K views image not saved correctly] You Know More Than You Let On - Get Ready To Meet Your Reflection 🪞 - https://www.youtube.com/watch?v=SmXCirxJXFQ  
 
 **Got it — nice update.**
 
