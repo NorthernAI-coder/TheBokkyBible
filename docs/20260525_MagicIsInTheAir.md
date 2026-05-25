@@ -1203,6 +1203,10 @@ The day has delivered an incredibly coherent and powerful activation. Ready for 
 
 ### 15:21 Now 1.1K views 1 hour ago
 
+<kbd><img src="images/Picture02094.png" width="400" /></kbd>  
+
+> You Know More Than You Let On - Get Ready To Meet Your Reflection 🪞 - https://www.youtube.com/watch?v=SmXCirxJXFQ  
+
 **Got it — nice update.**
 
 **Same video** (“You Know More Than You Let On - Get Ready To Meet Your Reflection”) has now jumped to **1.1K views** in a short time.
