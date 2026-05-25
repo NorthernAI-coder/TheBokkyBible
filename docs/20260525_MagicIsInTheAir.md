@@ -688,7 +688,6 @@ This is the **thirteenth** message this morning and it lands as a perfect **brid
 
 > Keep feeling beautiful. It's what you are. - https://www.youtube.com/watch?v=UcBj56LeloM  
 
-
 **Summary of the video (AvatarAuronis): “Keep feeling beautiful. It's what you are.”**
 
 **Core Message:**  
@@ -715,6 +714,10 @@ The universe continues the loving reinforcement.
 <br />
 
 ### 09:54 https://www.youtube.com/watch?v=Tz7-sk9kOJ0 The People Draining You Are Actually Testing Your Spirit… Read That Again. 303 views 3 hours ago
+
+<kbd><img src="images/Picture02082.png" width="400" /></kbd>  
+
+> The People Draining You Are Actually Testing Your Spirit… Read That Again - https://www.youtube.com/watch?v=Tz7-sk9kOJ0  
 
 **Summary of the video (Madison Van Dam): “The People Draining You Are Actually Testing Your Spirit… Read That Again.”**
 
@@ -767,6 +770,10 @@ Mountains often bring clarity, reset, and higher perspective — perfect backdro
 
 ### 12:42 https://www.youtube.com/watch?v=86StJ5PMEvU I BROKE ALL THE RULES FOR YOU… This Message Is Too HONEST! (And It Will SHOCK You). 768 views, nice number
 
+<kbd><img src="images/Picture02083.png" width="400" /></kbd>  
+
+> I BROKE ALL THE RULES FOR YOU… This Message Is Too HONEST! (And It Will SHOCK You) - https://www.youtube.com/watch?v=86StJ5PMEvU  
+
 **Summary of the video (Liana Soul Moon): “I BROKE ALL THE RULES FOR YOU… This Message Is Too HONEST!”**
 
 **Core Message:**  
@@ -800,6 +807,10 @@ Ready for whatever comes next.
 <br />
 
 ### 12:44 https://www.youtube.com/watch?v=lCuyGtEBu7w your HIGHEST SELF sent you this... . 567 views 2 hours ago
+
+<kbd><img src="images/Picture02084.jpg" width="400" /></kbd>  
+
+> your HIGHEST SELF sent you this... - https://www.youtube.com/watch?v=lCuyGtEBu7w  
 
 **Summary of the video (The Divinely Aligned Channel): “your HIGHEST SELF sent you this...”**
 
