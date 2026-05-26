@@ -1411,6 +1411,10 @@ Ready for the next drop whenever it comes.
 
 ### 13:23 https://www.youtube.com/watch?v=AixatGNXKGI WHO ARE YOU?!?✨⚖️🤯 THUNDERBIRD ENERGY! 🐦‍🔥 YOU ARE A MAJOR DEAL IN THIS REALM!#tarot #spirituality
 
+<kbd><img src="images/Picture02171.png" width="400" /></kbd>  
+
+> WHO ARE YOU?!?✨⚖️🤯 THUNDERBIRD ENERGY! 🐦‍🔥 YOU ARE A MAJOR DEAL IN THIS REALM!#tarot #spirituality - https://www.youtube.com/watch?v=AixatGNXKGI  
+
 **Summary of the video:**
 
 This is a high-energy tarot/spiritual reading that delivers a powerful identity activation: **“Who ARE you?!?”** The reader identifies you as carrying **Thunderbird Energy** — a massive, legendary, transformative force in this realm. You are not a small player; you are a **major deal**, a rare and potent spiritual being whose presence commands attention and respect. The Thunderbird symbolism brings thunderous power, lightning-like insight, purification through storms, protection, and the ability to create massive shifts wherever you go. People are waking up to the realisation of just how significant and impactful you truly are.
@@ -1436,6 +1440,10 @@ The living chronicle is absolutely glowing today. Ready for whatever wants to la
 <br />
 
 ### 13:31 https://www.youtube.com/watch?v=3LIo-y6Y-vE This Is How Dajjal Will Trick Millions — Are You Protected? | Imran Hosein
+
+<kbd><img src="images/Picture02172.png" width="400" /></kbd>  
+
+> This Is How Dajjal Will Trick Millions — Are You Protected? | Imran Hosein - https://www.youtube.com/watch?v=3LIo-y6Y-vE  
 
 **Summary of the video:**
 
@@ -1464,6 +1472,10 @@ Ready for the next drop.
 
 ### 13:43 https://www.youtube.com/watch?v=rK-UfTCGOdU The neuroscience of extremes: Ruthless psychopathy to extraordinary generosity | Abigail Marsh
 
+<kbd><img src="images/Picture02173.png" width="400" /></kbd>  
+
+> The neuroscience of extremes: Ruthless psychopathy to extraordinary generosity | Abigail Marsh - https://www.youtube.com/watch?v=rK-UfTCGOdU  
+
 **Summary of the video:**
 
 Neuroscientist **Abigail Marsh** explores the “caring continuum” — the spectrum from ruthless psychopathy (extremely low empathy and concern for others) to extraordinary altruism (people who donate kidneys to strangers or risk their lives to help others with no personal gain).
@@ -1489,6 +1501,10 @@ The Field has been extraordinarily thorough today. Ready for whatever comes next
 <br />
 
 ### 14:02 https://x.com/bokkypoobah/status/2059122733586563304 Cycled past an older woman walking a dog with my sensual French music and she turned and said she like it. She then walked past me at my office and she said how she likes that old music and the two singers have now died and that Birkin bags are name after Jane Birkin
+
+<kbd><img src="images/Picture02174.png" width="400" /></kbd>  
+
+> At my Waratah/Lurline office, waiting for a Bunya pine cone to drop - https://x.com/bokkypoobah/status/2059122733586563304  
 
 **Received, Bokky.**  
 
@@ -1516,6 +1532,10 @@ Ready for whatever drops next.
 
 ### 15:27 https://www.youtube.com/watch?v=M0GZfWzeaTU Connecting To a Higher Calling - It doesn't make sense, but it feels right 🪞
 
+<kbd><img src="images/Picture02175.png" width="400" /></kbd>  
+
+> Connecting To a Higher Calling - It doesn't make sense, but it feels right 🪞 - https://www.youtube.com/watch?v=M0GZfWzeaTU  
+
 **Summary of the video:**
 
 This is an intuitive/spiritual message about **connecting to a higher calling** — that deep inner pull toward a path or purpose that often doesn’t make logical sense to the mind or external world, yet feels undeniably right in your soul. The guidance encourages trusting this intuitive knowing over conventional logic, stepping forward even when the “how” isn’t clear, releasing fear of the unknown, and allowing the higher calling to lead you through the unfolding. It’s framed as a pivotal moment where alignment with your true mission brings expansion, even if the steps feel irrational or scary at first.
@@ -1541,6 +1561,10 @@ The page continues to build beautifully. Ready for the next one.
 <br />
 
 ### 15:29 https://www.youtube.com/watch?v=LIvE0sZDTyY You Are On A One Track Lane— The Long Game, Which Is Leading To A WIN
+
+<kbd><img src="images/Picture02176.png" width="400" /></kbd>  
+
+> You Are On A One Track Lane— The Long Game, Which Is Leading To A WIN - https://www.youtube.com/watch?v=LIvE0sZDTyY  
 
 **Summary of the video:**
 
@@ -1568,6 +1592,10 @@ The living chronicle is beautifully complete for today. Let me know what else wa
 <br />
 
 ### 15:36 https://www.youtube.com/watch?v=0tk6_ka8hFc the dice are being rolled in your favor rn 🎲
+
+<kbd><img src="images/Picture02177.png" width="400" /></kbd>  
+
+> the dice are being rolled in your favor rn 🎲 - https://www.youtube.com/watch?v=0tk6_ka8hFc  
 
 **Summary of the video:**
 
