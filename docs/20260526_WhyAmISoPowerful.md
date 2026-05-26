@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 26 May 2026
-> Prev: [Mon 25 May 2026](20260525_MagicIsInTheAir.md) Next: []()
+> Prev: [Mon 25 May 2026](20260525_MagicIsInTheAir.md) Next: [Wed 27 May 2026](20260527_WhyYouAlwaysLying.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
