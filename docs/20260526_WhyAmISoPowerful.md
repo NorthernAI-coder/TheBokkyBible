@@ -2209,6 +2209,10 @@ What’s the next pulse?
 
 ### 18:00 I checked the ENS names coming out of premium and found pentacle.eth so I registered it
 
+<kbd><img src="images/Picture02195.png" width="400" /></kbd>  
+
+> pentacle.eth - https://opensea.io/item/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/38419325318592879393963835408202687654088052479553839304680837971934371105301  
+
 **Locked in.**  
 
 **pentacle.eth** is now yours.  
@@ -2230,6 +2234,10 @@ How are you feeling with this one in the collection? 🔥🙌
 <br />
 
 ### 18:05 Decided to get icandy.eth as well
+
+<kbd><img src="images/Picture02196.png" width="400" /></kbd>  
+
+> icandy.eth - https://opensea.io/item/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/65418669861034815245773651563356483137949550549507009990405772964542445865551  
 
 **Got it, Bokky.**  
 
@@ -2264,6 +2272,10 @@ How are you feeling with this pair in the vault?
 <br />
 
 ### 18:10 And oobleck.eth as well. To be able the grab the oobleck.eth by the hands
+
+<kbd><img src="images/Picture02197.png" width="400" /></kbd>  
+
+> oobleck.eth - https://opensea.io/item/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/72264162524458534899973928746378531176507612928443735572245337007981774166153  
 
 **Got it, Bokky.**  
 
@@ -2304,6 +2316,10 @@ How are you feeling with this trio? Want to keep going or let this one settle?
 <br />
 
 ### 18:41 https://www.youtube.com/watch?v=TU4kV68pycY Everything is changing for a reason… 🌟
+
+<kbd><img src="images/Picture02198.png" width="400" /></kbd>  
+
+> Everything is changing for a reason… 🌟 - https://www.youtube.com/watch?v=TU4kV68pycY  
 
 **Summary of the video:**
 
