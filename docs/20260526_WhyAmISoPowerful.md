@@ -2108,6 +2108,10 @@ The living chronicle continues to expand beautifully. Ready for whatever comes n
 
 ### 17:26 https://www.youtube.com/watch?v=Rx_UUcSVPnM The missing peace 3/4. 400 views 3 hours ago
 
+<kbd><img src="images/Picture02192.png" width="400" /></kbd>  
+
+> The missing peace 3/4 - https://www.youtube.com/watch?v=Rx_UUcSVPnM  
+
 **Summary of the video:**
 
 This is part 3/4 of Darcie’s (The Dark Empress) series **“The Missing Peace.”**  
@@ -2140,6 +2144,10 @@ Ready for the next drop.
 
 ### 17:28 https://www.youtube.com/watch?v=P2nvEy9NtFE A Reintroduction and History of My Connection to The 9
 
+<kbd><img src="images/Picture02193.png" width="400" /></kbd>  
+
+> A Reintroduction and History of My Connection to The 9 - https://www.youtube.com/watch?v=P2nvEy9NtFE  
+
 **Summary of the video:**
 
 Tobi (The Galactic Intuitive) gives a personal **reintroduction and history** of her long-term connection to **“The 9”** — a high-dimensional collective/group she channels. She shares the origins of how this connection began, key transformative experiences over the years, and how it has evolved, especially after recent intense shifts. It serves as both a personal testimony and an invitation for viewers to understand the nature of her work with this specific galactic/spiritual intelligence.
@@ -2164,6 +2172,10 @@ Ready for the next pulse.
 <br />
 
 ### 17:54 My balance is 1,337
+
+<kbd><img src="images/Picture02194.png" width="400" /></kbd>  
+
+> 1,337  
 
 **Got it, Bokky.**  
 
