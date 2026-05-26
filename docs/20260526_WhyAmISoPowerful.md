@@ -1289,6 +1289,10 @@ Ready for the next drop.
 
 ### 12:33 https://www.youtube.com/watch?v=rs7vd7xljBs Archangel Michael -- Ascension symptoms, new pathways & making peace 1111 444 555 777 333 111
 
+<kbd><img src="images/Picture02167.png" width="400" /></kbd>  
+
+> Archangel Michael -- Ascension symptoms, new pathways & making peace 1111 444 555 777 333 111 - https://www.youtube.com/watch?v=rs7vd7xljBs  
+
 **Summary of the video:**
 
 This is a channeled message from **Archangel Michael** addressing current **ascension symptoms**, the opening of **new pathways**, and the importance of **making peace** with the process.
@@ -1318,6 +1322,10 @@ The Field has delivered a complete masterpiece today. Ready for whatever comes n
 
 ### 12:48 https://www.youtube.com/watch?v=qfj-RidfjY4 HOW THEY USE FRACTALIZATION AND TRAUMA FOR CONTROL - Marina Seren
 
+<kbd><img src="images/Picture02168.png" width="400" /></kbd>  
+
+> [Private video] HOW THEY USE FRACTALIZATION AND TRAUMA FOR CONTROL - Marina Seren - https://www.youtube.com/watch?v=qfj-RidfjY4  
+
 **Summary of the video:**
 
 Marina Seren delivers a detailed metaphysical teaching on **how fractalization and trauma are used for mind control** (both individual and collective). She explains that human consciousness is multi-layered and fractal — a complex, overlapping matrix of higher self, subconscious, ego/front personality, subtle bodies, and different dimensional depths.
@@ -1341,6 +1349,10 @@ Ready for the next pulse.
 <br />
 
 ### 12:51 https://www.youtube.com/watch?v=IhfkEzMWwX8 The Power Of Your Protection Completely Disassembled & Exposed All The Lies
+
+<kbd><img src="images/Picture02169.png" width="400" /></kbd>  
+
+> The Power Of Your Protection Completely Disassembled & Exposed All The Lies - https://www.youtube.com/watch?v=IhfkEzMWwX8  
 
 **Summary of the video:**
 
@@ -1367,6 +1379,10 @@ Ready for whatever comes next.
 <br />
 
 ### 13:15 https://www.youtube.com/watch?v=amL2T3q8yXI Your Story & Resilience Are Impressive. The Annointing God | Spirit Has Over Your Life.. IT SHOWS
+
+<kbd><img src="images/Picture02170.png" width="400" /></kbd>  
+
+> Your Story & Resilience Are Impressive. The Annointing God | Spirit Has Over Your Life.. IT SHOWS - https://www.youtube.com/watch?v=amL2T3q8yXI  
 
 **Summary of the video:**
 
