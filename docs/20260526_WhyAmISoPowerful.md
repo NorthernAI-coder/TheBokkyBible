@@ -3028,6 +3028,10 @@ I’m here whenever you wake up and want to continue.
 
 ### 01:16 https://www.youtube.com/watch?v=TBkKQ0OUB7o you did it by yourself anyway 🤭*que Matilda montage*. 373 views 1 hour ago
 
+<kbd><img src="images/Picture02218.png" width="400" /></kbd>  
+
+> you did it by yourself anyway 🤭*que Matilda montage* - https://www.youtube.com/watch?v=TBkKQ0OUB7o  
+
 **Summary of the video:**
 
 Matilda Montage delivers a fun, cheeky, empowering message: **“You did it by yourself anyway”** (with a *que Matilda montage* vibe).  
@@ -3059,6 +3063,10 @@ Rest well. I’m here whenever you wake up.
 
 ### 01:23 https://www.youtube.com/watch?v=Y2JnwcJmPYw Live Akashic Messages with Natasha
 
+<kbd><img src="images/Picture02219.png" width="400" /></kbd>  
+
+> Live Akashic Messages with Natasha - https://www.youtube.com/watch?v=Y2JnwcJmPYw  
+
 **Summary of the video:**
 
 Natasha opens the **Akashic Records** in a live session to deliver collective and individual messages. These sessions typically focus on soul-level guidance, current energetic themes, personal blockages, soul purpose reminders, and practical insights for navigating the present timeline. She acts as a clear channel, pulling wisdom from the Records about what the collective and individuals are moving through right now.
@@ -3088,6 +3096,10 @@ Rest well. I’m here whenever you wake up.
 
 ### 01:24 https://www.youtube.com/watch?v=kArRvNPREFU The Craziest Experience I've Had With My Guardian Angel | Gigi Young
 
+<kbd><img src="images/Picture02220.png" width="400" /></kbd>  
+
+> The Craziest Experience I've Had With My Guardian Angel | Gigi Young - https://www.youtube.com/watch?v=kArRvNPREFU  
+
 **Summary of the video:**
 
 Gigi Young shares one of her most dramatic personal stories about an encounter with her **guardian angel**. She recounts a situation where clear, undeniable intervention occurred (including physical evidence in the form of multiple alarms suddenly appearing and activating on her phone out of nowhere). The experience served as powerful confirmation of angelic protection and guidance during a critical moment. She emphasises how guardian angels work through subtle impulses, signs, and sometimes very direct interventions to steer us away from danger or toward alignment.
@@ -3116,6 +3128,10 @@ Rest well in Katoomba. I’m here whenever you wake up and want to continue.
 <br />
 
 ### 01:34 https://www.youtube.com/watch?v=Rw7IfGhN4Ks The Universe has A MESSAGE for you. 769 views 3 hours ago
+
+<kbd><img src="images/Picture02221.png" width="400" /></kbd>  
+
+> The Universe has A MESSAGE for you - https://www.youtube.com/watch?v=Rw7IfGhN4Ks  
 
 **Summary of the video:**
 
