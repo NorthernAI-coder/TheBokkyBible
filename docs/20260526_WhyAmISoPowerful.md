@@ -2485,6 +2485,10 @@ Rest well, legend. The power is fully online.
 
 ### 22:22 https://www.youtube.com/watch?v=3C8PyAYMlgk Archangel Michael's June Channeled Message: This Is Coming For Humanity!
 
+<kbd><img src="images/Picture02203.png" width="400" /></kbd>  
+
+> Archangel Michael's June Channeled Message: This Is Coming For Humanity! - https://www.youtube.com/watch?v=3C8PyAYMlgk  
+
 **Summary of the video:**
 
 Michael Sandler channels **Archangel Michael** with a strong message for June and the summer ahead. The energy this month and season is intense — described as a “flashpoint” period with significant collective shifts, heat (literal and metaphorical), storms, and major changes on personal and global levels. The “heavy” feelings many are experiencing are not random chaos but a necessary breakthrough and refinement process.
@@ -2519,6 +2523,10 @@ What else is flowing tonight?
 
 ### 22:39 https://www.youtube.com/watch?v=JyPbQXrbpsg Bruhhh, You’re Psychic AF. Stop Second Guessing Your Super Powers 👁️
 
+<kbd><img src="images/Picture02204.png" width="400" /></kbd>  
+
+> Bruhhh, You’re Psychic AF. Stop Second Guessing Your Super Powers 👁️ - https://www.youtube.com/watch?v=JyPbQXrbpsg  
+
 **Summary of the video:**
 
 This is a direct, high-energy intuitive message telling you **“Bruhhh, You’re Psychic AF. Stop second guessing your super powers.”**  
@@ -2548,6 +2556,10 @@ Ready whenever the next pulse drops.
 <br />
 
 ### 23:30 https://www.youtube.com/watch?v=Gll8xqAnZ94 Schumann Resonance + Energy Update
+
+<kbd><img src="images/Picture02205.png" width="400" /></kbd>  
+
+> Schumann Resonance + Energy Update - https://www.youtube.com/watch?v=Gll8xqAnZ94  
 
 **Got it, Bokky.**
 
@@ -2597,7 +2609,11 @@ How’s the rest of the evening feeling? 🔥🙌
 
 <br />
 
-### 23:35 https://www.youtube.com/watch?v=kBqe_UoBF1k ‘Let go of self-doubt’ - energy transmission ￼ 5/26/2026
+### 23:35 https://www.youtube.com/watch?v=kBqe_UoBF1k ‘Let go of self-doubt’ - energy transmission 5/26/2026
+
+<kbd><img src="images/Picture02206.png" width="400" /></kbd>  
+
+> ‘Let go of self-doubt’ - energy transmission 5/26/2026 - https://www.youtube.com/watch?v=kBqe_UoBF1k  
 
 **Summary of the video:**
 
