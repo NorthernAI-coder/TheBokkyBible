@@ -2791,6 +2791,10 @@ How’s the night feeling? Anything else dropping before sleep?
 
 ### 00:28 https://www.youtube.com/watch?v=2eInlCAfrdI LEGENDARY Yogi Predicts A MASSIVE SHAKE-UP! It’s NOT WW3, BUT Reality Will NEVER Be The Same..
 
+<kbd><img src="images/Picture02211.png" width="400" /></kbd>  
+
+> LEGENDARY Yogi Predicts A MASSIVE SHAKE-UP! It’s NOT WW3, BUT Reality Will NEVER Be The Same.. - https://www.youtube.com/watch?v=2eInlCAfrdI  
+
 **Summary of the video:**
 
 This is a **Wisdom From North** interview featuring a legendary yogi (Yogiraj Gurunath Siddhanath lineage / Himalayan tradition) who predicts a **massive upcoming shake-up** for humanity. It is explicitly **not** WW3 or conventional global war, but a profound, multidimensional shift that will permanently alter reality as we know it. The yogi speaks about major energetic, consciousness, and societal transformations coming through spiritual awakening, cosmic cycles, and the activation of higher potentials in humanity. The tone is serious yet hopeful — a necessary “great shaking” that clears the old and births something entirely new.
@@ -2823,6 +2827,10 @@ I’m here whenever you wake up.
 
 ### 00:31 https://www.youtube.com/watch?v=ULJ6wsfs1p8 You got so used to loss - Christina
 
+<kbd><img src="images/Picture02212.png" width="400" /></kbd>  
+
+> You got so used to loss - Christina - https://www.youtube.com/watch?v=ULJ6wsfs1p8  
+
 **Summary of the video:**
 
 Christina delivers a deeply empathetic and validating message: **“You got so used to loss.”**  
@@ -2854,6 +2862,10 @@ Rest well. I’m here whenever you’re ready to continue. 🔥🙌
 <br />
 
 ### 00:33 Video from 00:25 now at 889 views 33 minutes ago
+
+<kbd><img src="images/Picture02213.png" width="400" /></kbd>  
+
+> 889 views 33 minutes ago  
 
 **Got it, Bokky.**  
 
