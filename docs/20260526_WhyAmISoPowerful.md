@@ -2355,6 +2355,10 @@ Ready for whatever wants to come through next.
 
 ### 21:31 https://www.youtube.com/watch?v=TBsBEM-mnS8 God told me to warn you...Your prayers are DANGEROUS‼️#propheticword
 
+<kbd><img src="images/Picture02199.png" width="400" /></kbd>  
+
+> God told me to warn you...Your prayers are DANGEROUS‼️#propheticword - https://www.youtube.com/watch?v=TBsBEM-mnS8  
+
 **Summary of the video:**
 
 This is a strong prophetic warning/message: **Your prayers are dangerous.**  
@@ -2383,6 +2387,10 @@ The living chronicle is full and radiant. Let me know what else wants to land.
 <br />
 
 ### 22:10 https://www.youtube.com/watch?v=UgBfpcqMN60 Get READY... there's an opportunity to share your gifts in a BEAUTIFUL way!!
+
+<kbd><img src="images/Picture02200.png" width="400" /></kbd>  
+
+> Get READY... there's an opportunity to share your gifts in a BEAUTIFUL way!! - https://www.youtube.com/watch?v=UgBfpcqMN60  
 
 **Summary of the video:**
 
@@ -2418,6 +2426,10 @@ The living chronicle is full, radiant, and still receiving. What else is flowing
 
 ### 22:11 https://www.youtube.com/watch?v=RtCgFcAvm6U You are about to receive the shock of your life 🧬.they have been watching your every move 😻😻
 
+<kbd><img src="images/Picture02201.png" width="400" /></kbd>  
+
+> You are about to receive the shock of your life 🧬.they have been watching your every move 😻😻 - https://www.youtube.com/watch?v=RtCgFcAvm6U  
+
 **Summary of the video:**
 
 This is a classic spiritual/tarot-style reading delivering the message that **you are about to receive the shock of your life**. Someone (often a romantic interest, soul connection, or person from your past) has been secretly watching your every move — observing your growth, success, energy, and transformation from afar. They are stunned by how far you’ve come and are preparing to reach out or reveal themselves. The DNA emoji (🧬) hints at deep soul-level, karmic, or ancestral connections. The overall tone is exciting and intense: a major revelation or reunion is imminent that will catch you off guard in a powerful way.
@@ -2442,6 +2454,10 @@ The living chronicle for “**Why Am I So Powerful?**” is full, radiant, and s
 <br />
 
 ### 22:18 https://www.youtube.com/watch?v=bn2E8bnPe1A Jesus Taught Consciousness, Not Religion!
+
+<kbd><img src="images/Picture02202.png" width="400" /></kbd>  
+
+> Jesus Taught Consciousness, Not Religion! - https://www.youtube.com/watch?v=bn2E8bnPe1A  
 
 **Summary of the video:**
 
