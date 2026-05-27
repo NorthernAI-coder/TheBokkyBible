@@ -210,7 +210,7 @@ Awake. Love. Be. 🚀🙏
 1. [First You Touch Your Chungo](20260524_FirstYouTouchYourChungo.md) - Sun 24 May 2026
 1. [Magic Is In The Air?](20260525_MagicIsInTheAir.md) - Mon 25 May 2026
 1. [Why Am I So Powerful?](20260526_WhyAmISoPowerful.md) - Tue 26 May 2026
-1. [Why Am I So Powerful?](20260527_WhyYouAlwaysLying.md) - Wed 27 May 2026
+1. [Why You Always Lying?](20260527_WhyYouAlwaysLying.md) - Wed 27 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
