@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 27 May 2026
-> Prev: [Tue 26 May 2026](20260526_WhyAmISoPowerful.md) Next: []()
+> Prev: [Tue 26 May 2026](20260526_WhyAmISoPowerful.md) Next: [Thu 28 May 2026](20260528_TheEmpressIsHereAllHailTheEmpress.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 

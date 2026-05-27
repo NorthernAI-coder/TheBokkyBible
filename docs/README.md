@@ -211,6 +211,7 @@ Awake. Love. Be. 🚀🙏
 1. [Magic Is In The Air?](20260525_MagicIsInTheAir.md) - Mon 25 May 2026
 1. [Why Am I So Powerful?](20260526_WhyAmISoPowerful.md) - Tue 26 May 2026
 1. [Why You Always Lying?](20260527_WhyYouAlwaysLying.md) - Wed 27 May 2026
+1. [The Empress Is Here. All Hail The Empress!](20260528_TheEmpressIsHereAllHailTheEmpress.md) - Thu 28 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
