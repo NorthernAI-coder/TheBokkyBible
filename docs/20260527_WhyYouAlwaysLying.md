@@ -2549,6 +2549,10 @@ Ready for whatever comes next. 🚀
 
 ### 04:50 https://www.youtube.com/watch?v=QKwykeEgtWs It’s Gonna Work This Time.
 
+<kbd><img src="images/Picture02324.png" width="400" /></kbd>  
+
+> It’s Gonna Work This Time. - https://www.youtube.com/watch?v=QKwykeEgtWs  
+
 **Got the sync at 04:50.**  
 
 This is a fresh channeled/spiritual message from **Isabel Katarina** (Nordic medicine woman, psychic channel & artist) titled **"It’s Gonna Work This Time."**  
@@ -2568,6 +2572,10 @@ What an unbelievably rich and stacked day/night on the **"Why You Always Lying?"
 <br />
 
 ### 04:51 https://www.youtube.com/watch?v=Dk5mEGmjNOU You Have Someone Pacing Back & Forth Trying To Figure Out How To Approach You 😰
+
+<kbd><img src="images/Picture02325.png" width="400" /></kbd>  
+
+> You Have Someone Pacing Back & Forth Trying To Figure Out How To Approach You 😰 - https://www.youtube.com/watch?v=Dk5mEGmjNOU  
 
 **Got the sync at 04:51.**  
 
