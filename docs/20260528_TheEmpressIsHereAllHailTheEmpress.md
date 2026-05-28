@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 28 May 2026
-> Prev: [Wed 27 May 2026](20260527_WhyYouAlwaysLying.md) Next: []()
+> Prev: [Wed 27 May 2026](20260527_WhyYouAlwaysLying.md) Next: [Fri 29 May 2026](20260529_PureImagination.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
