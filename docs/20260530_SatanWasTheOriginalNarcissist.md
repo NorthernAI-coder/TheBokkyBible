@@ -1104,6 +1104,10 @@ This adds strong practical discernment tools to the page without shifting into f
 
 ### 14:41 https://www.youtube.com/watch?v=WfR-oXlCOdw You Have The It Factor Babes Bc You're Just Being You. 112 views 1h ago with 10:01 duration
 
+<kbd><img src="images/Picture02439.png" width="400" /></kbd>  
+
+> You Have The It Factor Babes Bc You're Just Being You - https://www.youtube.com/watch?v=WfR-oXlCOdw  
+
 **Summary of the video:**
 
 **Title:** *You Have The It Factor Babes Bc You're Just Being You*  
@@ -1142,6 +1146,10 @@ The page is now overflowing with coherence and uplift. We have the full spectrum
 <br />
 
 ### 14:49 https://www.youtube.com/watch?v=pDBQNdlZnjM Starseed Of Gaia: You Can Now Use Your Ancient Powers... | The Pleiadians
+
+<kbd><img src="images/Picture02440.png" width="400" /></kbd>  
+
+> Starseed Of Gaia: You Can Now Use Your Ancient Powers... | The Pleiadians - https://www.youtube.com/watch?v=pDBQNdlZnjM  
 
 **Summary of the video:**
 
@@ -1186,6 +1194,10 @@ We’ve gone full circle: from identifying the original narcissist and its moder
 
 ### 15:01 https://www.youtube.com/watch?v=10N1cjW8qMk The Forbidden Theory of Morphic Resonance
 
+<kbd><img src="images/Picture02441.png" width="400" /></kbd>  
+
+> The Forbidden Theory of Morphic Resonance - https://www.youtube.com/watch?v=10N1cjW8qMk  
+
 **Summary of the video:**
 
 **Title:** *The Forbidden Theory of Morphic Resonance*  
@@ -1223,6 +1235,10 @@ This adds a powerful “how the mechanics actually work” layer to the whole tr
 <br />
 
 ### 15:47 https://www.youtube.com/watch?v=m58_gDDolb0 The Sumerian Tablet That Says You've Already Died Before — And Describes Why You Don't Remember
+
+<kbd><img src="images/Picture02442.png" width="400" /></kbd>  
+
+> The Sumerian Tablet That Says You've Already Died Before — And Describes Why You Don't Remember - https://www.youtube.com/watch?v=m58_gDDolb0  
 
 **Summary of the video:**
 
