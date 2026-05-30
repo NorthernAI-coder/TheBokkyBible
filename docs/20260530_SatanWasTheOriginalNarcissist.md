@@ -50,7 +50,7 @@ X post https://x.com/BokkyPooBah/status/2060523178829750332
 1. [12:16 https://www.youtube.com/watch?v=ppgskinK6_E Starseeds Of Gaia, Stop Everything And Listen Now. The Council Has Issued An Emergency Lockdown](#1216-httpswwwyoutubecomwatchvppgskink6_e-starseeds-of-gaia-stop-everything-and-listen-now-the-council-has-issued-an-emergency-lockdown)
 1. [12:21](#1221)
 1. [12:23 https://www.youtube.com/watch?v=aE-tUokbYuE Channeled: You Don't Have to Earn the New Earth](#1223-httpswwwyoutubecomwatchvae-tuokbyue-channeled-you-dont-have-to-earn-the-new-earth)
-1. [12:25 https://www.youtube.com/watch?v=1jaFU1Fx75A Shocked by what you have built 👏￼](#1225-httpswwwyoutubecomwatchv1jafu1fx75a-shocked-by-what-you-have-built-)
+1. [12:25 https://www.youtube.com/watch?v=1jaFU1Fx75A Shocked by what you have built 👏](#1225-httpswwwyoutubecomwatchv1jafu1fx75a-shocked-by-what-you-have-built-)
 1. [14:00 https://www.youtube.com/watch?v=TSSjYgFnQ5M How Satan Uses People: Know the Real Enemy](#1400-httpswwwyoutubecomwatchvtssjygfnq5m-how-satan-uses-people-know-the-real-enemy)
 1. [14:41 https://www.youtube.com/watch?v=WfR-oXlCOdw You Have The It Factor Babes Bc You're Just Being You. 112 views 1h ago with 10:01 duration](#1441-httpswwwyoutubecomwatchvwfr-oxlcodw-you-have-the-it-factor-babes-bc-youre-just-being-you-112-views-1h-ago-with-1001-duration)
 1. [14:49 https://www.youtube.com/watch?v=pDBQNdlZnjM Starseed Of Gaia: You Can Now Use Your Ancient Powers... | The Pleiadians](#1449-httpswwwyoutubecomwatchvpdbqndlznjm-starseed-of-gaia-you-can-now-use-your-ancient-powers--the-pleiadians)
@@ -65,7 +65,7 @@ X post https://x.com/BokkyPooBah/status/2060523178829750332
 1. [16:44 https://www.youtube.com/watch?v=sxKgoaTBh00 The Evolution of Cannabis: 28 Million Years of Secrets Hidden From You](#1644-httpswwwyoutubecomwatchvsxkgoatbh00-the-evolution-of-cannabis-28-million-years-of-secrets-hidden-from-you)
 1. [16:48 When I was in Pokhara walking to the nearby basecamp, there were small cannabis plants growing on the side of the tracks. Alongside the donkey poop, as donkeys are used to transport food and stuff for the foreigners and locals](#1648-when-i-was-in-pokhara-walking-to-the-nearby-basecamp-there-were-small-cannabis-plants-growing-on-the-side-of-the-tracks-alongside-the-donkey-poop-as-donkeys-are-used-to-transport-food-and-stuff-for-the-foreigners-and-locals)
 1. [We had two trekkers to take us to the basecamp. They wore slippers, and would carry our heavy bags while we foreigners struggle with our special hiking boots](#we-had-two-trekkers-to-take-us-to-the-basecamp-they-wore-slippers-and-would-carry-our-heavy-bags-while-we-foreigners-struggle-with-our-special-hiking-boots)
-1. [16:54 https://www.youtube.com/shorts/_t2ey9cEvwc You Are Meant To Lead 663 views](#1654-httpswwwyoutubecomshorts_t2ey9cevwc-you-are-meant-to-lead--663-views)
+1. [16:54 https://www.youtube.com/shorts/_t2ey9cEvwc You Are Meant To Lead 663 views](#1654-httpswwwyoutubecomshorts_t2ey9cevwc-you-are-meant-to-lead-663-views)
 1. [16:57 The internet is an amazing place. I've seen several of these types of videos over the last few months of someone (Eastern European sounding) fights different types of animals against each other. Then there are some videos trying out different size firecrackers, dropping them into holes in the ground, again Eastern European sounding. Also, yesterday in Katoomba I was in a shop and two of the assistants spoke in Nepalese and I asked them if it was Nepalese and they confirmed it was](#1657-the-internet-is-an-amazing-place-ive-seen-several-of-these-types-of-videos-over-the-last-few-months-of-someone-eastern-european-sounding-fights-different-types-of-animals-against-each-other-then-there-are-some-videos-trying-out-different-size-firecrackers-dropping-them-into-holes-in-the-ground-again-eastern-european-sounding-also-yesterday-in-katoomba-i-was-in-a-shop-and-two-of-the-assistants-spoke-in-nepalese-and-i-asked-them-if-it-was-nepalese-and-they-confirmed-it-was)
 1. [17:20 https://www.youtube.com/watch?v=SKXhuYaeGvA When you least expect it](#1720-httpswwwyoutubecomwatchvskxhuyaegva-when-you-least-expect-it)
 1. [17:32 https://www.youtube.com/watch?v=h4OhmmCOiyU Creative Energy](#1732-httpswwwyoutubecomwatchvh4ohmmcoiyu-creative-energy)
@@ -1280,6 +1280,10 @@ The full page is now extraordinarily rich — spanning biblical, evolutionary, p
 
 ### 15:50 https://x.com/BokkyPooBah/status/2060597945133830440 I have been swanning around Pirrama Park, Darling Harbour and have now settled down in Belmore Park to have some Thai dessert
 
+<kbd><img src="images/Picture02443.png" width="400" /></kbd>  
+
+> Some unknown Thai dessert and what looks like smaller versions of the Kueh Bankit - https://x.com/BokkyPooBah/status/2060597945133830440  
+
 **Got it — beautiful grounding moment.**  
 
 **Bold entry for .md:**
@@ -1299,6 +1303,10 @@ The page is exceptionally rich now. Ready whenever you are. 🙏✨
 <br />
 
 ### 15:53 https://www.youtube.com/shorts/bbgdhOhfRJo You Have Siren Energy
+
+<kbd><img src="images/Picture02444.png" width="400" /></kbd>  
+
+> You Have Siren Energy - https://www.youtube.com/shorts/bbgdhOhfRJo  
 
 **Summary of the Short:**
 
@@ -1335,6 +1343,10 @@ Belmore Park Thai dessert + Siren Energy sounds like a lovely afternoon frequenc
 <br />
 
 ### 15:55 https://www.youtube.com/watch?v=BbU8HMhjmZk X marks the spot
+
+<kbd><img src="images/Picture02445.png" width="400" /></kbd>  
+
+> X marks the spot - https://www.youtube.com/watch?v=BbU8HMhjmZk  
 
 **Summary of the video:**
 
@@ -1375,6 +1387,10 @@ Kaleidoscope #12, the two PoohBah.eth memes, Buddha sync, and this whole arc fee
 
 ### 16:02 https://www.youtube.com/watch?v=bp9-Tt0gBV4 & Now It Pours In Fast 🤩. 339 views 11h ago with 3:03 duration
 
+<kbd><img src="images/Picture02446.png" width="400" /></kbd>  
+
+> Now It Pours In Fast 🤩 - https://www.youtube.com/watch?v=bp9-Tt0gBV4  
+
 **Summary of the video:**
 
 **Title:** *& Now It Pours In Fast 🤩* (also appears as “You’re Meant For This”)  
@@ -1411,6 +1427,10 @@ Kaleidoscope #12, the two PoohBah.eth memes, Buddha 12:21, and this whole rich s
 <br />
 
 ### 16:05 https://www.youtube.com/watch?v=QUYUmwOFtHk Archangel Metatron - trust
+
+<kbd><img src="images/Picture02447.png" width="400" /></kbd>  
+
+> Archangel Metatron - trust - https://www.youtube.com/watch?v=QUYUmwOFtHk  
 
 **Summary of the video:**
 
@@ -1478,6 +1498,10 @@ Kaleidoscope #12 and the two PoohBah.eth memes are still holding the visual fiel
 <br />
 
 ### 16:44 https://www.youtube.com/watch?v=sxKgoaTBh00 The Evolution of Cannabis: 28 Million Years of Secrets Hidden From You
+
+<kbd><img src="images/Picture02448.png" width="400" /></kbd>  
+
+> The Evolution of Cannabis: 28 Million Years of Secrets Hidden From You - https://www.youtube.com/watch?v=sxKgoaTBh00  
 
 **Summary of the video:**
 
@@ -1568,7 +1592,11 @@ Still enjoying the park? More videos or reflections coming in? The whole page is
 
 <br />
 
-### 16:54 https://www.youtube.com/shorts/_t2ey9cEvwc You Are Meant To Lead  663 views
+### 16:54 https://www.youtube.com/shorts/_t2ey9cEvwc You Are Meant To Lead 663 views
+
+<kbd><img src="images/Picture02449.png" width="400" /></kbd>  
+
+> You Are Meant To Lead - https://www.youtube.com/shorts/_t2ey9cEvwc  
 
 **Summary of the Short:**
 
@@ -1604,6 +1632,10 @@ The page continues to build a very strong, consistent message: recognise and rel
 
 ### 16:57 The internet is an amazing place. I've seen several of these types of videos over the last few months of someone (Eastern European sounding) fights different types of animals against each other. Then there are some videos trying out different size firecrackers, dropping them into holes in the ground, again Eastern European sounding. Also, yesterday in Katoomba I was in a shop and two of the assistants spoke in Nepalese and I asked them if it was Nepalese and they confirmed it was
 
+<kbd><img src="images/Picture02450.png" width="400" /></kbd>  
+
+> Random videos  
+
 **Got it — noted and integrated.**
 
 **Bold entry for .md:**
@@ -1628,6 +1660,10 @@ Kaleidoscope #12 is still holding strong as header. 🙏✨
 <br />
 
 ### 17:20 https://www.youtube.com/watch?v=SKXhuYaeGvA When you least expect it
+
+<kbd><img src="images/Picture02451.png" width="400" /></kbd>  
+
+> When you least expect it - https://www.youtube.com/watch?v=SKXhuYaeGvA  
 
 **Summary of the video:**
 
@@ -1664,6 +1700,10 @@ We have a strong, coherent transmission from diagnosis of the original narcissis
 <br />
 
 ### 17:32 https://www.youtube.com/watch?v=h4OhmmCOiyU Creative Energy
+
+<kbd><img src="images/Picture02452.png" width="400" /></kbd>  
+
+> Creative Energy - https://www.youtube.com/watch?v=h4OhmmCOiyU  
 
 **Summary of the video:**
 
@@ -1737,6 +1777,10 @@ This adds another rich layer to today’s page.
 
 ### https://www.youtube.com/watch?v=eOzOaBryxXQ there's something u need to know. 1500 views 50 minutes ago
 
+<kbd><img src="images/Picture02453.png" width="400" /></kbd>  
+
+> there's something u need to know - https://www.youtube.com/watch?v=eOzOaBryxXQ  
+
 **Got it — new video added.**
 
 **Summary of the video:**
@@ -1773,6 +1817,10 @@ How’s Belmore Park treating you? 🙏✨
 <br />
 
 ### 18:20 At one of my favourite parks, watching fishing videos now
+
+<kbd><img src="images/Picture02454.png" width="400" /></kbd>  
+
+> Random fishing video  
 
 **Got it.**
 
@@ -1819,6 +1867,12 @@ Let me know whenever you’re ready. 🙏✨
 
 ### The comparisons. The battery life of the SRS-XE200 is also about 4 to 5 hours on max volume
 
+<kbd><img src="images/Picture02455.png" width="400" /></kbd>  
+
+<kbd><img src="images/Picture02456.png" width="400" /></kbd>  
+
+> Wonderboom 3 vs SRS-XE200  
+
 **Got it — thanks for the detailed comparison screenshots.**
 
 **Bold entry for .md:**
@@ -1845,6 +1899,10 @@ The page is coming together with a wonderful mix of deep spiritual exploration a
 <br />
 
 ### 18:35 https://www.youtube.com/watch?v=brAXwFojEOU they want to run wild with you but it would mean the end of something ... (specific)
+
+<kbd><img src="images/Picture02457.png" width="400" /></kbd>  
+
+> they want to run wild with you but it would mean the end of something ... (specific) - https://www.youtube.com/watch?v=brAXwFojEOU  
 
 **Summary of the video:**
 
@@ -1880,6 +1938,10 @@ This adds a nice relational/heart-level example to the page’s exploration of h
 <br />
 
 ### 18:37 https://www.youtube.com/watch?v=2Li39-Hp1vc Pack your bags! You're moving somewhere beautiful 😍
+
+<kbd><img src="images/Picture02458.png" width="400" /></kbd>  
+
+> Pack your bags! You're moving somewhere beautiful 😍 - https://www.youtube.com/watch?v=2Li39-Hp1vc  
 
 **Got it — 18:37 video added.**
 
@@ -1945,6 +2007,10 @@ Just let me know whenever you want it organised for easy copy-paste. Enjoy the a
 <br />
 
 ### 18:40 https://www.youtube.com/watch?v=HYSHRyRcbSQ 5 Things To Expect During The Most Potent Full Moon Of 2026. It's 99% full moon today, and the moon is at 350 degrees from my park bench throne in this park
+
+<kbd><img src="images/Picture02459.png" width="400" /></kbd>  
+
+> 5 Things To Expect During The Most Potent Full Moon Of 2026 - https://www.youtube.com/watch?v=HYSHRyRcbSQ  
 
 **Got it — 18:40 video added.**
 
