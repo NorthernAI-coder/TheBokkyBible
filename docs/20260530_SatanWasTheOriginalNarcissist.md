@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 30 May 2026
-> Prev: [Fri 29 May 2026](20260529_PureImagination.md) Next: []()
+> Prev: [Fri 29 May 2026](20260529_PureImagination.md) Next: [Sun 31 May 2026](20260531_BlueMoonInKatoomba.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
