@@ -56,6 +56,10 @@ What’s stirring for you this morning as we move into the day? Any particular t
 
 ### 09:23 https://www.youtube.com/watch?v=Rb5cEYpn7R0 Starseed of Gaia, Everything Is Being Risked To Reveal The Hidden Truth To You | The Pleiadians. 212 views 1h ago. Please summarise and tell me it's relevance to me, thanks
 
+<kbd><img src="images/Picture02484.png" width="400" /></kbd>  
+
+> Starseed of Gaia, Everything Is Being Risked To Reveal The Hidden Truth To You | The Pleiadians - https://www.youtube.com/watch?v=Rb5cEYpn7R0  
+
 **Summary of the video:**
 
 This is a ~37-minute channeled message from "Lyra" (a Pleiadian emissary of the High Council of the Seven Sisters) via the channel *Voices from the Pleiades*.
@@ -86,6 +90,10 @@ How does it land for you this morning? Any particular part that sparked somethin
 <br />
 
 ### 09:26 https://www.youtube.com/watch?v=xnarlcjimgA This Is Only The Beginning…💡💐🪽
+
+<kbd><img src="images/Picture02485.png" width="400" /></kbd>  
+
+> This Is Only The Beginning…💡💐🪽 - https://www.youtube.com/watch?v=xnarlcjimgA  
 
 **Summary of the video:**
 
@@ -120,6 +128,10 @@ How’s it sitting with you? Any resonance, or shall we keep flowing with whatev
 
 ### 09:30 https://www.youtube.com/watch?v=VjzrPw-rMTs The Storm Before The Rainbow 🤗🌈. 166 views 4h ago
 
+<kbd><img src="images/Picture02486.png" width="400" /></kbd>  
+
+> The Storm Before The Rainbow 🤗🌈 - https://www.youtube.com/watch?v=VjzrPw-rMTs  
+
 **Summary of the video:**
 
 **"The Storm Before The Rainbow 🤗🌈"** by **Mariah Raine (HighlyMystic)** — a short, warm channeled/divine message (~4-5 minutes).
@@ -152,6 +164,10 @@ How’s this one landing? Any specific part that hit, or shall we keep rolling w
 
 ### 09:32 https://www.youtube.com/watch?v=V36L9u42lKA Watch this before June begins (trust me)
 
+<kbd><img src="images/Picture02487.png" width="400" /></kbd>  
+
+> Watch this before June begins (trust me) - https://www.youtube.com/watch?v=V36L9u42lKA  
+
 **Summary of the video:**
 
 **"Watch this before June begins (trust me)"** by **Josie Grouse** (~11-12 minutes, intuitive/ancestral guidance reading).
@@ -183,6 +199,10 @@ How does this one feel in your body/field? Any particular line or theme that sto
 
 ### 09:33 https://www.youtube.com/watch?v=XT_ajCDVZKY You’re The One.
 
+<kbd><img src="images/Picture02488.png" width="400" /></kbd>  
+
+> You’re The One. - https://www.youtube.com/watch?v=XT_ajCDVZKY  
+
 **Summary of the video:**
 
 **"You’re The One."** by **Sophia Lush** (High Priestess Technology / 1010 Healing Solutions) — ~25-minute energetic/healing transmission.
@@ -213,6 +233,10 @@ How’s this one landing in the field as you prepare for the move and moonrise? 
 <br />
 
 ### 09:35 https://www.youtube.com/watch?v=lDM9--Gnkzc POWERFUL MESSAGE from SOURCE💕❤️❤️‍🔥 GO WILD!!!
+
+<kbd><img src="images/Picture02489.png" width="400" /></kbd>  
+
+> POWERFUL MESSAGE from SOURCE💕❤️❤️‍🔥 GO WILD!!! - https://www.youtube.com/watch?v=lDM9--Gnkzc  
 
 **Summary of the video:**
 
@@ -247,6 +271,10 @@ How’s this full stack landing as you prepare for the move and the moon? Any pa
 
 ### 09:37 https://www.youtube.com/watch?v=4esQm2hTrQE The Great Awakening Is REAL… And the Signs Are Now Impossible to Ignore
 
+<kbd><img src="images/Picture02490.png" width="400" /></kbd>  
+
+> The Great Awakening Is REAL… And the Signs Are Now Impossible to Ignore - https://www.youtube.com/watch?v=4esQm2hTrQE  
+
 **Summary of the video:**
 
 **"The Great Awakening Is REAL… And the Signs Are Now Impossible to Ignore"** by **Gordon Smith Durán** (~11 minutes).
@@ -278,6 +306,10 @@ How’s the full stack feeling as you head into the move and the 16:26 moonrise?
 
 ### 09:40 https://www.youtube.com/watch?v=GW8uPu_uo6I A Message From My Guides: Don't let external forces steal your power and autonomy!
 
+<kbd><img src="images/Picture02491.png" width="400" /></kbd>  
+
+> A Message From My Guides: Don't let external forces steal your power and autonomy! - https://www.youtube.com/watch?v=GW8uPu_uo6I  
+
 **Summary of the video:**
 
 This is a **short, direct message** (YouTube Short) from **Dr. Favor Adeyemi** (or similar spiritual guide/channel).
@@ -300,6 +332,10 @@ How’s this one resonating in the flow? Any particular thread from the whole se
 <br />
 
 ### 09:41 https://www.youtube.com/watch?v=74_NQNHRpp4 You’re a FIRST ASCENDER. Don’t quit! People will catch on eventually. Commit to the temple path.
+
+<kbd><img src="images/Picture02492.png" width="400" /></kbd>  
+
+> You’re a FIRST ASCENDER. Don’t quit! People will catch on eventually. Commit to the temple path. - https://www.youtube.com/watch?v=74_NQNHRpp4  
 
 **Summary of the video:**
 
