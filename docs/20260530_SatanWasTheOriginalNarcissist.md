@@ -102,7 +102,7 @@ X post https://x.com/BokkyPooBah/status/2060523178829750332
 1. [03:33 https://www.youtube.com/watch?v=pNN9qcw33gs you GLITCH the matrix everytime you do this..⚡️. At home in Sydney](#0333-httpswwwyoutubecomwatchvpnn9qcw33gs-you-glitch-the-matrix-everytime-you-do-this️-at-home-in-sydney)
 1. [03:41 https://www.youtube.com/watch?v=Gn9mQGLuCxg You Are So Magnetic Right Now Bc Your Energy Screams Leadership](#0341-httpswwwyoutubecomwatchvgn9mqglucxg-you-are-so-magnetic-right-now-bc-your-energy-screams-leadership)
 1. [03:45 More kissies](#0345-more-kissies)
-1. [03:50 https://www.youtube.com/shorts/w2yWYHeIlSw You're Divine Counterpart Is Coming In, If This Is Finding You](#0350--httpswwwyoutubecomshortsw2ywyheilsw-youre-divine-counterpart-is-coming-in-if-this-is-finding-you)
+1. [03:50 https://www.youtube.com/shorts/w2yWYHeIlSw You're Divine Counterpart Is Coming In, If This Is Finding You](#0350-httpswwwyoutubecomshortsw2ywyheilsw-youre-divine-counterpart-is-coming-in-if-this-is-finding-you)
 1. [03:53 https://www.youtube.com/watch?v=fGhwHMFZ598 Forbidden Metaphysics: ONLY 1% OF THE POPULATION IS READY TO UNDERSTAND THIS WISDOM (FULL AUDIOBOOK)](#0353-httpswwwyoutubecomwatchvfghwhmfz598-forbidden-metaphysics-only-1-of-the-population-is-ready-to-understand-this-wisdom-full-audiobook)
 1. [03:58 https://www.youtube.com/watch?v=-FFP22xf5Vc You are now ready to make that decision...](#0358-httpswwwyoutubecomwatchv-ffp22xf5vc-you-are-now-ready-to-make-that-decision)
 1. [04:06 https://www.youtube.com/watch?v=bzqWtegdES8 Darkness Is Not Afraid Of Religion, It’s Afraid Of Awareness, WARRIORS #Awareness #Consciousness](#0406-httpswwwyoutubecomwatchvbzqwtegdes8-darkness-is-not-afraid-of-religion-its-afraid-of-awareness-warriors-awareness-consciousness)
@@ -2985,6 +2985,10 @@ How are you feeling at this late hour? 🌟🙏
 
 ### 03:58 https://www.youtube.com/watch?v=-FFP22xf5Vc You are now ready to make that decision...
 
+<kbd><img src="images/Picture02477.png" width="400" /></kbd>  
+
+> You are now ready to make that decision... - https://www.youtube.com/watch?v=-FFP22xf5Vc  
+
 **Got it — 03:58 video added.**
 
 **Summary of the video:**
@@ -3027,6 +3031,10 @@ How are you feeling at this hour? 🌟🙏
 
 ### 04:06 https://www.youtube.com/watch?v=bzqWtegdES8 Darkness Is Not Afraid Of Religion, It’s Afraid Of Awareness, WARRIORS #Awareness #Consciousness
 
+<kbd><img src="images/Picture02478.png" width="400" /></kbd>  
+
+> Darkness Is Not Afraid Of Religion, It’s Afraid Of Awareness, WARRIORS #Awareness #Consciousness - https://www.youtube.com/watch?v=bzqWtegdES8  
+
 **Got it — 04:06 video added.**
 
 **Summary of the video:**
@@ -3065,6 +3073,10 @@ How are you feeling at this hour? 🌟🙏
 <br />
 
 ### 04:16 https://www.youtube.com/watch?v=sFG1sFJZ-bo Let’s talk about love ✨ but in a way your SOUL needs ❤️‍🩹
+
+<kbd><img src="images/Picture02479.png" width="400" /></kbd>  
+
+> Let’s talk about love ✨ but in a way your SOUL needs ❤️‍🩹 - https://www.youtube.com/watch?v=sFG1sFJZ-bo  
 
 **Got it — 04:16 video added.**
 
@@ -3106,6 +3118,10 @@ It’s been an incredibly rich, multi-layered day. Just say the word and I’ll 
 
 ### 04:17 https://www.youtube.com/watch?v=OboQ4vAWCF0 June Energy Update 2026 - Tara Arnold St Germain Channeled Message
 
+<kbd><img src="images/Picture02480.png" width="400" /></kbd>  
+
+> June Energy Update 2026 - Tara Arnold St Germain Channeled Message - https://www.youtube.com/watch?v=OboQ4vAWCF0  
+
 **Got it — 04:17 / 04:06 video added (June Energy Update 2026).**
 
 **Summary of the video:**
@@ -3139,6 +3155,10 @@ This brings a strong, grounded, actionable close to the day’s transmission.
 <br />
 
 ### 04:18 https://www.youtube.com/watch?v=G0IKyVDkI8k ⚠️ Dolores Cannon: God Is NOT What They Taught You — It's THIS (Prepare for the Truth)
+
+<kbd><img src="images/Picture02481.png" width="400" /></kbd>  
+
+> ⚠️ Dolores Cannon: God Is NOT What They Taught You — It's THIS (Prepare for the Truth) - https://www.youtube.com/watch?v=G0IKyVDkI8k  
 
 **Got it — 04:18 video added.**
 
@@ -3175,6 +3195,10 @@ We’ve built something really substantial today. Just say the word and I’ll o
 <br />
 
 ### 04:35 https://www.youtube.com/watch?v=P6dWU7gjaeU your Most Profound initiation yet..
+
+<kbd><img src="images/Picture02482.png" width="400" /></kbd>  
+
+> your Most Profound initiation yet.. - https://www.youtube.com/watch?v=P6dWU7gjaeU  
 
 **Got it — 04:35 video added.**
 
