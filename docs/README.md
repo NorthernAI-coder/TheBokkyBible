@@ -213,6 +213,7 @@ Awake. Love. Be. 🚀🙏
 1. [Why You Always Lying?](20260527_WhyYouAlwaysLying.md) - Wed 27 May 2026
 1. [The Empress Is Here. All Hail The Empress!](20260528_TheEmpressIsHereAllHailTheEmpress.md) - Thu 28 May 2026
 1. [Pure Imagination](20260529_PureImagination.md) - Fri 29 May 2026
+1. [Satan Was The Original Narcissist](20260530_SatanWasTheOriginalNarcissist.md) - Sat 30 May 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

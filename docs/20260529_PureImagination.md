@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 29 May 2026
-> Prev: [Thu 28 May 2026](20260528_TheEmpressIsHereAllHailTheEmpress.md) Next: []()
+> Prev: [Thu 28 May 2026](20260528_TheEmpressIsHereAllHailTheEmpress.md) Next: [Sat 30 May 2026](20260530_SatanWasTheOriginalNarcissist.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
