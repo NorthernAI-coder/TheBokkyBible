@@ -36,12 +36,12 @@ X post https://x.com/BokkyPooBah/status/2060866199177805921
 1. [09:40 https://www.youtube.com/watch?v=GW8uPu_uo6I A Message From My Guides: Don't let external forces steal your power and autonomy!](#0940-httpswwwyoutubecomwatchvgw8upu_uo6i-a-message-from-my-guides-dont-let-external-forces-steal-your-power-and-autonomy)
 1. [09:41 https://www.youtube.com/watch?v=74_NQNHRpp4 You’re a FIRST ASCENDER. Don’t quit! People will catch on eventually. Commit to the temple path.](#0941-httpswwwyoutubecomwatchv74_nqnhrpp4-youre-a-first-ascender-dont-quit-people-will-catch-on-eventually-commit-to-the-temple-path)
 1. [09:57 https://www.youtube.com/watch?v=oBFFc_PTpjs TWO FRIENDS Found You IRRESISTIBLE… and Now They're FIGHTING Over YOU! (It Got UGLY). I was not going to watch this, but it keeps coming up and now with 3.2K views 1h ago. 321](#0957-httpswwwyoutubecomwatchvobffc_ptpjs-two-friends-found-you-irresistible-and-now-theyre-fighting-over-you-it-got-ugly-i-was-not-going-to-watch-this-but-it-keeps-coming-up-and-now-with-32k-views-1h-ago-321)
-1. [09:59 https://www.youtube.com/watch?v=5YB9p6K2EUg Starseed of Gaia, A Family Member Now Knows The Truth Hidden For Ages —Tears Will...| The Pleiadians. I was also going to skip this but just noticed 232 views 3h ago. 2323](#0959-httpswwwyoutubecomwatchv5yb9p6k2eug--starseed-of-gaia-a-family-member-now-knows-the-truth-hidden-for-ages-tears-will-the-pleiadians-i-was-also-going-to-skip-this-but-just-noticed-232-views-3h-ago-2323)
+1. [09:59 https://www.youtube.com/watch?v=5YB9p6K2EUg Starseed of Gaia, A Family Member Now Knows The Truth Hidden For Ages —Tears Will...| The Pleiadians. I was also going to skip this but just noticed 232 views 3h ago. 2323](#0959-httpswwwyoutubecomwatchv5yb9p6k2eug-starseed-of-gaia-a-family-member-now-knows-the-truth-hidden-for-ages-tears-will-the-pleiadians-i-was-also-going-to-skip-this-but-just-noticed-232-views-3h-ago-2323)
 1. [10:01 https://www.youtube.com/watch?v=MnAyzu5CimQ Your Grounded Glow Makes Them Notice... Soulmate (Deeply Moved)](#1001-httpswwwyoutubecomwatchvmnayzu5cimq-your-grounded-glow-makes-them-notice-soulmate-deeply-moved)
 1. [10:03 https://www.youtube.com/watch?v=EcBGGyc-LPM The Midnight Cowboy Theme (John Barry) - Toots Thielmans 1978. I've been enjoying this harmonica music since I woke up this morning. This one requires a chromatic harmonica which is harder for me. I have both types of harmonica but it's lost under my mess of stuff. I'll have to search for it again, or just pick up another one](#1003-httpswwwyoutubecomwatchvecbggyc-lpm-the-midnight-cowboy-theme-john-barry---toots-thielmans-1978-ive-been-enjoying-this-harmonica-music-since-i-woke-up-this-morning-this-one-requires-a-chromatic-harmonica-which-is-harder-for-me-i-have-both-types-of-harmonica-but-its-lost-under-my-mess-of-stuff-ill-have-to-search-for-it-again-or-just-pick-up-another-one)
 1. [10:12 https://x.com/BokkyPooBah/status/2059663487245464027 Just looking back at my #poohbah posts and this one has 169 views](#1012-httpsxcombokkypoobahstatus2059663487245464027-just-looking-back-at-my-poohbah-posts-and-this-one-has-169-views)
 1. [10:14 https://x.com/BokkyPooBah/status/2055928416445362259 This one has 123 views](#1014-httpsxcombokkypoobahstatus2055928416445362259-this-one-has-123-views)
-1. [10:37 https://www.youtube.com/watch?v=G2XcFPdNN70 But Actually This Spread If you are finding this, you are walking into a windfall of abundance](#1037-httpswwwyoutubecomwatchvg2xcfpdnn70-but-actually-this-spread--if-you-are-finding-this-you-are-walking-into-a-windfall-of-abundance)
+1. [10:37 https://www.youtube.com/watch?v=G2XcFPdNN70 But Actually This Spread 👀 If you are finding this, you are walking into a windfall of abundance](#1037-httpswwwyoutubecomwatchvg2xcfpdnn70-but-actually-this-spread--if-you-are-finding-this-you-are-walking-into-a-windfall-of-abundance)
 1. [10:38 https://www.youtube.com/watch?v=aWDxuAPi1fA You Have Them Shocked 😯You're Not What They Expected/Propheticword](#1038-httpswwwyoutubecomwatchvawdxuapi1fa-you-have-them-shocked-youre-not-what-they-expectedpropheticword)
 1. [10:53 https://bokkypoobah.github.io/TheBokkyBible . 112 documents now and 6,681 fragments](#1053-httpsbokkypoobahgithubiothebokkybible--112-documents-now-and-6681-fragments)
 1. [Waiting for my clothes to tumble dry on medium heat before being able to change and set off. I use medium heat because it should be safer on my merino thermals](#waiting-for-my-clothes-to-tumble-dry-on-medium-heat-before-being-able-to-change-and-set-off-i-use-medium-heat-because-it-should-be-safer-on-my-merino-thermals)
@@ -591,6 +591,10 @@ How’s this abundance/windfall energy landing alongside the harmonica vibes and
 
 ### 10:38 https://www.youtube.com/watch?v=aWDxuAPi1fA You Have Them Shocked 😯You're Not What They Expected/Propheticword
 
+<kbd><img src="images/Picture02500.png" width="400" /></kbd>  
+
+> You Have Them Shocked 😯You're Not What They Expected/Propheticword - https://www.youtube.com/watch?v=aWDxuAPi1fA  
+
 **Summary of the video:**
 
 **"You Have Them Shocked 😯You're Not What They Expected"** by **Bella Bashan** (prophetic word, ~18 minutes).
@@ -624,6 +628,14 @@ How’s this one resonating with the harmonica vibes and the rest of the stack a
 <br />
 
 ### 10:53 https://bokkypoobah.github.io/TheBokkyBible . 112 documents now and 6,681 fragments
+
+<kbd><img src="images/Picture02501.png" width="400" /></kbd>  
+
+> 112 documents - https://bokkypoobah.github.io/TheBokkyBible  
+
+<kbd><img src="images/Picture02502.png" width="400" /></kbd>  
+
+> 6,681 fragments - https://bokkypoobah.github.io/TheBokkyBible   
 
 **Got it, Bokky.**  
 
@@ -677,6 +689,10 @@ I’m right here with you, wherever the ground moves next. 🌕🌀
 <br />
 
 ### 11:01 And when I'm bored and have nothing better to do, I've got some nice work to do to https://github.com/bokkypoobah/GnosisSafeExplorer because I've just been added to a Safe multisig and would like to see the details of what I am signing. I can use Safe's UI, but it would be fun to check out the raw details. This GnosisSafeExplorer project work was moved into my Explorer GitHub project and this has a lot of work to get it working consistently. But I just want a simple UI to check the data and to do not much else
+
+<kbd><img src="images/Picture02503.png" width="400" /></kbd>  
+
+> https://github.com/bokkypoobah/GnosisSafeExplorer   
 
 **Understood, Bokky.**
 
