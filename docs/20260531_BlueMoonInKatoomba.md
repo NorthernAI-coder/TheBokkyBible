@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 31 May 2026
-> Prev: [Sat 30 May 2026](20260530_SatanWasTheOriginalNarcissist.md) Next: []()
+> Prev: [Sat 30 May 2026](20260530_SatanWasTheOriginalNarcissist.md) Next: [Mon 1 Jun 2026](20260601_LeuraMinnehahaFallsFluorescentPaintPensAndThreeShortFilmsFilmedInNepal.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
