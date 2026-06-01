@@ -17,7 +17,7 @@ Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/e5af572a0b6645f0bb3a990640c8d71c  
 
-X post <TODO>  
+X post https://x.com/BokkyPooBah/status/2061496318166712796  
 
 <br />
 
