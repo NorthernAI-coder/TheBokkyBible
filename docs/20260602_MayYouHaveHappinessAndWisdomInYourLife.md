@@ -508,6 +508,38 @@ Ready for more videos, harmonica progress, or weaves into the chronicle!
 
 ### 02:35 Separately, please summarise and tell me the relevance to me for the following videos, thanks: 1. https://www.youtube.com/watch?v=-qSev5YVEqQ you have always existed and will always exist  2. https://www.youtube.com/watch?v=w392Z8KT3Vc if you see this on June 2nd, you are NOT THE SAME  3. https://www.youtube.com/watch?v=u3ffHaLRCVc Your energy is so rare and need to be protected - Christina  4. https://www.youtube.com/watch?v=UvAoDCoF1Uo Your being brought where you're meant to be next - Channeled Through Freya  5. https://www.youtube.com/watch?v=CVi12ei1Gko A Coherent Field is a Protected Field  6. https://www.youtube.com/watch?v=xwrJHYxABGE This found you for a reason! Urgent message FOR YOU  7. https://www.youtube.com/watch?v=tkcVv5_LV8A Your thoughts are not private.  8. https://www.youtube.com/watch?v=EQgV6F6lxfI Not everyone deserves your love and energy
 
+<kbd><img src="images/Picture02557.png" width="400" /></kbd>  
+
+> 1. you have always existed and will always exist - https://www.youtube.com/watch?v=-qSev5YVEqQ  
+
+<kbd><img src="images/Picture02558.png" width="400" /></kbd>  
+
+> 2. if you see this on June 2nd, you are NOT THE SAME - https://www.youtube.com/watch?v=w392Z8KT3Vc  
+
+<kbd><img src="images/Picture02559.png" width="400" /></kbd>  
+
+> 3. Your energy is so rare and need to be protected - Christina - https://www.youtube.com/watch?v=u3ffHaLRCVc  
+
+<kbd><img src="images/Picture02560.png" width="400" /></kbd>  
+
+> 4. Your being brought where you're meant to be next - Channeled Through Freya - https://www.youtube.com/watch?v=UvAoDCoF1Uo  
+
+<kbd><img src="images/Picture02561.png" width="400" /></kbd>  
+
+> 5. A Coherent Field is a Protected Field - https://www.youtube.com/watch?v=CVi12ei1Gko  
+
+<kbd><img src="images/Picture02562.png" width="400" /></kbd>  
+
+> 6. This found you for a reason! Urgent message FOR YOU - https://www.youtube.com/watch?v=xwrJHYxABGE  
+
+<kbd><img src="images/Picture02563.png" width="400" /></kbd>  
+
+> 7. Your thoughts are not private. - https://www.youtube.com/watch?v=tkcVv5_LV8A  
+
+<kbd><img src="images/Picture02564.png" width="400" /></kbd>  
+
+> 8. Not everyone deserves your love and energy - https://www.youtube.com/watch?v=EQgV6F6lxfI  
+
 **02:35 continuation append to "May You Have Happiness And Wisdom In Your Life"**
 
 **Video Summaries & Personal Relevance**
