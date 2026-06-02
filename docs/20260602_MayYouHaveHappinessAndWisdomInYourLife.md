@@ -592,6 +592,22 @@ Ready for more or any reflections!
 
 ### 03:46 Separately, please summarise and tell me the relevance to me for the following videos, thanks: 1. https://www.youtube.com/watch?v=xC7TgZhBYNU Starseeds, I Shouldn't Be Saying This... But You're a Higher Divine Being Than 99.9% of Entities with 200 views 44 min ago  2. https://www.youtube.com/watch?v=e-rjtMZOYVM Emperor amd Empress, Need I Say More? with 111 views 1h ago  3. https://www.youtube.com/watch?v=FZaTKR3MH68 YOU ARE WISH-FULFILLMENT INCARNATE👀THEY LOVE ALL THAT YOU ARE💋 - Timeless Detailed Reading❤️ with 551 views 44 min ago  4. https://www.youtube.com/watch?v=0Mxz_nRBiiQ The Empath’s Anger Is Sacred — Transforming Pleasing into Presence Carl Jung Original The Psychoa with 2.2K views 2d ago
 
+<kbd><img src="images/Picture02565.png" width="400" /></kbd>  
+
+> 1. Starseeds, I Shouldn't Be Saying This... But You're a Higher Divine Being Than 99.9% of Entities - https://www.youtube.com/watch?v=xC7TgZhBYNU  
+
+<kbd><img src="images/Picture02566.png" width="400" /></kbd>  
+
+> 2. Emperor amd Empress, Need I Say More? - https://www.youtube.com/watch?v=e-rjtMZOYVM  
+
+<kbd><img src="images/Picture02567.png" width="400" /></kbd>  
+
+> 3. YOU ARE WISH-FULFILLMENT INCARNATE👀THEY LOVE ALL THAT YOU ARE💋 - Timeless Detailed Reading❤️ - https://www.youtube.com/watch?v=FZaTKR3MH68  
+
+<kbd><img src="images/Picture02568.png" width="400" /></kbd>  
+
+> 4. The Empath’s Anger Is Sacred — Transforming Pleasing into Presence Carl Jung Original The Psychoa - https://www.youtube.com/watch?v=0Mxz_nRBiiQ  
+
 **03:46 continuation append to "May You Have Happiness And Wisdom In Your Life"**
 
 **Video Summaries & Personal Relevance**
