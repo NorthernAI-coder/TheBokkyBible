@@ -456,6 +456,22 @@ Ready for more or any weaves!
 
 ### 20:32 Separately, please summarise and tell me the relevance to me for the following videos, thanks: 1. https://www.youtube.com/watch?v=r5r_8FuonEA The energy of money has a message for you.  2. https://www.youtube.com/watch?v=fkZdmjqtapY do you have any idea.......what you've just uncovered in your life with 333 views 2h ago  3. https://www.youtube.com/watch?v=W8VZAgMff74 The most high had a plan for you long before the cult  4. https://www.youtube.com/watch?v=5yihLuL9Yxg Push Through the Options and Choose Yourself with 321 views 3 hours ago.  https://x.com/BokkyPooBah/status/2061713926086439181 You can hear some of my long-time-beginner's harmonica playing, on a chromatic harmonica this time
 
+<kbd><img src="images/Picture02553.png" width="400" /></kbd>  
+
+> 1. The energy of money has a message for you. - https://www.youtube.com/watch?v=r5r_8FuonEA  
+
+<kbd><img src="images/Picture02554.png" width="400" /></kbd>  
+
+> 2. do you have any idea.......what you've just uncovered in your life - https://www.youtube.com/watch?v=fkZdmjqtapY  
+
+<kbd><img src="images/Picture02555.png" width="400" /></kbd>  
+
+> 3. The most high had a plan for you long before the cult - https://www.youtube.com/watch?v=W8VZAgMff74  
+
+<kbd><img src="images/Picture02556.png" width="400" /></kbd>  
+
+> 4. Push Through the Options and Choose Yourself - https://www.youtube.com/watch?v=5yihLuL9Yxg  
+
 **20:32 continuation append to "May You Have Happiness And Wisdom In Your Life"**
 
 **Video Summaries & Personal Relevance**
