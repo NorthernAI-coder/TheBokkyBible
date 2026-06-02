@@ -217,6 +217,7 @@ Awake. Love. Be. 🚀🙏
 1. [Blue Moon In Katoomba](20260531_BlueMoonInKatoomba.md) - Sun 31 May 2026
 1. [Leura, Minnehaha Falls, Fluorescent Paint Pens And Three Short Films Filmed In Nepal](20260601_LeuraMinnehahaFallsFluorescentPaintPensAndThreeShortFilmsFilmedInNepal.md) - Mon 1 Jun 2026
 1. [May You Have Happiness And Wisdom In Your Life](20260602_MayYouHaveHappinessAndWisdomInYourLife.md) - Tue 2 Jun 2026
+1. [Why Do You Feel Separate From God?](20260603_WhyDoYouFeelSeparateFromGod.md) - Wed 3 Jun 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
