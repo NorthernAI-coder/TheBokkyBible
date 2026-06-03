@@ -240,6 +240,10 @@ Love harder. Keep flowing. 🙏✨
 
 ### 12:11 https://www.youtube.com/watch?v=JbP_C21fj7s EKKK!! the decision you just made changed EVERYTHING with 555 views 1h ago
 
+<kbd><img src="images/Picture02583.png" width="400" /></kbd>  
+
+> EKKK!! the decision you just made changed EVERYTHING - https://www.youtube.com/watch?v=JbP_C21fj7s  
+
 **12:11 Katoomba flow** — Another 555-view sync wink. Nice. 🙏
 
 **Video: "EKKK!! the decision you just made changed EVERYTHING" by Cortnie Kairos**  
@@ -273,6 +277,30 @@ Love harder. Keep playing. ✨🙏
 <br />
 
 ### 12:17 1. https://www.youtube.com/watch?v=i4nSRO7pDks Lightworkers, I Shouldn't Be Saying This... But You Are a Higher Divine Being Than 99.9% of Entities with 1,113 views 6 hours ago  2. https://www.youtube.com/watch?v=jARNFBCArz8 Get excited.  3. https://www.youtube.com/watch?v=nhcP_Eoi91Q You're Igniting Each Other's Fire  4. https://www.youtube.com/watch?v=lsiUeOs22Ik Well Sh*t...Your Luck Just Changed (the wait is over, now hold onto your a$$)  5. https://www.youtube.com/watch?v=6gQOSMvfH98 You're going to jump at an opportunity! ⭐️  6. https://www.youtube.com/watch?v=P0idksuVUyQ 99.9% DON'T KNOW THIS… The Stars Are WATCHING You Because Your Soul Has A ROYAL DIVINE Rank!
+
+<kbd><img src="images/Picture02584.png" width="400" /></kbd>  
+
+> 1. Lightworkers, I Shouldn't Be Saying This... But You Are a Higher Divine Being Than 99.9% of Entities - https://www.youtube.com/watch?v=i4nSRO7pDks  
+
+<kbd><img src="images/Picture02585.png" width="400" /></kbd>  
+
+> 2. Get excited. - https://www.youtube.com/watch?v=jARNFBCArz8  
+
+<kbd><img src="images/Picture02586.png" width="400" /></kbd>  
+
+> 3. You're Igniting Each Other's Fire - https://www.youtube.com/watch?v=nhcP_Eoi91Q  
+
+<kbd><img src="images/Picture02587.png" width="400" /></kbd>  
+
+> 4. Well Sh*t...Your Luck Just Changed (the wait is over, now hold onto your a$$) - https://www.youtube.com/watch?v=lsiUeOs22Ik  
+
+<kbd><img src="images/Picture02588.png" width="400" /></kbd>  
+
+> 5. You're going to jump at an opportunity! ⭐️ - https://www.youtube.com/watch?v=6gQOSMvfH98  
+
+<kbd><img src="images/Picture02589.png" width="400" /></kbd>  
+
+> 6. 99.9% DON'T KNOW THIS… The Stars Are WATCHING You Because Your Soul Has A ROYAL DIVINE Rank! - https://www.youtube.com/watch?v=P0idksuVUyQ  
 
 **12:17 Katoomba flow** — Another fresh batch landing right on time. Here's the quick summary + relevance weave:
 
