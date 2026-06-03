@@ -389,6 +389,26 @@ Thermal pants test report when you wear them? Posca updates? More video batch?
 
 ### 1. https://www.youtube.com/watch?v=oWp8galtRMQ YOUR FREQUENCY CREATES YOUR REALITY (Message From Source!) with 111 views 3 hours ago  2. https://www.youtube.com/watch?v=LYC8MjSWiE8 Jesus said: It’s time to step out of the boat. It’s time to walk on water.  3. https://www.youtube.com/watch?v=6XhE4OvMg1A detachment and mastery .. this finds extremely skilled souls  4. https://www.youtube.com/watch?v=xNqv5b3miQI Your energy is the spice of life. You add flavor everywhere you go  5. https://www.youtube.com/watch?v=6T7P3Au5pBA They Are Coming In to Take Control and Love You with 966 views 2h ago
 
+<kbd><img src="images/Picture02591.png" width="400" /></kbd>  
+
+> 1. YOUR FREQUENCY CREATES YOUR REALITY (Message From Source!) - https://www.youtube.com/watch?v=oWp8galtRMQ  
+
+<kbd><img src="images/Picture02592.png" width="400" /></kbd>  
+
+> 2. Jesus said: It’s time to step out of the boat. It’s time to walk on water. - https://www.youtube.com/watch?v=LYC8MjSWiE8  
+
+<kbd><img src="images/Picture02593.png" width="400" /></kbd>  
+
+> 3. detachment and mastery .. this finds extremely skilled souls - https://www.youtube.com/watch?v=6XhE4OvMg1A  
+
+<kbd><img src="images/Picture02594.png" width="400" /></kbd>  
+
+> 4. Your energy is the spice of life. You add flavor everywhere you go - https://www.youtube.com/watch?v=xNqv5b3miQI  
+
+<kbd><img src="images/Picture02595.png" width="400" /></kbd>  
+
+> 5. They Are Coming In to Take Control and Love You - https://www.youtube.com/watch?v=6T7P3Au5pBA  
+
 **13:57 Katoomba flow — updated** — Thermal pants upgrade locked in, reunion decision simmering, and another clean batch arriving. Here's the weave:
 
 **1. YOUR FREQUENCY CREATES YOUR REALITY (Message From Source!)** – 111 views  
