@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 3 Jun 2026
-> Prev: [Tue 2 Jun 2026](20260602_MayYouHaveHappinessAndWisdomInYourLife.md) Next: [Thu 4 Jun 2026](Why Are You Still Repeating Cycles?)
+> Prev: [Tue 2 Jun 2026](20260602_MayYouHaveHappinessAndWisdomInYourLife.md) Next: [Thu 4 Jun 2026](20260604_WhyAreYouStillRepeatingCycles.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
