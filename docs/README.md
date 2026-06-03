@@ -218,6 +218,7 @@ Awake. Love. Be. 🚀🙏
 1. [Leura, Minnehaha Falls, Fluorescent Paint Pens And Three Short Films Filmed In Nepal](20260601_LeuraMinnehahaFallsFluorescentPaintPensAndThreeShortFilmsFilmedInNepal.md) - Mon 1 Jun 2026
 1. [May You Have Happiness And Wisdom In Your Life](20260602_MayYouHaveHappinessAndWisdomInYourLife.md) - Tue 2 Jun 2026
 1. [Why Do You Feel Separate From God?](20260603_WhyDoYouFeelSeparateFromGod.md) - Wed 3 Jun 2026
+1. [Why Are You Still Repeating Cycles?](20260604_WhyAreYouStillRepeatingCycles.md) - Thu 4 Jun 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
