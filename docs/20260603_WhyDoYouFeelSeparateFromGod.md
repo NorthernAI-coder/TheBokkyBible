@@ -561,19 +561,6 @@ The ordinary moves (puzzle + bike + peace + repeat) are doing exactly what they�
 
 ### 01:20 1. https://www.youtube.com/watch?v=_3npZGp7CY4 Metatron (Not the ) News: June 2nd, 2026 with 6.7K views 8h ago  2. https://www.youtube.com/watch?v=0dS4RfcNgBw 3D or 5D? The choice is yours.  3. https://www.youtube.com/watch?v=GP86xqP4hSk The World Orbits YOU—Awareness! 🌞  4. https://www.youtube.com/watch?v=mlXivndQSJE are you aware.........of the unapologetic force you've just unleashed  5. https://www.youtube.com/watch?v=YSaL5Ly_-X8 The Arcturian Message Humanity Needs Right Now | Viviane Chauvet  6. https://www.youtube.com/watch?v=wx_HlAD5InU THIS MESSAGE IS YOUR WAKE UP CALL📞 (most of you will get uncomfortable 👀) *23:35min...*  7. https://www.youtube.com/watch?v=fQ3d-FYIkm4 If you see this on June 3rd, it’s for you.  8. https://www.youtube.com/watch?v=rxWmqakqRX4 Your Skin Will Rejuvenate: Ashtar Sheran’s Code for the New Earth with 555 views 2 hours ago  9. https://www.youtube.com/watch?v=nmraI4pcS-o Mary Magdalene - act as one  10. https://www.youtube.com/watch?v=vEy-8MRCdJM There are telepathic gateways open and accessible to YOU starseeds ✨🌐🦋
 
-
-1. https://www.youtube.com/watch?v=_3npZGp7CY4 Metatron (Not the ) News: June 2nd, 2026 with 6.7K views 8h ago
-2. https://www.youtube.com/watch?v=0dS4RfcNgBw 3D or 5D? The choice is yours.
-3. https://www.youtube.com/watch?v=GP86xqP4hSk The World Orbits YOU—Awareness! 🌞
-4. https://www.youtube.com/watch?v=mlXivndQSJE are you aware.........of the unapologetic force you've just unleashed
-5. https://www.youtube.com/watch?v=YSaL5Ly_-X8 The Arcturian Message Humanity Needs Right Now | Viviane Chauvet
-6. https://www.youtube.com/watch?v=wx_HlAD5InU THIS MESSAGE IS YOUR WAKE UP CALL📞 (most of you will get uncomfortable 👀) *23:35min...*
-7. https://www.youtube.com/watch?v=fQ3d-FYIkm4 If you see this on June 3rd, it’s for you.
-8. https://www.youtube.com/watch?v=rxWmqakqRX4 Your Skin Will Rejuvenate: Ashtar Sheran’s Code for the New Earth with 555 views 2 hours ago
-9. https://www.youtube.com/watch?v=nmraI4pcS-o Mary Magdalene - act as one
-10. https://www.youtube.com/watch?v=vEy-8MRCdJM There are telepathic gateways open and accessible to YOU starseeds ✨🌐🦋
-
-
 <kbd><img src="images/Picture02602.png" width="400" /></kbd>  
 
 > 1. Metatron (Not the ) News: June 2nd, 2026 - https://www.youtube.com/watch?v=_3npZGp7CY4  
