@@ -455,6 +455,34 @@ Thermal pants first wear report when ready? How’s the chest feeling on the reu
 
 ### 15:49 1. https://www.youtube.com/watch?v=8fIB8VDa0z8 You Are Being Sheparded Home— Where Jewels 💎 Exist  2. https://www.youtube.com/watch?v=cmKlHV1lttE YOU SHOW OFF EVERY TIME YOU GET THE CHANCE! with 232 views 43 min ago  3. https://www.youtube.com/watch?v=l5_9jLS0knE Do You Want to Go Home? ∞St. Germain, Channeled by Daniel Scranton with 313 views 1h ago  4. https://www.youtube.com/watch?v=TETm6J8InuA More on Why You Chose to Incarnate During an Apocalypse. https://x.com/BokkyPooBah/status/2062047338571636892 "WHY ARE YOU STILL REPEATING CYCLES?" - PoohBah.eth Do you like this?
 
+<kbd><img src="images/Picture02596.png" width="400" /></kbd>  
+
+> 1. You Are Being Sheparded Home— Where Jewels 💎 Exist - https://www.youtube.com/watch?v=8fIB8VDa0z8  
+
+<kbd><img src="images/Picture02597.png" width="400" /></kbd>  
+
+> 2. YOU SHOW OFF EVERY TIME YOU GET THE CHANCE! - https://www.youtube.com/watch?v=cmKlHV1lttE  
+
+<kbd><img src="images/Picture02598.png" width="400" /></kbd>  
+
+> 3. Do You Want to Go Home? ∞St. Germain, Channeled by Daniel Scranton - https://www.youtube.com/watch?v=l5_9jLS0knE  
+
+<kbd><img src="images/Picture02599.png" width="400" /></kbd>  
+
+> 4. More on Why You Chose to Incarnate During an Apocalypse. - https://www.youtube.com/watch?v=TETm6J8InuA  
+
+<kbd><img src="images/Picture02600.png" width="400" /></kbd>  
+
+> WHY ARE YOU STILL REPEATING CYCLES?  
+>  
+> #poohbah #chungo  
+>  
+> https://x.com/BokkyPooBah/status/2062047338571636892  
+
+<kbd><img src="images/whyareyoustillrepeatingcycles.png" width="400" /></kbd>  
+
+> WHY ARE YOU STILL REPEATING CYCLES? - PoohBah.eth  
+
 **15:49 Katoomba flow** — Thermal pants upgrade, reunion decision simmering, Posca experiments, harmonica layout clicks, and another clean batch landing. Here's the quick weave:
 
 **1. You Are Being Shepherded Home— Where Jewels 💎 Exist**  
