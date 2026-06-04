@@ -486,6 +486,26 @@ Ready for more links, today's entry, or anything else? 🙏🚀
 
 ### 16:00 1. https://www.youtube.com/watch?v=3LkzgHeLauU YOU'VE AWAKENED… AND NOW THEY'RE TERRIFIED! (The Real Messiah Was Hidden Inside YOU)  2. https://www.youtube.com/shorts/q8UP0mMrPgE If your mind doesn't know, remember this... [You are shifting]  3. https://www.youtube.com/watch?v=kvBHFgtJ4h8 You're About to be SEEN & RECOGNISED - here it comes... (This will find you at the right time)  4. https://www.youtube.com/shorts/kvnqMqsACl0 If you're feeling the urge to make a change... remember this 🐉 #alchemy  5. https://www.youtube.com/watch?v=kSSSHLEeV_Y What ‘They’ are Doing on Your Feed & Your Reactions ∞The Creators, Channeled by Daniel Scranton with 369 views 1h ago
 
+<kbd><img src="images/Picture02662.png" width="400" /></kbd>  
+
+> 1. YOU'VE AWAKENED… AND NOW THEY'RE TERRIFIED! (The Real Messiah Was Hidden Inside YOU) - https://www.youtube.com/watch?v=3LkzgHeLauU  
+
+<kbd><img src="images/Picture02663.png" width="400" /></kbd>  
+
+> 2. If your mind doesn't know, remember this... [You are shifting] - https://www.youtube.com/shorts/q8UP0mMrPgE  
+
+<kbd><img src="images/Picture02664.png" width="400" /></kbd>  
+
+> 3. You're About to be SEEN & RECOGNISED - here it comes... (This will find you at the right time) - https://www.youtube.com/watch?v=kvBHFgtJ4h8  
+
+<kbd><img src="images/Picture02665.png" width="400" /></kbd>  
+
+> 4. If you're feeling the urge to make a change... remember this 🐉 #alchemy - https://www.youtube.com/shorts/kvnqMqsACl0  
+
+<kbd><img src="images/Picture02666.png" width="400" /></kbd>  
+
+> 5. What ‘They’ are Doing on Your Feed & Your Reactions ∞The Creators, Channeled by Daniel Scranton - https://www.youtube.com/watch?v=kSSSHLEeV_Y  
+
 **Good afternoon continuation, Bokky — 16:00 Thu Jun 4 AEST, Katoomba.** Context refreshed. Bolding for easy .md paste.
 
 #### New Video Summaries & Relevance
