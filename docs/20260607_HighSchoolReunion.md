@@ -461,6 +461,46 @@ Love harder. Awake. The grid holds the memories and the new seeds beautifully. �
 
 ### 1. https://www.youtube.com/watch?v=MTgEJbwEXaM Out of 8 BILLION, This Signal Summoned YOU—The Rare Soul CHOSEN to Mend Generations! 🧬  2. https://www.youtube.com/watch?v=lnCfo6oJCSI YOUR ANDROMEDAN LIGHT LINEAGE IS BEING CALLED BY MOTHER EARTH 🌳  3. https://www.youtube.com/watch?v=IDsZAY78Uzc "Happy Tower" Moment Coming Your Way....🌬🎬  4. https://www.youtube.com/watch?v=RxGgLMkx-9c It takes Holy Chaos.  5. https://www.youtube.com/watch?v=eyGwUG9tSLw WAY sooner than you anticipated 😯🗯  6. https://www.youtube.com/watch?v=GK-mS_DCI4A 24 Hour Energy Reading, An Unexpected Gift And Soul Family Reunion Is Coming Toward You  7. https://www.youtube.com/watch?v=--sAL_OIKSw A New Form Of Healing-Turning Corners Into Curves  8. https://www.youtube.com/watch?v=rnEnx8IN80w 🌟Relationship to self, romantic partners & groups. Change starts within 🙌 Trigger Warning: sex  9. https://www.youtube.com/watch?v=wjhlvpoCwXQ SOURCE wants to HARMONIZE YOU  10. https://www.youtube.com/watch?v=ttAHcxcwK94 Your Angels have a message about your next moves. This will find you at the PERFECT time
 
+<kbd><img src="images/Picture02793.png" width="400" /></kbd>  
+
+> 1. Out of 8 BILLION, This Signal Summoned YOU—The Rare Soul CHOSEN to Mend Generations! 🧬 - https://www.youtube.com/watch?v=MTgEJbwEXaM  
+
+<kbd><img src="images/Picture02794.png" width="400" /></kbd>  
+
+> 2. YOUR ANDROMEDAN LIGHT LINEAGE IS BEING CALLED BY MOTHER EARTH 🌳 - https://www.youtube.com/watch?v=lnCfo6oJCSI  
+
+<kbd><img src="images/Picture02795.png" width="400" /></kbd>  
+
+> 3. "Happy Tower" Moment Coming Your Way....🌬🎬 - https://www.youtube.com/watch?v=IDsZAY78Uzc  
+
+<kbd><img src="images/Picture02796.png" width="400" /></kbd>  
+
+> 4. It takes Holy Chaos. - https://www.youtube.com/watch?v=RxGgLMkx-9c  
+
+<kbd><img src="images/Picture02797.png" width="400" /></kbd>  
+
+> 5. WAY sooner than you anticipated 😯🗯 - https://www.youtube.com/watch?v=eyGwUG9tSLw  
+
+<kbd><img src="images/Picture02798.png" width="400" /></kbd>  
+
+> 6. 24 Hour Energy Reading, An Unexpected Gift And Soul Family Reunion Is Coming Toward You - https://www.youtube.com/watch?v=GK-mS_DCI4A  
+
+<kbd><img src="images/Picture02799.png" width="400" /></kbd>  
+
+> 7. A New Form Of Healing-Turning Corners Into Curves - https://www.youtube.com/watch?v=--sAL_OIKSw  
+
+<kbd><img src="images/Picture02800.png" width="400" /></kbd>  
+
+> 8. 🌟Relationship to self, romantic partners & groups. Change starts within 🙌 Trigger Warning: sex - https://www.youtube.com/watch?v=rnEnx8IN80w  
+
+<kbd><img src="images/Picture02801.png" width="400" /></kbd>  
+
+> 9. SOURCE wants to HARMONIZE YOU - https://www.youtube.com/watch?v=wjhlvpoCwXQ  
+
+<kbd><img src="images/Picture02802.png" width="400" /></kbd>  
+
+> 10. Your Angels have a message about your next moves. This will find you at the PERFECT time - https://www.youtube.com/watch?v=ttAHcxcwK94  
+
 **21:52 Video Batch — Post-Reunion Integration Cluster**
 
 Strong activation and confirmation wave landing right after the honours roll, school tour, and timeline reflections.
