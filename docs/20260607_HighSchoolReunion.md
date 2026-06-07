@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 7 Jun 2026
-> Prev: [Sat 6 Jun 2026](20260606_BeautifulDate20260606.md) Next: []()
+> Prev: [Sat 6 Jun 2026](20260606_BeautifulDate20260606.md) Next: [Mon 8 Jun 2026](20260608_CanberraCloudChamber.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
