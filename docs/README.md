@@ -223,6 +223,7 @@ Awake. Love. Be. 🚀🙏
 1. [Beautiful Date 2026 06 06](20260606_BeautifulDate20260606.md) - Sat 6 Jun 2026
 1. [High School Reunion](20260607_HighSchoolReunion.md) - Sun 7 Jun 2026
 1. [Canberra Cloud Chamber](20260608_CanberraCloudChamber.md) - Mon 8 Jun 2026
+1. [Toys From Questacon](20260609_ToysFromQuestacon.md) - Tue 9 Jun 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
