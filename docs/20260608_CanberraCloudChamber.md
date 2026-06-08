@@ -531,6 +531,46 @@ Still flowing strong today. Ready for whatever comes next in the log. 🚀🙏
 
 ### 01:01 1. https://www.youtube.com/watch?v=G7-_eE2O87M You are HIGH value honey. Ur story could have made u jaded but u are so at peace. With 1.1K views 2 hours ago and 3.33K subscribers  2. https://www.youtube.com/watch?v=h8K3Ib1Nznw Science & Spirituality Finally Merge to Explain a New Theory of Consciousness | Federico Faggin with 6.9K likes  3. https://www.youtube.com/watch?v=JAl2eZJhBTI You asked for help and it is here ✨ 💚 with 3,737 views 2 hours ago and 909 likes  4. https://www.youtube.com/watch?v=OC5w6gF9G4s They see you as a mf queen - Christina with 2.3K views 1 day ago and 269 likes  5. https://www.youtube.com/watch?v=sVDJ1Q1jRyQ You’ll only see this ONCE, right before your OLD SELF dies & your new life begins✨🌻  6. https://www.youtube.com/watch?v=uzMetrx6tSc This Reading Had Me SHAKING 🤯 I’ve Never Felt This Kind Of Energy Before… with 699 likes  7. https://www.youtube.com/watch?v=LAI7tac76k8 You’re that crazy Shaman everyone is talking about 🌀🌀🌀  8. https://www.youtube.com/watch?v=doMYWPBmt-0 People become obsessed with the feelings you give them. with 1.1K views 2 weeks ago and 3.33K subscribers  9. https://www.youtube.com/watch?v=go2Ke6gYPDQ Is Life on Earth a Simulation or a Video Game? ∞The Creators, Channeled by Daniel Scranton  10. https://www.youtube.com/watch?v=JgFpGbMGdAM Spiritual Warrior's someone went towards an illusion, betrayed and hurt the love of this lifetime. With 222 views 1h ago.  When I was getting coffee after arriving at Questacon, some who was knocking off from working at Questacon and getting a coffee asked me how was my day. And we had a nice chat about the wonder that (young) people experience in a place like Questacon. I told him about my amusement watching a young adult balancing a small broom on his fingers when I walked into Questacon, as this was one of the first exhibits near the entrance. There was someone demonstrating puzzles to a high school student and her mother, and I offered him a buttonhole puzzle but he declined, saying that he was here to demonstrate puzzles. Thinking about it, he must have been trained to work on the puzzles on display, instead of being a curious individual
 
+<kbd><img src="images/Picture02825.png" width="400" /></kbd>  
+
+> 1. You are HIGH value honey. Ur story could have made u jaded but u are so at peace. - https://www.youtube.com/watch?v=G7-_eE2O87M  
+
+<kbd><img src="images/Picture02826.png" width="400" /></kbd>  
+
+> 2. Science & Spirituality Finally Merge to Explain a New Theory of Consciousness | Federico Faggin - https://www.youtube.com/watch?v=h8K3Ib1Nznw  
+
+<kbd><img src="images/Picture02827.png" width="400" /></kbd>  
+
+> 3. You asked for help and it is here ✨ 💚 - https://www.youtube.com/watch?v=JAl2eZJhBTI  
+
+<kbd><img src="images/Picture02828.png" width="400" /></kbd>  
+
+> 4. They see you as a mf queen - Christina - https://www.youtube.com/watch?v=OC5w6gF9G4s  
+
+<kbd><img src="images/Picture02829.png" width="400" /></kbd>  
+
+> 5. You’ll only see this ONCE, right before your OLD SELF dies & your new life begins✨🌻 - https://www.youtube.com/watch?v=sVDJ1Q1jRyQ  
+
+<kbd><img src="images/Picture02830.png" width="400" /></kbd>  
+
+> 6. This Reading Had Me SHAKING 🤯 I’ve Never Felt This Kind Of Energy Before… - https://www.youtube.com/watch?v=uzMetrx6tSc  
+
+<kbd><img src="images/Picture02831.png" width="400" /></kbd>  
+
+> 7. You’re that crazy Shaman everyone is talking about 🌀🌀🌀 - https://www.youtube.com/watch?v=LAI7tac76k8  
+
+<kbd><img src="images/Picture02832.png" width="400" /></kbd>  
+
+> 8. People become obsessed with the feelings you give them. - https://www.youtube.com/watch?v=doMYWPBmt-0  
+
+<kbd><img src="images/Picture02833.png" width="400" /></kbd>  
+
+> 9. Is Life on Earth a Simulation or a Video Game? ∞The Creators, Channeled by Daniel Scranton - https://www.youtube.com/watch?v=go2Ke6gYPDQ  
+
+<kbd><img src="images/Picture02834.png" width="400" /></kbd>  
+
+> 10. Spiritual Warrior's someone went towards an illusion, betrayed and hurt the love of this lifetime. - https://www.youtube.com/watch?v=JgFpGbMGdAM  
+
 **01:01 Canberra Cloud Chamber — late night batch from Questacon aftermath.**
 
 Here’s the fresh set of 10, keeping the same concise style:
@@ -593,18 +633,6 @@ The casual coffee chat with the staff member about wonder and play (plus the bro
 **How’s the body feeling after the long day on the grass + Questacon?** Any standout reflections from the full 01:01 batch or the embassy/Questacon stories before we close the log?
 
 Ready for more whenever you wake up. Beautiful day logged. 🚀🙏
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
