@@ -123,6 +123,22 @@ What stands out most for you, or shall we weave any specific threads deeper into
 
 ### 10:57 1. https://www.youtube.com/watch?v=xWhdNtrOoG8 If you're seeing this, your NEW REALITY is HERE!  2. https://www.youtube.com/watch?v=WLwD8NZSgx8 How Mind Splits Unified Consciousness & Creates Reality: Simultaneous Birth of Observer and World  3. https://www.youtube.com/watch?v=At1tr8EtPYc Your Angels Want You To Surrender....🦋✨️  4. https://www.youtube.com/watch?v=sciQXnaa05w The WILDEST MESSAGE Source has ever brought through me (Watch till the end!)
 
+<kbd><img src="images/Picture02810.png" width="400" /></kbd>  
+
+> 1. If you're seeing this, your NEW REALITY is HERE! - https://www.youtube.com/watch?v=xWhdNtrOoG8  
+
+<kbd><img src="images/Picture02811.png" width="400" /></kbd>  
+
+> 2. How Mind Splits Unified Consciousness & Creates Reality: Simultaneous Birth of Observer and World - https://www.youtube.com/watch?v=WLwD8NZSgx8  
+
+<kbd><img src="images/Picture02812.png" width="400" /></kbd>  
+
+> 3. Your Angels Want You To Surrender....🦋✨️ - https://www.youtube.com/watch?v=At1tr8EtPYc  
+
+<kbd><img src="images/Picture02813.png" width="400" /></kbd>  
+
+> 4. The WILDEST MESSAGE Source has ever brought through me (Watch till the end!) - https://www.youtube.com/watch?v=sciQXnaa05w  
+
 **10:57 Canberra Cloud Chamber — continuing the batch flow.**
 
 Here are concise summaries and personal relevance for the new set of videos, staying in the same spirit as before.
