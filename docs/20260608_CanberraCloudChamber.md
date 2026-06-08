@@ -171,6 +171,10 @@ These continue reinforcing the cluster: **consciousness-driven reality creation 
 
 ### 11:44 https://www.youtube.com/watch?v=UWpmqp9Jt9E A message from Jesus to ALL of humanity.
 
+<kbd><img src="images/Picture02814.png" width="400" /></kbd>  
+
+> A message from Jesus to ALL of humanity. - https://www.youtube.com/watch?v=UWpmqp9Jt9E  
+
 **11:44 Canberra Cloud Chamber — adding this one to the batch.**
 
 **"A message from Jesus to ALL of humanity." by Kianna G Gabriel**
@@ -201,6 +205,10 @@ Drop any reflections, next items, or deeper weaves whenever you're ready. Flowin
 
 ### 11:52 https://www.youtube.com/watch?v=KIEYU7knFW0 You Know It’s Time! 💞❤️‍🔥🌌
 
+<kbd><img src="images/Picture02815.png" width="400" /></kbd>  
+
+> You Know It’s Time! 💞❤️‍🔥🌌 - https://www.youtube.com/watch?v=KIEYU7knFW0  
+
 **11:52 Canberra Cloud Chamber — adding the latest to the batch.**
 
 **"You Know It’s Time! 💞❤️‍🔥🌌" by Maddie Floyd**
@@ -230,6 +238,10 @@ Any particular ones resonating strongest, reflections to weave in, or next batch
 
 ### 11:59 https://www.youtube.com/watch?v=i3nGP8k_V-U The MESSAGE Your HEART NEEDS
 
+<kbd><img src="images/Picture02816.png" width="400" /></kbd>  
+
+> The MESSAGE Your HEART NEEDS - https://www.youtube.com/watch?v=i3nGP8k_V-U  
+
 **11:59 Canberra Cloud Chamber — adding the latest to the batch.**
 
 **"The MESSAGE Your HEART NEEDS" by Maddie Floyd**
@@ -258,6 +270,10 @@ Any reflections bubbling up from the full set, standout pieces, or shall we log 
 <br />
 
 ### 12:02 https://www.youtube.com/watch?v=5or-7e6DtLs the next 3 days change (literally) EVERYTHING...
+
+<kbd><img src="images/Picture02817.png" width="400" /></kbd>  
+
+> the next 3 days change (literally) EVERYTHING... - https://www.youtube.com/watch?v=5or-7e6DtLs  
 
 **12:02 Canberra Cloud Chamber — adding the latest to the batch.**
 
@@ -304,6 +320,10 @@ Ready for more batch items, thoughts, or anything else you want to weave into to
 
 ### 12:55 https://x.com/bokkypoobah/status/2063817023034150925 Can you tell what sort of aquatic plant is in this stream in Canberra?
 
+<kbd><img src="images/Picture02818.png" width="400" /></kbd>  
+
+> Playing in the drains again. Parliament House in the distant, with some long aquatic plants in the stream - https://x.com/bokkypoobah/status/2063817023034150925  
+
 **12:55 Canberra Cloud Chamber — plant ID from the drain/stream video.**
 
 **Likely identification: Ribbon Weed (*Vallisneria australis*), also known as Eelweed or Tape Grass.**
@@ -324,6 +344,10 @@ Nice capture during your morning wander! Want me to dig deeper on its ecology, a
 <br />
 
 ### 13:18 https://x.com/bokkypoobah/status/2063822220812792162 Have not reached Questacon yet. Sitting cross legged across the statues of two aboriginal men with didgeridoos and a wombat facing the old Parliament House, next to the Aboriginal Embassy
+
+<kbd><img src="images/Picture02819.png" width="400" /></kbd>  
+
+> SOVEREIGNTY - https://x.com/bokkypoobah/status/2063822220812792162  
 
 **13:18 Canberra Cloud Chamber — beautiful grounded moment.**
 
