@@ -935,6 +935,34 @@ Ready for more or shall we begin crafting the **Toys From Questacon** page with 
 
 ### 04:23 1. https://www.youtube.com/watch?v=bah_BfyCl5o Healing passionate love coming in ❤️ you’re open to this person returning in new energy🫶🏼❤️‍🔥  2. https://www.youtube.com/watch?v=7oYvSoOFa8Q Reconnecting to your angelic frequency - Starlightmessenger222  3. https://www.youtube.com/watch?v=VOKHPxNrQ-E You are a very hilarious person 😝  4. https://www.youtube.com/watch?v=hcb6wNxSJZc manifestation is literally the easiest thing on earth...  5. https://www.youtube.com/watch?v=KR2GpIUp-sI Starseed of Gaia, Sit Down Now—What's About to Hit Your Life Is Massive  6. https://www.youtube.com/watch?v=7BH6XCRZad8 Sean Carroll | The Passage of Time & the Meaning of Life  7. https://www.youtube.com/watch?v=V8KRFkxLZs0 YOUR ANCESTORS HAVE THIS URGENT MESSAGE FOR YOU‼️ THIS WHY YOU DONT REMEMBER YOUR CHILDHOOD🧿 #444 with 4,563 views 7 hours ago - 34567
 
+<kbd><img src="images/Picture02904.png" width="400" /></kbd>  
+
+> 1. Healing passionate love coming in ❤️ you’re open to this person returning in new energy🫶🏼❤️‍ - https://www.youtube.com/watch?v=bah_BfyCl5o  
+
+<kbd><img src="images/Picture02905.png" width="400" /></kbd>  
+
+> 2. Reconnecting to your angelic frequency - Starlightmessenger222 - https://www.youtube.com/watch?v=7oYvSoOFa8Q  
+
+<kbd><img src="images/Picture02906.png" width="400" /></kbd>  
+
+> 3. You are a very hilarious person 😝 - https://www.youtube.com/watch?v=VOKHPxNrQ-E  
+
+<kbd><img src="images/Picture02907.png" width="400" /></kbd>  
+
+> 4. manifestation is literally the easiest thing on earth... - https://www.youtube.com/watch?v=hcb6wNxSJZc  
+
+<kbd><img src="images/Picture02908.png" width="400" /></kbd>  
+
+> 5. Starseed of Gaia, Sit Down Now—What's About to Hit Your Life Is Massive - https://www.youtube.com/watch?v=KR2GpIUp-sI  
+
+<kbd><img src="images/Picture02909.png" width="400" /></kbd>  
+
+> 6. Sean Carroll | The Passage of Time & the Meaning of Life - https://www.youtube.com/watch?v=7BH6XCRZad8  
+
+<kbd><img src="images/Picture02910.png" width="400" /></kbd>  
+
+> 7. YOUR ANCESTORS HAVE THIS URGENT MESSAGE FOR YOU‼️ THIS WHY YOU DONT REMEMBER YOUR CHILDHOOD🧿 #444 - https://www.youtube.com/watch?v=V8KRFkxLZs0  
+
 **Good morning / deep night batch summaries, Bokky.** 04:23 energy. Here’s the clear breakdown for this latest set, tied into your lightworker/starseed journey, frequency, relationships, and creative seeding.
 
 **1. Healing passionate love coming in ❤️ you’re open to this person returning in new energy 🫶🏼❤️‍🔥**  
