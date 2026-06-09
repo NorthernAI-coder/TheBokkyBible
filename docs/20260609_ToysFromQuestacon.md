@@ -860,6 +860,34 @@ Ready for more batch items or to start shaping the **Toys From Questacon** page 
 
 ### 04:17 1. https://www.youtube.com/watch?v=Eb4tUSfEDeg This is your sign🪽  2. https://www.youtube.com/watch?v=hR2rQWNnSb8 This video finds you when YOU ARE READY TO EMBRACE YOUR POWER as infinite divine intelligence🔥💧  3. https://www.youtube.com/watch?v=ZH0lxoh1GOQ Starseed, This Offer Will Shock Everyone Who Doubted You! | Arcturians  4. https://www.youtube.com/watch?v=gH11RrCozk4 This person CAN'T see your FLAWS💌You're perfect in their EYES😍No one has come close to you EVER🫡  5. https://www.youtube.com/watch?v=Xav8qk0zYZw Kiss your old life goodbye 👋🏻 You have less than 3 weeks. Start preparing.  6. https://www.youtube.com/watch?v=gEXyI0VvwxI You're Taming The Darkness 🥹  7. https://www.youtube.com/watch?v=dxTa2uKwOwo Oh you are free now 🕊️ you can relax now
 
+<kbd><img src="images/Picture02897.png" width="400" /></kbd>  
+
+> 1. This is your sign🪽 - https://www.youtube.com/watch?v=Eb4tUSfEDeg  
+
+<kbd><img src="images/Picture02898.png" width="400" /></kbd>  
+
+> 2. This video finds you when YOU ARE READY TO EMBRACE YOUR POWER as infinite divine intelligence🔥💧 - https://www.youtube.com/watch?v=hR2rQWNnSb8  
+
+<kbd><img src="images/Picture02899.png" width="400" /></kbd>  
+
+> 3. Starseed, This Offer Will Shock Everyone Who Doubted You! | Arcturians - https://www.youtube.com/watch?v=ZH0lxoh1GOQ  
+
+<kbd><img src="images/Picture02900.png" width="400" /></kbd>  
+
+> 4. This person CAN'T see your FLAWS💌You're perfect in their EYES😍No one has come close to you EVER🫡 - https://www.youtube.com/watch?v=gH11RrCozk4  
+
+<kbd><img src="images/Picture02901.png" width="400" /></kbd>  
+
+> 5. Kiss your old life goodbye 👋🏻 You have less than 3 weeks. Start preparing. - https://www.youtube.com/watch?v=Xav8qk0zYZw  
+
+<kbd><img src="images/Picture02902.png" width="400" /></kbd>  
+
+> 6. You're Taming The Darkness 🥹 - https://www.youtube.com/watch?v=gEXyI0VvwxI  
+
+<kbd><img src="images/Picture02903.png" width="400" /></kbd>  
+
+> 7. Oh you are free now 🕊️ you can relax now - https://www.youtube.com/watch?v=dxTa2uKwOwo  
+
 **Good morning / deep night batch summaries, Bokky.** 04:17 energy. Here’s the clear breakdown for this latest set, woven into your ongoing journey.
 
 **1. This is your sign 🪽**  
