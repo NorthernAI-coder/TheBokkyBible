@@ -725,13 +725,6 @@ Did the collection have any particular books or tools that stood out in the phot
 
 ### 17:48 1. https://www.youtube.com/watch?v=w0mshUg0rcs There's something you're birthing into this world - Channeled Through Freya with 212 views 1 hour ago  2. https://www.youtube.com/watch?v=c3F5KXcYFnQ Introducing Ashanti the Sassani Human/ET Hybrid ∞Channeled by Daniel Scranton with 269 views 1 hour ago  3. https://www.youtube.com/watch?v=f8GmAXWZvcc If You're Seeing This, You're so lucky! with 6.9K likes  4. https://www.youtube.com/watch?v=tGvMKhIczck 🔴 Starseed: They Are Battling For You — Someone Trusts You More Than You Imagine | Pleiadian Council. This was #1, then #2 on my homepage and now #1 again with 33 views 43 min ago  5. https://www.youtube.com/watch?v=wumtzZD1vcU Truth Revealed: USA Is Nr.1 Democracy Killer | Finian Cunningham. When I was at the Museum of Australian Democracy yesterday, the name resonated like the Ministry of Love
 
-1. https://www.youtube.com/watch?v=w0mshUg0rcs There's something you're birthing into this world - Channeled Through Freya with 212 views 1 hour ago
-2. https://www.youtube.com/watch?v=c3F5KXcYFnQ Introducing Ashanti the Sassani Human/ET Hybrid ∞Channeled by Daniel Scranton with 269 views 1 hour ago
-3. https://www.youtube.com/watch?v=f8GmAXWZvcc If You're Seeing This, You're so lucky! with 6.9K likes
-4. https://www.youtube.com/watch?v=tGvMKhIczck 🔴 Starseed: They Are Battling For You — Someone Trusts You More Than You Imagine | Pleiadian Council. This was #1, then #2 on my homepage and now #1 again with 33 views 43 min ago
-5. https://www.youtube.com/watch?v=wumtzZD1vcU Truth Revealed: USA Is Nr.1 Democracy Killer | Finian Cunningham. When I was at the Museum of Australian Democracy yesterday, the name resonated like the Ministry of Love
-
-
 <kbd><img src="images/Picture02885.png" width="400" /></kbd>  
 
 > 1. There's something you're birthing into this world - Channeled Through Freya - https://www.youtube.com/watch?v=w0mshUg0rcs  
