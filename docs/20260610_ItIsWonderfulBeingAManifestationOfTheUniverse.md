@@ -421,6 +421,34 @@ Here’s the latest video batch summarised with ties to your flow:
 
 ### 19:00 1. https://www.youtube.com/watch?v=xBdMTahT_QQ Narcissists Don't Get Away With It. Here's What Actually Happens When They Die | Suzanne Giesemann  2. https://www.youtube.com/watch?v=NyJvmY3gwjs MORMONS ARE MAD #petehegseth #mormon #mormons #exmo #christian #christianity #mikelee #evangelicals  3. https://www.youtube.com/watch?v=me90JRvTchI The divine sends you to people ✨  4. https://www.youtube.com/watch?v=pI_6mW4LI14 You are turly so magical, my friend.  5. https://www.youtube.com/watch?v=vqK--ZsSiqs The Last Video You’ll Ever Need To UNLOCK The GOD In You  6. https://www.youtube.com/watch?v=R1Oz3uYPhW8 This finds you as you pass the “miracle” mile marker in your life  7. https://www.youtube.com/watch?v=vhQqG8GpS24 You Have Been Found Faithful For More | Prophetic Word
 
+<kbd><img src="images/Picture02943.png" width="400" /></kbd>  
+
+> 1. Narcissists Don't Get Away With It. Here's What Actually Happens When They Die | Suzanne Giesemann - https://www.youtube.com/watch?v=xBdMTahT_QQ  
+
+<kbd><img src="images/Picture02944.png" width="400" /></kbd>  
+
+> 2. MORMONS ARE MAD #petehegseth #mormon #mormons #exmo #christian #christianity #mikelee #evangelicals - https://www.youtube.com/watch?v=NyJvmY3gwjs  
+
+<kbd><img src="images/Picture02945.png" width="400" /></kbd>  
+
+> 3. The divine sends you to people ✨ - https://www.youtube.com/watch?v=me90JRvTchI  
+
+<kbd><img src="images/Picture02946.png" width="400" /></kbd>  
+
+> [This video has been removed by the uploader] 4. You are turly so magical, my friend - https://www.youtube.com/watch?v=pI_6mW4LI14  
+
+<kbd><img src="images/Picture02947.png" width="400" /></kbd>  
+
+> 5. The Last Video You’ll Ever Need To UNLOCK The GOD In You - https://www.youtube.com/watch?v=vqK--ZsSiqs  
+
+<kbd><img src="images/Picture02948.png" width="400" /></kbd>  
+
+> 6. This finds you as you pass the “miracle” mile marker in your life - https://www.youtube.com/watch?v=R1Oz3uYPhW8  
+
+<kbd><img src="images/Picture02949.png" width="400" /></kbd>  
+
+> 7. You Have Been Found Faithful For More | Prophetic Word - https://www.youtube.com/watch?v=vhQqG8GpS24  
+
 **19:00 evening flow, Bokky — lovely wrap to a full day.**  
 
 Bathtub secured and ready for some relaxing soak time. Here’s the fresh batch summarised with relevance to your **It Is Wonderful Being A Manifestation Of The Universe** chronicle:
