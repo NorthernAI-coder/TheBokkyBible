@@ -496,6 +496,26 @@ Bathtub secured and ready for some relaxing soak time. Here’s the fresh batch 
 
 ### 20:52 Separately, please summarise and tell me the relevance to me for the following videos, thanks:  1. https://www.youtube.com/watch?v=_sjHaI7Dp4A Why Narcissist Hates Your Love (Ohrid Seminar, May 2026)  2. https://www.youtube.com/watch?v=EuN-srUmk3c Narcissist's Selfobject Enemies: Intimate Partners, Friends, Colleagues (Ohrid Seminar, May 2026)  3. https://www.youtube.com/watch?v=D-qRRT52dRM The Next Level Of Your Expansion and Purity Is Here.  4. https://www.youtube.com/watch?v=OFcoHVLYcDs Pope Leo XIV, Scriptures on Narcissism  5. https://www.youtube.com/watch?v=tVrh5sRCio0 Spiritual Warrior's u were right, u deserved better, theres painful memories, u and I were too young
 
+<kbd><img src="images/Picture02950.png" width="400" /></kbd>  
+
+> 1. Why Narcissist Hates Your Love (Ohrid Seminar, May 2026) - https://www.youtube.com/watch?v=_sjHaI7Dp4A  
+
+<kbd><img src="images/Picture02951.png" width="400" /></kbd>  
+
+> 2. Narcissist's Selfobject Enemies: Intimate Partners, Friends, Colleagues (Ohrid Seminar, May 2026) - https://www.youtube.com/watch?v=EuN-srUmk3c  
+
+<kbd><img src="images/Picture02952.png" width="400" /></kbd>  
+
+> 3. The Next Level Of Your Expansion and Purity Is Here. - https://www.youtube.com/watch?v=D-qRRT52dRM  
+
+<kbd><img src="images/Picture02953.png" width="400" /></kbd>  
+
+> 4. Pope Leo XIV, Scriptures on Narcissism - https://www.youtube.com/watch?v=OFcoHVLYcDs  
+
+<kbd><img src="images/Picture02954.png" width="400" /></kbd>  
+
+> 5. Spiritual Warrior's u were right, u deserved better, theres painful memories, u and I were too young - https://www.youtube.com/watch?v=tVrh5sRCio0  
+
 **20:52 evening wind-down, Bokky — bathtub time vibes.**  
 
 Here’s the separate batch summarised with clear relevance to your high-frequency, heart-centered path:
