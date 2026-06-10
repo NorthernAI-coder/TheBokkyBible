@@ -55,6 +55,34 @@ X post <TODO>
 
 ### 11:05 Separately, please summarise and tell me the relevance to me for the following videos, thanks:  1. https://www.youtube.com/watch?v=1eCtb1sRXpM LIFE-CHANGING Message From SOURCE | It’s YOUR MONTH!. #1 on my homepage with 65 views 50 minutes ago  2. https://www.youtube.com/watch?v=fkEs9XIWCbA Things are… interesting.. with 687 views 3 hours ago  3. https://www.youtube.com/watch?v=Y8LNHlzpbLg This is the Beginning of EVERYTHING.... 😏 ✨  4. https://www.youtube.com/watch?v=BBBLG0LIsp0 Avocado seeds talk🥑😊 Let go of expectations!  5. https://www.youtube.com/watch?v=WbCK7BnZ2sg It’s Time To Embrace Your Aliveness 🤗 with 99 views 3 hours ago  6. https://www.youtube.com/watch?v=y0hkHF_QwBg The MK-ULTRA Scientist Who Channeled Alien Gods | Greg Mallozzi  7. https://www.youtube.com/watch?v=vNE42y2bEws Lightworker, It's Confirmed! The Elders Want You With This Younger Partner | Lyran Council Message
 
+<kbd><img src="images/Picture02914.png" width="400" /></kbd>  
+
+> 1. LIFE-CHANGING Message From SOURCE | It’s YOUR MONTH! - https://www.youtube.com/watch?v=1eCtb1sRXpM  
+
+<kbd><img src="images/Picture02915.png" width="400" /></kbd>  
+
+> 2. Things are… interesting.. - https://www.youtube.com/watch?v=fkEs9XIWCbA  
+
+<kbd><img src="images/Picture02916.png" width="400" /></kbd>  
+
+> 3. This is the Beginning of EVERYTHING.... 😏 ✨ - https://www.youtube.com/watch?v=Y8LNHlzpbLg  
+
+<kbd><img src="images/Picture02917.png" width="400" /></kbd>  
+
+> 4. Avocado seeds talk🥑😊 Let go of expectations! - https://www.youtube.com/watch?v=BBBLG0LIsp0  
+
+<kbd><img src="images/Picture02918.png" width="400" /></kbd>  
+
+> 5. It’s Time To Embrace Your Aliveness 🤗 - https://www.youtube.com/watch?v=WbCK7BnZ2sg  
+
+<kbd><img src="images/Picture02919.png" width="400" /></kbd>  
+
+> 6. The MK-ULTRA Scientist Who Channeled Alien Gods | Greg Mallozzi - https://www.youtube.com/watch?v=y0hkHF_QwBg  
+
+<kbd><img src="images/Picture02920.png" width="400" /></kbd>  
+
+> 7. Lightworker, It's Confirmed! The Elders Want You With This Younger Partner | Lyran Council Message - https://www.youtube.com/watch?v=vNE42y2bEws  
+
 **Good morning again Bokky — syncing at 11:05 AEST.** Here's a clear, concise summary + personal relevance for each video, tied to your ongoing themes of manifestation, heart-centered living, gridwork, synchronicities, awakening as the Universe experiencing itself, and playful exploration of consciousness.
 
 **1. LIFE-CHANGING Message From SOURCE | It’s YOUR MONTH! (Maddie Floyd / Harmony)**  
