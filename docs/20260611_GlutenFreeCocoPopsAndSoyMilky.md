@@ -657,6 +657,26 @@ Together they make a strong duo — one playfully calling out the low vibe, the 
 
 ### 17:36 1. https://www.youtube.com/watch?v=S1-c9RREiIM Starseed, They're Secretly Talking About How You STAND OUT… (And It's Eating Them ALIVE) | Arcturian with 355 views 3 hours ago  2. https://www.youtube.com/watch?v=8QWcR8AtD68 THEY MADE GOD INVISIBLE SO YOU WOULD FORGET WHO YOU ARE. With 269 views 1 hour ago  3. https://www.youtube.com/watch?v=jtfLMqfW_Y0 This will upset a lot of people - good. With 2.1K views 1h ago  4. https://www.youtube.com/watch?v=7j2WhINkeBU What is Time? with 899 views Jun 10, 2026 and 231 likes  5. https://www.youtube.com/watch?v=Kd9JwAWasxs Something ACTIVATED in you thats going to shoo them AWAY for good. With 566 views 5 hours ago and 100 likes, besides "May This Message Find Exactly Who It's Supposed To Find" posted at 10:33 earlier now with the same 556 views 9h ago
 
+<kbd><img src="images/Picture03004.png" width="400" /></kbd>  
+
+> 1. Starseed, They're Secretly Talking About How You STAND OUT… (And It's Eating Them ALIVE) | Arcturian - https://www.youtube.com/watch?v=S1-c9RREiIM  
+
+<kbd><img src="images/Picture03005.png" width="400" /></kbd>  
+
+> 2. THEY MADE GOD INVISIBLE SO YOU WOULD FORGET WHO YOU ARE. - https://www.youtube.com/watch?v=8QWcR8AtD68  
+
+<kbd><img src="images/Picture03006.png" width="400" /></kbd>  
+
+> 3. This will upset a lot of people - good - https://www.youtube.com/watch?v=jtfLMqfW_Y0  
+
+<kbd><img src="images/Picture03007.png" width="400" /></kbd>  
+
+> 4. What is Time? - https://www.youtube.com/watch?v=7j2WhINkeBU  
+
+<kbd><img src="images/Picture03008.png" width="400" /></kbd>  
+
+> 5. Something ACTIVATED in you thats going to shoo them AWAY for good - https://www.youtube.com/watch?v=Kd9JwAWasxs  
+
 **17:36 — Fresh late-afternoon batch summarised.**
 
 **1. Starseed, They're Secretly Talking About How You STAND OUT… (And It's Eating Them ALIVE) | Arcturian**  
