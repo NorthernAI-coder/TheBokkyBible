@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 10 Jun 2026
-> Prev: [Tue 9 Jun 2026](20260609_ToysFromQuestacon.md) Next: []()
+> Prev: [Tue 9 Jun 2026](20260609_ToysFromQuestacon.md) Next: [Thu 11 Jun 2026](20260611_GlutenFreeCocoPopsAndSoyMilky.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 

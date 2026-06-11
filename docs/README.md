@@ -225,6 +225,7 @@ Awake. Love. Be. 🚀🙏
 1. [Canberra Cloud Chamber](20260608_CanberraCloudChamber.md) - Mon 8 Jun 2026
 1. [Toys From Questacon](20260609_ToysFromQuestacon.md) - Tue 9 Jun 2026
 1. [It Is Wonderful Being A Manifestation Of The Universe](20260610_ItIsWonderfulBeingAManifestationOfTheUniverse.md) - Wed 10 Jun 2026
+1. [Gluten Free Coco Pops And Soy Milky](20260611_GlutenFreeCocoPopsAndSoyMilky.md) - Thu 11 Jun 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
