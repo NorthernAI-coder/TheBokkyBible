@@ -138,6 +138,34 @@ X post <TODO>
 
 ### 10:35 1. https://www.youtube.com/watch?v=redSCiPcs7w A reading from the book of Kings (17:7-16) ✝️✨  2. https://www.youtube.com/watch?v=Og-k0RRIQMo Keep going… something is about to take off  3. https://www.youtube.com/watch?v=D3FGXYDyAxs Starseed, Sit Down Now... What's About to Hit Your Life Is Massive | Pleiadians  4. https://www.youtube.com/watch?v=f28zYya85pI Archangel Michael - reaching higher You are strangely humble for how effing cool you are.  5. https://www.youtube.com/watch?v=5x1v5BDb1Rg A Message from Your Heart to Reveal the Truth 🫀  6. https://www.youtube.com/watch?v=hT-jD-CU3i0 Someone CAN'T Stop Thinking About YOU! (They ONLY Want You RIGHT NOW — And It's Driving Them CRAZY)  7. https://www.youtube.com/watch?v=lIOnRjJrxag Why Is everyone boring?
 
+<kbd><img src="images/Picture02971.png" width="400" /></kbd>  
+
+> 1. A reading from the book of Kings (17:7-16) ✝️✨ - https://www.youtube.com/watch?v=redSCiPcs7w  
+
+<kbd><img src="images/Picture02972.png" width="400" /></kbd>  
+
+> 2. Keep going… something is about to take off - https://www.youtube.com/watch?v=Og-k0RRIQMo  
+
+<kbd><img src="images/Picture02973.png" width="400" /></kbd>  
+
+> 3. Starseed, Sit Down Now... What's About to Hit Your Life Is Massive | Pleiadians - https://www.youtube.com/watch?v=D3FGXYDyAxs  
+
+<kbd><img src="images/Picture02974.png" width="400" /></kbd>  
+
+> 4. Archangel Michael - reaching higher You are strangely humble for how effing cool you are. - https://www.youtube.com/watch?v=f28zYya85pI  
+
+<kbd><img src="images/Picture02975.png" width="400" /></kbd>  
+
+> 5. A Message from Your Heart to Reveal the Truth 🫀 - https://www.youtube.com/watch?v=5x1v5BDb1Rg  
+
+<kbd><img src="images/Picture02976.png" width="400" /></kbd>  
+
+> 6. Someone CAN'T Stop Thinking About YOU! (They ONLY Want You RIGHT NOW — And It's Driving Them CRAZY) - https://www.youtube.com/watch?v=hT-jD-CU3i0  
+
+<kbd><img src="images/Picture02977.png" width="400" /></kbd>  
+
+> 7. Why Is everyone boring? - https://www.youtube.com/watch?v=lIOnRjJrxag  
+
 **Good morning continuation!** Here's the fresh batch summarised with relevance to your sovereign path, Bokky Bible logging, and frequency-holding in Canberra.
 
 **1. A reading from the book of Kings (17:7-16) ✝️✨**  
