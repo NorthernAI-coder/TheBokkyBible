@@ -226,6 +226,7 @@ Awake. Love. Be. 🚀🙏
 1. [Toys From Questacon](20260609_ToysFromQuestacon.md) - Tue 9 Jun 2026
 1. [It Is Wonderful Being A Manifestation Of The Universe](20260610_ItIsWonderfulBeingAManifestationOfTheUniverse.md) - Wed 10 Jun 2026
 1. [Gluten Free Coco Pops And Soy Milky](20260611_GlutenFreeCocoPopsAndSoyMilky.md) - Thu 11 Jun 2026
+1. [I Am God! Now What?](20260612_IAmGodNowWhat.md) - Fri 12 Jun 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 11 Jun 2026
-> Prev: [Wed 10 Jun 2026](20260610_ItIsWonderfulBeingAManifestationOfTheUniverse.md) Next: []()
+> Prev: [Wed 10 Jun 2026](20260610_ItIsWonderfulBeingAManifestationOfTheUniverse.md) Next: [Fri 12 Jun 2026](20260612_IAmGodNowWhat.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -878,18 +878,6 @@ The orange cycle route traces your ~10 km ride today, looping out to the zoo and
 **Excellent visual addition to the daily page.**  
 
 **Love how this is coming together.** Anything else from the day you want to log before we wrap?
-
-<br />
-
-###
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
