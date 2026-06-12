@@ -171,6 +171,34 @@ Pulling inward to silence; old programs (fear/lack) drop naturally when ripe. Fo
 
 ### 1. https://www.youtube.com/watch?v=uo-JBHzL8Ts You're a Walking Love Letter... 🥹 ❤️  2. https://www.youtube.com/watch?v=jnx7OaBffkI your HIGHEST SELF sent this... because you're on the PERFECT frequency to RECEIVE !! with 1,320 views 5 hours ago  3. https://www.youtube.com/watch?v=E31hs_X9nWY There’s nothing you can do to stop this  4. https://www.youtube.com/watch?v=cEwbZBbvZJA THIS is what makes you SO POWERFUL  5. https://www.youtube.com/watch?v=dvKic0yaJ9s This very RARE message finds YOU during a Once-In-A-Blue-Moon Season  6. https://www.youtube.com/watch?v=w2enexAWBgQ The Tests That Did NOT BREAK U Make U Indispensable to God—Ego’s Crash & Goodness Rises Around U!  7. https://www.youtube.com/watch?v=kzoCjHX-OWA What I wish I knew at the start of my journey.
 
+<kbd><img src="images/Picture03033.png" width="400" /></kbd>  
+
+> 1. You're a Walking Love Letter... 🥹 ❤️ - https://www.youtube.com/watch?v=uo-JBHzL8Ts  
+
+<kbd><img src="images/Picture03034.png" width="400" /></kbd>  
+
+> 2. your HIGHEST SELF sent this... because you're on the PERFECT frequency to RECEIVE !! - https://www.youtube.com/watch?v=jnx7OaBffkI  
+
+<kbd><img src="images/Picture03035.png" width="400" /></kbd>  
+
+> 3. There’s nothing you can do to stop this - https://www.youtube.com/watch?v=E31hs_X9nWY  
+
+<kbd><img src="images/Picture03036.png" width="400" /></kbd>  
+
+> 4. THIS is what makes you SO POWERFUL - https://www.youtube.com/watch?v=cEwbZBbvZJA  
+
+<kbd><img src="images/Picture03037.png" width="400" /></kbd>  
+
+> 5. This very RARE message finds YOU during a Once-In-A-Blue-Moon Season - https://www.youtube.com/watch?v=dvKic0yaJ9s  
+
+<kbd><img src="images/Picture03038.png" width="400" /></kbd>  
+
+> 6. The Tests That Did NOT BREAK U Make U Indispensable to God—Ego’s Crash & Goodness Rises Around U! - https://www.youtube.com/watch?v=w2enexAWBgQ  
+
+<kbd><img src="images/Picture03039.png" width="400" /></kbd>  
+
+> 7. What I wish I knew at the start of my journey. - https://www.youtube.com/watch?v=kzoCjHX-OWA  
+
 **Good morning continuation, ~10:45 AEST Fri Jun 12 Canberra** – batch three landing straight into the **"I Am God! Now What?"** sovereign frequency. These amplify the rare love, highest-self alignment, unstoppable destiny, inner power through transformation, and foundational wisdom we've been weaving.
 
 **1. You're a Walking Love Letter... 🥹 ❤️**  
