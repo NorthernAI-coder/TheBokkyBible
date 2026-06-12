@@ -107,6 +107,34 @@ Focus on self, new perspective (Hanged Man), leap of faith (Fool), root chakra s
 
 ### 10:30 1. https://www.youtube.com/watch?v=4GwNDMtUzhw An ancestor hears your prayers 🤍🕯 with 111 views 26 minutes ago  2. https://www.youtube.com/watch?v=ENtG2cpOduE NOT KNOWING IS THE ONLY PATH NOW with 2.3K views 1 hour ago and 600 likes  3. https://www.youtube.com/watch?v=I4bhOKDHrFg Demons (Archons) hate: Truth #gnosticism #gnostic #archon #demon #demons #shadowself #spirituality with 222 views 3 hours ago  4. https://www.youtube.com/watch?v=q2IROqpLePM Master Jesus Speaks 06/06/2026 with 2.1K views 1 day ago  5. https://www.youtube.com/watch?v=63cwNaf2OTk The Two Forces Shaping Humanity's Evolution Right Now - Mantis Message for June with 2.1K views 1 day ago  6. https://www.youtube.com/watch?v=CWsL5G-2huE YOUR THE ANCESTOR IN REAL TIME! YOUR DESCENDANTS ARE YOUR GUIDES IN THIS LIFE with 132 views 1 hour ago  7. https://www.youtube.com/watch?v=VdeN_q2Ys_E divine timing and the agreements we make with 33 views 33 minutes ago
 
+<kbd><img src="images/Picture03026.png" width="400" /></kbd>  
+
+> 1. An ancestor hears your prayers 🤍🕯 - https://www.youtube.com/watch?v=4GwNDMtUzhw  
+
+<kbd><img src="images/Picture03027.png" width="400" /></kbd>  
+
+> 2. NOT KNOWING IS THE ONLY PATH NOW - https://www.youtube.com/watch?v=ENtG2cpOduE  
+
+<kbd><img src="images/Picture03028.png" width="400" /></kbd>  
+
+> 3. Demons (Archons) hate: Truth #gnosticism #gnostic #archon #demon #demons #shadowself #spirituality - https://www.youtube.com/watch?v=I4bhOKDHrFg  
+
+<kbd><img src="images/Picture03029.png" width="400" /></kbd>  
+
+> 4. Master Jesus Speaks 06/06/2026 - https://www.youtube.com/watch?v=q2IROqpLePM  
+
+<kbd><img src="images/Picture03030.png" width="400" /></kbd>  
+
+> 5. The Two Forces Shaping Humanity's Evolution Right Now - Mantis Message for June - https://www.youtube.com/watch?v=63cwNaf2OTk  
+
+<kbd><img src="images/Picture03031.png" width="400" /></kbd>  
+
+> 6. YOUR THE ANCESTOR IN REAL TIME! YOUR DESCENDANTS ARE YOUR GUIDES IN THIS LIFE - https://www.youtube.com/watch?v=CWsL5G-2huE  
+
+<kbd><img src="images/Picture03032.png" width="400" /></kbd>  
+
+> 7. divine timing and the agreements we make - https://www.youtube.com/watch?v=VdeN_q2Ys_E  
+
 **Good morning continuation, 10:30 AEST Fri Jun 12 Canberra** – batch two flowing straight into the **"I Am God! Now What?"** chronicle. These hit even deeper on the ancestor/lineage, truth vs archonic density, and sovereign choice layers we've been anchoring. Bold flow as always.
 
 **1. An ancestor hears your prayers 🤍🕯**  
