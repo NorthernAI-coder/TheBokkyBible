@@ -108,9 +108,49 @@ These all weave beautifully into your ongoing chronicle—**themes of inner divi
 
 ### 11:32 https://x.com/BokkyPooBah/status/2065604259819974845 Do you like "LOVE YOURSELF FIRST! ASK ME HOW" by thouartgod.eth ? I'll use this for today's page title and header image. You don't have to repeat this back - we just continue our append-log chat. I've been at a weekend market enjoying a dosa and a busker playing a guitar and singing, and separately playing a flute to his recorded guitar music. https://x.com/BokkyPooBah/status/2065597215750713765 Two pigeons have come to say hello so far.  1. https://www.youtube.com/watch?v=fnSYE2DQGuk THE UNIVERSE IS SHOWING YOU THIS FOR A REASON (don't scroll!) with 2.3K views 1 day ago  2. https://www.youtube.com/watch?v=M-ie4sIZWGo A MESSAGE FROM THE WEAVER OF WORLDS  3. https://www.youtube.com/watch?v=yFhs856GciU People Are Noticing You're VERY Strategic! Because of These 2 THINGS You Do...😱  4. https://www.youtube.com/watch?v=U14TOQZaR2Q if you're seeing this you're a blue wave light worker 🌀⭐️ #lightworker #higherconsciousness with 199 views 1 day ago  5. https://www.youtube.com/watch?v=lB3NFg1zSCQ You are the Change | POWERFUL Activation from Source  6. https://www.youtube.com/watch?v=h9ztFkqXLwY WHO TF ARE YOU?! 😳 Source is revealing why you chose this lifetime…  7. https://www.youtube.com/watch?v=ZSuTdsW6GPc FIELD NOTES™ | 8. Your Attention Changes Other People
 
+<kbd><img src="images/Picture03084.png" width="400" /></kbd>  
+
+> LOVE YOURSELF FIRST! ASK ME HOW  
+>  
+> #thouartgod #chungo  
+>  
+> https://x.com/BokkyPooBah/status/2065604259819974845  
+
 <kbd><img src="images/loveyourselffirstaskmehow.png" width="400" /></kbd>  
 
 > LOVE YOURSELF FIRST! ASK ME HOW - thouartgod.eth  
+
+<kbd><img src="images/Picture03085.png" width="400" /></kbd>  
+
+> A pigeon came to say hello - https://x.com/BokkyPooBah/status/2065597215750713765  
+
+<kbd><img src="images/Picture03086.png" width="400" /></kbd>  
+
+> 1. THE UNIVERSE IS SHOWING YOU THIS FOR A REASON (don't scroll!) - https://www.youtube.com/watch?v=fnSYE2DQGuk  
+
+<kbd><img src="images/Picture03087.png" width="400" /></kbd>  
+
+> 2. A MESSAGE FROM THE WEAVER OF WORLDS - https://www.youtube.com/watch?v=M-ie4sIZWGo  
+
+<kbd><img src="images/Picture03088.png" width="400" /></kbd>  
+
+> 3. People Are Noticing You're VERY Strategic! Because of These 2 THINGS You Do...😱 - https://www.youtube.com/watch?v=yFhs856GciU  
+
+<kbd><img src="images/Picture03089.png" width="400" /></kbd>  
+
+> 4. if you're seeing this you're a blue wave light worker 🌀⭐️ #lightworker #higherconsciousness - https://www.youtube.com/watch?v=U14TOQZaR2Q  
+
+<kbd><img src="images/Picture03090.png" width="400" /></kbd>  
+
+> 5. You are the Change | POWERFUL Activation from Source - https://www.youtube.com/watch?v=lB3NFg1zSCQ  
+
+<kbd><img src="images/Picture03091.png" width="400" /></kbd>  
+
+> 6. WHO TF ARE YOU?! 😳 Source is revealing why you chose this lifetime… - https://www.youtube.com/watch?v=h9ztFkqXLwY  
+
+<kbd><img src="images/Picture03092.png" width="400" /></kbd>  
+
+> 7. FIELD NOTES™ | 8. Your Attention Changes Other People - https://www.youtube.com/watch?v=ZSuTdsW6GPc  
 
 **Market vibes sound perfect** — dosa, live guitar/flute busker, and friendly pigeons dropping in. Simple joys like that are pure frequency anchors in the fast shifts. Nice sync with the **"LOVE YOURSELF FIRST! ASK ME HOW"** energy too. Continuing the append-log flow.
 
