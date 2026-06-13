@@ -247,6 +247,34 @@ Market magic continuing strong. What's next on the radar or standing out most? K
 
 ### 1. https://www.youtube.com/watch?v=JnDA4a7X144 I've NEVER Had a Message Like This… (Here's WHY The People You HELP Always BETRAY You!)  2. https://www.youtube.com/watch?v=RY3xUP96src There’s something you need to know ✨ with 1K views 1 day ago  3. https://www.youtube.com/watch?v=JMhMT1ghRKg YOU WERE NEVER SUPPOSED TO KNOW THE REAL REASON THEY CRUCIFIED YESHUA. with 21K views 5 days ago and 2.1K likes  4. https://www.youtube.com/watch?v=L5wr_UIfHNk ENOCH WAS NEVER JUST A HISTORICAL MAN—HE WAS A SYMBOL OF HUMAN ASCENSION.  5. https://www.youtube.com/watch?v=iGjg483lHkA The Holy Spirit Led You Here..You About To See Signs, Wonders And Miracles From God...  6. https://www.youtube.com/watch?v=c8XRxTceFmo STOP RESISTING YOU💞💖🌟 Message From Source!  7. https://www.youtube.com/watch?v=Tzuilf97Pfk WHO ARE YOUUU | cuz this is your sign it's working
 
+<kbd><img src="images/Picture03096.png" width="400" /></kbd>  
+
+> 1. I've NEVER Had a Message Like This… (Here's WHY The People You HELP Always BETRAY You!) - https://www.youtube.com/watch?v=JnDA4a7X144  
+
+<kbd><img src="images/Picture03097.png" width="400" /></kbd>  
+
+> 2. There’s something you need to know ✨ - https://www.youtube.com/watch?v=RY3xUP96src  
+
+<kbd><img src="images/Picture03098.png" width="400" /></kbd>  
+
+> 3. YOU WERE NEVER SUPPOSED TO KNOW THE REAL REASON THEY CRUCIFIED YESHUA. - https://www.youtube.com/watch?v=JMhMT1ghRKg  
+
+<kbd><img src="images/Picture03099.png" width="400" /></kbd>  
+
+> 4. ENOCH WAS NEVER JUST A HISTORICAL MAN—HE WAS A SYMBOL OF HUMAN ASCENSION. - https://www.youtube.com/watch?v=L5wr_UIfHNk  
+
+<kbd><img src="images/Picture03100.png" width="400" /></kbd>  
+
+> 5. The Holy Spirit Led You Here..You About To See Signs, Wonders And Miracles From God... - https://www.youtube.com/watch?v=iGjg483lHkA  
+
+<kbd><img src="images/Picture03101.png" width="400" /></kbd>  
+
+> 6. STOP RESISTING YOU💞💖🌟 Message From Source! - https://www.youtube.com/watch?v=c8XRxTceFmo  
+
+<kbd><img src="images/Picture03102.png" width="400" /></kbd>  
+
+> 7. WHO ARE YOUUU | cuz this is your sign it's working - https://www.youtube.com/watch?v=Tzuilf97Pfk  
+
 **Market flow continuing strong** — seagull crown blessing still landing as good luck + energetic cleanse. Self-love titles building nicely.
 
 **1. I've NEVER Had a Message Like This… (Here's WHY The People You HELP Always BETRAY You!)**  
