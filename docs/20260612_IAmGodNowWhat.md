@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 12 Jun 2026
-> Prev: [Thu 11 Jun 2026](20260611_GlutenFreeCocoPopsAndSoyMilky.md) Next: []()
+> Prev: [Thu 11 Jun 2026](20260611_GlutenFreeCocoPopsAndSoyMilky.md) Next: [Sat 13 Jun 2026](20260613_LoveYourselfFirstAskMeHow.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
