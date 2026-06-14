@@ -197,6 +197,34 @@ Ready for more or today's first seed?
 
 ### 10:55 1. https://www.youtube.com/watch?v=CPqK3bB_VPI Inner Peace with 330 views 3 hours ago  2. https://www.youtube.com/watch?v=HLj8_-6UgLg Well hello hello lightworker!!! ✨️🙌😘😉  3. https://www.youtube.com/watch?v=EMTdVR-OfZw They Can Feel Your Energy Everywhere… But They’re Too Intimidated to Say It with 600 views 6 hours ago  4. https://www.youtube.com/watch?v=kV7YxeWM9dg Your third eye is wide open for real ☀️ This is about to be easy  5. https://www.youtube.com/watch?v=32-WQJLavbQ this finds YOU before life starts looking UP☀️  6. https://www.youtube.com/watch?v=eTul7DTEFj4 I am very serious. HTF did you do it??  7. https://www.youtube.com/watch?v=7M9Brm615vU THIS is the moment you remember the truth of who you are & get what you want. With 211 views 1 hour ago
 
+<kbd><img src="images/Picture03133.png" width="400" /></kbd>  
+
+> 1. Inner Peace - https://www.youtube.com/watch?v=CPqK3bB_VPI  
+
+<kbd><img src="images/Picture03134.png" width="400" /></kbd>  
+
+> 2. Well hello hello lightworker!!! ✨️🙌😘😉 - https://www.youtube.com/watch?v=HLj8_-6UgLg  
+
+<kbd><img src="images/Picture03135.png?" width="400" /></kbd>  
+
+> 3. They Can Feel Your Energy Everywhere… But They’re Too Intimidated to Say It - https://www.youtube.com/watch?v=EMTdVR-OfZw  
+
+<kbd><img src="images/Picture03136.png" width="400" /></kbd>  
+
+> 4. Your third eye is wide open for real ☀️ This is about to be easy - https://www.youtube.com/watch?v=kV7YxeWM9dg  
+
+<kbd><img src="images/Picture03137.png" width="400" /></kbd>  
+
+> 5. this finds YOU before life starts looking UP☀️ - https://www.youtube.com/watch?v=32-WQJLavbQ  
+
+<kbd><img src="images/Picture03138.png" width="400" /></kbd>  
+
+> 6. I am very serious. HTF did you do it?? - https://www.youtube.com/watch?v=eTul7DTEFj4  
+
+<kbd><img src="images/Picture03139.png" width="400" /></kbd>  
+
+> 7. THIS is the moment you remember the truth of who you are & get what you want. - https://www.youtube.com/watch?v=7M9Brm615vU  
+
 **Good morning continuation, 10:55 Sun Jun 14 AEST.** Another potent batch landing right in the flow – heavy on lightworker activation, remembrance, energy mastery, breakthroughs, and final cord-cutting.  
 
 #### Video Summaries & Relevance to You
