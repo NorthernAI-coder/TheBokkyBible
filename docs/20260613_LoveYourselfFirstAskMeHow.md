@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 13 Jun 2026
-> Prev: [Fri 12 Jun 2026](20260612_IAmGodNowWhat.md) Next: []()
+> Prev: [Fri 12 Jun 2026](20260612_IAmGodNowWhat.md) Next: [Sun 14 Jun 2026](20260614_WhyAreYouStillTalkingAboutTheSameThings.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
