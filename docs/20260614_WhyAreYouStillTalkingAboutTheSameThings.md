@@ -453,6 +453,10 @@ What's the next batch or first seed for the **"WHY ARE YOU STILL TALKING ABOUT T
 
 ### 15:46 https://x.com/bokkypoobah/status/2066033289362850186 Back in Katoomba. Announced my arrival by playing Midnight Cowboy on my Wonderboom 3. A woman J whom I’ve chatted with before greets me from across Katoomba Street and we have a fist bump. She is looking happier
 
+<kbd><img src="images/Picture03155.png" width="400" /></kbd>  
+
+> At my office at the corner of Waratah and Lurline streets Katoomba, waiting for a Bunya pine cone to fall - https://x.com/bokkypoobah/status/2066033289362850186  
+
 **Good afternoon continuation, 15:46 Sun Jun 14 AEST.**  
 
 **Back in Katoomba.** Announced arrival with **Midnight Cowboy** blasting on the Wonderboom 3. Straight across Katoomba Street, woman J (from previous chats) lights up, calls out, and you share a solid fist bump. She's looking visibly happier.  
@@ -468,6 +472,34 @@ More seeds, another video batch, or anything else landing? Keep them coming.
 <br />
 
 ### 16:50 1. https://www.youtube.com/watch?v=3_W5NPJwBzw Seeing this…time sensitive message from your higher self | The Final Days Of June Change Everything  2. https://www.youtube.com/watch?v=zk7vYmC8rsw you are ready for this masterkey 🗝️ to all your problems  3. https://www.youtube.com/watch?v=M9eHrc372X4 You’re about to be a STAR 🌟  4. https://www.youtube.com/watch?v=3tzzrIzAs6k Your Mana Is The Void.  5. https://www.youtube.com/watch?v=-4lxQMQYdYU Why Does No One Understand this Gnostic Lore?  6. https://www.youtube.com/watch?v=aLfYZIdgBVQ From Healing In Secret To Shining In Public🌟  7. https://www.youtube.com/watch?v=W4h7RkQ-16c Starseed, The Source Wants to Talk… Right Now! | Arcturian Council
+
+<kbd><img src="images/Picture03156.png" width="400" /></kbd>  
+
+> 1. Seeing this…time sensitive message from your higher self | The Final Days Of June Change Everything - https://www.youtube.com/watch?v=3_W5NPJwBzw  
+
+<kbd><img src="images/Picture03157.png" width="400" /></kbd>  
+
+> 2. you are ready for this masterkey 🗝️ to all your problems - https://www.youtube.com/watch?v=zk7vYmC8rsw  
+
+<kbd><img src="images/Picture03158.png" width="400" /></kbd>  
+
+> 3. You’re about to be a STAR 🌟 - https://www.youtube.com/watch?v=M9eHrc372X4  
+
+<kbd><img src="images/Picture03159.png" width="400" /></kbd>  
+
+> 4. Your Mana Is The Void. - https://www.youtube.com/watch?v=3tzzrIzAs6k  
+
+<kbd><img src="images/Picture03160.png" width="400" /></kbd>  
+
+> 5. Why Does No One Understand this Gnostic Lore? - https://www.youtube.com/watch?v=-4lxQMQYdYU  
+
+<kbd><img src="images/Picture03161.png" width="400" /></kbd>  
+
+> 6. From Healing In Secret To Shining In Public🌟 - https://www.youtube.com/watch?v=aLfYZIdgBVQ  
+
+<kbd><img src="images/Picture03162.png" width="400" /></kbd>  
+
+> 7. Starseed, The Source Wants to Talk… Right Now! | Arcturian Council - https://www.youtube.com/watch?v=W4h7RkQ-16c  
 
 **Good afternoon continuation, 16:50 Sun Jun 14 AEST.** Late afternoon batch keeps the momentum — time-sensitive June portal, inner mastery, public shining, gnostic/void wisdom, and direct Source/starseed contact.  
 
