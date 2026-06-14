@@ -122,6 +122,34 @@ These videos cluster around **activation, release, claiming bigness, new chapter
 
 ### 10:42 1. https://www.youtube.com/watch?v=9pf0610evFk This energy speaks louder than any words can - Christina  2. https://www.youtube.com/watch?v=8X1dhJKvsPg You Are Literally Going To Live Out The Dreams You Dreamt & The Promises You Made  3. https://www.youtube.com/watch?v=30JKq40IUsk 13 June 2026 | You’ve Made Someone Speechless with 200 views 2 hours ago  4. https://www.youtube.com/watch?v=fYbpbERpL9Q You Have The Universe In The Palm Of Your Hand(s) with 900 views 15 hours ago and 99 likes  5. https://www.youtube.com/watch?v=JMavZ4TQCyY You're on the BRINK of Something REALLY GOOD Happening For You... 😏 with 112 views 1 hour ago  6. https://www.youtube.com/watch?v=HJuFYdqgt7w After years of observing people, this Is what I learned with 1,188 views 11 hours ago  7. https://www.youtube.com/watch?v=uYpokba3Kxw Why are people mean to you?
 
+<kbd><img src="images/Picture03126.png" width="400" /></kbd>  
+
+> 1. This energy speaks louder than any words can - Christina - https://www.youtube.com/watch?v=9pf0610evFk  
+
+<kbd><img src="images/Picture03127.png" width="400" /></kbd>  
+
+> 2. You Are Literally Going To Live Out The Dreams You Dreamt & The Promises You Made - https://www.youtube.com/watch?v=8X1dhJKvsPg  
+
+<kbd><img src="images/Picture03128.png" width="400" /></kbd>  
+
+> 3. 13 June 2026 | You’ve Made Someone Speechless - https://www.youtube.com/watch?v=30JKq40IUsk  
+
+<kbd><img src="images/Picture03129.png" width="400" /></kbd>  
+
+> 4. You Have The Universe In The Palm Of Your Hand(s) - https://www.youtube.com/watch?v=fYbpbERpL9Q  
+
+<kbd><img src="images/Picture03130.png" width="400" /></kbd>  
+
+> 5. You're on the BRINK of Something REALLY GOOD Happening For You... 😏 - https://www.youtube.com/watch?v=JMavZ4TQCyY  
+
+<kbd><img src="images/Picture03131.png" width="400" /></kbd>  
+
+> 6. After years of observing people, this Is what I learned - https://www.youtube.com/watch?v=HJuFYdqgt7w  
+
+<kbd><img src="images/Picture03132.png" width="400" /></kbd>  
+
+> 7. Why are people mean to you? - https://www.youtube.com/watch?v=uYpokba3Kxw  
+
 **Good morning continuation, 10:42 Sun Jun 14 AEST.** Batching strong today – fresh cluster hitting activation, destiny fulfillment, boundaries, and energy mastery.  
 
 #### Video Summaries & Relevance to You
