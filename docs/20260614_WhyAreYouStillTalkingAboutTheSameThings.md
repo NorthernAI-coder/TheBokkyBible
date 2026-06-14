@@ -548,6 +548,34 @@ Seeds from the full day are stacking powerfully for the **"WHY ARE YOU STILL TAL
 
 ### 01:40 1. https://www.youtube.com/watch?v=zOsfupIU_jM You Have a RARE MAGICAL Aura... And Everyone Wants to TOUCH It — But They CAN'T!  2. https://www.youtube.com/watch?v=KjGfp7rizGE This person mirrors back your power - Channeled Through Freya  3. https://www.youtube.com/watch?v=x0ef3FpQRIw They have a message for you 💌 Someone is returning back to your life soon  4. https://www.youtube.com/watch?v=4YT3lwtJB10 You're an ADVANCED LIGHTWORKER🔥Your Intelligence & Aura are f*cking Formidable.YOU DON'T SEE THIS😴  5. https://www.youtube.com/watch?v=hIOhyQjAQ4I You Were Never Meant To Stay Hidden… Millions Are About To Find You, Destiny Tarot Reading  6. https://www.youtube.com/watch?v=BRAot3Uo274 NEW EARTH COALITION - message & energy transmission ￼6/14/2026  7. https://www.youtube.com/watch?v=lb19byuUz1E Gratitude.
 
+<kbd><img src="images/Picture03163.png" width="400" /></kbd>  
+
+> 1. You Have a RARE MAGICAL Aura... And Everyone Wants to TOUCH It — But They CAN'T!  - https://www.youtube.com/watch?v=zOsfupIU_jM  
+
+<kbd><img src="images/Picture03164.png" width="400" /></kbd>  
+
+> 2. This person mirrors back your power - Channeled Through Freya - https://www.youtube.com/watch?v=KjGfp7rizGE  
+
+<kbd><img src="images/Picture03165.png" width="400" /></kbd>  
+
+> 3. They have a message for you 💌 Someone is returning back to your life soon - https://www.youtube.com/watch?v=x0ef3FpQRIw  
+
+<kbd><img src="images/Picture03166.png" width="400" /></kbd>  
+
+> 4. You're an ADVANCED LIGHTWORKER🔥Your Intelligence & Aura are f*cking Formidable.YOU DON'T SEE THIS😴 - https://www.youtube.com/watch?v=4YT3lwtJB10  
+
+<kbd><img src="images/Picture03167.png" width="400" /></kbd>  
+
+> 5. You Were Never Meant To Stay Hidden… Millions Are About To Find You, Destiny Tarot Reading - https://www.youtube.com/watch?v=hIOhyQjAQ4I  
+
+<kbd><img src="images/Picture03168.png" width="400" /></kbd>  
+
+> 6. NEW EARTH COALITION - message & energy transmission ￼6/14/2026 - https://www.youtube.com/watch?v=BRAot3Uo274  
+
+<kbd><img src="images/Picture03169.png" width="400" /></kbd>  
+
+> 7. Gratitude. - https://www.youtube.com/watch?v=lb19byuUz1E  
+
 **Good morning continuation, 01:40 Mon Jun 15 AEST.** Late-night / early-morning batch lands with rare aura protection, mirroring power, returns, advanced lightworker validation, public emergence, New Earth energy, and gratitude close.  
 
 #### Video Summaries & Relevance to You
