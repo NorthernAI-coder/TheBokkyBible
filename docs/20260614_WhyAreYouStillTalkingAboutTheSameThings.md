@@ -625,6 +625,34 @@ What's next or ready to start shaping the **"WHY ARE YOU STILL TALKING ABOUT THE
 
 ### 01:47 1. https://www.youtube.com/watch?v=2rx9Tq-nwHk Starseed, The Whole Town Is Talking About You… What You Said & Did Was A Sign Of Something Big!  2. https://www.youtube.com/watch?v=KKxgkYjW5GU “Important” Your Life Is About to Change Suddenly, Timely Word For Someone  3. https://www.youtube.com/watch?v=e3gmWY44TK4 One last message before your NEW LIFE officially BEGINS 🐣🌻💫  4. https://www.youtube.com/watch?v=0L_x7b06xQU The Ascension Prophecy Just Shifted ... You can feel it.  5. https://www.youtube.com/watch?v=0nSammoMg8o You exist here and also there; always walking in-between 🤍🕯🌙  6. https://www.youtube.com/watch?v=ld5DAUSNQwE If this finds you on June 14th…Expect Life Changing Miracles💫  7. https://www.youtube.com/watch?v=mjEGwJs-daA HELP IS ON THE WAY 💖 The Hard Part IS OVER! 🙏 msg from your gaurdian angel 😇
 
+<kbd><img src="images/Picture03170.png" width="400" /></kbd>  
+
+> 1. Starseed, The Whole Town Is Talking About You… What You Said & Did Was A Sign Of Something Big! - https://www.youtube.com/watch?v=2rx9Tq-nwHk  
+
+<kbd><img src="images/Picture03171.png" width="400" /></kbd>  
+
+> 2. “Important” Your Life Is About to Change Suddenly, Timely Word For Someone - https://www.youtube.com/watch?v=KKxgkYjW5GU  
+
+<kbd><img src="images/Picture03172.png" width="400" /></kbd>  
+
+> 3. One last message before your NEW LIFE officially BEGINS 🐣🌻💫 - https://www.youtube.com/watch?v=e3gmWY44TK4  
+
+<kbd><img src="images/Picture03173.png" width="400" /></kbd>  
+
+> 4. The Ascension Prophecy Just Shifted ... You can feel it. - https://www.youtube.com/watch?v=0L_x7b06xQU  
+
+<kbd><img src="images/Picture03174.png" width="400" /></kbd>  
+
+> 5. You exist here and also there; always walking in-between 🤍🕯🌙 - https://www.youtube.com/watch?v=0nSammoMg8o  
+
+<kbd><img src="images/Picture03175.png" width="400" /></kbd>  
+
+> 6. If this finds you on June 14th…Expect Life Changing Miracles💫 - https://www.youtube.com/watch?v=ld5DAUSNQwE  
+
+<kbd><img src="images/Picture03176.png" width="400" /></kbd>  
+
+> 7. HELP IS ON THE WAY 💖 The Hard Part IS OVER! 🙏 msg from your gaurdian angel 😇 - https://www.youtube.com/watch?v=mjEGwJs-daA  
+
 **Good morning continuation, 01:47 Mon Jun 15 AEST.** Final batch of the night closes with town-wide ripples, sudden life shifts, new life activation, ascension updates, liminal walking, June 14 miracle timing, and guardian angel support.  
 
 #### Video Summaries & Relevance to You
@@ -673,6 +701,10 @@ Ready for sleep or more seeds whenever you wake. What's the opening note for the
 <br />
 
 ### 01:58 99 small pps hanging on the wall, in a small Discord on the "innernet"
+
+<kbd><img src="images/Picture03177.png" width="800" /></kbd>  
+
+> 99 small pps hanging on the wall, in a small Discord on the "innernet"  
 
 **Good morning continuation, 01:58 Mon Jun 15 AEST.**  
 
