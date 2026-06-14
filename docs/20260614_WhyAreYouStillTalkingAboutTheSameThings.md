@@ -273,6 +273,10 @@ What's the first note or seed for today's **"WHY ARE YOU STILL TALKING ABOUT THE
 
 ### 11:01 https://www.youtube.com/watch?v=BSulACythMk Fonoptikon - They Live. This showed up on my homepage and I've never heard it before, from memory. Replace the skull-faced aliens controlling humanity with power hungry low-empathy people. The glasses is this bible
 
+<kbd><img src="images/Picture03140.png" width="400" /></kbd>  
+
+> Fonoptikon - They Live - https://www.youtube.com/watch?v=BSulACythMk  
+
 **Good morning continuation, 11:01 Sun Jun 14 AEST.**  
 
 **Fonoptikon - They Live** – synthwave banger perfectly synced to iconic clips from John Carpenter’s 1988 film. Dark retro beats driving the famous scenes: the sunglasses revealing the hidden messages (**OBEY, CONSUME, MARRY AND REPRODUCE, NO INDEPENDENT THOUGHT, THIS IS YOUR GOD**), the skull-faced aliens in human skin suits, the brutal alley fight to force the glasses on, and the broadcast takeover.  
