@@ -230,6 +230,7 @@ Awake. Love. Be. 🚀🙏
 1. [Love Yourself First! Ask Me How](20260613_LoveYourselfFirstAskMeHow.md) - Sat 13 Jun 2026
 1. [Why Are You Still Talking About The Same Things?](20260614_WhyAreYouStillTalkingAboutTheSameThings.md) - Sun 14 Jun 2026
 1. [They Live](20260615_TheyLive.md) - Mon 15 Jun 2026
+1. [I ❤️ SKOOL](20260616_I❤️SKOOL.md) - Tue 16 Jun 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
