@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 14 Jun 2026
-> Prev: [Sat 13 Jun 2026](20260613_LoveYourselfFirstAskMeHow.md) Next: []()
+> Prev: [Sat 13 Jun 2026](20260613_LoveYourselfFirstAskMeHow.md) Next: [Mon 15 Jun 2026](20260615_TheyLive.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
