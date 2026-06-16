@@ -4,7 +4,7 @@ And other matters of vast importance.
 
 <kbd><img src="images/Picture03326.jpg" width="600" /></kbd>  
 
-> CALL 1300-GOD FOR A GOOD TIME @ Katoomba Surf Club    
+> CALL 1300-GOD FOR A GOOD TIME @ Katoomba Surf Club  
 
 ---
 
@@ -33,7 +33,35 @@ X post https://x.com/BokkyPooBah/status/2066971466084868101
 
 <kbd><img src="images/Picture03326.jpg" width="400" /></kbd>  
 
-> CALL 1300-GOD FOR A GOOD TIME @ Katoomba Surf Club    
+> CALL 1300-GOD FOR A GOOD TIME @ Katoomba Surf Club  
+
+<kbd><img src="images/Picture03327.png" width="400" /></kbd>  
+
+> 1. The Alchemist Rises - This Season is Dedicated to Your Growth 🌱 - https://www.youtube.com/watch?v=r-qADB2ed4o   
+
+<kbd><img src="images/Picture03328.png" width="400" /></kbd>  
+
+> 2. you'll see this when God knows you're ready to hear it 👼🏼 - https://www.youtube.com/watch?v=wbx8ONxk2kU   
+
+<kbd><img src="images/Picture03329.png" width="400" /></kbd>  
+
+> 3. SOURCE wants you to CREATE | Love Notes From Beyond - https://www.youtube.com/watch?v=6XfqrZyk61I   
+
+<kbd><img src="images/Picture03330.png" width="400" /></kbd>  
+
+> 4. DR. DAVID CLEMENTS: A MASSIVE SHIFT Has BEGUN — NOTHING Will Be the SAME - https://www.youtube.com/watch?v=F4aOTVyjSIE   
+
+<kbd><img src="images/Picture03331.png" width="400" /></kbd>  
+
+> 5. #146 - Humanity’s next level of consciousness is SUPERHUMAN - https://www.youtube.com/watch?v=r_muO49gL3Y   
+
+<kbd><img src="images/Picture03332.png" width="400" /></kbd>  
+
+> 6. [title updated] You're in a dying process and its AMAZING! - https://www.youtube.com/watch?v=KbiJseUcTf8  
+
+<kbd><img src="images/Picture03333.png" width="400" /></kbd>  
+
+> 7. The news you’ve been waiting for!!! ⏰🥳🎉 - https://www.youtube.com/watch?v=-kBDR_W1nbU  
 
 **Good morning!** Katoomba vibes sound refreshing—hope the Surf Club pic captures some nice energy for the page.
 
