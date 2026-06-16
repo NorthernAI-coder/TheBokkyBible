@@ -191,6 +191,34 @@ Let me know if you want quotes, ties to specific past entries, or the next batch
 
 ### 06:25 1. https://www.youtube.com/watch?v=GPDRv-0bKts You’re Not Spiritually Blocked - Here’s What’s Actually Happening  2. https://www.youtube.com/watch?v=A_HtIo5sL_Q You are UNRECOGNIZABLE right now ~ A channeled message.  3. https://www.youtube.com/watch?v=pCMB_061UYI Quick message for you (except not really)  4. https://www.youtube.com/watch?v=vVLh8vpXdqM SOMEBODY IS SO INCOMPREHENSIBLY JEALOUS OF YOU… (It HURTS Them To KEEP QUIET About IT!)  5. https://www.youtube.com/watch?v=7AOLuJp67sA Sophia's Final Message to You – Ever. Your Emerald Cycle Just Ended 🔮 | One-Time Activation  6. https://www.youtube.com/watch?v=llOdu3wr4q0 You’re on a mission here on Earth to bring your dreams to life… Now follow the frequency ✨😎  7. https://www.youtube.com/watch?v=QuKGJ6VWchY You are being pulled to the surface. All of you - Christina
 
+<kbd><img src="images/Picture03341.png" width="400" /></kbd>  
+
+> 1. You’re Not Spiritually Blocked - Here’s What’s Actually Happening - https://www.youtube.com/watch?v=GPDRv-0bKts  
+
+<kbd><img src="images/Picture03342.png" width="400" /></kbd>  
+
+> 2. You are UNRECOGNIZABLE right now ~ A channeled message. - https://www.youtube.com/watch?v=A_HtIo5sL_Q  
+
+<kbd><img src="images/Picture03343.png" width="400" /></kbd>  
+
+> 3. Quick message for you (except not really) - https://www.youtube.com/watch?v=pCMB_061UYI  
+
+<kbd><img src="images/Picture03344.png" width="400" /></kbd>  
+
+> 4. SOMEBODY IS SO INCOMPREHENSIBLY JEALOUS OF YOU… (It HURTS Them To KEEP QUIET About IT!) - https://www.youtube.com/watch?v=vVLh8vpXdqM  
+
+<kbd><img src="images/Picture03345.png" width="400" /></kbd>  
+
+> 5. Sophia's Final Message to You – Ever. Your Emerald Cycle Just Ended 🔮 | One-Time Activation - https://www.youtube.com/watch?v=7AOLuJp67sA  
+
+<kbd><img src="images/Picture03346.png" width="400" /></kbd>  
+
+> 6. You’re on a mission here on Earth to bring your dreams to life… Now follow the frequency ✨😎 - https://www.youtube.com/watch?v=llOdu3wr4q0  
+
+<kbd><img src="images/Picture03347.png" width="400" /></kbd>  
+
+> 7. You are being pulled to the surface. All of you - Christina - https://www.youtube.com/watch?v=QuKGJ6VWchY  
+
 **Good morning again!** 06:25 Katoomba flow continuing strong. Appending the next batch to the log.
 
 #### Video Summaries & Relevance to You
