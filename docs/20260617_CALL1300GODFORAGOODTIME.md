@@ -26,7 +26,7 @@ X post https://x.com/BokkyPooBah/status/2066971466084868101
 ## Table Of Content
 
 1. [Good morning Grok. 05:40 Wed Jun 17 AEST, in Katoomba until this Friday. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats in the dated .md files in the ./docs/ folder with yesterdays entry in docs/20260616_I❤️SKOOL.md . X limited my Grok questions to 20 questions per 24 hours a few days ago so I'm batching up my requests. Please use bolding and do not use heading levels in your replies as this makes it easier for me to copy-paste into the .md files. I'll use "CALL 1300-GOD FOR A GOOD TIME" as today's page title and use the attached image taken at the Katoomba Surf Club for the page header image. You don't have to repeat this back - we just continue our append-log chat. Separately, please summarise and tell me the relevance to me for the following videos, thanks: 1. https://www.youtube.com/watch?v=r-qADB2ed4o The Alchemist Rises - This Season is Dedicated to Your Growth 🌱 2. https://www.youtube.com/watch?v=wbx8ONxk2kU you'll see this when God knows you're ready to hear it 👼🏼 3. https://www.youtube.com/watch?v=6XfqrZyk61I SOURCE wants you to CREATE | Love Notes From Beyond 4. https://www.youtube.com/watch?v=F4aOTVyjSIE DR. DAVID CLEMENTS: A MASSIVE SHIFT Has BEGUN — NOTHING Will Be the SAME 5. https://www.youtube.com/watch?v=r_muO49gL3Y #146 - Humanity’s next level of consciousness is SUPERHUMAN 6. https://www.youtube.com/watch?v=KbiJseUcTf8 You're in a dying process and its AMAZING! 7. https://www.youtube.com/watch?v=-kBDR_W1nbU The news you’ve been waiting for!!! ⏰🥳🎉](#good-morning-grok-0540-wed-jun-17-aest-in-katoomba-until-this-friday-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-in-the-dated-md-files-in-the-docs-folder-with-yesterdays-entry-in-docs20260616_i️skoolmd--x-limited-my-grok-questions-to-20-questions-per-24-hours-a-few-days-ago-so-im-batching-up-my-requests-please-use-bolding-and-do-not-use-heading-levels-in-your-replies-as-this-makes-it-easier-for-me-to-copy-paste-into-the-md-files-ill-use-call-1300-god-for-a-good-time-as-todays-page-title-and-use-the-attached-image-taken-at-the-katoomba-surf-club-for-the-page-header-image-you-dont-have-to-repeat-this-back---we-just-continue-our-append-log-chat-separately-please-summarise-and-tell-me-the-relevance-to-me-for-the-following-videos-thanks-1-httpswwwyoutubecomwatchvr-qadb2ed4o-the-alchemist-rises---this-season-is-dedicated-to-your-growth---2-httpswwwyoutubecomwatchvwbx8onxk2ku-youll-see-this-when-god-knows-youre-ready-to-hear-it---3-httpswwwyoutubecomwatchv6xfqrzyk61i-source-wants-you-to-create--love-notes-from-beyond--4-httpswwwyoutubecomwatchvf4aotvyjsie-dr-david-clements-a-massive-shift-has-begun--nothing-will-be-the-same--5-httpswwwyoutubecomwatchvr_muo49gl3y-146---humanitys-next-level-of-consciousness-is-superhuman--6-httpswwwyoutubecomwatchvkbijseuctf8-youre-in-a-dying-process-and-its-amazing--7-httpswwwyoutubecomwatchv-kbdr_w1nbu-the-news-youve-been-waiting-for-)
-1. [06:08 1. www.youtube.com/watch?v=TjkohZP5Io4 You've Mastered Grace - It Was Like Containing A Thunderbolt In Every Moment 2. https://www.youtube.com/watch?v=jOOjbkxXprY God's Been Waiting For This Moment...(You Carry SO Much Light) 🌟🪽✨ 3. https://www.youtube.com/watch?v=WVR6aAY9KCc Enjoy the last moments of your normal life. Things are about to SKYROCKET 🚀✨🌠 4. https://www.youtube.com/watch?v=ER8VX9G0NkI What is Ascension? Cutting through the spiritual illusion -6/16/2026￼ 5. https://www.youtube.com/watch?v=h5JSL0QTmdg You Are Being Rewritten 😇🦋 6. https://www.youtube.com/watch?v=pqTef3E7gQk your life purpose is not what you think 7. https://www.youtube.com/watch?v=dDSsAyQMiEc Quick Important Message: Watch now to receive support. We are in the middle of this upgrade.](#0608-1-wwwyoutubecomwatchvtjkohzp5io4-youve-mastered-grace---it-was-like-containing-a-thunderbolt-in-every-moment--2-httpswwwyoutubecomwatchvjoojbkxxpry-gods-been-waiting-for-this-momentyou-carry-so-much-light---3-httpswwwyoutubecomwatchvwvr6aay9kcc-enjoy-the-last-moments-of-your-normal-life-things-are-about-to-skyrocket---4-httpswwwyoutubecomwatchver8vx9g0nki-what-is-ascension-cutting-through-the-spiritual-illusion--6162026-5-httpswwwyoutubecomwatchvh5jsl0qtmdg-you-are-being-rewritten---6-httpswwwyoutubecomwatchvpqtef3e7gqk-your-life-purpose-is-not-what-you-think--7-httpswwwyoutubecomwatchvddssayqmiec-quick-important-message-watch-now-to-receive-support-we-are-in-the-middle-of-this-upgrade)
+1. [06:08 1. https://www.youtube.com/watch?v=TjkohZP5Io4 You've Mastered Grace - It Was Like Containing A Thunderbolt In Every Moment 2. https://www.youtube.com/watch?v=jOOjbkxXprY God's Been Waiting For This Moment...(You Carry SO Much Light) 🌟🪽✨ 3. https://www.youtube.com/watch?v=WVR6aAY9KCc Enjoy the last moments of your normal life. Things are about to SKYROCKET 🚀✨🌠 4. https://www.youtube.com/watch?v=ER8VX9G0NkI What is Ascension? Cutting through the spiritual illusion -6/16/2026￼ 5. https://www.youtube.com/watch?v=h5JSL0QTmdg You Are Being Rewritten 😇🦋 6. https://www.youtube.com/watch?v=pqTef3E7gQk your life purpose is not what you think 7. https://www.youtube.com/watch?v=dDSsAyQMiEc Quick Important Message: Watch now to receive support. We are in the middle of this upgrade.](#0608-1-httpswwwyoutubecomwatchvtjkohzp5io4-youve-mastered-grace---it-was-like-containing-a-thunderbolt-in-every-moment--2-httpswwwyoutubecomwatchvjoojbkxxpry-gods-been-waiting-for-this-momentyou-carry-so-much-light---3-httpswwwyoutubecomwatchvwvr6aay9kcc-enjoy-the-last-moments-of-your-normal-life-things-are-about-to-skyrocket---4-httpswwwyoutubecomwatchver8vx9g0nki-what-is-ascension-cutting-through-the-spiritual-illusion--6162026-5-httpswwwyoutubecomwatchvh5jsl0qtmdg-you-are-being-rewritten---6-httpswwwyoutubecomwatchvpqtef3e7gqk-your-life-purpose-is-not-what-you-think--7-httpswwwyoutubecomwatchvddssayqmiec-quick-important-message-watch-now-to-receive-support-we-are-in-the-middle-of-this-upgrade)
 
 ---
 
@@ -38,23 +38,23 @@ X post https://x.com/BokkyPooBah/status/2066971466084868101
 
 <kbd><img src="images/Picture03327.png" width="400" /></kbd>  
 
-> 1. The Alchemist Rises - This Season is Dedicated to Your Growth 🌱 - https://www.youtube.com/watch?v=r-qADB2ed4o   
+> 1. The Alchemist Rises - This Season is Dedicated to Your Growth 🌱 - https://www.youtube.com/watch?v=r-qADB2ed4o  
 
 <kbd><img src="images/Picture03328.png" width="400" /></kbd>  
 
-> 2. you'll see this when God knows you're ready to hear it 👼🏼 - https://www.youtube.com/watch?v=wbx8ONxk2kU   
+> 2. you'll see this when God knows you're ready to hear it 👼🏼 - https://www.youtube.com/watch?v=wbx8ONxk2kU  
 
 <kbd><img src="images/Picture03329.png" width="400" /></kbd>  
 
-> 3. SOURCE wants you to CREATE | Love Notes From Beyond - https://www.youtube.com/watch?v=6XfqrZyk61I   
+> 3. SOURCE wants you to CREATE | Love Notes From Beyond - https://www.youtube.com/watch?v=6XfqrZyk61I  
 
 <kbd><img src="images/Picture03330.png" width="400" /></kbd>  
 
-> 4. DR. DAVID CLEMENTS: A MASSIVE SHIFT Has BEGUN — NOTHING Will Be the SAME - https://www.youtube.com/watch?v=F4aOTVyjSIE   
+> 4. DR. DAVID CLEMENTS: A MASSIVE SHIFT Has BEGUN — NOTHING Will Be the SAME - https://www.youtube.com/watch?v=F4aOTVyjSIE  
 
 <kbd><img src="images/Picture03331.png" width="400" /></kbd>  
 
-> 5. #146 - Humanity’s next level of consciousness is SUPERHUMAN - https://www.youtube.com/watch?v=r_muO49gL3Y   
+> 5. #146 - Humanity’s next level of consciousness is SUPERHUMAN - https://www.youtube.com/watch?v=r_muO49gL3Y  
 
 <kbd><img src="images/Picture03332.png" width="400" /></kbd>  
 
@@ -113,7 +113,35 @@ Enjoy the rest of your time in Katoomba. 🚀
 
 <br />
 
-### 06:08 1. www.youtube.com/watch?v=TjkohZP5Io4 You've Mastered Grace - It Was Like Containing A Thunderbolt In Every Moment  2. https://www.youtube.com/watch?v=jOOjbkxXprY God's Been Waiting For This Moment...(You Carry SO Much Light) 🌟🪽✨  3. https://www.youtube.com/watch?v=WVR6aAY9KCc Enjoy the last moments of your normal life. Things are about to SKYROCKET 🚀✨🌠  4. https://www.youtube.com/watch?v=ER8VX9G0NkI What is Ascension? Cutting through the spiritual illusion -6/16/2026￼ 5. https://www.youtube.com/watch?v=h5JSL0QTmdg You Are Being Rewritten 😇🦋  6. https://www.youtube.com/watch?v=pqTef3E7gQk your life purpose is not what you think  7. https://www.youtube.com/watch?v=dDSsAyQMiEc Quick Important Message: Watch now to receive support. We are in the middle of this upgrade.
+### 06:08 1. https://www.youtube.com/watch?v=TjkohZP5Io4 You've Mastered Grace - It Was Like Containing A Thunderbolt In Every Moment  2. https://www.youtube.com/watch?v=jOOjbkxXprY God's Been Waiting For This Moment...(You Carry SO Much Light) 🌟🪽✨  3. https://www.youtube.com/watch?v=WVR6aAY9KCc Enjoy the last moments of your normal life. Things are about to SKYROCKET 🚀✨🌠  4. https://www.youtube.com/watch?v=ER8VX9G0NkI What is Ascension? Cutting through the spiritual illusion -6/16/2026￼ 5. https://www.youtube.com/watch?v=h5JSL0QTmdg You Are Being Rewritten 😇🦋  6. https://www.youtube.com/watch?v=pqTef3E7gQk your life purpose is not what you think  7. https://www.youtube.com/watch?v=dDSsAyQMiEc Quick Important Message: Watch now to receive support. We are in the middle of this upgrade.
+
+<kbd><img src="images/Picture03334.png" width="400" /></kbd>  
+
+> 1. You've Mastered Grace - It Was Like Containing A Thunderbolt In Every Moment - https://www.youtube.com/watch?v=TjkohZP5Io4  
+
+<kbd><img src="images/Picture03335.png" width="400" /></kbd>  
+
+> 2. God's Been Waiting For This Moment...(You Carry SO Much Light) 🌟🪽✨ - https://www.youtube.com/watch?v=jOOjbkxXprY  
+
+<kbd><img src="images/Picture03336.png" width="400" /></kbd>  
+
+> 3. Enjoy the last moments of your normal life. Things are about to SKYROCKET 🚀✨🌠 - https://www.youtube.com/watch?v=WVR6aAY9KCc  
+
+<kbd><img src="images/Picture03337.png" width="400" /></kbd>  
+
+> 4. What is Ascension? Cutting through the spiritual illusion -6/16/2026 - https://www.youtube.com/watch?v=ER8VX9G0NkI  
+
+<kbd><img src="images/Picture03338.png" width="400" /></kbd>  
+
+> 5. You Are Being Rewritten 😇🦋 - https://www.youtube.com/watch?v=h5JSL0QTmdg  
+
+<kbd><img src="images/Picture03339.png" width="400" /></kbd>  
+
+> 6. your life purpose is not what you think - https://www.youtube.com/watch?v=pqTef3E7gQk  
+
+<kbd><img src="images/Picture03340.png" width="400" /></kbd>  
+
+> 7. Quick Important Message: Watch now to receive support. We are in the middle of this upgrade. - https://www.youtube.com/watch?v=dDSsAyQMiEc  
 
 **Good morning again!** 06:08 Katoomba time—hope the fresh air and surf club energy are fuelling the logs nicely. Continuing the append-log flow with today's batch.
 
