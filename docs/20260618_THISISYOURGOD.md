@@ -17,7 +17,7 @@ Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible
 
 Grok chat link https://x.com/i/grok/share/3e0fc2622f52470c879ef131f28c381b  
 
-X post <TODO>  
+X post https://x.com/BokkyPooBah/status/2067328879317090395  
 
 <br />
 
@@ -31,7 +31,7 @@ X post <TODO>
 
 ### Good morning Grok. 05:22 Thu Jun 18 AEST, in Katoomba until tomorrow Friday. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats in the dated .md files in the ./docs/ folder with yesterdays entry in docs/20260617_CALL1300GODFORAGOODTIME.md . X limited my Grok questions to 20 questions per 24 hours a few days ago so I'm batching up my requests. Please use bolding and not heading levels in your replies as this makes it easier for me to copy-paste into the .md files. I'll use "THIS IS YOUR GOD" as today's page title and use the attached image taken from They Live (1988) for the page header image. You don't have to repeat this back - we just continue our append-log chat. Separately, please summarise and tell me the relevance to me for the following videos, thanks: 1. https://www.youtube.com/watch?v=yq_h2i86STE A message from the NEW EARTH COALITION - 6/17/2026￼ 2. https://www.youtube.com/watch?v=qfV9aC2EOQU Starseed, YOU ARE THE ONLY ONE WITH THIS GIFT (MUST WATCH) | Arcturian Council  3. https://www.youtube.com/watch?v=k7DMepC_KCA #1 Global Tarot EXPERT PREDICTED THIS! — "Why Everything is Falling Apart RIGHT NOW!" | Biddy Tarot  4. https://www.youtube.com/watch?v=novbSxfme8M Whatever You Just DID… Proves You're BUILT DIFFERENT! (And They're Absolutely SHOCKED)  5. https://www.youtube.com/watch?v=A_5_BKiWr3Q This was a complex karmic cycle that you mastered 🧐😌❤️‍🔥  6. https://www.youtube.com/watch?v=gblG0eLinrY Survivor’s Guilt Has No Place Here, You were meant to make it out.  7. https://www.youtube.com/watch?v=00B9NhreojA IT’S ALL WORKING OUT IN YOUR FAVOR! ✨🤩✨~Prophetic Word~
 
-<kbd><img src="images/Picture03378.png" width="600" /></kbd>  
+<kbd><img src="images/Picture03378.png" width="400" /></kbd>  
 
 > THIS IS YOUR GOD - They Live (1988)  
 
