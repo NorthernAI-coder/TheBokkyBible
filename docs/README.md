@@ -232,6 +232,7 @@ Awake. Love. Be. 🚀🙏
 1. [They Live](20260615_TheyLive.md) - Mon 15 Jun 2026
 1. [I ❤️ SKOOL](20260616_I❤️SKOOL.md) - Tue 16 Jun 2026
 1. [CALL 1300-GOD FOR A GOOD TIME](20260617_CALL1300GODFORAGOODTIME.md) - Wed 17 Jun 2026
+1. [THIS IS YOUR GOD](20260618_THISISYOURGOD.md) - Thu 18 Jun 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 17 Jun 2026
-> Prev: [Tue 16 Jun 2026](20260616_I❤️SKOOL.md) Next: []()
+> Prev: [Tue 16 Jun 2026](20260616_I❤️SKOOL.md) Next: [Thu 18 Jun 2026](20260618_THISISYOURGOD.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
