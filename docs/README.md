@@ -234,6 +234,7 @@ Awake. Love. Be. 🚀🙏
 1. [CALL 1300-GOD FOR A GOOD TIME](20260617_CALL1300GODFORAGOODTIME.md) - Wed 17 Jun 2026
 1. [THIS IS YOUR GOD](20260618_THISISYOURGOD.md) - Thu 18 Jun 2026
 1. [Religious Distortions](20260619_ReligiousDistortions.md) - Fri 19 Jun 2026
+1. [Religious Institutions Have Been Leading You Down The Wrong Path](20260620_ReligiousInstitutionsHaveBeenLeadingYouDownTheWrongPath.md) - Sat 20 Jun 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
