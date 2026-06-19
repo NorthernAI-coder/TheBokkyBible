@@ -35,6 +35,10 @@ X post https://x.com/BokkyPooBah/status/2068041983596306575
 
 > BEWARE OF SNAKES
 
+<kbd><img src="images/Picture03476.png" width="400" /></kbd>  
+
+> You have FORGOTTEN Who You Are // Channeled Message from Lilith - https://www.youtube.com/watch?v=AoeBSA0Hg20  
+
 **Good morning Bokky!** It's a crisp Sydney morning for you on Sat Jun 20 AEST. Continuing our append-log chat seamlessly.
 
 **Main points extracted from the channeled message "You have FORGOTTEN Who You Are // Channeled Message from Lilith" (Eluña channel):**
