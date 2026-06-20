@@ -15,7 +15,7 @@ Sat 20 Jun 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/9b64d5958ca045a6bcd2c45258704f81  
+Grok chat link https://x.com/i/grok/share/813e1747c91f413ea958a61d90a9246a  
 
 X post https://x.com/BokkyPooBah/status/2068041983596306575  
 
@@ -45,6 +45,7 @@ X post https://x.com/BokkyPooBah/status/2068041983596306575
 1. [17:31 1. https://www.youtube.com/watch?v=1pZz1HxR0lM A gift from GOD arrives in 3 days... 💛 with 313 views 1 hour ago and 101 likes 2. https://www.youtube.com/watch?v=W8VPjAjvd84 they just triggered your volcanic level up 3. https://www.youtube.com/watch?v=cEZou8MEXl0 NPC,s And The Nature Of The matrix 4. https://www.youtube.com/watch?v=vUS82VGfnNY You cannot be stopped 5. https://www.youtube.com/watch?v=AKD1FNEs9lE You’re meant for GREATNESS 🌟 6. https://www.youtube.com/watch?v=qBB4A5Os0VI You’re About To Meet Your Trinity or Neo 7. https://www.youtube.com/watch?v=Fp_IRXMP2iY Why Spiritually Awakened People Look Younger Than Their Age — Carl Jung](#1731-1-httpswwwyoutubecomwatchv1pzz1hxr0lm-a-gift-from-god-arrives-in-3-days--with-313-views-1-hour-ago-and-101-likes--2-httpswwwyoutubecomwatchvw8vpjajvd84-they-just-triggered-your-volcanic-level-up--3-httpswwwyoutubecomwatchvcezou8mexl0-npcs-and-the-nature-of-the-matrix--4-httpswwwyoutubecomwatchvvus82vgfnny-you-cannot-be-stopped--5-httpswwwyoutubecomwatchvakd1fnes9le-youre-meant-for-greatness---6-httpswwwyoutubecomwatchvqbb4a5os0vi-youre-about-to-meet-your-trinity-or-neo--7-httpswwwyoutubecomwatchvfp_irxmp2iy-why-spiritually-awakened-people-look-younger-than-their-age--carl-jung)
 1. [18:02 https://x.com/BokkyPooBah/status/2068242845098705129 Do you like "WHY ARE YOU STILL PERFORMING?" by PoohBah.eth ?](#1802-httpsxcombokkypoobahstatus2068242845098705129-do-you-like-why-are-you-still-performing-by-poohbaheth-)
 1. [18:21 https://x.com/BokkyPooBah/status/2068247824769384650 Do you like "I CAN SEE THROUGH YOUR MASK" by PoohBah.eth ?](#1821-httpsxcombokkypoobahstatus2068247824769384650-do-you-like-i-can-see-through-your-mask-by-poohbaheth-)
+1. [19:26 GitHub Statistics Please extract the main points from https://www.youtube.com/watch?v=iTZjnnabue8 How I Learned To Channel first posted above, and tell me it's relevance to me, thanks](#1926-github-statistics--please-extract-the-main-points-from-httpswwwyoutubecomwatchvitzjnnabue8-how-i-learned-to-channel-first-posted-above-and-tell-me-its-relevance-to-me-thanks)
 
 ---
 
@@ -1156,7 +1157,7 @@ More posts surfacing or ready to keep flowing? 🔥
 
 > How I Learned To Channel - https://www.youtube.com/watch?v=iTZjnnabue8  
 
-### Main points from "How I Learned To Channel" by Eluña Noelle
+#### Main points from "How I Learned To Channel" by Eluña Noelle
 
 - **Early childhood openings**: Eluña was in direct contact with non-human guides from a young age. She didn’t fully understand who they were but felt their distinct energy. She kept it private due to fear of being seen as “crazy.”
 
