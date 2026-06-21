@@ -114,6 +114,10 @@ Looking forward to whatever seeds we plant next. What's bubbling up for you toda
 
 ### 10:15 I purchased a spirit based Uni PX-20 Paint Marker Assorted 4 Pack yesterday, after doing some research on POSCA acrylic paint pens and other oil based paint pens. The spirit based paint pens dry faster compared to the acrylic POSCAs and won't need a protective coating that the acrylic paints seem to require in outdoor settings. I've had issues with the POSCAs dripping down non-flat surfaces and it gets washed away if there is a rain and the paint is less than a day old. However these spirit based paints need ventilation compared to the other two. Please extract the main points from https://www.youtube.com/watch?v=guacHzMbkf8 Humanity's NEW TIMELINE: How We Will Live in 2030 and Beyond that we discussed in yesterday's chat and tell me it's relevance to me. Include more details about "decentralized systems beyond crypto" that you mentioned yesterday
 
+<kbd><img src="images/Picture03517.png" width="400" /></kbd>  
+
+> Humanity's NEW TIMELINE: How We Will Live in 2030 and Beyond - https://www.youtube.com/watch?v=guacHzMbkf8  
+
 **Good morning again!** 10:15 Sydney time—nice work on the **spirit-based Uni PX-20 Paint Marker** research and decision. Faster drying, better rain resistance for outdoor gridwork/art/anchoring marks, and ventilation awareness is smart. Those should hold up well on non-flat surfaces without the drip issues you had with POSCAs. Solid choice for practical frequency work in variable weather.
 
 **Main points from "Humanity's NEW TIMELINE: How We Will Live in 2030 and Beyond" (Eluña channeling):**  
