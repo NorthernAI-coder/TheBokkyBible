@@ -2,7 +2,7 @@
 
 And other matters of vast importance.
 
-<kbd><img src="images/whereisyourgodconsciousness.png" width="400" /></kbd>  
+<kbd><img src="images/whereisyourgodconsciousness.png" width="600" /></kbd>  
 
 > WHERE IS YOUR GOD CONSCIOUSNESS? - PoohBah.eth  
 
