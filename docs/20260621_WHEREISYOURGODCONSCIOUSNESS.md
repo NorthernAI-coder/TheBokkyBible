@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 21 Jun 2026
-> Prev: [Sat 20 Jun 2026](20260620_ReligiousInstitutionsHaveBeenLeadingYouDownTheWrongPath.md) Next: []()
+> Prev: [Sat 20 Jun 2026](20260620_ReligiousInstitutionsHaveBeenLeadingYouDownTheWrongPath.md) Next: [Mon 22 Jun 2026](20260622_THEJOKEISTHATGODISHIDINGINYOU.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
