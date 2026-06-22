@@ -15,7 +15,7 @@ Mon 22 Jun 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/3d61db6b3b744051b22697e2cae773b4  
+Grok chat link https://x.com/i/grok/share/c2bbfa2e1b274c65ba42de26ed8718de  
 
 X post https://x.com/BokkyPooBah/status/2068767487748104403  
 
@@ -39,6 +39,7 @@ X post https://x.com/BokkyPooBah/status/2068767487748104403
 1. [19:37 Please provide a detailed extract from https://www.youtube.com/watch?v=US4UGjbmGJQ Will Banks Disappear? The Future of Money | Brad Johnson Channels His Sirian Future Self](#1937-please-provide-a-detailed-extract-from-httpswwwyoutubecomwatchvus4ugjbmgjq--will-banks-disappear-the-future-of-money--brad-johnson-channels-his-sirian-future-self)
 1. [22:05 1. https://www.youtube.com/watch?v=Q4zT58wqHE4 This is what makes you so POWERFUL 🔥 2. https://www.youtube.com/watch?v=LD8I6yCk5OU Once upon a time… ❤️‍🩹 3. https://www.youtube.com/watch?v=dGYueDUxEtU you’ve gotten really good at predicting your own future ITS ALL abt to happen REALLY FAST 💨🔮👀 4. https://www.youtube.com/watch?v=ZS5aaWOwtyA Arcturian Transmission: The 3 Bodies Merge Now 5. https://www.youtube.com/watch?v=UaoLGN9Vs8k THE FINAL GOODBYE! If This Found YOU, The PURGE Is OVER! (Their Fault - Their Pain) 6. https://www.youtube.com/watch?v=uvdDqEzn3Vc Prediction Clips: GREAT FLASH Ignites Revenge "Natural Disaster" on Japan & Ends Trump Presidency 7. https://www.youtube.com/watch?v=SK4beOGI67A This fortune feels like a dream come true 🥹💸](#2205-1-httpswwwyoutubecomwatchvq4zt58wqhe4-this-is-what-makes-you-so-powerful---2-httpswwwyoutubecomwatchvld8i6yck5ou-once-upon-a-time-️--3-httpswwwyoutubecomwatchvdgyueduxetu-youve-gotten-really-good-at-predicting-your-own-future-its-all-abt-to-happen-really-fast---4-httpswwwyoutubecomwatchvzs5aawowtya-arcturian-transmission-the-3-bodies-merge-now--5-httpswwwyoutubecomwatchvuaolgn9vs8k-the-final-goodbye-if-this-found-you-the-purge-is-over-their-fault---their-pain--6-httpswwwyoutubecomwatchvuvddqezn3vc-prediction-clips-great-flash-ignites-revenge-natural-disaster-on-japan--ends-trump-presidency--7-httpswwwyoutubecomwatchvsk4beogi67a-this-fortune-feels-like-a-dream-come-true-)
 1. [22:32 Please provide a detailed extract from https://www.youtube.com/watch?v=xoA2BKNFzLY The Gnostic Text That Explains the Matrix Better Than Any Movie Ever Could](#2232-please-provide-a-detailed-extract-from-httpswwwyoutubecomwatchvxoa2bknfzly-the-gnostic-text-that-explains-the-matrix-better-than-any-movie-ever-could)
+1. [00:27 Please provide a detailed extract from https://www.youtube.com/watch?v=DOmti5GuQTw Sophia, The Demiurge, and The Gnostic Truth the Roman Church Spent Centuries Destroying](#0027-please-provide-a-detailed-extract-from-httpswwwyoutubecomwatchvdomti5guqtw-sophia-the-demiurge-and-the-gnostic-truth-the-roman-church-spent-centuries-destroying)
 
 ---
 
