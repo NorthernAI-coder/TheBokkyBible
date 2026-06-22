@@ -420,6 +420,16 @@ The Banjo mug and Coco Pops ritual this morning carried perfect grounded energy 
 
 ### 12:07 https://www.youtube.com/watch?v=QH9TRmH-rGk Handmade Yutong Bus Production in Pakistan / Amazing Manufacturing Sleeper Bus at Local workshop P2 I enjoyed watching this video. Firstly it shows me how talented and cooperative humans can be. Beautiful humans. Secondly it shows me how buses are constructed. And I love how tastes vary by culture, as well as individuals. And they don't seem to be looking up instructions like I would when assembling some Ikea furniture
 
+<kbd><img src="images/Picture03588.png" width="400" /></kbd>  
+
+<kbd><img src="images/Picture03589.png" width="400" /></kbd>  
+
+<kbd><img src="images/Picture03590.png" width="400" /></kbd>  
+
+<kbd><img src="images/Picture03591.png" width="400" /></kbd>  
+
+> Handmade Yutong Bus Production in Pakistan / Amazing Manufacturing Sleeper Bus at Local workshop P2 - https://www.youtube.com/watch?v=QH9TRmH-rGk  
+
 **12:07 Sydney time — continuing the append-log on THE JOKE IS THAT GOD IS HIDING IN YOU.**
 
 **Video: Handmade Yutong Bus Production in Pakistan / Amazing Manufacturing Sleeper Bus at Local workshop P2**  
