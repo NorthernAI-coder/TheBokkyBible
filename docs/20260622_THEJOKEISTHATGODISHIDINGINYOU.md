@@ -496,6 +496,10 @@ What’s landing for you on the drive or upon arrival? Keep flowing.
 
 Safe travels and beautiful anchoring in Katoomba, Bokky. Here's the batch:
 
+<kbd><img src="images/Picture03602.png" width="400" /></kbd>  
+
+> [original screen capture] 1. If You Want a Better Future for Yourself & Humanity ∞The Creators, Channeled by Daniel Scranton - https://www.youtube.com/watch?v=8ynHFhnmBvA  
+
 <kbd><img src="images/Picture03594.png" width="400" /></kbd>  
 
 > 1. If You Want a Better Future for Yourself & Humanity ∞The Creators, Channeled by Daniel Scranton - https://www.youtube.com/watch?v=8ynHFhnmBvA  
@@ -517,6 +521,10 @@ Safe travels and beautiful anchoring in Katoomba, Bokky. Here's the batch:
 <kbd><img src="images/Picture03596.png" width="400" /></kbd>  
 
 > 3. You are becoming the STAR. 💫 - https://www.youtube.com/watch?v=ow7IcUnW734  
+
+<kbd><img src="images/Picture03601.png" width="400" /></kbd>  
+
+> [refreshed] 3. You are becoming the STAR. 💫 - https://www.youtube.com/watch?v=ow7IcUnW734  
 
 **Video 3: "You are becoming the STAR."**  
 **Main points:** You are stepping into your full radiant self — becoming the central light/star in your own story and for those around you. Family/lineage dynamics may resist, but this is your destined emergence and leadership in the awakening.
