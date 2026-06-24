@@ -44,7 +44,7 @@ X post https://x.com/BokkyPooBah/status/2069540656998183013
 >  
 > https://x.com/BokkyPooBah/status/2069527371921912279  
 
-<kbd><img src="images/canyoucarrymyshameaswell.png" width="600" /></kbd>  
+<kbd><img src="images/canyoucarrymyshameaswell.png" width="400" /></kbd>  
 
 > CAN YOU CARRY MY SHAME AS WELL? - PoohBah.eth  
 
