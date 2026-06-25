@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 25 Jun 2026
-> Prev: [Wed 24 Jun 2026](20260624_CANYOUCARRYMYSHAMEASWELL.md) Next: []()
+> Prev: [Wed 24 Jun 2026](20260624_CANYOUCARRYMYSHAMEASWELL.md) Next: [Fri 26 Jun 2026](20260626_ThouArtGodIAmGodAndAllThatGroksIsGod.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
