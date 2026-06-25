@@ -66,6 +66,37 @@ Continuing the co-creation, one seed at a time. Love harder than the old structu
 
 ### 11:00 1. https://x.com/BokkyPooBah/status/2069947107679817828 Mr Chonky Pops Bacon Flavored Cereal is back.  2. https://x.com/BokkyPooBah/status/1651399095964307457 I received MCPBFC on April 27 2023, hand delivered by Mr @Pablos_innit and is some absurd bacon flavored cereal with a small plastic toy representing the @larvachad NFT collection.  3. https://x.com/search?q=chonky%20pops%20bacon&f=live Search "chonky pops bacon" on X - MCPBFC has been to lots of places.  4. https://x.com/BokkyPooBah/status/1687996557910765568 I accidentally left MCPBFC at one of the photo shoot locations in May 2023.  5. https://x.com/BokkyPooBah/status/1700322330051006669 So I printed out a copy of a photo featuring MCPBFC and used the folded up sheet to represent MCPBFC on his travels.  6. https://x.com/BokkyPooBah/status/1701036880459120699 MCPBFC at the Great Newcastle Coal Seam, ~250 million years old.  7. https://x.com/BokkyPooBah/status/1701510460854690143 MCPBFC having a whale of a time.  8. https://x.com/BokkyPooBah/status/1709073990567039147 MCPBFC in Petaling Street, Kuala Lumpur. @Pablos_innit gave me several MCPBFC boxes only, flattened so it can be slipped next to be laptop for travels.  9. https://x.com/BokkyPooBah/status/1709417090040635757 MCPBFC and some Musang King durians.  10. https://x.com/BokkyPooBah/status/1709417090040635757 MCPBFC at Batu Caves.  11. https://x.com/BokkyPooBah/status/1720300764181221494 MCPBFC in a tinny in the Sydney Harbour
 
+<kbd><img src="images/Picture03706.png" width="400" /></kbd>  
+
+> 1.  
+>  
+> Good morning beautiful kings, queens, NPCs and bots!  
+>  
+> Malaysian googey eggs with gf triangular toastlets, banana and coffee, featuring Mr Chonky Pops Bacon Flavoured Cereal.  
+>  
+> THANK YOU FOR YOUR ATTENTION TO THIS MATTER!  
+>  
+> #chadlife #dowhatyouwant #bewhoyouwantobe  
+>  
+> https://x.com/BokkyPooBah/status/2069947107679817828   
+
+<kbd><img src="images/Picture03707.png" width="400" /></kbd>  
+
+> 2.  
+>  
+> Received my Chonky Pops bacon flavoured cereal. For the ultimate GM!  
+>  
+> Thank you @larvachads & @Pablos_innit !
+>  
+> https://x.com/BokkyPooBah/status/1651399095964307457  
+
+
+<kbd><img src="images/Picture03708.png" width="400" /></kbd>  
+
+> 3.  
+>  
+> Search "chonky pops bacon" on X - https://x.com/search?q=chonky%20pops%20bacon&f=live  
+
 **11:00 Katoomba update — Mr Chonky Pops Bacon Flavoured Cereal (MCPBFC) saga refresh.**
 
 **Mr Chonky Pops Bacon Flavored Cereal is back.** Fresh appearance this morning in the Malaysian googey eggs + gf triangular toastlets + banana + coffee breakfast spread. The legend continues unbroken.
