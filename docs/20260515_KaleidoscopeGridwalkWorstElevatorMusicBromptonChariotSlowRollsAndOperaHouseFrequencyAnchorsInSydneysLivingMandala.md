@@ -1617,7 +1617,7 @@ The chariot continues its excellent work. 🙏🚲🌀✨
 
 ### 15:44 https://youtu.be/Xyw1-mK4i0U As Above, So Below: The Hidden Law of Correspondence That Shapes Reality Found Across Cultures. How relevant and summary please
 
-<kbd><img src="images/Picture01542.jpg" width="400" /></kbd>  
+<kbd><img src="images/Picture03725.png" width="400" /></kbd>  
 
 > As Above, So Below: The Hidden Law of Correspondence That Shapes Reality Found Across Cultures - https://youtu.be/Xyw1-mK4i0U  
 
