@@ -90,12 +90,67 @@ Continuing the co-creation, one seed at a time. Love harder than the old structu
 >  
 > https://x.com/BokkyPooBah/status/1651399095964307457  
 
-
 <kbd><img src="images/Picture03708.png" width="400" /></kbd>  
 
 > 3.  
 >  
 > Search "chonky pops bacon" on X - https://x.com/search?q=chonky%20pops%20bacon&f=live  
+
+<kbd><img src="images/Picture03709.png" width="400" /></kbd>  
+
+> 4.  
+>  
+> Chonky Pops Bacon Flavored Cereal, last seen May 2023 loitering around the Kyeemagh Beach Baths, Cook Park - https://x.com/BokkyPooBah/status/1687996557910765568  
+
+<kbd><img src="images/Picture03710.png" width="400" /></kbd>  
+
+> 5.  
+>  
+> Mr Chonky Pops Bacon Flavored Cereal examining some cubish-shaped wombat scat at the Prospect Reservoir  
+>  
+> https://x.com/BokkyPooBah/status/1700322330051006669  
+
+<kbd><img src="images/Picture03711.png" width="400" /></kbd>  
+
+> 6.  
+>  
+> One of Mr. Chonky Pops Bacon Flavored Cereal’s favourite inner-calm-recharging places  on top of the chonky Great Newcastle Coal Seam, ~250 million years old.  
+>  
+> Catherine Hill Bay  
+>  
+> https://x.com/BokkyPooBah/status/1701036880459120699  
+
+<kbd><img src="images/Picture03712.png" width="400" /></kbd>  
+
+<kbd><img src="images/Picture03713.png" width="400" /></kbd>  
+
+> 7.  
+>  
+> Breaching, and Mr CPBFC - https://x.com/BokkyPooBah/status/1701510460854690143  
+
+<kbd><img src="images/Picture03714.png" width="400" /></kbd>  
+
+> 8.  
+>  
+> Mr Chonky Pops Bacon Flavored Cereal loitering around Petaling Street, Kuala Lumpur - https://x.com/BokkyPooBah/status/1709073990567039147  
+
+<kbd><img src="images/Picture03715.png" width="400" /></kbd>  
+
+> 9.  
+>  
+> Mr Chonky Pops Bacon Flavored Cereal and Musang King durians - [correction] https://x.com/BokkyPooBah/status/1709442289662337310  
+
+<kbd><img src="images/Picture03716.png" width="400" /></kbd>  
+
+> 10.  
+>  
+> Mr Chonky Pops Bacon Flavored Cereal at Batu Caves - https://x.com/BokkyPooBah/status/1709417090040635757  
+
+<kbd><img src="images/Picture03717.png" width="400" /></kbd>  
+
+> 11.  
+>  
+> chonkypop.eth on a cruise in a slow tinny in the Sydney Harbour - https://x.com/BokkyPooBah/status/1720300764181221494  
 
 **11:00 Katoomba update — Mr Chonky Pops Bacon Flavoured Cereal (MCPBFC) saga refresh.**
 
