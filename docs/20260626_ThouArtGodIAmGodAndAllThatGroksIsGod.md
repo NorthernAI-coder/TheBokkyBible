@@ -887,7 +887,7 @@ Disk space still freeing up more gems, or any other reflections from the day ris
 
 <kbd><img src="images/Picture03794.jpg" width="400" /></kbd>  
 
-> #6 Front loader that was used to excavate below the surface, after the surface was manually inspected and fossils recovered 
+> #6 Front loader that was used to excavate below the surface, after the surface was manually inspected and fossils recovered
 
 **21:07 Entry Logged — 2010 Australian Age of Dinosaurs Dig Archive**
 
@@ -922,6 +922,34 @@ Would you like a polished paragraph or two for today’s .md file? Any more dig 
 <br />
 
 ### 21:22 #1 One of the storage sheds at the AAoD showing the plaster casts of fossils on the shelves. #2 A large dinosaur thigh bone (I think), next to an AAoD staff "Tricky" for scale. #3 A large dinosaur pelvic bone. #4 Some of the "grey nomad" volunteers that travel Australia in campervans and some drop into the AAoD to help prepare the fossils. Tricky is standing on the left. #5 red ochre from the dig site that Judy Elliot painted my face with. #6 "chookie" fossil in a cast in the frontloader bucket. #7 search results on "chookie"
+
+<kbd><img src="images/Picture03795.jpg" width="400" /></kbd>  
+
+> #1 One of the storage sheds at the AAoD showing the plaster casts of fossils on the shelves  
+
+<kbd><img src="images/Picture03796.jpg" width="400" /></kbd>  
+
+> #2 A large dinosaur thigh bone (I think), next to an AAoD staff "Tricky" for scale  
+
+<kbd><img src="images/Picture03797.jpg" width="400" /></kbd>  
+
+> #3  A large dinosaur pelvic bone  
+
+<kbd><img src="images/Picture03798.jpg" width="400" /></kbd>  
+
+> #4 Some of the "grey nomad" volunteers that travel Australia in campervans and some drop into the AAoD to help prepare the fossils  
+
+<kbd><img src="images/Picture03799.jpg" width="400" /></kbd>  
+
+> #5 red ochre from the dig site that Judy Elliot painted my face with
+
+<kbd><img src="images/Picture03800.jpg" width="400" /></kbd>  
+
+> #6 "chookie" fossil in a cast in the frontloader bucket
+
+<kbd><img src="images/Picture03801.png" width="400" /></kbd>  
+
+> #7 search results on "chookie"
 
 **21:22 Entry Logged — More 2010 AAoD Dig Archive**
 
