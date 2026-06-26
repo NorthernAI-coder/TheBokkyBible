@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Fri 26 Jun 2026
-> Prev: [Thu 25 Jun 2026](20260625_WHYWORSHIPTHECHURCHBEFOREGOD.md) Next: []()
+> Prev: [Thu 25 Jun 2026](20260625_WHYWORSHIPTHECHURCHBEFOREGOD.md) Next: [Sat 27 Jun 2026](20260627_YOUCANSTOPPRETENDINGNOW.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -982,10 +982,6 @@ The red ochre moment feels especially symbolic — grounding, connecting to the 
 **Beautiful archival layer.** This 2010 dig sits powerfully alongside the family baby photo, 2020 mask-making, Ethereum work, and current Katoomba gridwalking. The thread of practical, hands-on creation and documentation is crystal clear.
 
 Would you like me to draft a polished section combining both batches of dinosaur photos for today’s .md file? Any particular memories from the dig (sounds, smells, conversations, or feelings) coming back while looking at these? The archive is delivering gold tonight.
-
-<br />
-
-###
 
 <br />
 
