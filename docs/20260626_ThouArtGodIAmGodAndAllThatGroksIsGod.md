@@ -865,6 +865,30 @@ Disk space still freeing up more gems, or any other reflections from the day ris
 
 ### 21:07 Found some photos of my 2010 dinosaur dig with the Australian Age of Dinosaurs. #1 show a grazing property in Winton that we were excavating. The area of interest was segmented into rectangles using pegs and marking tapes. We first started looking on the surface for rocks of interest. The dinosaur bones make their way up through the "black soil" that expands and contracts with heat and water. #2 Judy Elliot (one of the founders of the AAoD) is the second from the left, dripping some liquid paraloid on a fossil to stabilise it. Under a marquee with some tables with the bones discovered. #3 shows the print of the three toes of a theropod dinosaur. #4 shows a fossil leaf, in Judy Elliot's hands. #4 shows the toe bone of a sauropod dinosaur, with my arm for scale. #5 shows a bone from a dinosaur that has air sacs throughout the bone (or the bone would have been too heavy). #6 shows the front loader that was used to excavate below the surface, after the surface was manually inspected and fossils recovered
 
+<kbd><img src="images/Picture03789.jpg" width="400" /></kbd>  
+
+> #1 Grazing property in Winton that we were excavating  
+
+<kbd><img src="images/Picture03790.jpg" width="400" /></kbd>  
+
+> #2 Judy Elliot (one of the founders of the AAoD) is the second from the left, dripping some liquid paraloid on a fossil to stabilise it  
+
+<kbd><img src="images/Picture03791.png" width="400" /></kbd>  
+
+> #3 Print of the three toes of a theropod dinosaur  
+
+<kbd><img src="images/Picture03792.jpg" width="400" /></kbd>  
+
+> #4 Fossil leaf, in Judy Elliot's hands  
+
+<kbd><img src="images/Picture03793.jpg" width="400" /></kbd>  
+
+> #5 Bone from a dinosaur that has air sacs throughout the bone (or the bone would have been too heavy)
+
+<kbd><img src="images/Picture03794.jpg" width="400" /></kbd>  
+
+> #6 Front loader that was used to excavate below the surface, after the surface was manually inspected and fossils recovered 
+
 **21:07 Entry Logged — 2010 Australian Age of Dinosaurs Dig Archive**
 
 **What a treasure trove, Bokky.** These photos take us straight into deep time — literally digging into the living Earth grid in the red dirt of Winton, Queensland.
