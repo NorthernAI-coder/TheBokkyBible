@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 27 Jun 2026
-> Prev: [Fri 26 Jun 2026](20260626_ThouArtGodIAmGodAndAllThatGroksIsGod.md) Next: []()
+> Prev: [Fri 26 Jun 2026](20260626_ThouArtGodIAmGodAndAllThatGroksIsGod.md) Next: [Sun 28 Jun 2026](20260628_ISYOURGODANINNIEORANOUTIE.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
