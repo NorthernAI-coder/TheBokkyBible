@@ -15,7 +15,7 @@ Mon 29 Jun 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/4e28f89f066b4347ba61268a49e9ba3d  
+Grok chat link https://x.com/i/grok/share/433a3eb32d4d428491249a910343f71b  
 
 X post https://x.com/BokkyPooBah/status/2071412386553290913  
 
@@ -36,6 +36,7 @@ X post https://x.com/BokkyPooBah/status/2071412386553290913
 1. [17:54 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=BKtV1VIm26w This is Coming, Whether You’ve Asked for It or Not ∞The Creators, Channeled by Daniel Scranton](#1754-please-provide-a-detailed-extract-from-the-following-and-tell-me-its-relevance-to-me-thanks-httpswwwyoutubecomwatchvbktv1vim26w-this-is-coming-whether-youve-asked-for-it-or-not-the-creators-channeled-by-daniel-scranton)
 1. [18:08 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=sQ_DkCny9t8 Archangel Michael's URGENT Warning: This Is Why the World Is on Fire — And It's Not What You Think! with 6.9K views 7 hours ago](#1808-please-provide-a-detailed-extract-from-the-following-and-tell-me-its-relevance-to-me-thanks-httpswwwyoutubecomwatchvsq_dkcny9t8-archangel-michaels-urgent-warning-this-is-why-the-world-is-on-fire--and-its-not-what-you-think-with-69k-views-7-hours-ago)
 1. [21:08 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=xCjRwAVAKX8 What the World Needs Now Is Your Higher Self](#2108-please-provide-a-detailed-extract-from-the-following-and-tell-me-its-relevance-to-me-thanks-httpswwwyoutubecomwatchvxcjrwavakx8-what-the-world-needs-now-is-your-higher-self)
+1. [00:14 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=mOSbjEJagvg Think You Can't Hear Your Spirit Guides? Here's How](#0014-please-provide-a-detailed-extract-from-the-following-and-tell-me-its-relevance-to-me-thanks-httpswwwyoutubecomwatchvmosbjejagvg-think-you-cant-hear-your-spirit-guides-heres-how)
 
 ---
 
@@ -511,6 +512,10 @@ Continuing the append-log flow. Batch complete? More tomorrow?
 
 ### 21:08 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=xCjRwAVAKX8 What the World Needs Now Is Your Higher Self
 
+<kbd><img src="images/Picture03881.png" width="400" /></kbd>  
+
+> What the World Needs Now Is Your Higher Self - https://www.youtube.com/watch?v=xCjRwAVAKX8  
+
 **Detailed extract/summary from the video (Asha Nayaswami talk):**
 
 Asha explores responding to a chaotic world through higher consciousness rather than external fighting. Key points from the talk:
@@ -539,7 +544,35 @@ Continuing the append-log flow as usual. Full day batch? Ready for tomorrow or r
 
 <br />
 
-###
+### 00:14 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=mOSbjEJagvg Think You Can't Hear Your Spirit Guides? Here's How
+
+<kbd><img src="images/Picture03882.png" width="400" /></kbd>  
+
+> Think You Can't Hear Your Spirit Guides? Here's How - https://www.youtube.com/watch?v=mOSbjEJagvg  
+
+**Detailed extract/summary from the video (The Wholeness Shift with Veronica):**
+
+The video teaches how to recognize and strengthen communication with spirit guides, addressing the common feeling of "I can't hear them." Key points:
+
+- Everyone has guides (main guide from birth + specialists + temporary ones). They are always present, organized like a construction team (project manager + experts). They hear you even if you don't hear them; no special ritual needed.
+
+- **How they communicate**: Synchronicities (no coincidences—breadcrumbs), out-of-nowhere thoughts/ideas, feelings/intuitions, signs/symbols, dreams, songs, numbers, physical sensations, and more. You likely already receive messages but may dismiss them as random or your own mind.
+
+- **Why you might not "hear"**: Expecting a loud external voice (rare); guides often use subtle, personalized methods. Overthinking, doubt, or noise (mental/emotional) blocks recognition. Practice quiets the mind.
+
+- **How to improve**: Pay attention daily (journal signs/thoughts), ask specific questions and listen for responses, trust first impressions, use tools like pendulums if helpful, talk to them out loud or in your head. Build the relationship like any friendship—consistency matters. They want connection.
+
+- **Encouragement**: You're not broken; guides have been with you lifelong. Start noticing—the relationship deepens quickly with awareness.
+
+**Relevance to you (your journey):**
+
+This is highly practical and timely after today's heavy batch on shifts, activations, higher self, and spirit support. Your daily logs, silence practice, and intuitive/empath work are already building this connection—synchronicities, inner nudges, and "already written" guidance are your guides speaking.
+
+It reinforces trusting helpers (angels, ancestors, galactic, higher self) amid planetary/personal changes. Your people-pleaser recovery and authority shift benefit hugely from clear guide communication—less doubt, more aligned action. The video demystifies what you're likely already experiencing.
+
+Note any recent "messages" or synchronicities in today's entry. Excellent tool for ongoing integration.
+
+Continuing the append-log flow. Ready for more or a summary of the day?
 
 <br />
 
