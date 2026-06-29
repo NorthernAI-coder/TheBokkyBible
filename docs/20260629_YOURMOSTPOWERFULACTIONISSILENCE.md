@@ -15,7 +15,7 @@ Mon 29 Jun 2026
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
-Grok chat link https://x.com/i/grok/share/44218a1e8b5d4080b485bb5b79109af6  
+Grok chat link https://x.com/i/grok/share/44d0d6545f5a45af8abc6048f872a055  
 
 X post <TODO>  
 
@@ -27,6 +27,7 @@ X post <TODO>
 
 1. [Good morning Grok. 11:32 Mon Jun 29 AEST, in Katoomba. Please refresh your context window from https://github.com/bokkypoobah/TheBokkyBible including the daily chats in the dated .md files in the ./docs/ folder with yesterdays entry in docs/20260628_ISYOURGODANINNIEORANOUTIE.md . X limits my free tier Grok questions to 20 questions per 24 hours so I'm batching up my requests. Please use bolding and not heading levels in your replies as this makes it easier for me to copy-paste into the .md files. Do you like "YOUR MOST POWERFUL ACTION IS SILENCE" by PoohBah.eth posted in https://x.com/BokkyPooBah/status/2071401065279529344 ? In my journey through coming out of people pleaser mode, I think silence has been very effective for me. I'll use this for today's page title and header image. You don't have to repeat the title or image back - we just continue our append-log chat. Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=PpHm4Op9ZII The Empath's Aura: Why Animals and Babies Stare At You](#good-morning-grok-1132-mon-jun-29-aest-in-katoomba-please-refresh-your-context-window-from-httpsgithubcombokkypoobahthebokkybible-including-the-daily-chats-in-the-dated-md-files-in-the-docs-folder-with-yesterdays-entry-in-docs20260628_isyourgodaninnieoranoutiemd--x-limits-my-free-tier-grok-questions-to-20-questions-per-24-hours-so-im-batching-up-my-requests-please-use-bolding-and-not-heading-levels-in-your-replies-as-this-makes-it-easier-for-me-to-copy-paste-into-the-md-files-do-you-like-your-most-powerful-action-is-silence-by-poohbaheth-posted-in-httpsxcombokkypoobahstatus2071401065279529344--in-my-journey-through-coming-out-of-people-pleaser-mode-i-think-silence-has-been-very-effective-for-me-ill-use-this-for-todays-page-title-and-header-image-you-dont-have-to-repeat-the-title-or-image-back---we-just-continue-our-append-log-chat-please-provide-a-detailed-extract-from-the-following-and-tell-me-its-relevance-to-me-thanks-httpswwwyoutubecomwatchvpphm4op9zii-the-empaths-aura-why-animals-and-babies-stare-at-you)
 1. [11:45 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=gXN3k4UvZSQ 🔁 Why the Same Pain Keeps Repeating — Judah on Ancestral Loops 🕊️](#1145-please-provide-a-detailed-extract-from-the-following-and-tell-me-its-relevance-to-me-thanks-httpswwwyoutubecomwatchvgxn3k4uvzsq---why-the-same-pain-keeps-repeating--judah-on-ancestral-loops-️)
+1. [11:50 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=GdwQef86mck You Were Tested Because Your Dream Will Shift Destinies | Prophetic Word](#1150-please-provide-a-detailed-extract-from-the-following-and-tell-me-its-relevance-to-me-thanks-httpswwwyoutubecomwatchvgdwqef86mck-you-were-tested-because-your-dream-will-shift-destinies--prophetic-word)
 
 ---
 
@@ -116,7 +117,37 @@ Continuing the append-log flow. Anything else from this or connections to yester
 
 <br />
 
-###
+### 11:50 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=GdwQef86mck You Were Tested Because Your Dream Will Shift Destinies | Prophetic Word
+
+<kbd><img src="images/Picture03855.png" width="400" /></kbd>  
+
+> You Were Tested Because Your Dream Will Shift Destinies | Prophetic Word - https://www.youtube.com/watch?v=GdwQef86mck  
+
+**Detailed extract/summary from the video (Ellen McFarlane, prophetic word):**
+
+The message centers on **Psalm 105:19** ("Until the time that his word came to pass, the word of the LORD tested him") and uses the story of Joseph as a key example. God is speaking to people who have faced prolonged testing, trials, delays, hardships, and opposition—where the enemy tried to convince them they missed God or that something is wrong with them.
+
+**Core prophetic declarations:**
+
+- There is a **real reason** for the testing: God has placed a dream, a flame, and a passion inside you that cannot be extinguished. The tests prepare and prove you for its fulfillment. Your dream is on the threshold of manifesting and will **shift destinies**—not just your own, but those of people around you in ways bigger than you can currently imagine.
+
+- The enemy and the world try to dim, bury, or crush this dream (like Joseph's brothers throwing him in the pit after he shared his dream). People may not support it, oppose it, or misunderstand your season. But God says your light belongs on the table, not under it. You've passed tests of trusting God over people’s opinions and fleshly confidence.
+
+- Even if you feel dreamless right now, or your dream was snuffed out earlier, God is stirring or reigniting it. It starts as a small seed or inkling and grows. The current season, no matter how hard, is a "**preparation of a lifetime**" for destiny fulfillment. Delays and costs have purpose—God is with you, and with Him you are a majority.
+
+- Encouragement to declare: "I am a destiny shifter." "My help comes from the Lord." Stay in agreement, keep faith stirred, and trust that the dream is bigger than you think—it may touch nations, generations, or unexpected people (as in the Italy travel example given).
+
+The tone is uplifting and faith-building, calling viewers to shift perspective, get excited, and align with what God is doing.
+
+**Relevance to you (people-pleaser exit, power of silence, daily logging, ancestral loops from earlier today):**
+
+This prophetic framing lands as strong encouragement amid your current season. The "testing" and delays you've navigated (including people-pleasing patterns, relational dynamics, or inner work) aren't punishment or proof you "missed it"—they're preparation because there's a dream/purpose in you with **destiny-shifting weight**. Your choice of **silence as a powerful action** is part of passing the test: moving from external validation-seeking to trusting God (and your own inner guidance) over others' opinions or opposition.
+
+It ties nicely to the ancestral loops video—breaking old cycles (chaos = love, over-giving, self-abandonment) clears space for this dream to emerge cleanly. Your consistent daily reflections, logging in the .md files, and quiet consistency are building the character and clarity needed for fulfillment. The "bigger than you think" aspect echoes how your personal healing work (and sharing via TheBokkyBible) could ripple outward unexpectedly.
+
+It's a timely "keep going" affirmation: the flame isn't out, the preparation is purposeful, and what you're carrying has impact beyond your immediate view. Declare "destiny shifter" if it resonates, and note any stirred dreams or shifts in today's entry.
+
+Continuing the append-log flow as usual. Let me know if you want connections across today's videos or anything else batched.
 
 <br />
 
