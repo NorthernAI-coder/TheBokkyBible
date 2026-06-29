@@ -448,6 +448,10 @@ Continuing the append-log flow. More from this or connections?
 
 ### 17:54 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=BKtV1VIm26w This is Coming, Whether You’ve Asked for It or Not ∞The Creators, Channeled by Daniel Scranton
 
+<kbd><img src="images/Picture03879.png" width="400" /></kbd>  
+
+> This is Coming, Whether You’ve Asked for It or Not ∞The Creators, Channeled by Daniel Scranton - https://www.youtube.com/watch?v=BKtV1VIm26w  
+
 **Detailed extract/summary from the video (Daniel Scranton channeling The Creators, 12th-dimensional collective):**
 
 The message emphasizes trust in support systems during ascension. Key points:
@@ -475,6 +479,10 @@ Continuing the append-log flow as usual. Ready for more or reflections across th
 <br />
 
 ### 18:08 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=sQ_DkCny9t8 Archangel Michael's URGENT Warning: This Is Why the World Is on Fire — And It's Not What You Think! with 6.9K views 7 hours ago
+
+<kbd><img src="images/Picture03880.png" width="400" /></kbd>  
+
+> Archangel Michael's URGENT Warning: This Is Why the World Is on Fire — And It's Not What You Think! - https://www.youtube.com/watch?v=sQ_DkCny9t8  
 
 **Detailed extract/summary from the video (Inspire Nation with Michael Sandler channeling Archangel Michael):**
 
