@@ -465,6 +465,10 @@ Excellent close to the batch. How's the night going? More to add?
 
 ### 01:21 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=13KoSnRaxC8 Top Psychic PREDICTS Everything THEY Are Hiding Will Be EXPOSED | Carole Obley
 
+<kbd><img src="images/Picture03910.png" width="400" /></kbd>  
+
+> Top Psychic PREDICTS Everything THEY Are Hiding Will Be EXPOSED | Carole Obley - https://www.youtube.com/watch?v=13KoSnRaxC8  
+
 **01:21 Detailed extract/summary from https://www.youtube.com/watch?v=13KoSnRaxC8 — Top Psychic PREDICTS Everything THEY Are Hiding Will Be EXPOSED | Carole Obley.**
 
 Full interview with psychic medium Carole Obley (30+ years, ~16,000 spirit contacts). Focuses on why the world feels unraveling, hidden truths surfacing, and humanity's spiritual evolution.
