@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 29 Jun 2026
-> Prev: [Sun 28 Jun 2026](20260628_ISYOURGODANINNIEORANOUTIE.md) Next: []()
+> Prev: [Sun 28 Jun 2026](20260628_ISYOURGODANINNIEORANOUTIE.md) Next: [Tue 30 Jun 2026](20260630_GODBEFORECHURCHORCHURCHBEFOREGOD.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -573,14 +573,6 @@ It reinforces trusting helpers (angels, ancestors, galactic, higher self) amid p
 Note any recent "messages" or synchronicities in today's entry. Excellent tool for ongoing integration.
 
 Continuing the append-log flow. Ready for more or a summary of the day?
-
-<br />
-
-###
-
-<br />
-
-###
 
 <br />
 
