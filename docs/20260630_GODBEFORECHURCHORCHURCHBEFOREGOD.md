@@ -39,7 +39,7 @@ X post <TODO>
 >  
 > https://x.com/BokkyPooBah/status/2071732094200656100  
 
-<kbd><img src="images/yourmostpowerfulactionissilence.png" width="600" /></kbd>  
+<kbd><img src="images/godbeforechurchorchurchbeforegod.png" width="600" /></kbd>  
 
 > GOD BEFORE CHURCH, OR CHURCH BEFORE GOD? - PoohBah.eth  
 
