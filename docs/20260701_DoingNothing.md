@@ -170,6 +170,10 @@ The fish market zongzi + YMCA sonic flyby combo is a beautiful Sydney ordinary-e
 
 ### 14:09 Please provide a detailed extract from the following: https://www.youtube.com/watch?v=Bp2ai2MD4Mk Adobe Is Completely F*cked
 
+<kbd><img src="images/Picture03924.png" width="400" /></kbd>  
+
+> Adobe Is Completely F*cked - https://www.youtube.com/watch?v=Bp2ai2MD4Mk  
+
 **14:09 video extract:** Adobe Is Completely F*cked (Moon)
 
 **Detailed extract (core points):**  
