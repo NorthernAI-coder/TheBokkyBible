@@ -182,6 +182,10 @@ The "structure, not chaos" lens validates your observations of empire dynamics w
 
 ### Investigate Tail Wave Economy
 
+<kbd><img src="images/Picture00382.jpg" width="400" /></kbd>  
+
+> [From Sat 14 Mar 2026 chat] Bothriolepis yeungae cast from the Dec 2025 Canowindra thread – the armored placoderm that owned almost nothing, did almost nothing, yet sent the biggest tail-wave in vertebrate history - https://x.com/BokkyPooBah/status/2005452535956660234
+
 **Investigation into Tail Wave Economy**
 
 **Core concept (from your 14 Mar 2026 entry):**  
