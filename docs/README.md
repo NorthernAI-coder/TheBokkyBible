@@ -247,6 +247,7 @@ Awake. Love. Be. 🚀🙏
 1. [GOD BEFORE CHURCH, OR CHURCH BEFORE GOD?](20260630_GODBEFORECHURCHORCHURCHBEFOREGOD.md) - Tue 30 Jun 2026
 1. [Doing Nothing](20260701_DoingNothing.md) - Wed 1 Jul 2026
 1. [Doing More Nothing](20260702_DoingMoreNothing.md) - Thu 2 Jul 2026
+1. [Hand Made Rock Candy Offcut](20260703_HandMadeRockCandyOffcut.md) - Fri 3 Jul 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 
