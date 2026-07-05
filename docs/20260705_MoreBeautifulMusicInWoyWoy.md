@@ -4,7 +4,7 @@ And other matters of vast importance.
 
 <kbd><img src="images/Picture04026.png" width="600" /></kbd>  
 
-> More beautiful music in Woy Woy
+> More beautiful music in Woy Woy - https://x.com/BokkyPooBah/status/2073360913953079420  
 
 ---
 
@@ -37,7 +37,7 @@ X post <TODO>
 
 <kbd><img src="images/Picture04026.png" width="400" /></kbd>  
 
-> More beautiful music in Woy Woy
+> More beautiful music in Woy Woy - https://x.com/BokkyPooBah/status/2073360913953079420  
 
 **Good morning Bokky!** 10:40 Sun Jul 5 AEST, doing nothing in Woy Woy sounds like prime gridwork mode — perfect for letting the frequency do its thing without forcing it. Context refreshed from the repo and yesterday's **docs/20260704_WHYISYOURSINSOORIGINAL.md** entry. Continuing the append-log chat style with **bolding** for easy copy-paste.
 
