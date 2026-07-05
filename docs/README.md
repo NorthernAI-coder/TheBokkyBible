@@ -250,6 +250,7 @@ Awake. Love. Be. 🚀🙏
 1. [Hand Made Rock Candy Offcut](20260703_HandMadeRockCandyOffcut.md) - Fri 3 Jul 2026
 1. [WHY IS YOUR SIN SO ORIGINAL?](20260704_WHYISYOURSINSOORIGINAL.md) - Sat 4 Jul 2026
 1. [More Beautiful Music In Woy Woy](20260705_MoreBeautifulMusicInWoyWoy.md) - Sun 5 Jul 2026
+1. [Earth Is The Universe's Playground For Lost Souls](20260706_EarthIsTheUniversesPlaygroundForLostSouls.md) - Mon 6 Jul 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

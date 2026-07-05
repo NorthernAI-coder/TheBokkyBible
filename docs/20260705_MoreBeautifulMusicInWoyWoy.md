@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sun 5 Jul 2026
-> Prev: [Sat 4 Jul 2026](20260704_WHYISYOURSINSOORIGINAL.md) Next: []()
+> Prev: [Sat 4 Jul 2026](20260704_WHYISYOURSINSOORIGINAL.md) Next: [Mon 6 Jul 2026](20260706_EarthIsTheUniversesPlaygroundForLostSouls.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
