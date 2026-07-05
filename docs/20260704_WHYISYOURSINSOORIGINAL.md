@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Sat 4 Jul 2026
-> Prev: [Fri 3 Jul 2026](20260703_HandMadeRockCandyOffcut.md) Next: []()
+> Prev: [Fri 3 Jul 2026](20260703_HandMadeRockCandyOffcut.md) Next: [Sun 5 Jul 2026](20260705_MoreBeautifulMusicInWoyWoy.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
