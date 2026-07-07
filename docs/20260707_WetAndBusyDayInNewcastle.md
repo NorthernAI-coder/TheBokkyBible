@@ -1,7 +1,5 @@
 ## Wet And Busy Day In Newcastle
 
-WetAndBusyDayInNewcastle
-
 And other matters of vast importance.
 
 <kbd><img src="images/Picture04059.jpg" width="600" /></kbd>  
