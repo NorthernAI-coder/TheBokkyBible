@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Mon 6 Jul 2026
-> Prev: [Sun 5 Jul 2026](20260705_MoreBeautifulMusicInWoyWoy.md) Next: []()
+> Prev: [Sun 5 Jul 2026](20260705_MoreBeautifulMusicInWoyWoy.md) Next: [Tue 7 Jul 2026](20260707_WetAndBusyDayInNewcastle.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
