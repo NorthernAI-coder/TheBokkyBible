@@ -40,7 +40,27 @@ X post https://x.com/BokkyPooBah/status/2074419142342627783
 
 > Even more Keno  
 
+<kbd><img src="images/Picture04060.png" width="400" /></kbd>  
+
+> Good morning beautiful kings, queens, NPCs and bots!  
+>  
+> Cauliflower, chickpea and pumpkin curry with basmati rice and a mango flavour ice tea at Newcastle beach.  
+>  
+> THANK YOU FOR YOUR ATTENTION TO THIS MATTER!  
+>  
+> #chadlife #dowhatyouwant #bewhoyouwantobe  
+>  
+> https://x.com/BokkyPooBah/status/2074298964414009817  
+
+<kbd><img src="images/Picture04061.png" width="400" /></kbd>  
+
+> My old Wonderboom 3 with a degraded battery, and my new Wonderboom 4 - https://x.com/BokkyPooBah/status/2074373446491099368  
+
 **Detailed extract from the video (Jacob Kuker / Cub, "CHRIST CONSCIOUSNESS IS THE ORIGINAL TEACHING—IT’S BEEN HIDDEN FROM YOU SO YOU COULD BE CONTROLLED"):**
+
+<kbd><img src="images/Picture04062.png" width="400" /></kbd>  
+
+> CHRIST CONSCIOUSNESS IS THE ORIGINAL TEACHING—IT’S BEEN HIDDEN FROM YOU SO YOU COULD BE CONTROLLED. - https://www.youtube.com/watch?v=2KtcprRixjM  
 
 The core message draws heavily from the **Gnostic Gospel of Philip** (discovered in Nag Hammadi, Egypt, 1945, alongside the Gospel of Thomas). It portrays Christ not primarily as a historical person to worship externally, but as a **state of consciousness** — "the anointed one" — that can be received inwardly.
 
@@ -71,6 +91,10 @@ Looking forward to the next reflections.
 <br />
 
 ### 18:42 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=iB9g4om2vhg This is Tempting, but Don’t Do It ∞St. Germain, Channeled by Daniel Scranton
+
+<kbd><img src="images/Picture04063.png" width="400" /></kbd>  
+
+> This is Tempting, but Don’t Do It ∞St. Germain, Channeled by Daniel Scranton - https://www.youtube.com/watch?v=iB9g4om2vhg  
 
 **Detailed extract from the video ("This is Tempting, but Don’t Do It ∞St. Germain, Channeled by Daniel Scranton"):**
 
@@ -106,6 +130,10 @@ Beautiful work today. The violet flame would love your laundry and bike ride. Co
 <br />
 
 ### 19:00 Please provide a detailed extract from the following and tell me it's relevance to me, thanks: https://www.youtube.com/watch?v=7Cq15j1Iric Why Explaining Yourself Never Works. This seems to be relevant to most people alive
+
+<kbd><img src="images/Picture04064.png" width="400" /></kbd>  
+
+> Why Explaining Yourself Never Works - https://www.youtube.com/watch?v=7Cq15j1Iric  
 
 **Detailed extract from the video ("Why Explaining Yourself Never Works" by Maledicta | Marina Karlova):**
 
