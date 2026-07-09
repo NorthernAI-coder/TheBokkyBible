@@ -253,6 +253,7 @@ Awake. Love. Be. 🚀🙏
 1. [Earth Is The Universe's Playground For Lost Souls](20260706_EarthIsTheUniversesPlaygroundForLostSouls.md) - Mon 6 Jul 2026
 1. [Wet And Busy Day In Newcastle](20260707_WetAndBusyDayInNewcastle.md) - Tue 7 Jul 2026
 1. [ARE YOU HAVING FUN?](20260708_AREYOUHAVINGFUN.md) - Wed 8 Jul 2026
+1. [WHY ARE YOU SO NPC?](20260709_WHYAREYOUSONPC.md) - Thu 9 Jul 2026
 
 See also [Global Table Of Content](GlobalTableOfContent.md)
 

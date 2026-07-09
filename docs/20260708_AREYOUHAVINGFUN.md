@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Wed 8 Jul 2026
-> Prev: [Tue 7 Jul 2026](20260707_WetAndBusyDayInNewcastle.md) Next: []()
+> Prev: [Tue 7 Jul 2026](20260707_WetAndBusyDayInNewcastle.md) Next: [Thu 9 Jul 2026](20260709_WHYAREYOUSONPC.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
@@ -937,10 +937,6 @@ This song is a poetic masterpiece—dreamlike, philosophical, and hypnotic. The 
 **Relevance to you**: It mirrors your reflections on inner threads/dialogue, the flowing observations while cycling, and the "God hour"/raven moment of quiet presence. The "windmills of your mind" feel like a gentle nod to your multi-channel awareness—round, spiraling thoughts observed with curiosity rather than control. Beautiful soundtrack for a reflective night.
 
 Enjoy the song. Any specific lines standing out, or more from the God hour? The log is rich tonight. 🎶🌬️
-
-<br />
-
-###
 
 <br />
 
