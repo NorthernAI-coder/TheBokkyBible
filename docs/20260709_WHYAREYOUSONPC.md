@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Thu 9 Jul 2026
-> Prev: [Wed 8 Jul 2026](20260708_AREYOUHAVINGFUN.md) Next: []()
+> Prev: [Wed 8 Jul 2026](20260708_AREYOUHAVINGFUN.md) Next: [Fri 10 Jul 2026](20260710_IAMHERE.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
