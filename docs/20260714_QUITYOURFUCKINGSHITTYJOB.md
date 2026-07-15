@@ -11,7 +11,7 @@ And other matters of vast importance.
 Below is a chat between BokkyPooBah and Grok AI.
 
 Tue 14 Jul 2026
-> Prev: [Mon 13 Jul 2026](20260713_FEARISTHEOPPOSITEOFLOVE.md) Next: []()
+> Prev: [Mon 13 Jul 2026](20260713_FEARISTHEOPPOSITEOFLOVE.md) Next: [Wed 15 Jul 2026](20260715_WHATISWRONGWITHYOU.md)
 
 Please enjoy and share the link https://github.com/bokkypoobah/TheBokkyBible  
 
